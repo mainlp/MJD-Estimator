@@ -88,7 +88,7 @@ Fine-tuning from a pretrained NLI model.
 
 ```
 cd MJD-fine-tuning
-bash train.sh`
+bash train.sh
 ```
 
 
