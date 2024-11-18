@@ -1,5 +1,5 @@
 # MJD-Estimator
-Implementation of the EMNLP 2024 paper from the MaiNLP Lab - ***"Seeing the Big through the Small": Can LLMs Approximate Human Judgment Distributions on NLI from a Few Explanations?*** ([paper](https://arxiv.org/pdf/2406.17600))
+Implementation of the EMNLP 2024 paper from the MaiNLP Lab - ***"Seeing the Big through the Small": Can LLMs Approximate Human Judgment Distributions on NLI from a Few Explanations?*** ([paper](https://aclanthology.org/2024.findings-emnlp.842/))
 
 This repository contains the generator, evaluator and fine-tuning implementation for Model Judgment Distribution (MJDs) extracted from LLMs. We take Llama 3 as an example.
 
@@ -15,29 +15,30 @@ This repository contains the generator, evaluator and fine-tuning implementation
 ## Citation
 If you use this code, please cite the paper below:
 
-["Seeing the Big through the Small": Can LLMs Approximate Human Judgment Distributions on NLI from a Few Explanations?](https://arxiv.org/pdf/2406.17600)
+["Seeing the Big through the Small": Can LLMs Approximate Human Judgment Distributions on NLI from a Few Explanations?](https://aclanthology.org/2024.findings-emnlp.842/)
 
 ```
-@article{DBLP:journals/corr/abs-2406-17600,
-  author       = {Beiduo Chen and
-                  Xinpeng Wang and
-                  Siyao Peng and
-                  Robert Litschko and
-                  Anna Korhonen and
-                  Barbara Plank},
-  title        = {"Seeing the Big through the Small": Can LLMs Approximate
-                  Human Judgment Distributions on {NLI} from a Few Explanations?},
-  journal      = {CoRR},
-  volume       = {abs/2406.17600},
-  year         = {2024},
-  url          = {https://doi.org/10.48550/arXiv.2406.17600},
-  doi          = {10.48550/ARXIV.2406.17600},
-  eprinttype    = {arXiv},
-  eprint       = {2406.17600},
-  timestamp    = {Mon, 22 Jul 2024 14:28:28 +0200},
-  biburl       = {https://dblp.org/rec/journals/corr/abs-2406-17600.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+@inproceedings{chen-etal-2024-seeing,
+    title = "{``}Seeing the Big through the Small{''}: Can {LLM}s Approximate Human Judgment Distributions on {NLI} from a Few Explanations?",
+    author = "Chen, Beiduo  and
+      Wang, Xinpeng  and
+      Peng, Siyao  and
+      Litschko, Robert  and
+      Korhonen, Anna  and
+      Plank, Barbara",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2024",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-emnlp.842",
+    pages = "14396--14419",
+    abstract = "Human label variation (HLV) is a valuable source of information that arises when multiple human annotators provide different labels for valid reasons. In Natural Language Inference (NLI) earlier approaches to capturing HLV involve either collecting annotations from many crowd workers to represent human judgment distribution (HJD) or use expert linguists to provide detailed explanations for their chosen labels. While the former method provides denser HJD information, obtaining it is resource-intensive. In contrast, the latter offers richer textual information but it is challenging to scale up to many human judges. Besides, large language models (LLMs) are increasingly used as evaluators ({``}LLM judges{''}) but with mixed results, and few works aim to study HJDs. This study proposes to exploit LLMs to approximate HJDs using a small number of expert labels and explanations. Our experiments show that a few explanations significantly improve LLMs{'} ability to approximate HJDs with and without explicit labels, thereby providing a solution to scale up annotations for HJD. However, fine-tuning smaller soft-label aware models with the LLM-generated model judgment distributions (MJDs) presents partially inconsistent results: while similar in distance, their resulting fine-tuned models and visualized distributions differ substantially. We show the importance of complementing instance-level distance measures with a global-level shape metric and visualization to more effectively evaluate MJDs against human judgment distributions.",
 }
+
 ```
 
 
