@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: do you really romance 
+Statement: Do you really have an affair? 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions "romance" which is a broader concept that may or may not imply an "affair", which is a more specific and potentially negative connotation.
+* The context does not provide enough information to determine if the romance is monogamous or non-monogamous, which could affect the likelihood of an affair.
+* The term "romance" can be interpreted in different ways, such as a romantic relationship, a romantic feeling, or a romantic gesture, which may not necessarily lead to an affair.
+* The context does not provide any information about the exclusivity or commitment level of the romance, which could impact the likelihood of an affair.
+* The statement asks about an "affair", which implies a level of secrecy or deception, but the context only mentions "romance", which may not necessarily involve secrecy or deception.
+* The context does not provide any information about the parties involved, their relationships, or their intentions, which could affect the likelihood of an affair.<|eot_id|>

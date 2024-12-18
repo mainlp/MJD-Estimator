@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Extremely limited exceptions to the authority are established in 31 U.S.C. 
+Statement: They were trying to eliminate all exceptions. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions that exceptions exist, but does not provide information about the intentions or actions of "they" regarding these exceptions.
+* It is unclear whether "they" refers to the same entity that established the exceptions in 31 U.S.C. or a different entity.
+* The context does not provide enough information to determine whether the exceptions mentioned in the context are the only exceptions that exist, or if there are other exceptions that "they" might be trying to eliminate.
+* The statement does not specify what "all exceptions" refers to - it could be all exceptions in general, or all exceptions to the authority established in 31 U.S.C. specifically.
+* There is no information about the timeframe or scope of "they" trying to eliminate exceptions, which could be relevant in determining the relationship between the context and the statement.
+* The context does not provide any information about the success or failure of "they" in eliminating exceptions, which could affect the interpretation of the statement.<|eot_id|>

@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: and not only that it it opens you to phone solicitations 
+Statement: It also opens the door to move marketing calls. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* "Phone solicitations" and "marketing calls" are synonyms, so if it opens you to phone solicitations, it also opens the door to marketing calls.
+* "Phone solicitations" is a broader category that includes "marketing calls", so if it opens you to phone solicitations, it also opens the door to marketing calls.
+* "Phone solicitations" and "marketing calls" are related concepts, and if it opens you to one, it is likely to open you to the other.
+* "Opening the door" is a metaphor that implies increased vulnerability or exposure, and if it opens you to phone solicitations, it also increases your vulnerability to marketing calls.
+* The context implies a causal relationship between the initial action and the consequence of receiving unwanted calls, and if it causes phone solicitations, it is likely to cause marketing calls as well.<|eot_id|>

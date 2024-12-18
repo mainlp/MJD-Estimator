@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: yeah i can believe that 
+Statement: I agree with what you said. 
+Answer: [/INST] 1. The statement contradicts the context if the speaker does not actually agree with what was said.
+2. The statement is false if the speaker is being insincere or sarcastic in their claim of agreement.
+3. The statement is contradictory if the speaker claims to agree, but then goes on to express disagreement or present opposing views.
+4. The statement is untrue if the speaker is not capable of forming an opinion, such as a young child or someone with a cognitive impairment.
+5. The statement is refuted if it is later shown that the speaker did not fully understand the content they are agreeing to.
+6. The statement is negated if the speaker is coerced or bribed into agreeing, but does not truly hold that belief.
+7. The statement is falsified if the speaker has a conflict of interest or ulterior motive that prevents them from genuinely agreeing.
+8. The statement is negated if the speaker is joking or play-acting, and does not actually agree.
+9. The statement is contradictory if the speaker has memory loss or dementia, and cannot recall their previous stance or the content they are agreeing

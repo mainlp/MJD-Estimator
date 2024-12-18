@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Suddenly she started, and her face blanched. 
+Statement: She moved swiftly, her face pale. 
+Answer: [/INST] 1. The sudden start and blanching face indicated immediate fear or shock, causing her to move swiftly with a pale face.
+2. The blanching of her face was due to a rush of adrenaline from the sudden start, resulting in her moving quickly while still looking pale.
+3. The sudden action made her face lose color, and she continued to move with a pale face.
+4. The suddenness of the situation caused her to move rapidly, and her face remained pale from the initial blanching.
+5. Her swift movement was a reaction to the cause of her blanching face, maintaining her pale appearance.</s>

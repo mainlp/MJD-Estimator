@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: and the same is true of the drug hangover you know if you 
+Statement: It's just like a drug hangover but worse. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions a similarity between two things, but it doesn't provide enough information to determine if the statement is true or false.
+* The phrase "you know if you" is ambiguous and could be referring to a personal experience or a general knowledge, making it unclear how to interpret the comparison.
+* The statement uses a subjective qualifier "worse" which is dependent on individual perspectives and experiences, making it difficult to determine a clear truth value.
+* The context doesn't provide a clear definition of what a "drug hangover" is, making it hard to determine if the comparison is accurate or not.
+* The statement is making a comparison between two things, but it's unclear what specific aspects are being compared, making it difficult to determine if the statement is true or false.
+* The tone of the statement is informal and conversational, which may indicate a subjective opinion rather than a factual claim.<|eot_id|>

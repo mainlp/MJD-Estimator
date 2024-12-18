@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Answer? said Julius. 
+Statement: Julius already knew the answer. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only reports Julius saying "Answer?" but does not provide any information about his prior knowledge or intentions.
+* The tone of Julius' question "Answer?" could be inquiring, rhetorical, or sarcastic, which affects the interpretation of his knowledge state.
+* The context does not provide any evidence that Julius had previously asked a question or was seeking an answer, making it unclear if he already knew the answer.
+* The statement assumes Julius' mental state, which cannot be directly inferred from the context.
+* The context only provides a speech act, but not Julius' thoughts or beliefs.
+* The statement is making a claim about Julius' epistemic state, which is not explicitly stated in the context.
+* The context is too brief and lacks sufficient information to determine Julius' knowledge state.
+* The statement is making an inference about Julius' intentions, which is not supported by the context.<|eot_id|>

@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: It's come back? cried Julius excitedly. 
+Statement: They were excited to hear it will come back. 
+Answer: [/INST] 1. The statement doesn't specify who "they" refers to, while the context mentions Julius.
+2. The context is Julius's reaction, which might not reflect the feelings of others ("they").
+3. The "it" in the statement and the context might not refer to the same thing.
+4. The level of excitement in the statement and the context could be different.
+5. The statement is in the past tense ("will come back" vs "has come back/came back").
+6. The context is direct speech, while the statement is indirect speech.</s>

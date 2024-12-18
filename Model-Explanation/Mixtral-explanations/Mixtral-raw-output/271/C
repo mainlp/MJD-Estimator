@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Part of the reason for the difference in pieces per possible delivery may be due to the fact that five percent of possible residential deliveries are businesses, and it is thought, but not known, that a lesser percentage of possible deliveries on rural routes are businesses. 
+Statement: We all know that the reason for a lesser percentage of possible deliveries on rural routes being businesses, is because of the fact that people prefer living in cities rather than rural areas. 
+Answer: [/INST] 1. Preference for city living does not directly affect the percentage of businesses on rural delivery routes.
+2. The percentage of businesses on rural delivery routes could be influenced by other factors.
+3. Rural residents may have similar preferences for living in rural areas as urban residents have for cities.
+4. The decision to locate a business in a rural or urban area is not solely based on personal preferences.
+5. The statement assumes a causal relationship between people's residential preferences and the distribution of businesses, which is not supported by the context.</s>

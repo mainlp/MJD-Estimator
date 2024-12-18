@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: 'I don't know what happened, exactly.' I said. 
+Statement: You aren't making sense. 
+Answer: [/INST] 1. The speaker admits to a lack of clear understanding about an event, which can result in confusing or nonsensical communication.
+2. The speaker's statement may lack coherence or logic due to insufficient knowledge of the situation.
+3. The speaker's uncertainty could lead to ambiguous or unclear expressions, causing confusion for the listener.
+4. The listener may interpret the speaker's lack of precise information as an inability to communicate effectively, leading to a perception of nonsensical speech.</s>

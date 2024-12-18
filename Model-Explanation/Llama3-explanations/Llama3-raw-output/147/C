@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: No, monsieur. 
+Statement: The speaker is answering no to a question. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The speaker is responding to a statement, not a question.
+* The speaker is expressing disagreement or refusal, not answering a question.
+* The speaker is using "no" as an interjection, not as a response to a question.
+* The speaker is responding to a command or request, not a question.
+* The speaker is expressing a negative sentiment or emotion, not answering a question.
+* The speaker is using "no" to correct or contradict a previous statement, not answering a question.
+* The speaker is responding to a situation or event, not a question.<|eot_id|>

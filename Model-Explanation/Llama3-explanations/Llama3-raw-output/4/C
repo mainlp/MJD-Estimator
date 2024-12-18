@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: uh plastic is just too easy i mean that's the that's the whole problem with it um have 
+Statement: I find plastic to be too easy to use. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The speaker does not find plastic easy to use, but rather thinks it is a problem that others find it too easy to use.
+* The speaker is being sarcastic, and "too easy" is meant to convey the opposite, that plastic is actually difficult to use.
+* The speaker is not talking about their personal experience or opinion, but rather making a general statement about the nature of plastic.
+* The phrase "that's the whole problem with it" implies that the ease of use is a negative aspect, which contradicts the statement that the speaker finds it easy to use.
+* The speaker is using "too easy" to mean that plastic is overly convenient, leading to laziness or lack of effort, which is not something they personally find desirable.<|eot_id|>

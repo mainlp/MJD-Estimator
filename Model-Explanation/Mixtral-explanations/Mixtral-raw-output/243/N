@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: oh that's not really important the the other stuff is just you know window dressing because we we've never ordered anything fact the the van that we've got we bought uh from an estate it was an estate trade uh it was almost brand new the the gentlemen who owned it had died 
+Statement: We were very lucky to get the van given how new it was. 
+Answer: [/INST] 1. The context does not specify the condition of the van when it was purchased from the estate trade.
+2. The statement does not indicate who considers themselves "very lucky" to have obtained the van.
+3. The context does not clarify the importance of ordering new vans versus buying used ones.
+4. The statement does not reveal if the van was priced fairly or if it was a great deal.
+5. The context does not explain the role of the van in the speaker's business or personal life.
+6. The statement does not provide information on the speaker's expectations or preferences regarding the van's age or condition.
+7. The context does not mention if the van had any defects or issues that might have affected its value.
+8. The statement does not confirm if the van met or exceeded the speaker's needs or requirements.
+9. The context does not reveal if the speaker had any previous experience with the van or its manufacturer.
+10. The statement does not disclose if the speaker had any alternative options or choices when acquiring the van.</s>

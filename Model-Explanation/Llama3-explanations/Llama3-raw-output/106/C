@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The important thing is to realize that it's way past time to move it. 
+Statement: It has not been moved yet in the past. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context implies that the action of moving should have been done already, which contradicts the statement that it has not been moved yet in the past.
+* The phrase "way past time" suggests that the time for moving has already passed, implying that it should have been moved already, which contradicts the statement.
+* The context's emphasis on the importance of realizing it's time to move implies that moving is overdue, which contradicts the statement that it has not been moved yet in the past.
+* The use of "way past time" implies a sense of urgency and delay, which suggests that moving should have happened earlier, contradicting the statement.
+* The context's focus on the need to move implies that moving is necessary, which contradicts the statement that it has not been moved yet in the past, suggesting that it's not necessary.<|eot_id|>

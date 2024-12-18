@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The long-sought, the mysterious, the elusive Jane Finn!  
+Statement: Jane Finn is as beautiful as she is mysterious. 
+Answer: [/INST] 1. Jane Finn is beautiful, and the context describes her as mysterious, implying a positive evaluation of her appearance.
+2. The statement "Jane Finn is as beautiful as she is mysterious" suggests that Jane Finn's beauty is comparable to her mysteriousness.
+3. The use of the word "beautiful" in the statement implies that Jane Finn has physical attractiveness, which is consistent with the context.
+4. The context highlights Jane Finn's mysteriousness, and the statement does not contradict this characteristic, implying that she is still mysterious.
+5. The statement does not negate or contradict any information in the context, only adding to the description of Jane Finn's positive attributes.
+6. The statement assumes that Jane Finn's beauty is a positive quality, which aligns with the generally positive tone of the context.
+7. The statement does not provide any information that contradicts the context, and therefore, it is true based on the information given.</s>

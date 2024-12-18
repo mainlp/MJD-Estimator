@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: It started with The Wild Bunch : We sexualized violence, we made it beautiful. 
+Statement: Violence is now look at in the positive due to The Wild Bunch. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions that violence was "sexualized" and "made beautiful", but it doesn't explicitly state that it's viewed positively.
+* The phrase "made it beautiful" can be interpreted as making violence aesthetically pleasing, but not necessarily morally positive.
+* The context doesn't provide enough information to determine if the sexualization of violence led to a positive view of it.
+* The statement assumes a direct causal link between The Wild Bunch and the current view of violence, which is not explicitly supported by the context.
+* The context only talks about the starting point of a process, but doesn't provide information about the current state or outcome of that process.
+* The phrase "look at in the positive" is ambiguous and can be interpreted in different ways, such as viewing violence as necessary, justified, or admirable, which is not clearly supported by the context.<|eot_id|>

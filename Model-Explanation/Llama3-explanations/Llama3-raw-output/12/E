@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: In the short term, U.S. consumers will benefit from cheap imports (as will U.S. multinationals that use parts made in East Asian factories). 
+Statement: U.S. consumers and factories in East Asia benefit from imports. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* U.S. consumers benefit from cheap imports, and imports come from East Asian factories, so East Asian factories benefit from selling these imports.
+* U.S. multinationals that use parts made in East Asian factories benefit from cheap imports, and these multinationals are connected to East Asian factories, so East Asian factories benefit from selling these parts.
+* The context mentions U.S. consumers will benefit from cheap imports, and it is implied that these imports come from East Asian factories, so both U.S. consumers and East Asian factories benefit.
+* The phrase "U.S. multinationals that use parts made in East Asian factories" implies a connection between these multinationals and East Asian factories, and since the multinationals benefit, it can be inferred that East Asian factories also benefit.<|eot_id|>

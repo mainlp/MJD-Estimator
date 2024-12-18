@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Hong Kong has long been China's handiest window on the West, and the city is unrivaled in its commercial know-how and managerial expertise. 
+Statement: Hong Kong is a great place to find commercial know-how if you are hiring someone new. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* Hong Kong has unrivaled commercial know-how, implying that it is a great place to find people with such expertise.
+* The city's commercial know-how is unmatched, making it a prime location to find individuals with the desired skills.
+* As China's handiest window on the West, Hong Kong is likely to have a pool of talented professionals with commercial know-how.
+* The city's reputation for managerial expertise suggests that it is a hub for skilled professionals, making it a great place to find commercial know-how.
+* The presence of unrivaled commercial know-how and managerial expertise in Hong Kong implies that the city is a great place to find talented individuals for hiring.<|eot_id|>

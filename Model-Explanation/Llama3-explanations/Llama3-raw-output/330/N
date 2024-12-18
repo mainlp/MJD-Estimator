@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Well, we will come in and interview the brave Dorcas." Dorcas was standing in the boudoir, her hands folded in front of her, and her grey hair rose in stiff waves under her white cap.  
+Statement: Dorcas is well known for her bravery. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions Dorcas as "brave" but does not provide any evidence or examples of her bravery.
+* The term "brave" in the context might be used as a courtesy title or a figure of speech rather than a literal description of Dorcas' character.
+* The context focuses on the setting and Dorcas' physical appearance, but does not provide any information about her actions or behavior that would support the claim of her being well known for bravery.
+* The statement assumes a level of fame or recognition that is not supported by the context, which only describes a private scene.
+* The context does not provide any information about Dorcas' past actions or achievements that would justify the claim of her being well known for bravery.
+* The statement is too general and absolute, and the context does not provide enough evidence to support such a broad claim.<|eot_id|>

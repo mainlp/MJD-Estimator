@@ -1,0 +1,18 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: There should be someone here who knew more of what was going on in this world than he did now. 
+Statement: He knew things, but hoped someone else knew more.  
+Answer: [/INST] 1. He knows more than anyone else.
+2. He is the only one who knows anything.
+3. No one else has any knowledge beyond what he knows.
+4. He has the same level of knowledge as everyone else.
+5. He has the most knowledge and is content with it.
+6. He has the most knowledge and doesn't want to learn more.
+7. He has the most knowledge and doesn't believe anyone else can know more.
+8. He has the most knowledge and doesn't think it's important for anyone else to know more.
+9. He has the most knowledge and doesn't care if anyone else knows more.
+10. He has the most knowledge and doesn't think anyone else can contribute to his understanding.
+11. He has the most knowledge and doesn't believe in the existence of more knowledge.
+12. He has the most knowledge and thinks it's impossible for anyone else to know more.
+13. He has the most knowledge and thinks it's not necessary for anyone else to know more.
+14. He has the most knowledge and thinks it's not beneficial for anyone else to know more.
+1

@@ -1,0 +1,16 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: San'doro didn't make it sound hypothetical, thought Jon. 
+Statement: San'doro's words were hollow, and Jon knew the truth of that immediately. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* San'doro's words lacked sincerity or conviction, which Jon recognized.
+* San'doro's tone or manner of speaking conveyed a lack of seriousness or genuineness, which Jon picked up on.
+* Jon inferred that San'doro was not being truthful or authentic in what he said, and this was evident to Jon right away.
+* San'doro's words were empty or lacked substance, and Jon understood this immediately.
+* San'doro's statement was not backed up by action or evidence, and Jon recognized this.
+* San'doro's words were insincere or deceitful, and Jon knew this instinctively.
+* San'doro's tone or language was overly dramatic or exaggerated, which led Jon to doubt the truth of his words.<|eot_id|>

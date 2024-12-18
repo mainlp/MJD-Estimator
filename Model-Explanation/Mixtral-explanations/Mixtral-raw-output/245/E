@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: How effectively DOD manages these funds will determine whether it receives a good return on its investment. 
+Statement: The DOD is certain to have a bad return on these funds. 
+Answer: [/INST] 1. DOD ineffectively manages the funds.
+2. DOD's management of the funds does not provide a good return on investment.
+3. The investment yield from DOD's management of the funds is poor.
+4. DOD's handling of the funds results in a negative return.
+5. The return on DOD's investment of these funds is certain to be unfavorable.</s>

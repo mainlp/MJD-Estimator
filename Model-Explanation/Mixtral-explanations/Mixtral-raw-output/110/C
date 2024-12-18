@@ -1,0 +1,21 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Extremely limited exceptions to the authority are established in 31 U.S.C. 
+Statement: They were trying to eliminate all exceptions. 
+Answer: [/INST] 1. The authorities expanded the exceptions, rather than eliminating them.
+2. The exceptions were not eliminated, they were only modified.
+3. The exceptions were not eliminated, they were transferred to a different section of the law.
+4. The exceptions were not eliminated, they were made more vague.
+5. The exceptions were not eliminated, they were made more specific.
+6. The exceptions were not eliminated, they were redefined.
+7. The exceptions were not eliminated, they were codified into law.
+8. The exceptions were not eliminated, they were upheld.
+9. The exceptions were not eliminated, they were preserved.
+10. The exceptions were not eliminated, they were protected.
+11. The exceptions were not eliminated, they were retained.
+12. The exceptions were not eliminated, they were sustained.
+13. The authorities created new exceptions, instead of eliminating the existing ones.
+14. The authorities have no power to eliminate the exceptions.
+15. The authorities decided to keep the exceptions.
+16. The authorities maintained the status quo, including the exceptions.
+17. The authorities never intended to eliminate the exceptions.
+18. The

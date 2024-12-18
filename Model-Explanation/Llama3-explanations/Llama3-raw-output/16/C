@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The logic of analysis in case studies is the same 
+Statement: The logic for the case studies is the same thing as in the data collection. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The logic of analysis refers to the process of examining and interpreting data, whereas the logic for case studies refers to the overall approach or methodology used in the case studies.
+* The logic of analysis is applied after data collection, whereas the logic for case studies is applied during the design and planning phase of the research.
+* The logic of analysis is focused on identifying patterns and relationships in the data, whereas the logic for case studies is focused on selecting and bounding the case(s) to be studied.
+* The logic of analysis is concerned with drawing inferences and making conclusions based on the data, whereas the logic for case studies is concerned with identifying the research questions and objectives.
+* The logic of analysis is a more abstract and general concept, whereas the logic for case studies is a more specific and contextual concept.
+* The logic of analysis is applicable to various research methods, whereas the logic for case studies is unique to case study research.<|eot_id|>

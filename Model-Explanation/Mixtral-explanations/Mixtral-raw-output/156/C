@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Recently, however, I have settled down and become decidedly less experimental. 
+Statement: I have lost my experimental nature due to old age. 
+Answer: [/INST] 1. The speaker's experimental nature decreased recently, not due to old age.
+2. Old age is not the cause of the speaker's loss of experimental nature.
+3. The speaker's experimental nature may have been lost for reasons other than old age.
+4. The decrease in the speaker's experimental nature is not related to age.
+5. The speaker's age is not mentioned, so it cannot be concluded that old age is the cause.
+6. The statement assumes a direct correlation between old age and loss of experimental nature, which is not necessarily true.
+7. The statement is not necessarily false if the speaker became less experimental for reasons other than old age.
+8. The statement is not supported by the context, which only mentions that the speaker has become less experimental recently.</s>

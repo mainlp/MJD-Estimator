@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Indeed, said San'doro. 
+Statement: They were certain. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* San'doro's statement implies that he agrees with someone or something, and this agreement suggests a sense of certainty.
+* San'doro's affirmation ("Indeed") indicates that he is confirming or validating a previous statement, which implies that the speakers are certain about something.
+* The context suggests that San'doro is responding to a statement or question, and his response implies that the speakers have reached a conclusion or have made up their minds, which means they are certain.
+* San'doro's tone, as conveyed by the word "Indeed", is one of confirmation or emphasis, which implies that the speakers are confident and certain about something.<|eot_id|>

@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Mykonos has had a head start as far as diving is concerned because it was never banned here (after all, there are no ancient sites to protect). 
+Statement: Protection of ancient sites is the reason for diving bans in other places. 
+Answer: [/INST] 1. The context only mentions Mykonos and does not specify other places.
+2. The context only talks about the absence of a ban on diving in Mykonos, not the presence of a ban in other places.
+3. The context does not provide information about the reasons for diving bans in other places.
+4. The context does not specify the relation between the protection of ancient sites and diving bans in other places.
+5. The statement is a generalization that may not hold true for all other places.
+6. The statement assumes that the protection of ancient sites is the only reason for diving bans, which may not be the case.
+7. The context does not provide information about other possible reasons for diving bans in other places.
+8. The statement is not directly contradicted by the context, but it is also not directly supported.</s>

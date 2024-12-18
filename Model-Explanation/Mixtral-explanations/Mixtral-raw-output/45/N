@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The management of the cafe has established the rules for the use of their facility. 
+Statement: The management of the cafe is strict about how they manage it. 
+Answer: [/INST] 1. The context only mentions the establishment of rules, not their strict enforcement.
+2. The statement is vague about what specific aspects of management it refers to.
+3. The rules established by the management may not reflect their strictness in managing the cafe.
+4. The context does not provide any information about the management's enforcement history or reputation.
+5. The statement is a generalization that may not hold true for every aspect of the cafe's management.
+6. The management's strictness may only apply to certain rules or situations.
+7. The context does not specify whether the rules are new or have been in place for a while, which could affect the interpretation of the management's strictness.
+8. The statement does not provide any evidence or examples of the management's strictness.
+9. The management's strictness may be subjective and vary depending on individual perspectives.
+10. The context does not indicate the size or complexity of the cafe, which could affect the management's approach.</s>

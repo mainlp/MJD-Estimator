@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: She didn't listen. 
+Statement: She did not listen to the noise. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The context only mentions she didn't listen, but it doesn't specify what she didn't listen to, so it's possible she didn't listen to something else, not the noise.
+* The context implies she didn't listen to something, but the statement specifically says she didn't listen to the noise, which might not be the thing she didn't listen to.
+* The statement is too specific, whereas the context is more general, leaving room for other possibilities.
+* The context doesn't provide enough information to conclude she didn't listen to the noise specifically.
+* The statement is making an assumption about what she didn't listen to, which isn't supported by the context.<|eot_id|>

@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: So far, however, the number of mail pieces lost to alternative bill-paying methods is too small to have any material impact on First-Class volume. 
+Statement: Occasionally mail is lost but not often 
+Answer: [/INST] 1. The context refers to mail pieces lost to alternative bill-paying methods, while the statement refers to mail being lost in general.
+2. The statement "Occasionally mail is lost but not often" is subjective and does not provide a specific number or frequency of lost mail pieces.
+3. The context states that the number of lost mail pieces is not yet material to First-Class volume, which may suggest that the frequency of lost mail is still low.
+4. The statement does not specify whether the occasional loss of mail is due to alternative bill-paying methods or other reasons.
+5. The context may suggest that the occasional loss of mail is expected and not a significant concern, while the statement implies that it is still noteworthy.</s>

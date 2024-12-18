@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: He touched it and felt his skin swelling and growing hot. 
+Statement: His skin was burning. 
+Answer: [/INST] 1. The heat he felt was intense and likely caused a burning sensation on his skin.
+2. Touching the object resulted in a burn on his skin, making it feel hot and appear swollen.
+3. The swelling and heat are symptoms of a skin reaction, such as a burn.
+4. His skin physically felt the effects of fire or another heat source, leading to a burn.
+5. The skin's response to the stimulus was a burn, which includes swelling and heat.
+6. Being in contact with the object caused a burn, which is why his skin was burning.
+7. The heat and swelling are indicative of a burn on his skin.
+8. His skin's reaction to the object was a burn, which includes the sensation of heat.
+9. The object caused a burn on his skin, which makes it feel hot and appear swollen.
+10. His skin was exposed to a heat source, resulting in a burn, which makes it feel hot.</s>

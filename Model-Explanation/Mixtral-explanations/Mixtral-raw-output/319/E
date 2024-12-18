@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Changes in technology and its application to electronic commerce and expanding Internet applications will change the specific control activities that may be employed and how they are implemented, but the basic requirements of control will not have changed. 
+Statement: Technology will make it so we have less control of activities. 
+Answer: [/INST] 1. New technology may introduce automated control activities that require less manual oversight.
+2. The application of technology to electronic commerce and the internet can result in control activities being implemented in new ways that reduce the need for human intervention.
+3. The expansion of internet applications may lead to a shift in control activities, resulting in a perception of less control.
+4. The focus of control may shift from direct human management to technology-based management, leading to a perception of less control.</s>

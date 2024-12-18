@@ -1,0 +1,5 @@
+- The AC usage for mercury control is expected to be proportional to the total MWe, not higher.
+- The assumption of an average capacity factor of 85 percent implies a consistent relationship between AC usage and MWe, preventing AC usage from exceeding total MWe.
+- The calculations based on Tables 4-4 and 4-5 likely ensure that AC usage aligns with the total MWe, making it improbable for AC usage to surpass it.
+- If AC usage were higher, it would contradict the proportional relationship established by the context.
+- The statement disregards the assumption that AC usage should be roughly proportional to the total MWe.

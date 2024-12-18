@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: and going to school is also always very prohibitive now unless your parents are wealthy 
+Statement: Wealthy parents are necessary for school. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only implies that wealthy parents make it possible to go to school, but it does not explicitly state that they are necessary.
+* The phrase "unless your parents are wealthy" suggests that there might be other ways to afford school, even if they are not specified.
+* The context focuses on the difficulty of affording school, but it does not provide a definitive statement about the necessity of wealthy parents.
+* The statement "Wealthy parents are necessary for school" is an overgeneralization of the context, which only mentions that wealthy parents make it easier to afford school.
+* The context does not provide enough information to determine whether wealthy parents are necessary for school or just one of the possible ways to afford it.<|eot_id|>

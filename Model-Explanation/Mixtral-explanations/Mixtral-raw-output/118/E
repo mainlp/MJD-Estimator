@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: 'But if White has any designs at all on living, he'll be as far from Little as he can possibly get by now.' 
+Statement: White should be afraid to come back to Little. 
+Answer: [/INST] 1. White has plans to stay alive.
+2. White realizes the danger in being near Little.
+3. White is currently not in Little.
+4. White is taking steps to distance himself from Little.
+5. White's presence in Little could lead to harm.
+6. White understands the potential consequences of being in Little.
+7. White is avoiding Little due to perceived threats.
+8. White's life would be at risk in Little.
+9. White has a negative association with Little now.
+10. White is taking measures to ensure his safety by staying away from Little.</s>

@@ -1,0 +1,8 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Catch up on the Indian avant-garde and the bohemian people of Caletta at the Academy of Fine Arts on the southeast corner of the Maidan. 
+Statement: The Academy of Fine Arts is located in Northern Maidan. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* There is no information in the context that supports the statement, as it mentions the Academy of Fine Arts is on the southeast corner of the Maidan, which implies it is located in Southern Maidan, not Northern Maidan.<|eot_id|>

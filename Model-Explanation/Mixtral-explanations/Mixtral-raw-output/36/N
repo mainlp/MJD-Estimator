@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: As legal scholar Randall Kennedy wrote in his book Race, Crime, and the Law , Even if race is only one of several factors behind a decision, tolerating it at all means tolerating it as potentially the decisive factor. 
+Statement: Race is one of several factors in some judicial decisions 
+Answer: [/INST] 1. The context does not specify if the decision in question is for or against the individual who is part of the racial group being considered.
+2. The context does not indicate the weight or significance of the "several factors" in relation to each other.
+3. The context does not clarify if the other factors are also related to race or if they are unrelated.
+4. The context does not specify if the judicial decisions being referred to are all similar in nature or if they are diverse.
+5. The context does not indicate if the judicial decisions being considered are from a specific geographical location or from multiple locations.
+6. The context does not clarify if the judicial decisions being referred to are from a specific time period or from multiple time periods.
+7. The context does not specify if the judicial decisions being considered are from a specific court system or from multiple court systems.
+8. The context does not indicate if the judicial decisions being referred to are from a specific type of case or from multiple types of cases.
+9. The context does not clarify if the judicial decisions being considered are made by a specific group of judges or by multiple groups of judges.
+10. The

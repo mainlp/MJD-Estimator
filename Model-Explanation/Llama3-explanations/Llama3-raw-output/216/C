@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: approaches to achieving missions vary considerably between agencies. 
+Statement: Approaches to achieving missions might change a lot. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement implies a possibility of change, but the context states a fact about variation, not potential change.
+* The context describes a difference between agencies, whereas the statement does not specify any comparison or difference.
+* The context uses "vary considerably" which implies a current state, whereas the statement uses "might change" which implies a potential future state.
+* The context describes a static difference, whereas the statement implies a dynamic change.
+* The statement implies uncertainty or possibility, whereas the context states a fact with no uncertainty.<|eot_id|>

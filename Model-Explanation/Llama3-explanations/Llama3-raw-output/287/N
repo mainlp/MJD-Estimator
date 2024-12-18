@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: 'I see.' 
+Statement: It was clear 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement "It was clear" is undetermined (neutral) given the context "I see":
+
+* The context "I see" is too brief and lacks specific information to infer whether "it" was clear or not.
+* The pronoun "it" in the statement lacks a clear antecedent in the context, making it difficult to determine what "it" refers to.
+* The context "I see" could be an expression of understanding or acknowledgment, but it does not provide enough information to infer the clarity of a specific situation or topic.
+* The statement "It was clear" is too vague and open-ended, and the context "I see" does not provide enough context to disambiguate its meaning.
+* The context "I see" could be a response to a previous statement, but without knowing what that statement was, it is impossible to determine whether "it" was clear or not.
+* The tone and intent behind the context "I see" are unclear, making it difficult to infer whether the speaker is agreeing, disagreeing, or simply acknowledging a statement.<|eot_id|>

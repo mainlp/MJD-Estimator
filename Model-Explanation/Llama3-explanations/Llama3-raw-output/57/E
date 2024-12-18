@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: life in prison then he's available for parole if it's if it's life and a day then he's not eligible for parole so what you know let's quit BSing with the system 
+Statement: The system is corrupt because he won't be able to get parole if it's life and a day. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The speaker believes the system is unfair because it makes a significant difference in parole eligibility based on a small difference in sentence duration (life vs life and a day).
+* The speaker thinks it's unjust that an additional day in the sentence can completely remove the possibility of parole.
+* The system is corrupt because it creates arbitrary distinctions between similar sentences, leading to unequal treatment of prisoners.
+* The speaker is frustrated that the system prioritizes technicalities over the actual rehabilitation and reintegration of prisoners into society.
+* The system is corrupt because it allows for harsher punishments without considering the individual circumstances of the case or the potential for rehabilitation.
+* The speaker believes the system is corrupt because it is overly focused on punishment rather than rehabilitation and reintegration.<|eot_id|>

@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: oh that's not really important the the other stuff is just you know window dressing because we we've never ordered anything fact the the van that we've got we bought uh from an estate it was an estate trade uh it was almost brand new the the gentlemen who owned it had died 
+Statement: We were very lucky to get the van given how new it was. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The van was not new, it was almost brand new.
+* The speaker did not get the van due to luck, but rather because they bought it from an estate trade.
+* The speaker did not get the van, the gentlemen who owned it had died, implying someone else got the van.
+* The van's newness is not the reason they got it, but rather the circumstance of the owner's death.
+* The speaker is being sarcastic or ironic, and the statement is meant to be the opposite of what they truly mean.<|eot_id|>

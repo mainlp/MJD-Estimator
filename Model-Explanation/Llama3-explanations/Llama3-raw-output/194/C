@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The Gaiety Theatre in South King Street is worth visiting for its ornate d??cor. 
+Statement: The Trump Tower is a terrible place to visit for ornate decor. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false (contradiction):
+
+* The statement is about a different location (Trump Tower) than the context (Gaiety Theatre).
+* There is no information in the context about the Trump Tower or its decor.
+* The context does not provide a comparison between the Gaiety Theatre and the Trump Tower.
+* The statement makes a negative claim about the Trump Tower, while the context makes a positive claim about the Gaiety Theatre.
+* The context does not imply that the Trump Tower is a terrible place to visit.
+* The context does not provide enough information to make a judgment about the Trump Tower's decor.<|eot_id|>

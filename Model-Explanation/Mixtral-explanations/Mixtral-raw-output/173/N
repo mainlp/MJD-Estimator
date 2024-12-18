@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Buffet and a  la carte available. 
+Statement: It has table service. 
+Answer: [/INST] 1. The buffet has table service.
+2. The a la carte option has table service.
+3. Only the buffet has table service, and the a la carte option does not.
+4. Only the a la carte option has table service, and the buffet does not.
+5. Neither the buffet nor the a la carte option has table service.
+6. It is unclear which option, buffet or a la carte, the table service refers to.
+7. The context does not specify if both options have table service or not.
+8. There might be table service in some areas but not in others.
+9. The table service could refer to self-service options, not waitstaff.
+10. The establishment might offer a mix of table service and self-service.</s>

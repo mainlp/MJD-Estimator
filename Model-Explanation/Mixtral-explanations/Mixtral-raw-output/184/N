@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: After being diagnosed with cancer, Carrey's Kaufman decides to do a show at Carnegie Hall. 
+Statement: Carrey's Kaufman was diagnosed with cancer before deciding to do a show at Carnegie Hall. 
+Answer: [/INST] 1. The context does not specify the order of events.
+2. It's possible that Carrey's Kaufman was diagnosed with cancer after deciding to do a show at Carnegie Hall.
+3. The diagnosis and the decision to do a show could have occurred simultaneously.
+4. The information about the timing of the cancer diagnosis and the show decision is not provided in the context.</s>

@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: They have prominent red protuberances and may have been named after the British redcoats. 
+Statement: They were named after the redcoats because they are the same bright red color on their bodies. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The prominent red protuberances on their bodies are the same bright red color as the British redcoats' uniforms.
+* The name is derived from the physical characteristic of having red protuberances, which is reminiscent of the British redcoats' uniforms.
+* The similarity in color between the protuberances and the redcoats' uniforms is the reason for the naming.
+* The naming is based on the visual resemblance between the two, specifically the bright red color.<|eot_id|>

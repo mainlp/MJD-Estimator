@@ -1,0 +1,17 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: It's thought he used the same architect who worked on the Taj Mahal. 
+Statement: In reality, he did not use the Taj Mahal's architect. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The architect who worked on the Taj Mahal was not available to work for him.
+* The architect who worked on the Taj Mahal was not interested in working for him.
+* He could not afford to hire the architect who worked on the Taj Mahal.
+* The architect who worked on the Taj Mahal had retired or passed away.
+* He chose not to use the architect who worked on the Taj Mahal for personal reasons.
+* The architect who worked on the Taj Mahal was not suitable for the project he had in mind.
+* He used a different architect who was inspired by the Taj Mahal's design.
+* The thought that he used the same architect who worked on the Taj Mahal was incorrect.
+* There is no evidence to suggest that he used the Taj Mahal's architect.
+* He deliberately avoided using the architect who worked on the Taj Mahal to create a distinct design.<|eot_id|>

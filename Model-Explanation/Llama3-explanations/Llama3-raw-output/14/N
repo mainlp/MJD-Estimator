@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: wow who can afford that  my God i can't afford to miss a day let alone six 
+Statement: It's amazing that some people can afford to miss days from work, whereas I can't even afford to miss one. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is a paraphrased version of the context, but with a more neutral tone, which doesn't convey the same level of surprise and frustration as the context.
+* The context expresses a sense of astonishment and incredulity, whereas the statement is more matter-of-fact.
+* The context uses rhetorical questions and exclamations, which are not present in the statement.
+* The context implies that the speaker is struggling financially, whereas the statement only states a difference in affordability without conveying the same sense of struggle.
+* The context has a more emotional tone, whereas the statement is more objective.
+* The statement doesn't convey the same sense of urgency and desperation as the context, which mentions "can't afford to miss a day let alone six".
+* The context is more informal and conversational, whereas the statement is more formal and polished.<|eot_id|>

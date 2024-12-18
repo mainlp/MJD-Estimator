@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Ca'daan heard the Kal grunt and felt the horse lift. 
+Statement: The Kal heard Ca'daan grunt. 
+Answer: [/INST] 1. Ca'daan's grunt caused the Kal to hear it.
+2. The grunt was loud enough for the Kal to hear.
+3. The Kal is sensitive to human sounds and heard Ca'daan's grunt.
+4. Ca'daan's grunt was intentional and the Kal heard it.
+5. The horse lifting and Ca'daan's grunt were simultaneous, and the Kal heard both.
+6. Ca'daan's grunt was a reaction to the horse lifting, and the Kal heard it.
+7. The Kal is close to Ca'daan, and the horse lifting caused Ca'daan to grunt, which the Kal heard.
+8. Ca'daan's grunt was a verbal cue for the horse to lift, and the Kal heard it.
+9. The horse lifting caused Ca'daan to grunt, and the Kal has sharp hearing and heard it.
+10. Ca'daan's grunt was a response to the Kal's grunt, and the Kal heard it.</s>

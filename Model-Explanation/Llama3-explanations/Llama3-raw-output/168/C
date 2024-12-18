@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Both initial and supplemental proposed rule publications invited comments on the information collection requirements imposed by the rule. 
+Statement: There's no point in following politics or voting because your vote won't actually make a difference. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false (contradiction) given the context:
+
+* The context is about a rule publication inviting comments, implying public participation and potential impact on the rule.
+* The statement claims that one's vote won't make a difference, but the context suggests that comments (a form of public input) are being solicited, implying that individual contributions can influence the outcome.
+* The context involves a formal process of collecting comments, which implies that the opinions and inputs of individuals are valued and can shape the final decision.
+* The statement's pessimistic view of the effectiveness of individual votes is not supported by the context, which presents a more inclusive and participatory process.
+* The context highlights the importance of public engagement, which contradicts the statement's assertion that individual actions (like voting) are futile.<|eot_id|>

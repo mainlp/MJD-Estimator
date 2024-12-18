@@ -1,0 +1,18 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Tommy realized perfectly that in his own wits lay the only chance of escape, and behind his casual manner he was racking his brains furiously. 
+Statement: He'd been stuck for hours, starting to feel doubt crawl into his mind. 
+Answer: [/INST] 1. Tommy didn't spend hours stuck, it was a short duration.
+2. Tommy never felt doubt creeping into his mind.
+3. Tommy's doubt did not concern his escape plan.
+4. Tommy's doubt was not growing, but diminishing or staying the same.
+5. Tommy's doubt was in front of him, not in his mind.
+6. Tommy's realization about his wits and chance of escape occurred after the doubt set in.
+7. Tommy was not racking his brains furiously, but lethargically or not at all.
+8. Tommy's casual manner was not a façade, but genuine.
+9. Tommy's wits were not his only chance of escape.
+10. Tommy's wits were not a sufficient chance of escape.
+11. Tommy's wits were not necessary for his escape.
+12. Tommy's wits were not unique to him, but shared by others.
+13. Tommy's wits were not reliable, but flawed or limited.
+14. Tommy's wits were not being used for escape, but for another purpose.
+15.

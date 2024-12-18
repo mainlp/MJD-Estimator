@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: I'm confused. 
+Statement: Not all of it is very clear to me. 
+Answer: [/INST] 1. The statement could be referring to a specific situation or concept that was previously mentioned in the context.
+2. The speaker in the context might be referring to multiple things being unclear, and the statement is referring to one of those things.
+3. The statement could be referring to the speaker's overall understanding of the situation or concept, rather than specific parts of it.
+4. The speaker in the context might not have finished explaining the situation or concept, and the statement is expressing uncertainty about what is yet to come.
+5. The statement could be expressing a degree of uncertainty, rather than a complete lack of understanding.
+6. The speaker in the context might be using a figure of speech or idiomatic expression.
+7. The statement could be expressing a lack of clarity about a particular aspect of the situation or concept, rather than the whole thing.
+8. The speaker in the context might be implying that they have some understanding of the situation or concept, but not as much as they would like.
+9. The statement could be expressing a degree of confusion that is less than the speaker in the context previously indicated.
+10. The statement could be expressing a lack of clarity about a

@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Buffet and a  la carte available. 
+Statement: It has table service. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* "Buffet" implies a self-service style where customers serve themselves, contradicting the idea of table service.
+* "A la carte" typically involves ordering individual dishes, which may not necessarily involve table service.
+* The presence of a buffet and a la carte options suggests a more casual, flexible dining arrangement, which is less likely to have traditional table service.
+* Table service typically implies a more formal, sit-down dining experience, which is not suggested by the context.<|eot_id|>

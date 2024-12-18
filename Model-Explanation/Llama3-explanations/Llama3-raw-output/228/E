@@ -1,0 +1,17 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: i think that the people that are um have um a lower income which you automatically equate with lower education 
+Statement: I think because you have lower income you are less educated. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+1. The speaker believes that lower income is a direct result of lower education.
+2. The speaker assumes that people with lower income have limited access to quality education.
+3. The speaker thinks that lower income individuals are more likely to drop out of school or not pursue higher education.
+4. The speaker equates lower income with a lack of opportunities, including access to quality education.
+5. The speaker believes that lower income is a consequence of a lack of education, which limits job opportunities and earning potential.
+6. The speaker assumes that people with lower income are more likely to have lower-paying jobs that do not require higher education.
+7. The speaker thinks that lower income is a proxy for socioeconomic status, which is closely tied to educational attainment.
+8. The speaker believes that lower income individuals are more likely to come from disadvantaged backgrounds, which can limit their access to quality education.<|eot_id|>

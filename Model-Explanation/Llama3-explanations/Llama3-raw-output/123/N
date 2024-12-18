@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The road along the coastline to the south travels through busy agricultural towns and fishing villages untouched by tourism. 
+Statement: There are no tourists on the road through the agricultural towns and fishing villages. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement only mentions the road, not the towns and villages themselves, so it's possible that tourists are present in the towns and villages but not on the road.
+* The context states that the towns and villages are "untouched by tourism", but it doesn't explicitly say that there are no tourists, only that they haven't been affected by tourism.
+* The presence of tourists in the towns and villages doesn't necessarily mean they are on the road, they could be staying in accommodations or visiting local attractions.
+* The context describes the road as traveling "through" the towns and villages, implying that it may not be a destination in itself, but rather a route to other places, so tourists may not be on the road even if they are in the area.
+* The statement is making a universal claim ("there are no tourists"), which is difficult to prove or disprove without more information.
+* The context doesn't provide any information about the current time or season, which could affect the presence of tourists.<|eot_id|>

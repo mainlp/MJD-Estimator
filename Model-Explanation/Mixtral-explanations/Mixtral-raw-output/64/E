@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The remaining parts of the north, although enticing, are difficult to explore. 
+Statement: The rest of the north presents a steep challenge. 
+Answer: [/INST] 1. The "remaining parts of the north" and "the rest of the north" refer to the same region.
+2. This region is "difficult to explore" implies that it presents a challenge.
+3. The challenge is described as "steep," indicating significant difficulty.</s>

@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: We have done that spectacularly. 
+Statement: Spectacular results was the only way to describe the impact of our past work. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment) given the context:
+
+* The word "spectacularly" in the context implies that the results of the past work were exceptional, which is consistent with the statement that "spectacular results" is the only way to describe the impact.
+* The context suggests that the past work had a significant and impressive outcome, which is equivalent to saying that the results were spectacular.
+* The use of "spectacularly" in the context sets a high standard for the outcome, and the statement simply rephrases this by saying that the results were spectacular.
+* The context implies a sense of pride or accomplishment, which is consistent with the statement's emphasis on the spectacular nature of the results.
+* The statement is a paraphrase of the context, with "spectacular results" being a synonym for "done that spectacularly".<|eot_id|>

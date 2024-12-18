@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: He dismounted and Ca'daan saw he was smaller than the rest. 
+Statement: He was shorter than the others. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* "Smaller" is a synonym for "shorter" in this context, implying a physical comparison.
+* "Smaller than the rest" is a phrase that suggests a relative size difference, which can be inferred to mean a difference in height.
+* The phrase "the rest" likely refers to a group of people, and the comparison is being made between the subject and this group, implying that the subject is shorter than the others in the group.
+* The context does not provide any information that would suggest "smaller" is being used to describe something other than physical size, such as age or importance.<|eot_id|>

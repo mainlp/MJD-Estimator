@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The activities included in the Unified Agenda are, in general, those expected to have a regulatory action within the next 12 months, although agencies may include activities with an even longer time frame. 
+Statement: Some actions were implemented for being shorter than 12 months. 
+Answer: [/INST] 1. The context does not specify whether all activities in the Unified Agenda have a 12-month time frame or if some may have a shorter time frame.
+2. The statement does not indicate if the actions that were implemented are part of the Unified Agenda.
+3. The statement does not specify if the implemented actions were originally included in the Unified Agenda with a time frame of less than 12 months.
+4. The context and statement do not provide information about the timing of the implementation of the actions, making it unclear if they were implemented within the 12-month time frame specified in the context.</s>

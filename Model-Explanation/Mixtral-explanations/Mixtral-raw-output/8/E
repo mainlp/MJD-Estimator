@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Her state is probably to be attributed to the mental shock consequent on recovering her memory." 
+Statement: It is too bad that she never regained her memory. 
+Answer: [/INST] 1. The person in question never recovered her memory, meaning she remains in a state of amnesia.
+2. The mental shock upon regaining her memory was so severe that it prevented her from experiencing any benefit of memory recovery.
+3. The recovery of her memory was only temporary and she lost it again, leading to the current state of never having regained it.
+4. The phrase "probably to be attributed" implies a causal relationship, suggesting that the mental shock occurred immediately after she regained her memory, and the context does not indicate any subsequent recovery of memory.
+5. The statement could be expressing regret for the fact that she regained her memory only to suffer from the mental shock, and never had a chance to enjoy the benefits of memory recovery.</s>

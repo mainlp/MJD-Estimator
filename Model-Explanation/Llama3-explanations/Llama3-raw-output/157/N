@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: To get a wonderful view of the whole stretch of river, and to stretch your legs in a beautiful parklike setting, climb up to the Ceteau de Marqueyssac and its jardins suspendus (hanging gardens). 
+Statement: You will enjoy stretching your legs as you climb the Ceteau de Marqueyssac. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions stretching legs in a beautiful parklike setting, but not explicitly during the climb.
+* The context highlights the view and the parklike setting as the main attractions, not the act of climbing.
+* The statement assumes a positive emotional response (enjoy) which is not explicitly stated in the context.
+* The context does not provide enough information about the difficulty or nature of the climb to determine if it would be enjoyable.
+* The statement implies a causal relationship between climbing and enjoying stretching legs, which is not explicitly stated in the context.
+* The context focuses on the destination (hanging gardens) rather than the journey (climbing), making it unclear if the climb itself would be enjoyable.<|eot_id|>

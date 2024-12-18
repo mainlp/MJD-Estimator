@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: So it wasn't Missenhardt's singing--marvelous though that was--that made Osmin's rantings so thrilling. 
+Statement: Osmin was always calm and collected. 
+Answer: [/INST] 1. Missenhardt's singing and Osmin's rantings are separate events.
+2. Osmin's rantings refer to his spoken or written expressions of anger or frustration.
+3. The context suggests that Osmin's rantings were thrilling due to their emotional intensity.
+4. Osmin's emotional state when ranting is not described as calm and collected.
+5. There is no mention of Osmin being calm and collected while ranting.
+6. The statement does not specify that Osmin is always calm and collected in every situation.
+7. It is possible that Osmin is only calm and collected when not ranting.
+8. The statement does not contradict the context, which implies that Osmin's emotional arousal during his rantings is not due to Missenhardt's singing.</s>

@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The Women's Haven, which provides shelter and outreach to domestic-violence victims, already has a full-time attorney. 
+Statement: The Haven is a useful resource in the community. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The Haven provides shelter to domestic-violence victims, which is a useful service.
+* The Haven provides outreach to domestic-violence victims, which is a useful service.
+* The Haven has a full-time attorney, which is a useful resource for domestic-violence victims.
+* The combination of shelter, outreach, and legal services makes The Haven a useful resource in the community.
+* The presence of a full-time attorney at The Haven implies that it is a reliable and trustworthy organization, making it a useful resource.
+* The fact that The Haven is already providing services to domestic-violence victims suggests that it is a useful resource that is already making a positive impact.<|eot_id|>

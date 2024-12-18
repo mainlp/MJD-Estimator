@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Mykonos has had a head start as far as diving is concerned because it was never banned here (after all, there are no ancient sites to protect). 
+Statement: Protection of ancient sites is the reason for diving bans in other places. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only implies a correlation between the absence of ancient sites and the lack of diving bans, but does not explicitly state that protection of ancient sites is the reason for diving bans in other places.
+* The context only provides information about Mykonos, but not about other places, so it's unclear if the same reasoning applies to those places.
+* The context does not provide a general rule or principle that links ancient site protection to diving bans, so it's unclear if this is a universal reason or just a specific circumstance.
+* The context does not explicitly contrast Mykonos with other places, so it's unclear if the reason for diving bans in other places is indeed the protection of ancient sites or something else.
+* The statement is making a general claim about "other places", but the context only provides information about Mykonos, so it's unclear if this claim is true or not.<|eot_id|>

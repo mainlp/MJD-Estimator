@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Lie back, and DON'T THINK. 
+Statement: Lie back, and do not use your crazy mind. 
+Answer: [/INST] 1. The statement uses the phrase "crazy mind" instead of just "think."
+2. The statement could be interpreted as a repetition of the command in the context.
+3. The statement does not explicitly contradict the command in the context.
+4. The statement could be interpreted as adding emphasis to the command in the context.
+5. The context does not specify which aspects of thinking are not allowed.
+6. The statement does not specify which aspects of the "crazy mind" should be avoided.
+7. The statement could be interpreted as a figurative use of the phrase "crazy mind."
+8. The context does not provide enough information about the speaker's intentions.
+9. The statement could be interpreted as a rhetorical device, such as hyperbole.
+10. The statement does not provide enough context to determine if it is equivalent to the command in the context.</s>

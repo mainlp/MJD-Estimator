@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: BUDGETARY RESOURCES - The forms of authority given to an agency allowing it to incur obligations. 
+Statement: Administrations generally feel that some agencies should have more budgetary resources than others. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context only defines what budgetary resources are, but does not provide information about how they should be allocated or distributed among agencies.
+* The statement expresses a general feeling or opinion, but does not make a claim about the current state of budgetary resource allocation.
+* The statement does not provide enough information to determine whether the feeling is justified or not, or whether it aligns with the current allocation of budgetary resources.
+* The context does not provide any information about the criteria or principles that should guide the allocation of budgetary resources, making it impossible to determine whether the feeling is reasonable or not.
+* The statement is too vague, as it does not specify which agencies should have more budgetary resources or why.
+* The context only provides a definition, but does not provide any information about the actual allocation or distribution of budgetary resources, making it impossible to determine whether the feeling is supported by evidence or not.<|eot_id|>

@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Keep your eyes open for Renaissance details, grand doorways, and views into lovely courtyards. 
+Statement: All of the doorways and courtyards have been completely remodeled since the Renaissance. 
+Answer: [/INST] 1. Some Renaissance details still exist.
+2. The grand doorways were preserved during remodeling.
+3. The courtyards' original design remains.
+4. Specific sections of some doorways are still original.
+5. Partial views of courtyards remain as they were during the Renaissance.</s>

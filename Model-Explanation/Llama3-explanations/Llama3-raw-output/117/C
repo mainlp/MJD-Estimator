@@ -1,0 +1,17 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: All of our many earnest experiments produced results in line with random chance, they conclude. 
+Statement: The experiments proved it was a much better predictor. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The results were in line with random chance, implying no significant predictive power.
+* The experiments did not produce conclusive evidence to support the claim of being a better predictor.
+* The outcome of the experiments was neutral, neither confirming nor denying the predictive ability.
+* The results were inconsistent or varied, failing to demonstrate a clear pattern or trend.
+* The experiments were unable to establish a statistically significant correlation or causation.
+* The data collected did not support the conclusion that it was a better predictor.
+* The results were ambiguous, open to multiple interpretations, and did not provide clear evidence.
+* The experiments lacked sufficient power or sample size to detect a significant effect.
+* The methodology or design of the experiments was flawed, leading to inconclusive results.
+* The results were susceptible to bias, confounding variables, or other sources of error.<|eot_id|>

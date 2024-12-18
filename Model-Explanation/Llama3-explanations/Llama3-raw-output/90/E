@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: ooh it's kind of tough to think of some of the others although i do watch some of some of those frivolous things uh like on Thursday nights at nine o'clock when i get home from aerobics i will watch uh Knots Landing 
+Statement: I only watch frivolous things on Thursday nights. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true:
+
+* The speaker explicitly mentions watching a frivolous show (Knots Landing) on Thursday nights.
+* The speaker implies that they have a regular routine of watching TV on Thursday nights at 9 o'clock after aerobics.
+* The speaker does not mention watching any non-frivolous shows on Thursday nights.
+* The speaker's hesitation and difficulty in thinking of other shows they watch suggests that Thursday night frivolous shows might be a significant part of their TV routine.<|eot_id|>

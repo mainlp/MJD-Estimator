@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Lincoln glared. 
+Statement: The man was angry. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+1. Glaring is a facial expression typically associated with anger.
+2. The context implies Lincoln is a man, and the statement is a direct inference about his emotional state.
+3. The action of glaring suggests strong negative emotions, which are often characterized as anger.
+4. The use of "glared" as a verb implies a intense or aggressive stare, which is commonly linked to feelings of anger.
+5. The statement is a reasonable deduction based on the provided context, as glaring is a common behavioral indicator of anger.<|eot_id|>

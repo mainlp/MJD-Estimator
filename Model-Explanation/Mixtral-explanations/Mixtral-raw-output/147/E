@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: No, monsieur. 
+Statement: The speaker is answering no to a question. 
+Answer: [/INST] 1. The speaker is refusing a request or proposal.
+2. The speaker is denying a statement or accusation.
+3. The speaker is expressing disagreement with the listener.
+4. The speaker is correcting a misunderstanding.
+5. The speaker is rejecting an idea or suggestion.
+6. The speaker is not acknowledging the listener's statement.
+7. The speaker is indicating a negative response.
+8. The speaker is negating a statement or question.
+9. The speaker is showing unwillingness or disapproval.
+10. The speaker is using a polite or formal way to say "no".</s>

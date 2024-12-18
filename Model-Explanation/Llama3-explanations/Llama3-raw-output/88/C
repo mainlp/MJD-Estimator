@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Don't take it to heart, lad, he said kindly. 
+Statement: He was trying to console the lad. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The speaker was not trying to console the lad, but rather to scold or reprimand him.
+* The tone of the speaker was not kind, but rather harsh or sarcastic.
+* The words "don't take it to heart" were meant to be ironic or mocking.
+* The speaker was being insincere or hypocritical in their attempt to console the lad.
+* The lad was not upset or in need of consolation.
+* The speaker's intention was to make the lad feel worse, not better.<|eot_id|>

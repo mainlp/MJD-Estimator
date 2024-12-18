@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Wear a nicely ventilated hat and keep to the shade in the street. 
+Statement: The buildings are so low that there is no shade in the streets. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context mentions keeping to the shade in the street, implying that shade is available.
+* The statement claims there is no shade, contradicting the assumption of available shade.
+* If buildings were low, they would not block sunlight, but the context suggests they do, creating shade.
+* The context's advice to stay in the shade implies that shade is a desirable and existing condition, which the statement denies.<|eot_id|>

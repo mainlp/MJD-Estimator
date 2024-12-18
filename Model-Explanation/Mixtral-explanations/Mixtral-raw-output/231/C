@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Ca'daan closed the door behind them and retied the not. 
+Statement: Ca'daan closed the door as they entered, and bound it shut with rope. 
+Answer: [/INST] 1. Ca'daan closed the door using a different method (e.g., latching it) when they entered.
+2. Ca'daan used a rope to secure the door, but not to bound it shut.
+3. Ca'daan did not retie the knot on the not after closing the door.
+4. The object used to secure the door was not a rope, but something else.
+5. The action of securing the door with a rope occurred after Ca'daan had already entered the room.
+6. Ca'daan did not close the door as they entered.
+7. The door was already bound shut with rope before Ca'daan entered.
+8. Ca'daan's action of closing the door and securing it with a rope were not performed in one continuous motion.</s>

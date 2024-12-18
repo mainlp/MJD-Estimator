@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: How effectively DOD manages these funds will determine whether it receives a good return on its investment. 
+Statement: The DOD is certain to have a bad return on these funds. 
+Answer: [/INST] 1. The statement could be referring to a different set of funds that the DOD manages, not the ones mentioned in the context.
+2. The context may be discussing only the potential for a good return, while the statement categorically asserts a bad return.
+3. The word "effectively" in the context implies that there is room for variation in how well the DOD manages the funds, but the statement assumes the worst-case scenario.
+4. The statement could be based on previous experiences or assumptions, while the context is focusing on the potential outcome of the current management.
+5. The NLI system may not have enough information to determine the relationship between the context and the statement, as it depends on the specific criteria for a "good return" and how it relates to a "bad return".</s>

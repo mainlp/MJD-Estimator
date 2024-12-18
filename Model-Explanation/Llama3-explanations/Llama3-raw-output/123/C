@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The road along the coastline to the south travels through busy agricultural towns and fishing villages untouched by tourism. 
+Statement: There are no tourists on the road through the agricultural towns and fishing villages. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context states that the road "travels through" the towns and villages, implying that people, including tourists, are present.
+* The phrase "untouched by tourism" means that the towns and villages themselves are not affected by tourism, not that there are no tourists on the road.
+* The context does not explicitly state that there are no tourists on the road, only that the towns and villages are unaffected by tourism.
+* It is possible that tourists are present on the road, but they are not affecting the character of the towns and villages.
+* The statement is an over-interpretation of the context, which only describes the state of the towns and villages, not the road itself.<|eot_id|>

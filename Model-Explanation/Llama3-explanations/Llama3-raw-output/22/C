@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Monday's Question (No. 
+Statement: There was a question on Tuesday. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The context explicitly mentions "Monday's Question", implying that the question was on Monday, not Tuesday.
+* The absence of any mention of Tuesday in the context suggests that Tuesday is not relevant to the question.
+* The phrase "Monday's Question" creates a strong implication that the question was asked on Monday, making it unlikely that there was a question on Tuesday.
+* The context does not provide any information about Tuesday, making it impossible to infer the existence of a question on that day.
+* The statement contradicts the context by introducing a new day (Tuesday) that is not mentioned in the context.<|eot_id|>

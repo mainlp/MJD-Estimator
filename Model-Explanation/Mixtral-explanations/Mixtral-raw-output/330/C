@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Well, we will come in and interview the brave Dorcas." Dorcas was standing in the boudoir, her hands folded in front of her, and her grey hair rose in stiff waves under her white cap.  
+Statement: Dorcas is well known for her bravery. 
+Answer: [/INST] 1. Dorcas's bravery is not widely recognized or acknowledged.
+2. The prediction of Dorcas being brave is only for the moment of the interview.
+3. Dorcas's bravery is not related to her current situation or context.
+4. Dorcas's bravery is not genuine or has been exaggerated.
+5. The statement is based on a misunderstanding of who Dorcas is.
+6. The statement is a generalization that is not true in all cases or for all times.
+7. The statement is intended as sarcasm or irony.
+8. The statement is a deliberate lie or misinformation.
+9. The statement is not based on any evidence or observation.
+10. The statement is a mistake or slip of the tongue.</s>

@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: He found himself thinking in circles of worry and pulled himself back to his problem. 
+Statement: He could not afford to get distracted from his problem. 
+Answer: [/INST] 1. He was not worried about his problem, hence not thinking in circles of worry.
+2. He was not pulled back to his problem, indicating a lack of effort to refocus.
+3. He was able to afford distractions, implying financial ability to be sidetracked.
+4. His distraction was not related to his problem, thus not affecting his ability to solve it.
+5. His distraction was beneficial to his problem-solving process.
+6. His distraction was unavoidable or necessary, and therefore not something he could afford to prevent.</s>

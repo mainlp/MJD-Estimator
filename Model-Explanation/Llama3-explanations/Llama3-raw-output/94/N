@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The living is not equal to the Ritz, he observed with a sigh. 
+Statement: The living is nothing compared to the glamour of the Ritz, he said sadly. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions the living is "not equal" to the Ritz, but the statement claims it's "nothing compared" which is a stronger sentiment, making it uncertain.
+* The context expresses a sigh, which implies disappointment or frustration, but the statement says "he said sadly", which could be a similar but not identical sentiment.
+* The context focuses on the comparison between the living and the Ritz, while the statement adds the phrase "the glamour of", which changes the scope of the comparison.
+* The context is more neutral in tone, while the statement has a more negative tone, making it uncertain if they convey the same meaning.
+* The context doesn't explicitly state the living is inferior to the Ritz, while the statement does, making it uncertain if they have the same implication.<|eot_id|>

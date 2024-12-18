@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Traditionally, certain designs were reserved for royalty, but today elegant geometric or exuberant, stylized floral patterns are available to all. 
+Statement: Designs once reserved for royalty cost more to buy. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not provide any information about the current prices of designs once reserved for royalty.
+* There is no mention of a correlation between the exclusivity of designs and their prices.
+* The context only discusses the availability of designs, not their cost.
+* The statement assumes a connection between exclusivity and price, which is not supported by the context.
+* The context does not provide enough information to determine whether the prices of designs have changed over time.
+* The statement's claim about the current prices of designs is not implied or entailed by the context.
+* The context focuses on the shift in availability, not the shift in prices.
+* There is no logical connection between the context and the statement's claim about prices.<|eot_id|>

@@ -1,0 +1,16 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: yeah well that's my uh i mean every time i've tried to go you know it's always there's there's always a league bowling 
+Statement: Every time I try to go bowling there are leagues only and I can't bowl. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context mentions "every time I've tried to go" but doesn't explicitly state that the speaker can't bowl, leaving room for interpretation.
+* The phrase "it's always there's there's always a league bowling" is ambiguous and could be referring to the presence of leagues, but not necessarily implying that the speaker can't bowl.
+* The context doesn't provide enough information to determine if the speaker is able to bowl or not, as it only mentions the presence of leagues.
+* The statement assumes a causal relationship between the presence of leagues and the speaker's inability to bowl, which is not explicitly supported by the context.
+* The context uses filler words ("yeah", "well", "uh", "I mean") which may indicate hesitation or uncertainty, making it difficult to infer a clear meaning.
+* The context doesn't provide enough information about the speaker's intentions or goals, making it unclear if they are able to bowl or not.
+* The statement is an inference based on the context, but the context doesn't provide enough evidence to support or refute it.<|eot_id|>

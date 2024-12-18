@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: approaches to achieving missions vary considerably between agencies. 
+Statement: Approaches to achieving missions might change a lot. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The word "vary" in the context implies a range of differences, which can be interpreted as a possibility of significant changes.
+* The phrase "considerably between agencies" suggests that the differences in approaches are notable, which might lead to changes in approaches.
+* The context implies that there is no one fixed approach to achieving missions, leaving room for changes or variations.
+* The use of "considerably" implies a degree of flexibility or adaptability in approaches, which could result in changes.
+* The context highlights the diversity of approaches, which might lead to the development of new or modified approaches, i.e., changes.<|eot_id|>

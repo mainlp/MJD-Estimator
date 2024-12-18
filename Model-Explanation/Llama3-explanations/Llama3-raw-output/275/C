@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The importer pays duties that are required by law 
+Statement: Imported goods have duties 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The duties are not attached to the goods themselves, but rather are a separate payment made by the importer.
+* The duties are not a property or characteristic of the goods, but rather a legal obligation of the importer.
+* The goods do not inherently have duties, but rather duties are imposed on them by law.
+* The duties are not a feature or attribute of the imported goods, but rather a requirement for their importation.
+* The statement implies that the duties are an inherent part of the goods, which is not the case.<|eot_id|>

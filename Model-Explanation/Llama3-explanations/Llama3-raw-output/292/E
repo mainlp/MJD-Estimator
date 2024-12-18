@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The questions may need to be tailored to 
+Statement: A majority of the questions referenced will need to be tailored to. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The phrase "the questions" in the statement refers to the same set of questions mentioned in the context, which need to be tailored to.
+* The context implies that not all questions need to be tailored to, but a majority of them do.
+* The word "may" in the context indicates a possibility, which is strengthened to a certainty in the statement, implying that a majority of questions will indeed need to be tailored to.
+* The context sets a condition or a requirement for the questions, which is fulfilled by the statement, ensuring that a majority of the questions will need to be tailored to.<|eot_id|>

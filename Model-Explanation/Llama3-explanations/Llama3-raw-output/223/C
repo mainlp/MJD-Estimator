@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Time's cover package considers what makes a good school. 
+Statement: Time's cover package is about how most college students have to deal with insane student loans. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context states the cover package is about what makes a good school, but the statement claims it's about student loans, which is a different topic.
+* The context does not mention college students, but the statement does, implying a different scope.
+* The context does not mention student loans at all, let alone insane ones.
+* The topic of student loans is not related to what makes a good school, which is the focus of the cover package according to the context.<|eot_id|>

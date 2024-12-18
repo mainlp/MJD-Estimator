@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Krugman's column will henceforth be known as The Dismal Science, a phrase too famous to be ownable by anyone, except possibly British essayist Thomas Carlyle (1795-1881), who coined it. 
+Statement: Krugman writes novels. 
+Answer: [/INST] 1. Krugman did not coin the phrase "The Dismal Science."
+2. The phrase "The Dismal Science" is not exclusively associated with Krugman.
+3. Krugman's column has always been called "The Dismal Science."
+4. Krugman did not write the column before it was named "The Dismal Science."
+5. Krugman's column is the only thing being referred to as "The Dismal Science."
+6. Krugman's writing is limited to his column and does not include novels.
+7. Thomas Carlyle still owns the phrase "The Dismal Science."
+8. The phrase "The Dismal Science" is not ownable by anyone.
+9. Krugman is not a novelist.
+10. Krugman's novels, if any, are not published under the name "The Dismal Science."</s>

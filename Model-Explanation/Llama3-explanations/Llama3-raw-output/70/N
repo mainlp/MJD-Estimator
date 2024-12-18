@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: It was made up to look as much like an old-fashioned steam train as possible. 
+Statement: It was built in the modern era to look like something built in the past. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions the intention to make it look like an old-fashioned steam train, but does not explicitly state when it was built.
+* The context does not provide a clear temporal reference to determine the era in which "it" was built.
+* The statement is a paraphrase of the context, but the context does not provide enough information to confirm or deny the statement.
+* The context focuses on the appearance, not the actual build time, leaving the build era ambiguous.
+* The statement assumes a specific build era (modern), which is not explicitly mentioned in the context.
+* The context does not provide enough information to determine whether the intention to look old-fashioned implies a modern build era.<|eot_id|>

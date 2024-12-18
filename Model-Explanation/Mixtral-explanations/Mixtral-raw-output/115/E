@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Under the budget deal, by 2002, national defense will consume about $273 billion a year compared with $267 billion now. 
+Statement: The United States national defense budget will increase by 6 billion dollars. 
+Answer: [/INST] 1. The difference in defense budget between 2002 and the current year is an increase of 6 billion dollars.
+2. In the budget deal, the allocated amount for national defense in 2002 is 6 billion dollars more than the current amount.
+3. The future national defense budget of the United States will have risen by 6 billion dollars compared to the present budget.
+4. The budget deal approves a rise of 6 billion dollars in national defense funding for the year 2002.
+5. The United States national defense budget will experience a 6 billion dollar boost by the year 2002.
+6. The increase in the United States national defense budget, due to the budget deal, will amount to 6 billion dollars by 2002.
+7. The budget deal results in a 6 billion dollar augmentation in the national defense budget for the year 2002.
+8. The national defense budget of the United States will grow by 6 billion dollars according to the budget deal, reaching $273 billion a year by 2002.</s>

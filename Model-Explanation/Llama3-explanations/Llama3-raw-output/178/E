@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Since the rules were issued as interim rules and not as general notices of proposed rulemaking, they are not subject to the Unfunded Mandates Reform Act of 1995. 
+Statement: The rules were  not issued as interim rules but rather general notices of proposed rulemaking. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* This statement is false, as the context explicitly states the opposite.
+* The context does not provide any information that would support this statement.
+* The statement contradicts the premise of the context, which assumes the rules were issued as interim rules.
+* There is no evidence in the context to suggest that the rules were issued as general notices of proposed rulemaking.
+* The context's logic relies on the rules being issued as interim rules, and this statement would undermine that logic.<|eot_id|>

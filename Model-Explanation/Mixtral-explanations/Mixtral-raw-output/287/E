@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: 'I see.' 
+Statement: It was clear 
+Answer: [/INST] 1. The speaker in the context explicitly or implicitly expressed understanding or recognition.
+2. The statement's subject matter was easily comprehended or apparent.
+3. The situation or environment allowed for clear visibility.
+4. The statement's meaning was evident or obvious.
+5. The context's speaker acknowledges the obviousness or transparency of the situation.
+6. The context's speaker agrees that the situation or information is clear.
+7. The context's speaker affirms that the message was received and understood.
+8. The context's speaker implies that the information was not ambiguous or unclear.
+9. The context's speaker confirms that the subject matter was discernible.
+10. The context's speaker accepts that the situation was evident or plain.</s>

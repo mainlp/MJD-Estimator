@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: 'Dave Hanson, to whom nothing was impossible.' Well, we have a nearly impossible task: a task of engineering and building. 
+Statement: This building job is almost impossible, even for an experienced engineer. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context describes Dave Hanson as someone to whom nothing was impossible, implying that he is capable of achieving anything.
+* The statement claims that the building job is almost impossible, even for an experienced engineer, which contradicts the idea that Dave Hanson can accomplish anything.
+* The context sets up Dave Hanson as an exceptional individual, while the statement suggests that the task is beyond the capabilities of even an experienced engineer, implying that Dave Hanson is not exceptional in this regard.
+* The use of "nearly impossible" in the context and "almost impossible" in the statement creates a sense of inconsistency, as the context implies that Dave Hanson can overcome such challenges, but the statement suggests that it's still impossible.
+* The statement's tone is one of doubt and limitation, which contrasts with the context's tone of confidence and possibility.<|eot_id|>

@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The party's broad aims were to support capitalist policies and to continue close ties with Britain and the rest of the Commonwealth. 
+Statement: The party sought to establish ties with the United States. 
+Answer: [/INST] 1. The United States is a capitalist country.
+2. The United States is part of the Western world, which includes Britain and other countries in the Commonwealth.
+3. The party may have believed that establishing ties with the United States would help maintain close ties with Britain and the rest of the Commonwealth.
+4. The party may have seen the United States as a valuable ally in supporting capitalist policies.
+5. The party may have viewed the United States as a key player in the global economy and wanted to establish closer economic ties.
+6. The party may have wanted to diversify its international relationships beyond Britain and the Commonwealth.
+7. The party may have seen the United States as a source of support or influence in global affairs.
+8. The party may have viewed the United States as a cultural or political model for its own policies and goals.</s>

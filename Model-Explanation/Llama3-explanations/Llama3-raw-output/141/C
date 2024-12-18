@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: well that's uh i agree with you there i mean he didn't have the surrounding cast that Montana had there's no doubt about that 
+Statement: I agree that he didn't have the same support as Montana, but he did well. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The speaker does not agree that he didn't have the same support as Montana.
+* The speaker does not think he did well.
+* The speaker does not think he did well despite not having the same support as Montana.
+* The speaker's agreement is not about him not having the same support as Montana.
+* The speaker's agreement is not followed by a concession that he did well.<|eot_id|>

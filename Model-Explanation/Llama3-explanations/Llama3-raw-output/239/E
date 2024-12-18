@@ -1,0 +1,17 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: This is one of the reasons we're growing too weak to fight the Satheri.  "What's wrong with a ceremony of worship, if you must worship your eggshell?" Dave asked. 
+Statement: Eggshell worship is the reason we're growing too weak to fight the Satheri, yet Dave asked about it. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true:
+
+1. The ceremony of worship is distracting people from preparing for battle against the Satheri.
+2. The resources used for the ceremony could be better spent on strengthening the fight against the Satheri.
+3. The act of worship is causing people to become complacent and less motivated to fight the Satheri.
+4. The focus on eggshell worship is diverting attention away from the threat posed by the Satheri.
+5. The ceremony is somehow draining the energy or morale of the people, making them weaker against the Satheri.
+6. The worship is causing people to prioritize the eggshell over the safety and security of their community, leading to weakness against the Satheri.
+7. The ceremony is a form of escapism, allowing people to avoid dealing with the reality of the Satheri threat.
+8. The worship is creating a sense of false security, leading people to underestimate the Satheri and become weaker against them.<|eot_id|>

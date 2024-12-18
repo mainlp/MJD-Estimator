@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Even analysts who had argued for loosening the old standards, by which the market was clearly overvalued, now think it has maxed out for a while. 
+Statement: Some analysts wanted to make the old standards less restrictive for investors. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context only mentions that analysts argued for loosening the old standards, but it does not specify their motivations or goals, which could be different from making the standards less restrictive for investors.
+* The context focuses on the market being overvalued and maxing out, which is unrelated to the analysts' intentions regarding investors.
+* The statement implies a specific motivation (making the standards less restrictive for investors) that is not explicitly mentioned in the context.
+* The context only provides information about the analysts' current thoughts, but the statement refers to their past desires, which may not be inferable from the context.
+* The context does not provide enough information to determine whether the analysts' goal was to benefit investors or to achieve some other objective.<|eot_id|>

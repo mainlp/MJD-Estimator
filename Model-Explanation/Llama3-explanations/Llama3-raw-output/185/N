@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Clearly, GAO needs assistance to meet its looming human capital challenges. 
+Statement: GAO will soon be suffering from a shortage of qualified personnel. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context only mentions "looming human capital challenges" but does not explicitly state that it will lead to a shortage of qualified personnel.
+* The context does not provide enough information to determine whether the challenges will be addressed or not, which affects the likelihood of a shortage.
+* The statement is a prediction about the future, and the context does not provide sufficient evidence to support or contradict it.
+* The context focuses on the need for assistance, but it is unclear whether that assistance will be provided or effective in preventing a shortage.
+* The statement is a more specific claim than the context, and the context does not provide enough information to determine its truth value.
+* The context does not rule out the possibility that GAO will take steps to address its human capital challenges, which could prevent a shortage.<|eot_id|>

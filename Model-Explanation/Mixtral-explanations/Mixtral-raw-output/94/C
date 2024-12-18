@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The living is not equal to the Ritz, he observed with a sigh. 
+Statement: The living is nothing compared to the glamour of the Ritz, he said sadly. 
+Answer: [/INST] 1. He expressed that the living is even superior to the Ritz, not that it's inferior or less glamorous.
+2. He stated that the Ritz is not glamorous at all, which contradicts the context.
+3. He expressed indifference about the comparison, not sadness.
+4. He used a positive tone to describe the living, not a negative one.
+5. He mentioned that the Ritz is actually quite shabby, which is contrary to the general perception of the Ritz being luxurious.
+6. He stated that the living is equally glamorous as the Ritz, contradicting the context.
+7. He expressed relief or happiness that the living is not like the Ritz, instead of sadness.
+8. He made a humorous comment that the living is way below the Ritz in terms of glamour, but with a light-hearted tone that doesn't convey sadness.
+9. He stated that the Ritz is nothing compared to the living, which directly contradicts the context.
+10. He made a sarcastic remark that the living is nothing compared to the Ritz, implying the opposite.</s>

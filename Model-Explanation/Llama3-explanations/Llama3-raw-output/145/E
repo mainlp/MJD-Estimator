@@ -1,0 +1,8 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Strange as it may seem to the typical household, capital gains on its existing assets do not contribute to saving as measured in NIPA. 
+Statement: NIPA considers cat fur when it defines savings. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+None. The statement is not true (not an entailment) given the context. The context talks about capital gains on existing assets and NIPA's measurement of savings, but it does not mention cat fur at all.<|eot_id|>

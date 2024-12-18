@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: After shuttering the DOE, Clinton could depict himself as a crusader against waste and bureaucracy who succeeded where even Reagan failed. 
+Statement: Clinton shuttered the DOE to move against waste. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true:
+
+* Clinton shuttered the DOE to depict himself as a crusader against waste.
+* Shuttering the DOE is an action against waste.
+* Clinton's action of shuttering the DOE is a move against waste.
+* The DOE is an example of waste and bureaucracy, and Clinton shuttered it.
+* Clinton's goal in shuttering the DOE was to move against waste.
+* Shuttering the DOE is a way to crusade against waste, and Clinton did it.<|eot_id|>

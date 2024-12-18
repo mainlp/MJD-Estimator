@@ -1,0 +1,8 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Both initial and supplemental proposed rule publications invited comments on the information collection requirements imposed by the rule. 
+Statement: There's no point in following politics or voting because your vote won't actually make a difference. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+None. The statement does not logically follow from the context. The context discusses comments on information collection requirements imposed by a rule, while the statement expresses a sentiment about the futility of voting. There is no connection between the two.<|eot_id|>

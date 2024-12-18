@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: After their savage battles, the warriors recuperated through meditation in the peace of a Zen monastery rock garden. 
+Statement: The warriors recuperated through mediation learned from monks. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The warriors recuperated through meditation in a Zen monastery rock garden, which implies they learned meditation from the monks who reside in the monastery.
+* The presence of a Zen monastery rock garden suggests the presence of monks who practice and teach meditation, and the warriors likely learned from them.
+* The warriors' meditation in the rock garden implies they had access to the monastery's resources and guidance, including the monks who could have taught them meditation.
+* The peaceful atmosphere of the rock garden is conducive to meditation, and it is likely that the warriors learned meditation techniques from the monks who maintain the garden.
+* The warriors' recuperation through meditation in the monastery's rock garden implies they had some knowledge of meditation, which they likely acquired from the monks who live and practice there.<|eot_id|>

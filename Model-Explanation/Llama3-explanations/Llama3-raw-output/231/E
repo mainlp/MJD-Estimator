@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Ca'daan closed the door behind them and retied the not. 
+Statement: Ca'daan closed the door as they entered, and bound it shut with rope. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* "closed the door behind them" implies that Ca'daan closed the door as they entered.
+* "retied the not" can be inferred to mean "bound it shut with rope", as "not" is likely a typo or an old-fashioned term for "knot", and "retied" implies securing or fastening something.
+* The action of closing the door and retied the not (or knot) implies a sequence of actions that can be paraphrased as "closed the door as they entered, and bound it shut with rope".
+* The context suggests that Ca'daan is taking steps to secure the door, and the statement is a more detailed and descriptive way of expressing those actions.<|eot_id|>

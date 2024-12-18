@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: He jumped up, planting one hand on the charging horse, and came at the brute with the axe. 
+Statement: He swung at the brute with his sword. 
+Answer: [/INST] 1. He didn't have a sword.
+2. He used the axe, not a sword, to come at the horse.
+3. He never swung anything; he only planted his hand on the horse.
+4. The object he swung was not at the horse but at something else.
+5. He swung empty-handed, not with a sword or any other weapon.
+6. The "he" in the statement refers to a different person than the one in the context.
+7. The action of swinging with a sword happened at a different time or place, not in this specific instance.</s>

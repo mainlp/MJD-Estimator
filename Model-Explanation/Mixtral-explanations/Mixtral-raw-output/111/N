@@ -1,0 +1,15 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: On the northern slopes of this rocky outcropping is the site of the ancient capital of the island, also called Thira, which dates from the third century b.c. (when the Aegean was under Ptolemaic rule). 
+Statement: Is the site of the ancient asteroid impact, also called Thira. 
+Answer: [/INST] 1. The context is about the ancient capital of an island, while the statement is about an ancient asteroid impact.
+2. The statement refers to "the site of the ancient asteroid impact," while the context refers to "the site of the ancient capital."
+3. The context mentions a location called Thira that is a capital city, while the statement mentions a location called Thira that is an asteroid impact site.
+4. The context and statement use the name Thira, but for different things.
+5. The context is about a historical event, while the statement is about a geological event.
+6. The context and statement are discussing different types of events, one historical and one geological.
+7. The context and statement use the same name for different places.
+8. The context and statement are not talking about the same location.
+9. The context is about a city, while the statement is about an asteroid impact.
+10. The context and statement are not referring to the same thing when they use the name Thira.
+11. The context and statement are discussing different subjects.
+12. The context is about a place in the Aegean, while the

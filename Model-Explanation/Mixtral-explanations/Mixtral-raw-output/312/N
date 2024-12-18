@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: You see, he said sadly, "you have no instincts." 
+Statement: He said that I had no willpower. 
+Answer: [/INST] 1. The context only indicates that he said the person has no instincts, not that they have no willpower.
+2. The statement about willpower is not present in the given context.
+3. The speaker's sadness does not necessarily imply that he was talking about willpower.
+4. The context does not provide enough information to confirm or deny that the person has no willpower.
+5. The speaker's opinion about instincts does not automatically extend to willpower.
+6. The statement about willpower could be a misunderstanding or misinterpretation of the original message.
+7. The speaker might have chosen not to mention willpower in the context.
+8. The speaker's statement about instincts could be metaphorical, not literal, and thus not related to willpower.
+9. The speaker might have a different definition or understanding of instincts and willpower.
+10. The statement about willpower could be based on the speaker's subjective perception or bias.</s>

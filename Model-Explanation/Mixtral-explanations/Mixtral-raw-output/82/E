@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: One wag, J., wrote in to ask, Is there a difference between pests and airlines? 
+Statement: J. thinks there is no difference between pests and airlines. 
+Answer: [/INST] 1. J. equates the negative impact of pests with the disruption caused by airlines.
+2. J. believes airlines and pests share similar characteristics that make them indistinguishable.
+3. J. finds airlines and pests equally annoying or problematic.
+4. J. draws a metaphorical comparison between pests and airlines.
+5. J. perceives airlines as being as harmful as pests in some aspect.
+6. J. holds the opinion that the terms 'pests' and 'airlines' can be used interchangeably.
+7. J. thinks that both airlines and pests create disturbances in people's lives.
+8. J. considers airlines and pests to be equally undesirable.
+9. J. finds the behavior of airlines comparable to that of pests.
+10. J. holds the belief that there is no practical difference between the nuisance caused by pests and airlines.</s>

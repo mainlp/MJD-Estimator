@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The road along the coastline to the south travels through busy agricultural towns and fishing villages untouched by tourism. 
+Statement: There are no tourists on the road through the agricultural towns and fishing villages. 
+Answer: [/INST] 1. The agricultural towns and fishing villages are not completely devoid of tourism, there might be a few tourists present.
+2. Tourists may be present in other parts of the towns and villages, but not on the road specifically.
+3. The statement could be false if it was true in the past but has since changed, and tourists are now present on the road.
+4. The statement could be false if the speaker has a limited perspective and is not aware of the presence of tourists on the road.</s>

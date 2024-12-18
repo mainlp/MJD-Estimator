@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: and the same is true of the drug hangover you know if you 
+Statement: It's just like a drug hangover but worse. 
+Answer: [/INST] 1. The "same" in the context refers to the undesirable aftereffects of something, comparable to a "drug hangover."
+2. The statement implies that the aftereffects being referred to are not only similar to a drug hangover but are even more severe.
+3. Therefore, the statement is an entailment because it is a logical conclusion that can be drawn from the context.</s>

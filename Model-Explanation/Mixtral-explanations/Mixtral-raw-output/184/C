@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: After being diagnosed with cancer, Carrey's Kaufman decides to do a show at Carnegie Hall. 
+Statement: Carrey's Kaufman was diagnosed with cancer before deciding to do a show at Carnegie Hall. 
+Answer: [/INST] 1. Carrey's Kaufman decided to do a show at Carnegie Hall, and then he was diagnosed with cancer.
+2. Carrey's Kaufman was already performing at Carnegie Hall when he was diagnosed with cancer.
+3. Carrey's Kaufman did not have a cancer diagnosis when he made the decision to perform at Carnegie Hall.
+4. The cancer diagnosis was made after Carrey's Kaufman's Carnegie Hall show had already taken place.
+5. Carrey's Kaufman's cancer diagnosis had no influence on his decision to perform at Carnegie Hall.
+6. Carrey's Kaufman was misdiagnosed; he never actually had cancer when he decided to do the show at Carnegie Hall.
+7. Carrey's Kaufman is a fictional character, and the events described are part of a fictional narrative where the order of events is different from what is stated in the claim.</s>

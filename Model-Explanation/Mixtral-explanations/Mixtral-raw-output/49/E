@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: He dismounted and Ca'daan saw he was smaller than the rest. 
+Statement: He was shorter than the others. 
+Answer: [/INST] 1. The pronoun "he" in the context and statement refer to the same person.
+2. The word "smaller" in the context refers to physical height.
+3. The phrase "than the rest" in the context is equivalent to "than the others" in the statement.
+4. The comparison of "he" to "the rest" in the context implies that "he" is shorter than all others.</s>

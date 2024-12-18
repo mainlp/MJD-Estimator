@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Mack Lee, Body Servant of General Robert E. Lee Through the Civil War, published in 1918. 
+Statement: The book was first drafted in early 1915. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not provide any information about when the book was first drafted.
+* There is no mention of the drafting process or timeline in the given context.
+* The context only provides the publication year (1918) but not the drafting year.
+* The statement is making a claim about a specific event (drafting) that is not mentioned in the context.
+* The context does not provide enough information to confirm or deny the statement.
+* There is no evidence in the context to support or contradict the statement.
+* The statement is making a specific claim that is not addressed in the context.
+* The context is silent about the drafting process and its timeline.<|eot_id|>

@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: By coordinating policy development and awareness activities in this manner, she helps ensure that new risks and policies are communicated promptly and that employees are periodically reminded of existing policies through means such as monthly bulletins, an intranet web site, and presentations to new employees. 
+Statement: There new employees are a risk. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* Presentations are made to new employees, implying that they require special attention or education, which suggests they may pose a risk.
+* New employees may not be familiar with existing policies, which could lead to unintentional non-compliance, thereby posing a risk.
+* The need to remind employees of existing policies through various means, including presentations to new employees, implies that new employees may not have the necessary knowledge or understanding, which could lead to mistakes or errors, posing a risk.
+* The context emphasizes the importance of communicating new risks and policies, which may include risks associated with new employees, such as lack of experience or unfamiliarity with company procedures.<|eot_id|>

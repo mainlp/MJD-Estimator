@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The woman rolled and drew two spears before the horse had rolled and broken the rest. 
+Statement: They were in rotation on the ground grabbing their weapons. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The woman had already rolled and drawn two spears, implying she was not on the ground grabbing her weapons.
+* The horse had not rolled yet, so it's unlikely they were in rotation on the ground.
+* The context implies a sequence of events, with the woman acting before the horse, making it unlikely they were simultaneously grabbing their weapons.
+* The phrase "on the ground" contradicts the idea of the woman rolling and drawing spears, which suggests she was in a standing or moving position.
+* The context does not mention anyone else besides the woman and the horse, so "they" is ambiguous and cannot be referring to a group of people grabbing their weapons.<|eot_id|>

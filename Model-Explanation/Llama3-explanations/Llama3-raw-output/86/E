@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The Chinese calendar was used to calculate the year of Japan's foundation by counting back the 1,260 years of the Chinese cosmological cycle. 
+Statement: The calculation of Japan's year of foundation was very exact. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true:
+
+* The Chinese cosmological cycle is a precise and well-defined cycle, allowing for accurate counting.
+* The 1,260 years of the Chinese cosmological cycle is a specific and exact duration.
+* The Chinese calendar is a reliable and accurate system for calculating years.
+* The calculation was based on a well-established and trusted method of counting back the years of the Chinese cosmological cycle.
+* The calculation was likely performed by experts or scholars who were familiar with the Chinese calendar and cosmological cycle.
+* The result of the calculation is a specific year, implying a high degree of precision.<|eot_id|>

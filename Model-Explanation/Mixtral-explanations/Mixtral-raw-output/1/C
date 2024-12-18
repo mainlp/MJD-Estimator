@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: In 1982, Wallace won his last race for governor with a quarter of the black votes cast in the Democratic primary, a fact alluded to in a written epilogue at the end of the film. 
+Statement: Wallace was reelected as governor. 
+Answer: [/INST] 1. Wallace won the election, but it was not for governor again.
+2. Wallace did not win any votes in the subsequent election for governor.
+3. The election where Wallace won his last race for governor was not a reelection.
+4. The last race Wallace won for governor was in a different year than 1982.
+5. Wallace won a quarter of the black votes cast in the Democratic primary, but it was not enough to secure his reelection as governor.
+6. Wallace was not eligible for reelection as governor in 1982.
+7. Wallace won the Democratic primary with a quarter of the black votes, but lost the general election.
+8. The film's epilogue did not accurately reflect the results of the election.
+9. The statement "Wallace was reelected as governor" is a misinterpretation of the context provided.
+10. Wallace's last race for governor was not a competitive one, and he won without the need for reelection.</s>

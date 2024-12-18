@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Tuppence rose. 
+Statement: Tuppence stood up. 
+Answer: [/INST] 1. "Rose" in the context could mean that Tuppence changed from a lying or sitting position to a standing position.
+2. Tuppence could be a plant that has physically risen, but "stood up" is a common metaphorical expression for people or animals standing.
+3. The statement could be an incorrect inference based on the context, as there is no explicit information that Tuppence stood up.</s>

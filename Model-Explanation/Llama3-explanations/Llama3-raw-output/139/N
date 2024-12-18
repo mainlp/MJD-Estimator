@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: For an authentic feel of old Portugal, slip into the cool entrance hall of theimpressive Leal Senado ( Loyal Senate building), a fine example of colonial architecture. 
+Statement: All that remains of  Leal Senado is old ruins. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context describes the Leal Senado as an "impressive" building, implying it is still standing, whereas the statement claims it is only old ruins, creating a contradiction.
+* The context mentions the "cool entrance hall" of the building, suggesting it is still intact, whereas the statement implies it is in a state of disrepair.
+* The context presents the Leal Senado as a "fine example of colonial architecture", implying it is well-preserved, whereas the statement claims it is only ruins.
+* The context does not provide any information about the current state of the building, making it impossible to determine the truth of the statement.
+* The statement is making a claim about the present state of the building, whereas the context is describing its historical significance and architectural style, making it difficult to infer the truth of the statement.
+* The context is describing the building's appearance and historical significance, whereas the statement is making a claim about its current condition, which is not addressed in the context.<|eot_id|>

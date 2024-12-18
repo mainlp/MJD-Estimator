@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: SSA is also seeking statutory authority for additional tools to recover current overpayments. 
+Statement: SSA wants the authority to recover overpayments made to insurers. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The context only mentions "current overpayments" without specifying who received them, whereas the statement assumes the overpayments were made to insurers.
+* The context does not explicitly state that the overpayments were made to insurers, whereas the statement makes this assumption.
+* The context only mentions "additional tools" for recovery, but does not specify what kind of tools or who the recovery is from, whereas the statement assumes a specific type of tool and a specific entity (insurers).
+* The context focuses on "current overpayments", implying that the recovery is for recent or ongoing overpayments, whereas the statement does not provide any temporal context.
+* The context does not provide any information about the relationship between SSA and insurers, whereas the statement assumes a specific relationship (overpayments made to insurers).<|eot_id|>

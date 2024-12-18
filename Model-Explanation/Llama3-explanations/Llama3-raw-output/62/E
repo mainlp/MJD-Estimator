@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: However, co-requesters cannot approve additional co-requesters or restrict the timing of the release of the product after it is issued. 
+Statement: They will restrict timing of the release of the product. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is false because the context explicitly states that co-requesters cannot restrict the timing of the release of the product.
+* There is no information in the context that suggests "they" refers to anyone other than co-requesters, and co-requesters are explicitly prohibited from restricting the timing of the release.
+* The context does not provide any exceptions or special cases where co-requesters can restrict the timing of the release.
+* The statement is not true because it contradicts the context, which states that co-requesters cannot restrict the timing of the release.<|eot_id|>

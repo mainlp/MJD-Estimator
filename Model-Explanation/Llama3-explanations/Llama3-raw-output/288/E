@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: How effectively DOD manages these funds will determine whether it receives a good return on its investment. 
+Statement: These funds are for the purchase of five thousand tons of potatoes. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are possible explanations why the statement is true (entailment):
+
+* The context does not mention the specific use of the funds, but it implies that the funds are for a specific purpose, and the statement provides that purpose, which is the purchase of potatoes.
+* The context mentions "investment" which could be related to purchasing goods, and the statement specifies the goods as potatoes.
+* The context talks about "manages these funds" which implies that the funds are for a specific allocation, and the statement provides that allocation, which is the purchase of potatoes.
+* The context does not provide any contradictory information, so the statement is a possible explanation for the use of the funds.
+* The statement provides a specific detail about the funds, which is not mentioned in the context, but it does not contradict the context, so it can be considered as an entailment.<|eot_id|>

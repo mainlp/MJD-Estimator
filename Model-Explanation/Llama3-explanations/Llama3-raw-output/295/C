@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Still, I guess that can be got over. 
+Statement: There are some things that you need to ignore. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false (contradiction) given the context:
+
+* The context implies that the speaker is willing to overcome or tolerate certain things, whereas the statement suggests that some things should be ignored, which is a contradictory approach.
+* The speaker's tone in the context is one of resignation or acceptance, whereas the statement implies a more proactive or dismissive attitude, which is inconsistent with the context.
+* The context implies that the speaker is trying to find a way to deal with certain issues, whereas the statement suggests that some things are better left unaddressed, which is a contradictory strategy.
+* The speaker's phrase "got over" implies that they are trying to move past or overcome certain obstacles, whereas the statement implies that some things should be ignored, which is a contradictory approach to dealing with challenges.<|eot_id|>

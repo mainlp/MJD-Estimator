@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Recently, however, I have settled down and become decidedly less experimental. 
+Statement: I have lost my experimental nature due to old age. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not mention old age as the reason for becoming less experimental.
+* The context implies a voluntary decision to settle down, whereas the statement suggests an involuntary loss due to old age.
+* The context suggests a recent change, whereas the statement implies a gradual loss over time due to aging.
+* The context does not provide any information about the speaker's age, so it cannot be concluded that old age is the reason for the change.
+* The statement is too absolute, whereas the context suggests a more nuanced change, using "decidedly less experimental" instead of "lost".
+* The context focuses on the speaker's intentional decision to settle down, whereas the statement focuses on an external factor (old age) as the cause of the change.<|eot_id|>

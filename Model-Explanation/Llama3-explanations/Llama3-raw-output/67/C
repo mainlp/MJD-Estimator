@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: have that well and it doesn't seem like very many people uh are really i mean there's a lot of people that are on death row but there's not very many people that actually um do get killed 
+Statement: Most people on death row end up living out their lives awaiting execution. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement implies that most people on death row do not get executed, but the context suggests that there are not many people who actually get killed, implying that some people on death row do get executed.
+* The phrase "awaiting execution" implies a sense of permanence, but the context implies that execution is a possible outcome for some people on death row.
+* The statement says "most people" which implies a majority, but the context says "not very many people" which implies a minority.
+* The context sets up a contrast between the number of people on death row and the number of people who get killed, implying that the two groups are not the same, whereas the statement implies that they are the same.
+* The statement implies that living out their lives awaiting execution is the typical outcome, but the context implies that it is not the typical outcome.<|eot_id|>

@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: you can get a hard copy of it and that's about it 
+Statement: An email won't cut it. 
+Answer: [/INST] 1. The context only mentions the availability of a hard copy.
+2. No electronic or digital version, such as an email, is mentioned.
+3. Only a physical, tangible copy is mentioned as an option.
+4. The statement highlights the inadequacy of an email for obtaining the item.
+5. The context implies that a hard copy is the only available form, making an email unnecessary.</s>

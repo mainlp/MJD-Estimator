@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: When he's ready for a major strike, how many innocents do you suppose are going to suffer? To quote one of your contemporaries; 'The needs of the many outweigh the needs of the few.' ' 
+Statement: If he does a big strike, many people will suffer. 
+Answer: [/INST] 1. The statement may be referring to a different group of people than the context.
+2. The term "big strike" in the statement might not mean the same as "major strike" in the context.
+3. The "many people" in the statement might not include "innocents" as mentioned in the context.
+4. The statement does not specify whether the many people suffering is due to the actions of the few or not.
+5. The statement does not indicate whether the suffering is justified or not, whereas the context implies that it might not be.
+6. The statement does not provide information on the severity of the suffering, while the context implies that it could be significant.
+7. The statement does not specify if the "many people" are part of "the many" or "the few" mentioned in the context.
+8. The statement does not indicate if the speaker agrees or disagrees with the principle of "the needs of the many outweigh the needs of the few".</s>

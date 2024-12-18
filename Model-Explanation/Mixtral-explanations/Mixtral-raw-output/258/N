@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: 'You burned down my house.' 
+Statement: 'Even though you tried to burn it down, my house is in perfect state.' 
+Answer: [/INST] 1. The house that was burned down was not the speaker's house.
+2. The speaker's house was already in a state of disrepair before it was burned down and has since been fully renovated.
+3. The speaker's house was only partially burned down and the damage has since been completely repaired.
+4. The statement is a sarcasm or exaggeration, and the speaker's house was indeed burned down.
+5. The speaker's house is a metaphorical one, for example, a business or a relationship, which was damaged but has since been restored.
+6. The speaker is lying or mistaken about the current state of their house.
+7. The statement was made before the house was burned down, but the context was provided later.
+8. The speaker has multiple houses, and the one that was burned down was not the one the speaker was referring to.
+9. The speaker's house was rebuilt on the same spot after it was burned down.
+10. The speaker's house was insured, and they received a payout to rebuild it in the same state.</s>

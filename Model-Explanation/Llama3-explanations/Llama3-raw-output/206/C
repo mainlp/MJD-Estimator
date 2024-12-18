@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: We always knew it was an outside chance. 
+Statement: We were never assured of it happening in time and we knew this full well. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* "always knew" implies a sense of certainty, which contradicts "never assured"
+* "outside chance" implies a low probability, but "knew this full well" implies a high degree of confidence
+* The context suggests a sense of uncertainty, but the statement claims they knew it wouldn't happen in time, which is a more definitive statement
+* The phrase "full well" implies a strong sense of awareness, which contradicts the context's implication of uncertainty.<|eot_id|>

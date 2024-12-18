@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: I was to watch for an advertisement in the Times. 
+Statement: I looked for an ad in my mailbox. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context mentions the Times, which is a newspaper, whereas the statement mentions the mailbox, implying a different location.
+* The context implies watching for an advertisement, whereas the statement implies actively looking for an ad.
+* The context suggests a passive action (watching), whereas the statement suggests an active action (looking).
+* The context does not mention the mailbox, whereas the statement does, indicating a mismatch in the expected location.
+* The context implies a specific medium (newspaper), whereas the statement implies a different medium (mail).<|eot_id|>

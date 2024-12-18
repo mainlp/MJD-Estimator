@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: However, the other young lady was most kind.  
+Statement: I received a warm welcome from the other young lady who was present. 
+Answer: [/INST] 1. The context doesn't specify if the welcome was warm in temperature or sentiment.
+2. The statement doesn't indicate whether the kindness mentioned in the context was expressed through words or actions of welcome.
+3. The statement doesn't clarify if the welcome was received from the same "other young lady" who is kind in the context.
+4. The context doesn't provide information about the manner or tone of the welcome.
+5. The statement doesn't reveal if there were other factors contributing to the warmth of the welcome.
+6. The context doesn't mention if the kindness is usually shown through a warm welcome.
+7. The statement doesn't provide information about the timing of the welcome in relation to the kindness mentioned in the context.
+8. The context doesn't specify if the kindness is exclusive to the "other young lady" or if others were also kind.
+9. The statement doesn't indicate if the welcome was the only form of kindness received.
+10. The context doesn't provide information about the expectations or assumptions regarding the welcome.</s>

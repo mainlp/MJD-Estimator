@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Strange as it may seem to the typical household, capital gains on its existing assets do not contribute to saving as measured in NIPA. 
+Statement: NIPA considers cat fur when it defines savings. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not mention cat fur at all, making it impossible to infer whether NIPA considers it or not.
+* There is no logical connection between capital gains on existing assets and cat fur.
+* The context focuses on the relationship between capital gains and savings in NIPA, while the statement introduces an unrelated concept (cat fur).
+* The statement is a non-sequitur, making it impossible to determine its truth value based on the provided context.
+* The context does not provide any information about what NIPA considers or does not consider when defining savings, except for capital gains on existing assets.
+* Cat fur is not a relevant or plausible factor in the definition of savings in NIPA.<|eot_id|>

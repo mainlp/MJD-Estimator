@@ -1,0 +1,15 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: He threw one of them and shot the other. 
+Statement: He kept his gun holstered. 
+Answer: [/INST] 1. The "shot" action was performed using a different object, not the gun.
+2. The gun was already out of the holster before the statement was made.
+3. The "throw" action required both hands, so the gun had to be holstered.
+4. The "he" in the statement refers to a different person than the one in the context.
+5. The "he" in the statement is a law enforcement officer who holsters their gun when not in use.
+6. The "he" in the statement is not the one who did the throwing and shooting.
+7. The "he" in the statement put the gun back in the holster after shooting.
+8. The "he" in the statement holstered the gun to reload or fix it.
+9. The "he" in the statement holstered the gun to prevent accidental discharge.
+10. The "he" in the statement holstered the gun as a habit or protocol.
+11. The "he" in the statement holstered the gun to switch to a different weapon.
+12. The "he" in the statement holstered the gun to conceal

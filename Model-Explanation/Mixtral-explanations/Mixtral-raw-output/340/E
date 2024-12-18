@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: He found himself thinking in circles of worry and pulled himself back to his problem. 
+Statement: He could not afford to get distracted from his problem. 
+Answer: [/INST] 1. The circling thoughts of worry indicate a form of distraction.
+2. Pulling himself back to his problem suggests a conscious effort to refocus attention.
+3. The need to refocus implies that distraction was previously present.
+4. The statement "he could not afford to get distracted" suggests that distraction is negative in this context.
+5. Given that he was worried and had to refocus, it can be inferred that worry was causing the distraction.
+6. Therefore, getting distracted by anything other than his problem would be detrimental.</s>

@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The original wax models of the river gods are on display in the Civic Museum. 
+Statement: They have models made out of clay. 
+Answer: [/INST] 1. The river gods models are made of clay, not wax.
+2. The museum displays replicas of the river gods, not the original wax models.
+3. The original wax models are not on display, but rather stored in the museum's archives.
+4. The river gods are not modeled in clay, but rather in a different medium.
+5. The clay models are not related to the river gods or the museum.
+6. The clay models are not on display, but rather in storage or exhibited elsewhere.
+7. The statement is unrelated to the context, and there are no models of any kind on display in the museum.</s>

@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The standard technology assumptions of scenario A were used by EIA in the development of the AEO2001 reference case projections. 
+Statement: EIA used the standard technology assumptions to eliminate the AEO2001 reference case projections. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions that EIA used the standard technology assumptions in the development of the projections, but it does not provide information about whether these assumptions were used to eliminate the projections.
+* The word "development" in the context implies creation or construction, whereas the statement implies destruction or removal, which is a contradictory meaning.
+* The context does not provide any information about the purpose or outcome of using the standard technology assumptions, making it unclear whether they were used to eliminate the projections.
+* The statement's phrase "to eliminate" is not present in the context, making it difficult to infer the relationship between the standard technology assumptions and the elimination of the projections.
+* The context only provides information about the input (standard technology assumptions) and the output (AEO2001 reference case projections), but it does not provide information about the process or the outcome of using these assumptions.<|eot_id|>

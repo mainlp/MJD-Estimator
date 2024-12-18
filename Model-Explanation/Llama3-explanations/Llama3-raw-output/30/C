@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: of course you could annex Cuba but they wouldn't like that a bit 
+Statement: Cubans would go up in arms if we tried to annex Cuba. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is a paraphrase of the context, so it's not a contradiction.
+* "wouldn't like that a bit" is a milder sentiment than "go up in arms", implying a stronger reaction.
+* "wouldn't like that a bit" suggests a negative emotional response, while "go up in arms" implies a more violent or militant reaction.
+* The context implies a hypothetical scenario, while the statement presents it as a certain outcome.
+* The tone of the context is more casual and conversational, while the statement is more formal and assertive.
+* The context focuses on the possibility of annexation, while the statement focuses on the Cubans' reaction to it.<|eot_id|>

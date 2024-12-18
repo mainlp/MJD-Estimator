@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The political cleansing that did not happen through the impeachment process leaves Clinton with a great and serious burden. 
+Statement: There was no such instance of political cleansing. 
+Answer: [/INST] 1. The statement could refer to a different time period or context than the one in the given context.
+2. The term "political cleansing" in the statement might have a different interpretation or connotation than in the context.
+3. The "burden" mentioned in the context might not be directly related to the absence of "political cleansing."
+4. The statement might be referring to a different set of events or actions than those implied by the context.
+5. The statement could be true, but the context might be implying a negative consequence of the absence of "political cleansing" that did not actually occur.
+6. The statement could be referring to a broader or narrower concept of "political cleansing" than what is implied in the context.
+7. The statement might not be addressing the same subject as the context (e.g., it could be referring to a different person named Clinton).
+8. The statement could be referring to a hypothetical or counterfactual scenario, while the context is describing a real situation.
+9. The statement could be using "political cleansing" in a metaphorical sense, while the context is using it

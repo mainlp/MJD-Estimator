@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The word itself, tapa, is translated as  lid  and derives from the old custom of offering a bite of food along with a drink, the food being served on a saucer sitting on top of the glass like a lid. 
+Statement: Tapas are large portions and are a very filling meal. 
+Answer: [/INST] 1. Tapas are small portions, not large.
+2. Tapas are not a main meal, but a side dish or appetizer.
+3. Tapas do not fill you up, but rather stimulate your appetite.
+4. Tapas are not served on top of a glass, but on a plate or dish.
+5. The term "tapa" does not refer to the food itself, but to the lid-like saucer it is served on.</s>

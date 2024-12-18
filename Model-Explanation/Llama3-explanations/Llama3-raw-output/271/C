@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Part of the reason for the difference in pieces per possible delivery may be due to the fact that five percent of possible residential deliveries are businesses, and it is thought, but not known, that a lesser percentage of possible deliveries on rural routes are businesses. 
+Statement: We all know that the reason for a lesser percentage of possible deliveries on rural routes being businesses, is because of the fact that people prefer living in cities rather than rural areas. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions that it is thought, but not known, that a lesser percentage of possible deliveries on rural routes are businesses, implying uncertainty and lack of concrete evidence.
+* The context does not provide any information about people's preferences for living in cities or rural areas.
+* The statement assumes a causal relationship between people's preferences and the percentage of businesses on rural routes, which is not supported by the context.
+* The context only discusses the difference in pieces per possible delivery, but the statement introduces a new and unrelated concept of people's living preferences.
+* The statement is overly confident, using "we all know", which contradicts the context's tone of uncertainty and lack of knowledge.<|eot_id|>

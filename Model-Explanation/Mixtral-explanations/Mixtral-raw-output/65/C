@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Earlier this week, the Pakistani paper Dawn ran an editorial about reports that Pakistani poppy growers are planning to recultivate opium on a bigger scale because they haven't received promised compensation for switching to other crops. 
+Statement: It is illegal to grow opium in Pakistan. 
+Answer: [/INST] 1. Pakistani government has legalized the growth of opium for medicinal purposes.
+2. The Pakistani government has granted certain regions an exemption to grow opium.
+3. The law prohibiting opium growth is not enforced in Pakistan.
+4. The statement is outdated and the law has changed.
+5. The government has announced plans to legalize opium growth.
+6. The statement is only true for certain quantities of opium.
+7. The statement is false in specific regions of Pakistan.
+8. The government has decriminalized opium growth.
+9. The statement is a generalization and there are exceptions to the rule.
+10. The government has announced an amnesty for poppy growers who have not received compensation.</s>

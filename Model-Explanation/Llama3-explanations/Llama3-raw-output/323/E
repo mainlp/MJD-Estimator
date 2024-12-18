@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: I am glad she wasn't, said Jon. 
+Statement: Jon was sad that she wasn't happy. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* Jon's gladness implies the opposite emotional state (sadness) would have occurred if she were happy, so he must have been sad that she wasn't happy.
+* The use of "wasn't" in the context implies a negative situation, and Jon's gladness about it suggests he would have been sad if the situation were positive (i.e., she was happy).
+* Jon's emotional response (gladness) is inconsistent with the situation (she wasn't), implying that he would have been sad if the situation were different (i.e., she was happy).
+* The context implies Jon's emotional state is dependent on hers, so if he's glad she wasn't, it means he would have been sad if she were happy.<|eot_id|>

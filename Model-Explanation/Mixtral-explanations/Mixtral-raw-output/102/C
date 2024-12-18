@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: It is, as you see, highly magnified.  
+Statement: It is plain for you to see that it is amplified. 
+Answer: [/INST] 1. The subject is not visually observable in the context.
+2. The magnification mentioned in the context does not imply amplification.
+3. The statement incorrectly uses "plain" to describe the visibility.
+4. The statement mistakenly implies that amplification is not magnification.
+5. The statement assumes the reader's ability to see the subject, which is not guaranteed.
+6. The statement's use of "it" is ambiguous, causing confusion with the subject of magnification.
+7. The context and statement may refer to different types of magnification or amplification.
+8. The subject may be visually clear but not amplified in the context.
+9. The subject may be metaphorically magnified but not literally amplified.
+10. The statement may be subjectively interpreted, while the context is objective.</s>

@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Because marginal costs are very low, a newspaper price for preprints might be as low as 5 or 6 cents per piece. 
+Statement: Newspaper preprints can cost as much as $5. 
+Answer: [/INST] 1. Newspaper preprints have a maximum cost of 6 cents per piece.
+2. The cost of newspaper preprints never exceeds 6 cents.
+3. No preprint newspaper costs more than 6 cents.
+4. A price of $5 for a newspaper preprint is not possible.
+5. It is impossible for a preprint newspaper to be $5.
+6. 5 cents is the highest price for a newspaper preprint.
+7. The cost of a preprint newspaper is always less than $5.
+8. There is a limit of 6 cents for the price of a newspaper preprint.
+9. No newspaper preprint is priced at $5.
+10. The maximum set price for a newspaper preprint is 6 cents.</s>

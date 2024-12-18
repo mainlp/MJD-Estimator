@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: All were prominent nationally known organizations. 
+Statement: The only identified organizations were well-known. 
+Answer: [/INST] 1. The context only mentions that the organizations are nationally known, while the statement claims that they are well-known. It's unclear if these two terms are synonymous in this context.
+2. The statement could be referring to well-known organizations at a global or local level, while the context specifies national recognition.
+3. The scope of organizations mentioned in the context might not cover all the organizations in the statement.
+4. The statement doesn't clarify if the organizations are well-known in a specific domain or field, whereas the context refers to general prominence.
+5. The context doesn't indicate if the organizations are exclusively prominent, leaving room for other potentially less known organizations to be part of the group.
+6. The statement doesn't explicitly state that all prominent organizations are well-known, leaving room for the possibility that some prominent organizations are not well-known.</s>

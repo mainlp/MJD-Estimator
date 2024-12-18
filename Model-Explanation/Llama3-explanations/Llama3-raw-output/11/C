@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: it's like but the time we went to Florida and needed to rent a car you know he believed in it 
+Statement: We rented a car while we were in Florida. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* We did not go to Florida.
+* We did not need to rent a car.
+* We did not believe in renting a car.
+* We already had a car in Florida.
+* We used a different mode of transportation in Florida.
+* The event described did not happen.<|eot_id|>

@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Deborah Pryce said Ohio Legal Services in Columbus will receive a $200,000 federal grant toward an online legal self-help center. 
+Statement: A $200,000 federal grant will be received by Ohio Legal Services, said Deborah Pryce, who could finally say it to the public. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The order of the phrases is reversed.
+* The phrase "who could finally say it to the public" is not present in the original context.
+* The word "toward" is missing in the statement.
+* The phrase "an online legal self-help center" is missing in the statement.
+* The location "in Columbus" is missing in the statement.<|eot_id|>

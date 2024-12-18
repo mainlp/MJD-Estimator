@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Keep your eyes open for Renaissance details, grand doorways, and views into lovely courtyards. 
+Statement: All of the doorways and courtyards have been completely remodeled since the Renaissance. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context mentions "Renaissance details", implying that some original features from the Renaissance period are still present.
+* The context encourages the reader to look for "grand doorways", suggesting that the doorways are notable for their original or historic character, rather than being completely remodeled.
+* The context mentions "views into lovely courtyards", implying that the courtyards are being appreciated for their current state, which may include original or historic features.
+* The statement contradicts the idea of preserving "Renaissance details" if all doorways and courtyards have been completely remodeled.
+* The use of "completely remodeled" implies a thorough transformation, which would erase any remaining Renaissance character, contradicting the context's emphasis on appreciating such details.<|eot_id|>

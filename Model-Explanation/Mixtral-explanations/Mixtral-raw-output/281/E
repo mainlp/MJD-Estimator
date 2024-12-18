@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: What the judge really wants are the facts -- he wants to make a good decision, he said. 
+Statement: In the end the judge made a bad decision since he imprisoned someone innocent. 
+Answer: [/INST] 1. The judge failed to establish the facts correctly.
+2. The judge was misinformed about the evidence presented.
+3. The judge misinterpreted the facts.
+4. The judge made a mistake in his decision-making process.
+5. The judge's personal biases affected his decision.
+6. The judge was under external pressure leading to a bad decision.
+7. The judge overlooked crucial pieces of evidence.
+8. The judge was not able to make a good decision due to lack of clear facts.
+9. The judge's understanding of the situation was inadequate.
+10. The judge's decision was not based on the true facts of the case.</s>

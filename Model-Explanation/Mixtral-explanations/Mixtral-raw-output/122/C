@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The order was founded by James VII (James II of England) and continues today. 
+Statement: Kings frequently founded orders that can still be found today. 
+Answer: [/INST] 1. Only a few orders were founded by kings that still exist today.
+2. Most orders were founded by queens, not kings, that still exist today.
+3. No other orders founded by kings have survived to the present day.
+4. Orders founded by kings have all been discontinued.
+5. The continuation of orders is not related to the identity of their founders.
+6. Orders are not typically founded by kings.
+7. The order founded by James VII is the only one still in existence.
+8. James VII is the only king who founded an order that still exists.
+9. Orders founded by James VII are unique in their survival to the present day.
+10. The statement is too broad, as it refers to all kings and all orders, and therefore cannot be confirmed.</s>

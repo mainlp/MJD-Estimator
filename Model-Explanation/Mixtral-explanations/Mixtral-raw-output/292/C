@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The questions may need to be tailored to 
+Statement: A majority of the questions referenced will need to be tailored to. 
+Answer: [/INST] 1. The statement is false because an equal number of questions need to be tailored.
+2. The statement is false because none of the questions need to be tailored.
+3. The statement is false because fewer than half of the questions need to be tailored.
+4. The statement is false because all of the questions are already tailored and do not need to be changed.
+5. The statement is false because it is unclear which questions are being referred to, so it cannot be determined if a majority need to be tailored.</s>

@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: substitute my my yeah my kid'll do uh four or five hours this week for me no problem 
+Statement: I just can't make the time because of my job. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The speaker is able to find time for their kid to do 4-5 hours of work, implying they have some control over their schedule.
+* The speaker's kid is able to do work on their behalf, suggesting the speaker may have flexibility in their job.
+* The speaker's tone is casual and relaxed, indicating they may not be as busy as they claim.
+* The speaker is willing to find ways to get work done through their kid, implying they are not entirely constrained by their job.
+* The speaker's job may not be as demanding as they claim, allowing them to find time for other activities.
+* The speaker is making an excuse and not being truthful about their availability.<|eot_id|>

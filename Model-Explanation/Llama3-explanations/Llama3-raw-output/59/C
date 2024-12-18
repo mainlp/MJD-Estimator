@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: and uh really they're about it they've got a guy named Herb Williams that that i guess sort of was supposed to take the place of uh Tarpley but he uh he just doesn't have the offensive skills 
+Statement: Tarpley is a better offensive player that Herb Williams. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context states that Herb Williams was supposed to take the place of Tarpley, implying that they are comparable in some way, but Tarpley being better offensively is not mentioned.
+* The context explicitly states that Herb Williams "just doesn't have the offensive skills", implying that Tarpley might have those skills, but it's not a direct comparison.
+* The context does not provide any information that would suggest Tarpley is better offensively than Herb Williams, it only mentions the lack of skills in Herb Williams.
+* The context implies that Herb Williams is not a good replacement for Tarpley, which could be due to various reasons, not necessarily because Tarpley is better offensively.
+* The speaker's tone and language used ("sort of", "i guess") convey uncertainty and hesitation, which might indicate that the speaker is not confident in their assessment of Tarpley's abilities.<|eot_id|>

@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: uh plastic is just too easy i mean that's the that's the whole problem with it um have 
+Statement: I find plastic to be too easy to use. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context expresses a negative sentiment towards plastic being "too easy", implying an undesirable quality, whereas the statement expresses a neutral/positive sentiment towards plastic being "too easy to use", which is a desirable quality.
+* The context mentions "that's the whole problem with it", indicating a problem, whereas the statement does not convey a problem.
+* The context has a tone of frustration or annoyance, whereas the statement is neutral.
+* The context implies that the ease of plastic is a bad thing, whereas the statement implies that the ease of plastic is a good thing.
+* The context is more conversational and informal, using filler words like "uh" and "um", whereas the statement is more formal and direct.
+* The context does not explicitly state the speaker's personal opinion, whereas the statement does.
+* The context focuses on the inherent quality of plastic, whereas the statement focuses on the speaker's personal experience or feeling.<|eot_id|>

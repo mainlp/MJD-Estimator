@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Buffet and a  la carte available. 
+Statement: It has table service. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions the type of menu options available, but does not provide information about the service style.
+* The presence of buffet and a la carte options does not necessarily imply table service, as it is possible to have a buffet or a la carte with counter service or self-service.
+* The context does not explicitly state or imply that the establishment has table service, so it cannot be inferred.
+* The statement "It has table service" is making a claim about the service style, which is not addressed in the context.
+* The context is silent about the service style, so it is impossible to determine whether the statement is true or false.
+* There is no logical connection between the type of menu options and the service style, so the statement cannot be inferred from the context.<|eot_id|>

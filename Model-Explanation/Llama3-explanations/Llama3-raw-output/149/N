@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: SSA is also seeking statutory authority for additional tools to recover current overpayments. 
+Statement: SSA wants the authority to recover overpayments made to insurers. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context only mentions "additional tools to recover current overpayments" without specifying who the overpayments were made to.
+* The statement specifically mentions "overpayments made to insurers", which is not explicitly supported or contradicted by the context.
+* The context does not provide enough information to determine whether the "additional tools" are intended to recover overpayments made to insurers or to other entities.
+* The statement's scope is narrower than the context, focusing on "insurers" whereas the context is more general, making it difficult to determine entailment.
+* The context does not rule out the possibility that the "additional tools" are intended to recover overpayments made to entities other than insurers.<|eot_id|>

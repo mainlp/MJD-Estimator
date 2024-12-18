@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: He walked out into the street and I followed. 
+Statement: I followed him down the street. 
+Answer: [/INST] 1. The context only states that the speaker followed after the person walked into the street, but it does not specify that the speaker continued to follow the person down the street.
+2. The statement could be true if the speaker followed the person down the street, but it could also be false if the speaker stopped following the person before they reached the street or if the speaker took a different path down the street.
+3. The statement could be true if the speaker caught up to the person and started walking next to them, but it could also be false if the speaker was still following behind the person from a distance.
+4. The statement could be true if the speaker and the person were already on the street when the person started walking down it, but it could also be false if the speaker and the person were on a different street or if the person started walking down a different street.
+5. The statement could be true if the speaker and the person were walking in the same direction down the street, but it could also be false if the speaker and the person were walking in opposite directions.
+6. The statement could be true if the speaker and the person were walking at the same pace, but it could also be false if the speaker was walking faster

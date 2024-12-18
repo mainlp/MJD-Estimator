@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Since the rules were issued as interim rules and not as general notices of proposed rulemaking, they are not subject to the Unfunded Mandates Reform Act of 1995. 
+Statement: The rules were  not issued as interim rules but rather general notices of proposed rulemaking. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context and statement are contradictory, but the context does not provide enough information to prove or disprove the statement.
+* The context only mentions the consequence of the rules being issued as interim rules, but does not provide definitive evidence that they were indeed issued as such.
+* The statement is the negation of the context, but the context does not contain a categorical assertion that the rules were issued as interim rules.
+* There is no explicit evidence in the context that confirms or denies the statement.
+* The context only discusses the implications of the rules being issued as interim rules, but does not provide a direct confirmation of the fact.
+* The statement is not logically entailed or contradicted by the context, as it is a separate claim that requires additional evidence to be verified.<|eot_id|>

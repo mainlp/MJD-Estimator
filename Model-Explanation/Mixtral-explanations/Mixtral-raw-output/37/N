@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: After the recovery of Jerusalem in 1099, it took four hundred years of sieges and battles, treaties, betrayals, and yet more battles, before Christian kings and warlords succeeded in subduing the Moors. 
+Statement: The Moors were able to subdue the Christian kings after just a decade of war. 
+Answer: [/INST] 1. The context only discusses the period after the recovery of Jerusalem in 1099, while the statement refers to a decade of war prior to this event.
+2. The statement could be referring to a different group of Moors or Christian kings in a different location.
+3. The statement could be referring to a specific battle or series of battles that didn't result in long-term subjugation.
+4. The statement could be using "subdue" in a different sense than the context (e.g., temporary control vs. permanent subjugation).
+5. The statement could be referring to a short-lived victory that was later reversed.
+6. The statement could be a counterfactual, describing a hypothetical scenario that didn't actually occur.
+7. The statement could be a misinterpretation or misunderstanding of the historical record.
+8. The statement could be an exaggeration or hyperbole.
+9. The statement could be a deliberate attempt to mislead or deceive.
+10. The statement could be a typo or other error in communication.</s>

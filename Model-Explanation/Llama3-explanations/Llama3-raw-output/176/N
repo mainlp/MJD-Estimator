@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: So it wasn't Missenhardt's singing--marvelous though that was--that made Osmin's rantings so thrilling. 
+Statement: Osmin was always calm and collected. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions Osmin's rantings, but not his typical behavior, leaving his usual demeanor unknown.
+* The context highlights Osmin's rantings as thrilling, which might imply the opposite of being calm and collected, but it's not a direct contradiction.
+* The focus of the context is on what made Osmin's rantings thrilling, rather than Osmin's general personality or behavior.
+* There is no explicit information about Osmin's personality, emotions, or behavior outside of the specific situation described.
+* The context does not provide enough evidence to support or refute the statement about Osmin's typical behavior.<|eot_id|>

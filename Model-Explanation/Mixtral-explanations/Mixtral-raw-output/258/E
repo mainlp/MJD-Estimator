@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: 'You burned down my house.' 
+Statement: 'Even though you tried to burn it down, my house is in perfect state.' 
+Answer: [/INST] 1. The house was already perfectly rebuilt before the statement was made.
+2. The statement was made prior to any arson attempt, exaggerating the speaker's ability to maintain their house.
+3. The part of the house that was burned down was not significant or structurally important.
+4. The speaker is being sarcastic or hyperbolic, as a house cannot be in perfect state after being burned down.
+5. The speaker is referring to a different house or a different part of the property, not the one that was burned down.
+6. The speaker is referring to the house's interior design or cleanliness, which remains unaffected by the fire.
+7. The speaker is using "burn down" metaphorically, not literally, and the house was not actually set on fire.
+8. The speaker is lying or mistaken about the house being in perfect state.
+9. The speaker is referring to a hypothetical scenario where the house was attempted to be burned down, but it didn't happen.
+10. The speaker is referring to a future event where the house will be perfectly rebuilt after being burned down.</s>

@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: How effectively DOD manages these funds will determine whether it receives a good return on its investment. 
+Statement: These funds are for the purchase of five thousand tons of potatoes. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context talks about the management of funds and its return on investment, but the statement only provides information about the purpose of the funds (purchasing potatoes) without giving any insight into the management or return on investment.
+* There is no logical connection between the purchase of potatoes and the effectiveness of DOD's management of funds or the return on investment.
+* The statement does not provide any information about the amount of funds, which is crucial in determining the return on investment.
+* The context is focused on the management of funds, whereas the statement is focused on the allocation of funds, which are two different aspects.
+* The statement does not imply anything about the quality of the investment or the management of funds, it simply states the purpose of the funds.
+* There is no information in the statement that would suggest the purchase of potatoes is a good or bad investment, or that it is related to the effectiveness of DOD's management of funds.<|eot_id|>

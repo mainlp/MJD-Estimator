@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Clearly, GAO needs assistance to meet its looming human capital challenges. 
+Statement: GAO will soon be suffering from a shortage of qualified personnel. 
+Answer: [/INST] 1. "Human capital challenges" in the context refers to a shortage of staff or qualified personnel.
+2. The use of "assistance" implies that GAO currently lacks the necessary resources to overcome these challenges.
+3. The term "looming" suggests that the challenges are imminent and will occur in the near future.
+4. Therefore, it is reasonable to infer that GAO will soon be suffering from a shortage of qualified personnel.</s>

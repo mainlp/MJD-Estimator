@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The students' reaction was swift and contentious, as if their feelings had been hurt. 
+Statement: The students reacted with horror. 
+Answer: [/INST] 1. "Horror" in this context could mean a strong feeling of shock and disgust, which is consistent with a "contentious" reaction.
+2. The students' feelings being hurt could have resulted in a reaction of horror.
+3. The swiftness of the reaction could indicate the students' shock and horror.
+4. The forcefulness of the reaction could suggest the intensity of the horror felt by the students.</s>

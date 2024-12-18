@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The second half of the book dealt with the use of the true name. 
+Statement: The first part dealt with the use of false names. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions the second half, but not the first part, so we can't infer what the first part dealt with.
+* The context doesn't provide any information about the first part, so we can't assume it dealt with false names.
+* The context only talks about the "true name", but doesn't mention "false names" at all, so we can't infer the first part dealt with it.
+* The statement is making an assumption about the first part, which is not supported by the context.
+* The context doesn't provide a clear contrast between the two halves, so we can't infer that the first part dealt with the opposite of the second half.<|eot_id|>

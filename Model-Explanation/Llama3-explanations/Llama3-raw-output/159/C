@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Specifically, by defining mission improvement objectives, senior executives determine whether their organization needs a CIO who is a networking/marketing specialist, business change agent, operations specialist, policy/oversight manager, or any combination thereof. 
+Statement: A CIO must be an operations specialist. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context implies that a CIO can be one of several types, not necessarily an operations specialist.
+* The context suggests that the type of CIO needed depends on the organization's mission improvement objectives.
+* The context does not universally require a CIO to be an operations specialist.
+* The context presents operations specialist as one of multiple possible types of CIO, not a mandatory requirement.
+* The context implies that a CIO can be a networking/marketing specialist, business change agent, policy/oversight manager, or a combination, without being an operations specialist.<|eot_id|>

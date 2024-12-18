@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Their supplies scarce, their harvest meager, and their spirit broken, they abandoned the fort in 1858. 
+Statement: Their supplies remained very low and hard to maintain. 
+Answer: [/INST] 1. The supplies were already scarce when they abandoned the fort.
+2. The situation of having low and hard to maintain supplies contributed to their decision to abandon the fort.
+3. There was no improvement in their supply situation between 1858 and when the statement was made, thus the supplies remained scarce.
+4. The meager harvest would have further reduced their supplies, making them even harder to maintain.
+5. The language used in the statement implies a continuation of the scarcity and difficulty in maintaining supplies, aligning with the context.</s>

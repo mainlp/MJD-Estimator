@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: He threw one of them and shot the other. 
+Statement: He shot his gun. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions "one of them" and "the other", but it's unclear what "them" refers to, making it impossible to determine if "his gun" is among them.
+* The context doesn't explicitly state that "he" has a gun, so it's uncertain if "he shot his gun" is true.
+* The phrase "shot the other" could imply that "the other" is a person or an object, but it's unclear if "he" used a gun to shoot, or if "shot" has a different meaning.
+* The context doesn't provide enough information to determine if "he" has a gun, or if "he" used a gun to shoot "the other".
+* The statement "He shot his gun" implies a specific action (shooting a gun), but the context only mentions "shot" without specifying what was shot or how.
+* The context is ambiguous, and without additional information, it's impossible to determine if "he shot his gun" is true or false.<|eot_id|>

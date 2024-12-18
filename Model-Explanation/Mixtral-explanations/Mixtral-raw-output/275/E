@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The importer pays duties that are required by law 
+Statement: Imported goods have duties 
+Answer: [/INST] 1. The duties paid by the importer are for the imported goods.
+2. The laws requiring duties for imported goods are being followed by the importer.
+3. The statement can be inferred as true because the payment of duties is a legal requirement for imported goods.
+4. The importer is not exempt from paying duties for imported goods.
+5. The imported goods are not duty-free.
+6. The statement is an generalization that duties are paid for all imported goods.
+7. The payment of duties is a necessary cost for the imported goods.
+8. The importer is responsible for paying duties for the imported goods.
+9. The imported goods have a legal obligation to have duties paid for them.
+10. The statement is true because the importer is fulfilling the legal requirement of paying duties for the imported goods.</s>

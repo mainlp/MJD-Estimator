@@ -1,0 +1,14 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: that's true i didn't think about that 
+Statement: You've changed my mind with a new perspective. 
+Answer: [/INST] 1. The statement is too strong for the context, as the context only indicates thinking and not necessarily a change of mind.
+2. The context does not explicitly mention a new perspective, making it unclear if the statement is accurate.
+3. The context does not specify the topic of discussion, leaving it uncertain if a change of mind has occurred.
+4. The context may indicate a surprise or unexpected realization, but not necessarily a change of mind.
+5. The context may indicate a passive acknowledgement, not a proactive change of mind.
+6. The context may indicate a temporary change of mind, but the statement implies a more permanent change.
+7. The context may indicate a change of mind on a minor or unrelated issue, not the major issue the statement implies.
+8. The context may indicate a change of mind on a different topic, not the one mentioned in the statement.
+9. The context may indicate a change of mind, but the statement may be referring to a different person.
+10. The context may indicate a change of mind, but the statement may be referring to a different time.
+11. The context may indicate a change of mind, but the statement may be referring to a

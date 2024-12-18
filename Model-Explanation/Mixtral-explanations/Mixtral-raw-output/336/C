@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The tip was hooked towards the edge, the same way the tips are hammered for knives used for slaughter. 
+Statement: They were fragile and could not leave a scratch. 
+Answer: [/INST] 1. Incorrect subject: The statement refers to the items being fragile and unable to scratch, not the tip or its position.
+2. Contradictory property: The context suggests the tip is strong enough to be hammered for knives used for slaughter, while the statement implies the items are fragile.
+3. Unrelated attributes: The position of the tip and the items' ability to scratch are unrelated.</s>

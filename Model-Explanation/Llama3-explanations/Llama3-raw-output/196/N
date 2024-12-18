@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: If necessary to meeting the restrictions imposed in the preceding sentence, the Administrator shall reduce, pro rata, the basic Phase II allowance allocations for each unit subject to the requirements of section 414. 
+Statement: Section 414 helps balance allowance allocations for units. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement does not explicitly state the relationship between Section 414 and balancing allowance allocations, only that it has "requirements".
+* The context only mentions that the Administrator shall reduce allocations "subject to the requirements of section 414", but does not explain what those requirements are or how they relate to balancing.
+* The statement implies a causal relationship between Section 414 and balancing, but the context does not provide enough information to confirm or deny this.
+* The context focuses on the Administrator's actions, while the statement focuses on the role of Section 414, making it unclear how they are related.
+* The statement's wording is vague, and "helps balance" could mean anything from "ensures perfect balance" to "has some minor influence on balance".
+* The context does not provide enough information about the nature of the "requirements" in Section 414 to determine their impact on balancing allowance allocations.<|eot_id|>

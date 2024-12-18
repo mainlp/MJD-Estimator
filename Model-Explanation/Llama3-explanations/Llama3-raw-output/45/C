@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The management of the cafe has established the rules for the use of their facility. 
+Statement: The management of the cafe is strict about how they manage it. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The management of the cafe has not established any rules for the use of their facility.
+* The management of the cafe has established rules, but they are not enforced.
+* The management of the cafe is lenient about how they manage it.
+* The management of the cafe does not care about how their facility is used.
+* The rules established by the management of the cafe are not related to how they manage it.<|eot_id|>

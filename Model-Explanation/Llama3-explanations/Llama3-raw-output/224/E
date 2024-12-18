@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The centralization dear to Richelieu and Louis XIV was becoming a reality. 
+Statement: Louis XIV cared a lot about centralization of his country and people. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* Louis XIV is mentioned alongside Richelieu, who is known for promoting centralization, implying that Louis XIV shared similar views.
+* The phrase "dear to" suggests a strong affection or preference, indicating that Louis XIV cared deeply about centralization.
+* The context mentions "the centralization" as a goal that is becoming a reality, implying that Louis XIV was actively working towards achieving it.
+* The use of "his country and people" suggests a sense of ownership and responsibility, implying that Louis XIV was invested in the well-being and organization of his kingdom.
+* The fact that centralization was becoming a reality under Louis XIV's rule implies that he was successful in implementing his vision, which further supports the idea that he cared a lot about it.<|eot_id|>

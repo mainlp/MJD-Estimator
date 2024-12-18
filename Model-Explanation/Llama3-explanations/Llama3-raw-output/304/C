@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Suddenly she started, and her face blanched. 
+Statement: She moved swiftly, her face pale. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* "Started" implies a sudden movement, but "moved swiftly" implies a continuous or prolonged movement, which contradicts the suddenness of "started".
+* "Blanched" implies a change in facial color, but "her face pale" implies a static state of paleness, which contradicts the change implied by "blanched".
+* "Blanched" typically implies a loss of color or a whitening of the face, whereas "her face pale" could imply a range of pale shades, which might not necessarily be the same as "blanched".
+* The context suggests a sudden reaction or shock, but "moved swiftly" implies a sense of control or deliberation, which contradicts the sudden and potentially uncontrolled nature of the reaction.<|eot_id|>

@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: After the recovery of Jerusalem in 1099, it took four hundred years of sieges and battles, treaties, betrayals, and yet more battles, before Christian kings and warlords succeeded in subduing the Moors. 
+Statement: The Moors were able to subdue the Christian kings after just a decade of war. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement contradicts the context, which states it took 400 years for Christian kings to subdue the Moors, implying the Moors were not able to subdue the Christian kings.
+* The context does not provide any information about the Moors subduing Christian kings, only the other way around.
+* The timeframe mentioned in the statement (a decade) is inconsistent with the timeframe mentioned in the context (400 years).
+* The context implies a prolonged and difficult process for Christian kings to subdue the Moors, which is incompatible with the idea of the Moors being subdued quickly.
+* There is no mention of the Moors subduing Christian kings in the context, making it impossible to infer the statement from the given information.<|eot_id|>

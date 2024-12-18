@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: She had the pathetic aggression of a wife or mother--to Bunt there was no difference. 
+Statement: Bunt was raised motherless in an orphanage. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context only mentions Bunt's perception of wives and mothers, but does not provide any information about his personal background or upbringing.
+* The context does not imply or suggest anything about Bunt's childhood or family situation.
+* The statement about Bunt being raised motherless in an orphanage is not contradicted or supported by the context, which only focuses on his attitude towards wives and mothers.
+* The context does not provide enough information to infer whether Bunt's perception of wives and mothers is influenced by his personal experiences or not.
+* The statement about Bunt's upbringing is unrelated to the context, which is primarily about his attitude or behavior towards wives and mothers.<|eot_id|>

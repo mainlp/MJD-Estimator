@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: How effectively DOD manages these funds will determine whether it receives a good return on its investment. 
+Statement: The DOD is certain to have a bad return on these funds. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context implies that the return on investment is uncertain and dependent on effective management, whereas the statement claims certainty of a bad return.
+* The context suggests that a good return is possible if the funds are managed effectively, contradicting the statement's assertion of a bad return.
+* The statement's use of "certain" implies a guarantee, which is not supported by the context, which presents the outcome as dependent on management.
+* The context focuses on the management of funds, whereas the statement jumps to a conclusion about the outcome without considering the management aspect.
+* The statement's negative tone (bad return) is not justified by the context, which presents a neutral or positive tone (good return on investment).<|eot_id|>

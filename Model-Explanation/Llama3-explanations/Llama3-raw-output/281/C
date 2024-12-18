@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: What the judge really wants are the facts -- he wants to make a good decision, he said. 
+Statement: In the end the judge made a bad decision since he imprisoned someone innocent. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The judge did not imprison someone innocent.
+* The judge made a good decision.
+* The judge did not make a decision at all.
+* The person imprisoned was not innocent.
+* The judge's goal of making a good decision was achieved.<|eot_id|>

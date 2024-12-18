@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: These days, newspaper writers are no longer allowed the kind of license he took. 
+Statement: Newspaper writers need to be more factual and careful these days. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement implies a change in the behavior of newspaper writers, but the context suggests that the change is a restriction, not an improvement.
+* The context implies that the writer in question was allowed to take liberties, but the statement suggests that writers need to be more careful, implying a contradiction between the two situations.
+* The context suggests a relaxation of standards in the past, while the statement implies a tightening of standards in the present.
+* The statement implies that writers are not currently factual and careful, but the context does not provide evidence for this claim.
+* The context focuses on the license taken by a particular writer, while the statement makes a general claim about all newspaper writers.<|eot_id|>

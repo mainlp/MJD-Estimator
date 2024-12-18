@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: yeah i can believe that 
+Statement: I agree with what you said. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The speaker is being sarcastic or ironic, implying the opposite of what they explicitly state.
+* The speaker is responding to a statement that was not an opinion or belief, but rather a fact or question.
+* The speaker is pretending to agree to avoid conflict or argument, but does not actually agree.
+* The speaker is using "I agree" as a polite phrase to acknowledge the other person's statement, rather than expressing genuine agreement.
+* The speaker is being facetious or humorous, saying the opposite of what they mean.
+* The context "yeah i can believe that" implies skepticism or doubt, contradicting the statement "I agree with what you said".
+* The speaker is trying to deceive or manipulate the other person into thinking they agree, when in fact they do not.<|eot_id|>

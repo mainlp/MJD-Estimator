@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: California is high 
+Statement: California is hyped up! 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* "high" and "hyped up" have different meanings, with "high" referring to physical elevation and "hyped up" referring to excitement or enthusiasm.
+* California being physically high (e.g., having mountains) does not imply it is hyped up (e.g., excited or enthusiastic).
+* The context only provides information about California's physical geography, not its emotional or social state.
+* The statement is making an unjustified leap from a physical characteristic to an emotional or social characteristic.
+* The words "high" and "hyped up" are not synonyms, and the context does not provide enough information to infer the latter from the former.<|eot_id|>

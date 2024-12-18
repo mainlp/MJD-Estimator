@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: 'But if White has any designs at all on living, he'll be as far from Little as he can possibly get by now.' 
+Statement: White should be afraid to come back to Little. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement implies White should be afraid, but the context suggests White should be trying to get away from Little, implying a sense of urgency or danger, rather than fear.
+* The context implies White's priority is survival, and getting away from Little is necessary for that, rather than being motivated by fear.
+* The statement assumes White is considering coming back to Little, but the context suggests White should be doing the opposite, getting as far away as possible.
+* The context implies a sense of self-preservation, where White's actions are driven by a desire to live, rather than fear of coming back to Little.
+* The statement is too vague, as it doesn't specify what White should be afraid of, whereas the context implies the danger is related to being near Little.<|eot_id|>

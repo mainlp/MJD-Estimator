@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The woman rolled and drew two spears before the horse had rolled and broken the rest. 
+Statement: They were in rotation on the ground grabbing their weapons. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The woman rolled and drew two spears, implying she was on the ground and grabbing her weapon.
+* The horse had rolled, suggesting it was also on the ground, and the woman and horse were in a similar position.
+* The phrase "before the horse had rolled" implies a temporal relationship, suggesting the woman and horse were in a similar state (on the ground) at some point.
+* The use of "rolled" to describe both the woman's and horse's actions creates a parallelism, implying they were in a similar situation, including being on the ground and grabbing their weapons.
+* The context implies a scene of battle or combat, where it is common for participants to be on the ground and grabbing their weapons.<|eot_id|>

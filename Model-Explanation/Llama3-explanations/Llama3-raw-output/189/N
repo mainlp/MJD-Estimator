@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: In a six-year study, scientists fed dogs and other animals irradiated chicken and found no evidence of increased cancer or other toxic effects. 
+Statement: Scientists gave animals irradiated chicken and they all lived as long as the rest of them. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context only mentions the absence of increased cancer or toxic effects, but does not provide information about the animals' lifespan.
+* The statement makes a claim about the animals living as long as the rest of them, but the context does not provide a baseline or control group to compare with.
+* The context does not provide information about the animals' mortality rates or longevity, making it impossible to determine if they lived as long as the rest of them.
+* The statement implies a causal relationship between eating irradiated chicken and living as long as the rest of them, but the context does not provide evidence for this claim.
+* The context only mentions a six-year study, but does not provide information about the animals' lifespan beyond that period.
+* The statement is too specific and makes a universal claim ("they all lived as long as the rest of them"), which is not supported by the context.<|eot_id|>

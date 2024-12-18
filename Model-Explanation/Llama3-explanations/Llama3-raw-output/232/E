@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: you can get a hard copy of it and that's about it 
+Statement: An email won't cut it. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true:
+
+* A hard copy is required, and an email is not a hard copy.
+* The context implies that a physical copy is necessary, and an email is not a physical copy.
+* The only acceptable format is a hard copy, and an email is a different format.
+* Having a hard copy is the only option, and an email is not an option.
+* The context rules out digital formats, and an email is a digital format.
+* A hard copy is the only way to get it, and an email is not a way to get it.<|eot_id|>

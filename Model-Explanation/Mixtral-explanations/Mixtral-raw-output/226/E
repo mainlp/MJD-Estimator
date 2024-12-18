@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Enlarging the village was not desirable and most knew that Severn only desired wealth and a seat on the council of elders. 
+Statement: Severn was happy being poor. 
+Answer: [/INST] 1. Severn did not enlarge the village, so his desire for wealth did not conflict with maintaining the village's current size.
+2. Severn's happiness in poverty indicates he does not value wealth, which aligns with the idea that he only desired wealth for the status of a seat on the council.
+3. Severn's contentment with poverty suggests he does not wish to enlarge the village to acquire more wealth.
+4. The villagers' understanding of Severn's materialistic desires and his happiness in poverty implies that he has no intention of using his wealth to influence the council, making his seat on the council less desirable.
+5. Severn's happiness in poverty indicates that he does not need wealth or a larger village to be content, which goes against the idea of enlarging the village.</s>

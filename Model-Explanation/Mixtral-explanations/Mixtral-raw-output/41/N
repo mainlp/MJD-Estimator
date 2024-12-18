@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The great attraction of the church is the splendid exterior, which is crowned by golden onion-shaped cupolas. 
+Statement: The outside of the church isn't much to look at, but the inside is intricately decorated. 
+Answer: [/INST] 1. The statement could be referring to the overall appearance of the church's exterior, excluding the golden onion-shaped cupolas.
+2. The statement could be expressing a personal opinion that differs from the positive assessment in the context.
+3. The statement could be focusing on a different aspect of the exterior, such as its size or layout, rather than its decoration.
+4. The statement could be true at a certain point in time, while the context describes a more recent or future state of the church's exterior.
+5. The statement could be referring to a different church or building than the one mentioned in the context.
+6. The statement could be using irony or sarcasm to express a negative opinion about the church's exterior.
+7. The statement could be based on a partial or incomplete view of the church's exterior, while the context describes the entire exterior.
+8. The statement could be reflecting a change in the church's exterior that is not yet completed or visible.
+9. The statement could be expressing a subjective or relative judgment, while the context provides an objective or absolute assessment.
+10. The statement could be using a different standard or

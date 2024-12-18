@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: It started with The Wild Bunch : We sexualized violence, we made it beautiful. 
+Statement: Violence is now look at in the positive due to The Wild Bunch. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The Wild Bunch sexualized violence, implying it was presented in a way that made it appealing or attractive.
+* Making violence beautiful suggests it was framed in a way that made it aesthetically pleasing or desirable.
+* The context implies a causal relationship between The Wild Bunch and the current perception of violence, suggesting that the film's portrayal of violence influenced how people think about it.
+* The phrase "we made it beautiful" implies a sense of glorification or romanticization of violence, which could lead to a positive perception of it.
+* The statement assumes that the impact of The Wild Bunch on the perception of violence has been lasting, resulting in a continued positive view of violence.<|eot_id|>

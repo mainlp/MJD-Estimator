@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The order was founded by James VII (James II of England) and continues today. 
+Statement: Kings frequently founded orders that can still be found today. 
+Answer: [/INST] 1. The context only mentions one order founded by a king.
+2. The context does not provide information about other orders founded by kings.
+3. The context does not specify whether the frequency of orders founded by kings is high or low.
+4. The context does not indicate if the order founded by James VII is unique or not.
+5. The statement does not specify a time frame for the frequency of orders founded by kings.
+6. The statement does not indicate if the orders still in existence today were founded by different kings or the same king.
+7. The statement does not specify if the orders founded by kings are of the same type as the order founded by James VII.
+8. The context does not provide information about the survival rate of orders founded by kings.
+9. The context does not specify if the order founded by James VII is still in its original form or has undergone changes.
+10. The statement does not specify if the orders still in existence today are in their original form or have undergone changes.</s>

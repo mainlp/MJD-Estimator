@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: All of our many earnest experiments produced results in line with random chance, they conclude. 
+Statement: The experiments proved it was a much better predictor. 
+Answer: [/INST] 1. The experiments did not yield positive results.
+2. The results did not show significant improvement over random chance.
+3. The experiments did not support the predictive abilities of the method.
+4. The method performed no better than mere guessing.
+5. The conclusion of the experiments contradicts the statement.
+6. The statement is not supported by the evidence from the experiments.
+7. The experiments did not prove the method to be a better predictor.
+8. The statement is in contrast to the randomness of the experimental results.
+9. The statement is not in line with the conclusion of the experiments.
+10. The experiments did not demonstrate a significant advantage over random chance.</s>

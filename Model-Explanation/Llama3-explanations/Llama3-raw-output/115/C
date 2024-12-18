@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Under the budget deal, by 2002, national defense will consume about $273 billion a year compared with $267 billion now. 
+Statement: The United States national defense budget will increase by 6 billion dollars. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The increase is $6 billion, but the actual increase is $6 billion ($273 billion - $267 billion).
+* The statement implies a percentage increase of 2.2% ($6 billion / $267 billion), but the context does not provide a percentage.
+* The statement only mentions the increase amount, but not the time frame (by 2002).
+* The statement does not explicitly state that the increase is from the current budget to the future budget.<|eot_id|>

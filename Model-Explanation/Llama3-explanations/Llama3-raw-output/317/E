@@ -1,0 +1,8 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The percent of total cost for each function included in the model and cost elasticity (with respect to volume) are shown in Table 1. 
+Statement: Table 1 also shows a picture diagram for each function. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* There is no evidence in the context to support this statement.<|eot_id|>

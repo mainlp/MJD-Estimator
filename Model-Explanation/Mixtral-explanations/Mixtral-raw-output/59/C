@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: and uh really they're about it they've got a guy named Herb Williams that that i guess sort of was supposed to take the place of uh Tarpley but he uh he just doesn't have the offensive skills 
+Statement: Tarpley is a better offensive player that Herb Williams. 
+Answer: [/INST] 1. Herb Williams has better offensive skills than Tarpley.
+2. Tarpley's offensive skills are not as good as Herb Williams's.
+3. Tarpley is not a better offensive player than Herb Williams.
+4. Herb Williams is at least as good as Tarpley in terms of offensive skills.
+5. Tarpley's offensive abilities are inferior to Herb Williams's.
+6. There is no difference in the offensive skills of Tarpley and Herb Williams, but Herb Williams is not worse.
+7. Herb Williams has surpassed Tarpley in offensive skill.</s>

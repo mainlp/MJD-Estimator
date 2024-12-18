@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: it's like but the time we went to Florida and needed to rent a car you know he believed in it 
+Statement: We rented a car while we were in Florida. 
+Answer: [/INST] 1. The speaker and the person they're referring to as "he" went to Florida together.
+2. During their trip to Florida, the need to rent a car arose.
+3. The person referred to as "he" held the belief that they should rent a car.
+4. The speaker and "he" followed through on their belief and rented a car while in Florida.</s>

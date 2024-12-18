@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The word itself, tapa, is translated as  lid  and derives from the old custom of offering a bite of food along with a drink, the food being served on a saucer sitting on top of the glass like a lid. 
+Statement: Tapas are large portions and are a very filling meal. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only provides the origin and meaning of the word "tapa", but does not provide information about the size or fillingness of tapas.
+* The context does not contradict the statement, but it also does not provide enough information to support or refute it.
+* The statement makes a claim about the size and fillingness of tapas, which is not addressed in the context.
+* The context focuses on the etymology of the word "tapa", while the statement makes a claim about the characteristics of tapas as a food.
+* There is no information in the context that would suggest tapas are or are not large portions or filling meals.
+* The context does not provide a definition or description of tapas as a food, only the origin of the word.
+* The statement is making a claim about the modern-day characteristics of tapas, while the context is discussing the historical origin of the word.<|eot_id|>

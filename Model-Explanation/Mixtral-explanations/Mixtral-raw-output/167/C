@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Each caters to a specific crowd, so hunt around until you find the one right for you. 
+Statement: There are marketers who have argued that there needs to be more effort to broaden appeal. 
+Answer: [/INST] 1. Marketers are advocating for narrowing appeal, not broadening.
+2. Marketers believe current marketing efforts are already broad enough.
+3. Marketers think that targeting specific crowds is not effective.
+4. All marketers agree that there is no need to change the current approach.
+5. The statement about broadening appeal is not referring to marketing.
+6. The claim is only true for certain marketers, not all.
+7. The statement is not related to the context of finding the right fit for a crowd.
+8. Marketers are arguing for reducing appeal, not increasing it.
+9. Marketers think that current marketing efforts are too broad.
+10. The statement is a misrepresentation of marketers' actual arguments.</s>

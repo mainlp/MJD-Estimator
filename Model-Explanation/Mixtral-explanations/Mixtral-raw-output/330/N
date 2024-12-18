@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Well, we will come in and interview the brave Dorcas." Dorcas was standing in the boudoir, her hands folded in front of her, and her grey hair rose in stiff waves under her white cap.  
+Statement: Dorcas is well known for her bravery. 
+Answer: [/INST] 1. The context only mentions Dorcas's appearance at the current moment, not her general reputation.
+2. The statement could be true or false, as the context does not provide enough information about Dorcas's reputation.
+3. The phrase "the brave Dorcas" in the context might be used as a form of address or a specific title, not indicating her general bravery.
+4. The context might be implying that Dorcas is only brave in this particular situation, not in general.
+5. The interview mentioned in the context could be about a different topic, not related to bravery.
+6. The interviewers might not be aware of Dorcas's bravery, so their statement about coming to interview her does not imply that they consider her brave.
+7. The context might be using irony, where Dorcas is not actually brave but is being interviewed for her supposed bravery.
+8. The statement could be an assumption or speculation on the part of the speaker, not based on any knowledge of Dorcas's reputation.</s>

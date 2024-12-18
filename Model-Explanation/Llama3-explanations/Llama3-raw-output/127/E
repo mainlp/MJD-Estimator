@@ -1,0 +1,17 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: David Cope, a professor of music at the University of California at Santa Cruz, claims to have created a 42 nd Mozart symphony. 
+Statement: Music Professor David Cope who specializes in Mozart's music claims to have created Mozart's 42nd symphony. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* David Cope is a music professor.
+* David Cope specializes in Mozart's music.
+* David Cope claims to have created a 42nd Mozart symphony.
+* The professor of music at the University of California at Santa Cruz is David Cope.
+* The creator of the 42nd Mozart symphony is David Cope.
+* David Cope is an expert in Mozart's music.
+* The person who claims to have created a 42nd Mozart symphony is a music professor.
+* The music professor who specializes in Mozart's music is David Cope.<|eot_id|>

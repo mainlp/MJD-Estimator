@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: By coordinating policy development and awareness activities in this manner, she helps ensure that new risks and policies are communicated promptly and that employees are periodically reminded of existing policies through means such as monthly bulletins, an intranet web site, and presentations to new employees. 
+Statement: There new employees are a risk. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not provide enough information to determine whether new employees are a risk or not.
+* The context only mentions presentations to new employees, but does not imply that they are a risk.
+* The focus of the context is on communicating policies to new employees, not on evaluating them as a risk.
+* The term "new employees" is mentioned as a target audience for policy communication, but its connotation is neutral.
+* There is no explicit or implicit connection between new employees and risk in the context.
+* The context emphasizes the importance of communicating policies to new employees, which suggests that they may be a vulnerable group, but it does not necessarily imply that they are a risk.
+* The statement is too vague and open-ended to be determined as true or false based on the provided context.<|eot_id|>

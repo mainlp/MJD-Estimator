@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Part of the reason for the difference in pieces per possible delivery may be due to the fact that five percent of possible residential deliveries are businesses, and it is thought, but not known, that a lesser percentage of possible deliveries on rural routes are businesses. 
+Statement: We all know that the reason for a lesser percentage of possible deliveries on rural routes being businesses, is because of the fact that people prefer living in cities rather than rural areas. 
+Answer: [/INST] 1. The text does not provide information on why there might be a lesser percentage of possible deliveries on rural routes that are businesses.
+2. The statement assumes a correlation between people's residential preferences and the percentage of businesses on rural delivery routes, which is not supported by the context.
+3. The context only mentions that it is "thought" that a lesser percentage of possible deliveries on rural routes are businesses, not that this is a fact.
+4. The statement makes a definitive claim about the reason for the perceived difference, while the context only suggests a possible explanation for the difference in pieces per possible delivery.
+5. The statement does not provide evidence to support the claim that people's residential preferences are the reason for a lesser percentage of possible deliveries on rural routes being businesses.
+6. The context does not indicate that the difference in pieces per possible delivery is due to the percentage of businesses on rural delivery routes.
+7. The statement assumes that the percentage of possible deliveries that are businesses is directly related to people's residential preferences, which is not necessarily the case.
+8. The context does not provide information on why five percent of possible residential deliveries are businesses, making it difficult to compare with the

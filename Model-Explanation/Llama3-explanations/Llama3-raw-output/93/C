@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: isn't it i can remember i've only been here eight years but i can remember coming to work from i used to live in Wylie and i could see downtown Dallas 
+Statement: Downtown Dallas was a short drive from where I lived in Wylie. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The speaker could see downtown Dallas from Wylie, implying it was visible from a distance, which contradicts the idea that it was a short drive.
+* The speaker had to commute to work from Wylie, suggesting the distance was significant enough to require a notable amount of time or effort, contradicting the idea of a short drive.
+* The speaker's ability to remember the commute implies it was a notable or significant experience, which may not be consistent with a short drive.<|eot_id|>

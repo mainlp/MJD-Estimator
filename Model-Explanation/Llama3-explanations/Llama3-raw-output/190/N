@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Whether a government postal service can engage in these kinds of negotiations deserves serious study. 
+Statement: There is serious study needed to check. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The statement does not explicitly mention "government postal service" or "negotiations", so it's unclear if the "serious study" refers to the same topic.
+* The phrase "to check" is ambiguous and doesn't specify what exactly needs to be checked, making it difficult to determine the relationship between the statement and the context.
+* The context implies that the study is needed to determine if a government postal service can engage in certain negotiations, but the statement doesn't provide any information about the outcome of such a study or its relevance to the context.
+* The statement is too vague and doesn't provide enough information to determine its entailment, contradiction, or neutrality with respect to the context.
+* The context is discussing the need for study, while the statement is stating the need for study without providing any additional information, making it difficult to determine the relationship between the two.<|eot_id|>

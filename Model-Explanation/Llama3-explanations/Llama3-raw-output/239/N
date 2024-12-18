@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: This is one of the reasons we're growing too weak to fight the Satheri.  "What's wrong with a ceremony of worship, if you must worship your eggshell?" Dave asked. 
+Statement: Eggshell worship is the reason we're growing too weak to fight the Satheri, yet Dave asked about it. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions that the ceremony of worship is one of the reasons, implying there are other reasons, and it's unclear if eggshell worship is the primary or sole cause of growing too weak to fight the Satheri.
+* The statement assumes a direct causal link between eggshell worship and growing too weak, which is not explicitly stated in the context.
+* The context presents Dave's question as a query, not a statement of fact, so it's unclear if he believes eggshell worship is the reason for their weakness or is simply inquiring about it.
+* The tone of Dave's question is ambiguous, and it's unclear if he's being sarcastic, genuinely curious, or ironic, which affects the interpretation of the statement.
+* The context doesn't provide enough information about the nature of eggshell worship, its significance, or its impact on the people's ability to fight the Satheri, making it difficult to determine the statement's truth value.
+* The statement implies a contradiction between Dave's question and the reason for growing too weak, but it's unclear if Dave is aware of this supposed contradiction or is simply asking a rhetorical question.<|eot_id|>

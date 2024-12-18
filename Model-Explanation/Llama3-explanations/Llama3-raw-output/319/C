@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Changes in technology and its application to electronic commerce and expanding Internet applications will change the specific control activities that may be employed and how they are implemented, but the basic requirements of control will not have changed. 
+Statement: Technology will make it so we have less control of activities. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context states that the basic requirements of control will not have changed, implying that the level of control will remain the same.
+* The context mentions that changes in technology will change the specific control activities employed and how they are implemented, but does not suggest a reduction in control.
+* The statement implies a negative impact of technology on control, whereas the context suggests a neutral or positive impact (i.e., changes in implementation, but not a reduction in control).
+* The context focuses on the evolution of control activities, not a decrease in control.
+* The statement contradicts the idea that the basic requirements of control will remain the same, implying that technology will not lead to a loss of control.<|eot_id|>

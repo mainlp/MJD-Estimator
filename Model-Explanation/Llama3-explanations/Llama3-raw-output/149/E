@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: SSA is also seeking statutory authority for additional tools to recover current overpayments. 
+Statement: SSA wants the authority to recover overpayments made to insurers. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* "additional tools" implies the need for new authority to recover overpayments, which includes recovering overpayments made to insurers.
+* "current overpayments" is a broader term that encompasses overpayments made to insurers, so seeking authority to recover current overpayments necessarily includes recovering overpayments made to insurers.
+* The context implies that SSA is seeking authority to recover overpayments in general, and recovering overpayments made to insurers is a specific instance of this general goal.
+* The phrase "additional tools" suggests that SSA already has some authority to recover overpayments, but wants more, which could include the specific authority to recover overpayments made to insurers.
+* The context does not specify what kind of overpayments SSA wants to recover, so it can be inferred that SSA wants to recover all types of overpayments, including those made to insurers.<|eot_id|>

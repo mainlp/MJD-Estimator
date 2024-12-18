@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Kutchins and Kirk cite a particularly amusing example of such  Robert Spitzer, the man in charge of DSM-III , was sitting down with a committee that included his wife, in the process of composing a criteria-set for Masochistic Personality Disorder--a disease that was suggested for, but never made it into, the DSM-III-R (a revised edition). 
+Statement: DSM-III-R is a book of personality disorders. 
+Answer: [/INST] 1. DSM-III-R does not exist.
+2. DSM-III-R is not a book.
+3. DSM-III-R does not focus on personality disorders.
+4. DSM-III-R was published before DSM-III.
+5. DSM-III-R was never revised.
+6. The creator of DSM-III, Robert Spitzer, had no involvement in DSM-III-R.
+7. Robert Spitzer's wife was not involved in the creation of DSM-III-R.
+8. Masochistic Personality Disorder is included in DSM-III-R.
+9. DSM-III-R includes all proposed disorders from DSM-III committee discussions.
+10. DSM-III-R was published without a committee's input.</s>

@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The activities included in the Unified Agenda are, in general, those expected to have a regulatory action within the next 12 months, although agencies may include activities with an even longer time frame. 
+Statement: Some actions were implemented for being shorter than 12 months. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The activities included in the Unified Agenda have a regulatory action within the next 12 months, and some of these actions have a shorter time frame.
+* The agencies may include activities with an even longer time frame, but some actions were implemented with a shorter time frame than 12 months.
+* The context implies that not all activities have a 12-month time frame, and some actions were implemented with a shorter time frame.
+* The phrase "in general" suggests that there may be exceptions, and some actions were implemented with a shorter time frame than 12 months.
+* The context does not rule out the possibility of actions being implemented with a shorter time frame, and some actions were indeed implemented with a shorter time frame than 12 months.<|eot_id|>

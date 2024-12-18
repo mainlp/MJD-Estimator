@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: We also have found that leading organizations strive to ensure that their core processes efficiently and effectively support mission-related outcomes. 
+Statement: Leading organizations want to be sure their processes are successful. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is a paraphrase of the context, but the context does not explicitly state "want to be sure", it implies it through "strive to ensure".
+* The context mentions "efficiently and effectively support mission-related outcomes", but the statement only mentions "successful", which is a broader term.
+* The context focuses on "core processes", while the statement only mentions "processes", which could be more general.
+* The context implies a sense of effort or intention ("strive to ensure"), while the statement is more declarative ("want to be sure").
+* The context provides more specific information about the desired outcome ("mission-related outcomes"), while the statement is more vague ("successful").<|eot_id|>

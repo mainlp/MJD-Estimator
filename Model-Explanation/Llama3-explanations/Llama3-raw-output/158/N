@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: They have prominent red protuberances and may have been named after the British redcoats. 
+Statement: They were named after the redcoats because they are the same bright red color on their bodies. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only provides a possibility (may have been named) but does not confirm the reason for the naming.
+* The statement assumes a specific reason (same bright red color) which is not explicitly stated in the context.
+* The context mentions "prominent red protuberances" but does not specify if the entire body is bright red.
+* The context does not rule out other possible reasons for the naming, such as cultural or historical associations with redcoats.
+* The statement is too specific and definitive, whereas the context is more tentative and uncertain.
+* The context does not provide enough information to determine the exact reason for the naming.<|eot_id|>

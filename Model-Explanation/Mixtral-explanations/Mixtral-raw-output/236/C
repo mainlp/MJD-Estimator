@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: In the first instance, IRS would have no record of time before the person could get through to an agent and of discouraged callers. 
+Statement: There is no recording of the time for callers. 
+Answer: [/INST] 1. The IRS does keep a record of the time for callers, but they are not included in the agent call logs.
+2. The IRS agents are aware of the time for each caller, but they don't document it.
+3. The IRS has a record of the time callers spend on hold before speaking with an agent.
+4. The IRS tracks data on callers who hang up before reaching an agent, thereby creating a record of discouraged callers' time.
+5. The IRS records the duration of each call, which includes the time before speaking with an agent.
+6. The IRS maintains records of time spent in automated systems prior to connecting with an agent.
+7. The IRS has a system that monitors and documents the waiting time of callers.
+8. The IRS keeps track of the time spent in the queue before transferring to an agent.
+9. The IRS documents the time it takes for callers to navigate the IVR (Interactive Voice Response) system.
+10. The IRS has records of the time callers are connected to the system but not specifically to an agent.</s>

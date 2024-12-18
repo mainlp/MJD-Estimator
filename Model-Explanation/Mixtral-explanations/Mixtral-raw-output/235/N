@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: yeah i can believe that 
+Statement: I agree with what you said. 
+Answer: [/INST] 1. The statement doesn't specify what the previous statement or topic was, so it's unclear what the agreement is about.
+2. The context might indicate agreement, but not necessarily with the speaker's entire statement, only a part of it.
+3. The context might suggest that the speaker is feigning agreement or being sarcastic, and the statement doesn't contradict that interpretation.
+4. The statement could be a general agreement that doesn't necessarily apply to the specific context.
+5. The statement might be a delayed response to a different statement or topic, making it unrelated to the current context.
+6. The speaker in the context might be agreeing with the sentiment or attitude expressed, rather than the literal content of what was said.
+7. The statement could be a polite way of avoiding disagreement or conflict, rather than a genuine expression of agreement.
+8. The context might not provide enough information to determine whether the statement is true or false, and so the label "neutral" is appropriate.</s>

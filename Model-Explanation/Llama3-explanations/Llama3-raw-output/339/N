@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Next, you enter the vast and splendid Imperial Hall, with three handsome marble fountains, and a canopied throne from which the sultan would enjoy the music and dancing of his concubines. 
+Statement: The sultan enjoyed drinking from the marble fountains in the Imperial Hall. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not mention the sultan drinking from the marble fountains.
+* The context only mentions the marble fountains as a decorative feature, not as a source of drinking water.
+* The context focuses on the sultan's enjoyment of music and dancing, not drinking.
+* There is no explicit information about the sultan's habits or preferences regarding drinking.
+* The context does not provide enough information to infer the sultan's actions or behaviors beyond enjoying music and dancing.
+* The statement is making an assumption about the sultan's behavior that is not supported by the context.
+* The context does not imply that the marble fountains were used for drinking purposes.
+* The statement is introducing new information that is not present in the context.<|eot_id|>

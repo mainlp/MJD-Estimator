@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Expenses included in calculating net cost for education and training programs that are intended to increase or maintain national economic productive capacity shall be reported as investments in human capital as required supplementary stewardship information accompanying the financial statements of the Federal Government and its component units. 
+Statement: Net cost for college programs can be calculated as a way to increase productivity. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions "education and training programs" without specifically mentioning "college programs", so it's unclear if the statement is referring to the same type of programs.
+* The context talks about "increasing or maintaining national economic productive capacity" which is a broader goal, whereas the statement only mentions "increasing productivity" without specifying the scope or level of productivity.
+* The context is about reporting expenses as investments in human capital, whereas the statement is about calculating net cost, which are related but distinct concepts.
+* The context implies that the calculation of net cost is for the purpose of reporting as supplementary stewardship information, whereas the statement doesn't provide any context or purpose for the calculation.
+* The statement is too vague and doesn't provide enough information to determine if it's entirely consistent or inconsistent with the context.<|eot_id|>

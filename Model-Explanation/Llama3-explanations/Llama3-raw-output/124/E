@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: well they're so close to an undefeated undefeated season they can taste it and they wanna make history so i don't think they're gonna lack for motivation 
+Statement: Unless they suffer any losses, they'll remain motivated. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The team is highly motivated to make history by achieving an undefeated season, and this motivation will persist unless they lose.
+* The team's desire to make history implies that they will remain motivated as long as they are close to achieving it, which is the case unless they suffer losses.
+* The team's motivation is driven by their proximity to an undefeated season, and unless they lose, this proximity will continue to motivate them.
+* The team's motivation is conditional on their performance, and as long as they don't suffer losses, they will remain motivated to achieve their goal.
+* The team's desire to "taste" an undefeated season implies a strong motivation that will persist unless they experience setbacks, such as losses.
+* The team's motivation is fueled by their ambition to make history, and unless they suffer losses, this ambition will continue to drive them.<|eot_id|>

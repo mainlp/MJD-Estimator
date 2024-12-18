@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Today it is possible to buy cheap papyrus printed with gaudy Egyptian scenes in almost every souvenir shop in the country, but some of the most authentic are sold at The Pharaonic Village in Cairo where the papyrus is grown, processed, and hand-painted on site. 
+Statement: The Pharaonic Village in Cairo is the only place where one can buy authentic papyrus. 
+Answer: [/INST] 1. The Pharaonic Village in Cairo is the only place that grows, processes, and hand-paints papyrus.
+2. All other souvenir shops in the country sell only cheap papyrus with gaudy Egyptian scenes, not authentic papyrus.
+3. The Pharaonic Village in Cairo has a monopoly on the production and sale of authentic papyrus.
+4. Authentic papyrus cannot be found in any other location in the country, only at The Pharaonic Village in Cairo.
+5. The Pharaonic Village in Cairo is the sole source of authentic papyrus.
+6. Other souvenir shops may claim to sell authentic papyrus, but only The Pharaonic Village in Cairo can guarantee its authenticity.
+7. The Pharaonic Village in Cairo is the only place where the entire process of creating authentic papyrus, from growth to hand-painting, can be observed and purchased.</s>

@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: In the 19th century, when Kashmir was the most exotic hill-station of them all, the maharaja forbade the British to buy land there, so they then hit on the brilliant alternative of building luxuriously appointed houseboats moored on the lakes near Srinagar. 
+Statement: The maharaja allowed the British to build houseboats on the lakes. 
+Answer: [/INST] 1. The statement doesn't specify if the maharaja's permission was explicitly given for building houseboats.
+2. It's possible that the British initiated the houseboat construction without explicit approval but also without explicit disapproval from the maharaja.
+3. The context mentions the British built "luxuriously appointed houseboats," but it doesn't confirm that the maharaja approved of this specific detail.
+4. The statement doesn't clarify if the maharaja was aware of or approved the transformation of these houseboats into a luxurious alternative to owning land.</s>

@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: These alone could have valuable uses. 
+Statement: They may be valuable. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions "valuable uses" but not that "they" are valuable themselves.
+* The context implies possibility of valuable uses, but the statement asserts possibility of "they" being valuable, which is a different claim.
+* The context does not provide enough information to determine if "they" are valuable or not, only that they could have valuable uses.
+* The statement is a weaker claim than the context, as "may be" implies uncertainty, whereas the context is more affirmative.
+* The context and statement are talking about different aspects: the context is about the uses, while the statement is about "they" themselves.
+* The context does not provide a direct implication or evidence to support or refute the statement.<|eot_id|>

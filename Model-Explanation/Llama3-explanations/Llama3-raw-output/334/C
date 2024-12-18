@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Boca da Corrida Encumeada (moderate; 5 hours): views of Curral das Freiras and the valley of Ribeiro do Poco. 
+Statement: Boca da Corrida Encumeada is a moderate text that takes 5 hours to complete. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* "Moderate" refers to the difficulty level of a hike, not a text.
+* Boca da Corrida Encumeada is a hike, not a text.
+* The duration "5 hours" refers to the time it takes to complete the hike, not a text.
+* There is no indication that Boca da Corrida Encumeada is a text that can be completed.<|eot_id|>

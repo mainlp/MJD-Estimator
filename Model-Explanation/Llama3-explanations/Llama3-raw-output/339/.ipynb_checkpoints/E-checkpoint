@@ -1,0 +1,8 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Next, you enter the vast and splendid Imperial Hall, with three handsome marble fountains, and a canopied throne from which the sultan would enjoy the music and dancing of his concubines. 
+Statement: The sultan enjoyed drinking from the marble fountains in the Imperial Hall. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+There are no possible explanations why the statement is true (entailment) given the context. The context does not mention the sultan drinking from the marble fountains. In fact, it describes the fountains as "handsome" and part of the decoration, but does not imply any functional use by the sultan. The context only mentions the sultan enjoying the music and dancing of his concubines from the canopied throne.<|eot_id|>

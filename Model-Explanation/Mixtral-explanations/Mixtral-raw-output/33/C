@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: News berates computer users for picking obvious, easily cracked passwords and chastises system administrators for ignoring basic security precautions. 
+Statement: Users and system administrators both do not prioritize security. 
+Answer: [/INST] 1. Users pick obvious, easily cracked passwords, but system administrators prioritize security by enforcing strong password policies.
+2. Users pick obvious, easily cracked passwords, and while some system administrators may ignore security precautions, others actively enforce them.
+3. Although some users pick obvious, easily cracked passwords, many system administrators prioritize security by implementing robust security measures.
+4. Users generally pick poor passwords, but individual system administrators take security seriously and implement best practices.
+5. The news article exaggerates the extent to which users pick poor passwords; in reality, most users prioritize security to some degree.
+6. The news article overstates the negligence of system administrators; most system administrators do prioritize security and enforce appropriate precautions.
+7. Users pick poor passwords, but system administrators are unaware of this issue due to a lack of communication or education.
+8. Users pick poor passwords due to convenience or lack of knowledge, while system administrators prioritize security but struggle with enforcement or compliance.
+9. Users pick poor passwords, but system administrators are not responsible for security precautions, as other factors (e.g

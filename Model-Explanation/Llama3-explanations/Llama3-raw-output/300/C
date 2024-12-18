@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Endorphins were flowing. 
+Statement: My endorphins were flowing. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The subject "My" implies the speaker, but the context does not specify whose endorphins were flowing.
+* The context is in the third person, while the statement is in the first person.
+* The context is a general statement, while the statement is a personal claim.
+* The context does not provide enough information to conclude that the speaker's endorphins were flowing.
+* The statement is too specific, while the context is too general.<|eot_id|>

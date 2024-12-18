@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Bauerstein had been at Styles on the fatal night, and added: "He said twice: 'That alters everything.' And I've been thinking.  
+Statement: The fact that Styles was at Bauerstein changes everything. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true:
+
+* Bauerstein was at Styles, which is a crucial piece of information that significantly impacts the situation.
+* The phrase "That alters everything" implies that Bauerstein's presence at Styles has a profound effect on the circumstances.
+* The fact that Bauerstein said "That alters everything" twice emphasizes the importance of his presence at Styles.
+* The speaker's thinking, as mentioned in the context, likely led them to conclude that Bauerstein's presence at Styles is a game-changer.
+* The presence of Bauerstein at Styles might have revealed a previously unknown connection or motive that changes the understanding of the situation.
+* Bauerstein's presence at Styles could have altered the timeline of events or introduced a new perspective that significantly changes the narrative.<|eot_id|>

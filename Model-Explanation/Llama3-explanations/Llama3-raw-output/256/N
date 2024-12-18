@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Indeed, said San'doro. 
+Statement: They were certain. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only provides the name of the speaker, San'doro, but does not provide any information about what they are certain or not certain about.
+* The statement "They were certain" is ambiguous, as it does not specify who "they" refers to.
+* The context does not provide any information about the topic or issue that "they" are certain about.
+* The tone of the context, "Indeed, said San'doro", is neutral and does not provide any emotional or attitudinal cues that could influence the interpretation of the statement.
+* The statement "They were certain" could be referring to a past event or a current situation, but the context does not provide any temporal information.
+* The context does not provide any information about the speaker's (San'doro's) attitude or opinion about the statement "They were certain".
+* The statement "They were certain" could be a statement of fact, an expression of opinion, or a report of someone else's opinion, but the context does not provide any clues about its status.<|eot_id|>

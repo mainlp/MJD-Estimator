@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: We also have found that leading organizations strive to ensure that their core processes efficiently and effectively support mission-related outcomes. 
+Statement: Leading organizations want to be sure their processes are successful. 
+Answer: [/INST] 1. Achieving mission-related outcomes indicates process success.
+2. Efficient and effective core processes are crucial for mission-related outcomes.
+3. Leading organizations link their processes to mission success.
+4. Ensuring support for mission-related outcomes implies a desire for successful processes.
+5. Successful organizations align their processes with their mission.
+6. Mission-driven organizations prioritize the effectiveness of their core processes.
+7. Successful mission-related outcomes validate the success of the processes.
+8. Leading organizations recognize the importance of successful processes for their mission.
+9. Successful outcomes are a result of successful processes in leading organizations.
+10. Leading organizations consider their mission when evaluating process success.</s>

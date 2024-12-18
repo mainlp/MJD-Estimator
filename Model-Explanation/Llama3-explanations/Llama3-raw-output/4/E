@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: uh plastic is just too easy i mean that's the that's the whole problem with it um have 
+Statement: I find plastic to be too easy to use. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The speaker thinks plastic is too convenient.
+* The speaker believes plastic lacks a challenge.
+* The speaker finds plastic overly accessible.
+* The speaker thinks plastic requires minimal effort.
+* The speaker considers plastic to be too simple to work with.
+* The speaker's issue with plastic is that it's not difficult enough to use.<|eot_id|>

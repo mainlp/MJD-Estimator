@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Flying at a discount should be more dangerous. 
+Statement: It's totally safe to take advantage of discounted flying. 
+Answer: [/INST] 1. The context refers to "flying at a discount" in general, while the statement refers to a specific instance of "taking advantage of discounted flying."
+2. The context is an opinion that discounted flying should be more dangerous, while the statement is a factual claim that it is safe.
+3. The context may be referring to a hypothetical or theoretical increase in danger, while the statement is based on actual safety conditions.
+4. The context may be using "dangerous" in a relative sense, such as compared to full-price flying, while the statement is using "safe" in an absolute sense.
+5. The context may be referring to a different set of circumstances or conditions than those that apply to the statement.
+6. The context may be outdated or based on inaccurate information, while the statement is based on current and accurate information.
+7. The context may be a rhetorical device intended to grab attention or make a point, while the statement is a straightforward assertion of fact.
+8. The context may be written by a different author or speaker with different perspectives or biases than the author or speaker of the statement.
+9. The context may be

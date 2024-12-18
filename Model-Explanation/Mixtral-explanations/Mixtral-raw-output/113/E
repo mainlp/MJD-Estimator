@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: yeah well that's my uh i mean every time i've tried to go you know it's always there's there's always a league bowling 
+Statement: Every time I try to go bowling there are leagues only and I can't bowl. 
+Answer: [/INST] 1. The only time the speaker attempts to go bowling, leagues are taking place, preventing them from bowling.
+2. The speaker is unable to bowl during the times they have tried due to the presence of league bowlers.
+3. Leagues are a recurring obstacle for the speaker when they want to go bowling.
+4. The speaker has consistently found leagues occupying the bowling alley during their visits.
+5. The speaker's attempts to bowl are always thwarted by the scheduling of league events.
+6. Leagues are the primary reason the speaker has been unable to bowl during their visits.
+7. The speaker's personal bowling time is consistently overlapped by league events.
+8. Leagues have caused the speaker to be excluded from bowling during their preferred times.
+9. The speaker has experienced a pattern of leagues taking place during their bowling attempts.
+10. Leagues have prevented the speaker from accessing the bowling lanes during their visits.</s>

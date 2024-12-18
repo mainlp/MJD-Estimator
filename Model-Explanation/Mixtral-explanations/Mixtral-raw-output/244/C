@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: 1 Now that each unit is fully staffed, the LSC Office of Program Performance and its state planning team contain over 260 years of experience in LSC-funded programs. 
+Statement: The LSC has over 260 years of experience with their lawyers. 
+Answer: [/INST] 1. The LSC Office of Program Performance and its state planning team do not consist of lawyers.
+2. The experience mentioned is not specific to lawyers within the LSC.
+3. The LSC as an organization has less than 260 years of experience with their lawyers.
+4. The statement refers to the total experience of all lawyers currently working for the LSC, not just those in the Office of Program Performance and its state planning team.
+5. The experience mentioned is not limited to LSC-funded programs.
+6. The LSC has fewer than 260 lawyers in total.
+7. The statement refers to the average years of experience per lawyer, not the total years of experience across all lawyers.
+8. The experience mentioned is not limited to the LSC's direct hiring of lawyers, but also includes experience gained through contracting or consulting arrangements.
+9. The statement is referring to the combined experience of all staff members in the LSC, not just lawyers.
+10. The statement is referring to the experience of lawyers who have worked for the LSC in the past, not just those currently employed.</s>

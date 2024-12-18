@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The draft treaty was Tommy's bait. 
+Statement: Tommy took the bait of the treaty. 
+Answer: [/INST] 1. The context does not specify who or what the treaty's bait was intended for.
+2. The statement does not clarify if "the treaty" refers to the same entity as "the draft treaty."
+3. It is unclear if "take the bait" in this context means accepting or agreeing to the treaty or falling into a trap set by the treaty.
+4. The context does not provide information on Tommy's reaction or decision regarding the draft treaty.
+5. The statement does not indicate whether Tommy's action was expected or surprising to the person who set the bait.
+6. The context does not provide information on the intentions or motivations behind setting the bait or taking it.
+7. The statement does not specify the time frame of Tommy's action in relation to the bait being set.
+8. The context does not provide information on the consequences or outcomes of Tommy's action.
+9. The statement does not indicate whether Tommy had any alternatives or choices regarding the treaty.
+10. The context does not provide information on the power dynamics or relationships between the parties involved in the treaty.</s>

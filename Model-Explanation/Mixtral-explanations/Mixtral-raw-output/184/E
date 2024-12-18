@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: After being diagnosed with cancer, Carrey's Kaufman decides to do a show at Carnegie Hall. 
+Statement: Carrey's Kaufman was diagnosed with cancer before deciding to do a show at Carnegie Hall. 
+Answer: [/INST] Sure, I'd be happy to help! Here are the possible explanations why the statement "Carrey's Kaufman was diagnosed with cancer before deciding to do a show at Carnegie Hall" is true, given the context:
+
+1. The context states that "After being diagnosed with cancer, Carrey's Kaufman decides to do a show at Carnegie Hall." This directly implies that Carrey's Kaufman received the cancer diagnosis before making the decision to do the show.
+2. The use of the word "after" in the context indicates that the diagnosis occurred prior to the decision to do the show.
+3. There is no information in the context that suggests that the diagnosis and the decision to do the show occurred simultaneously, which would be the only scenario that would challenge the truth of the statement.
+
+Therefore, based on the context provided, the statement "Carrey's Kaufman was diagnosed with cancer before deciding to do a show at Carnegie Hall" is true.</s>

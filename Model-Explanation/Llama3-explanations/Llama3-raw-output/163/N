@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Because marginal costs are very low, a newspaper price for preprints might be as low as 5 or 6 cents per piece. 
+Statement: Newspaper preprints can cost as much as $5. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only provides a lower bound for the price of newspaper preprints (5 or 6 cents), but does not provide an upper bound, so it is unknown if the price can be as high as $5.
+* The context suggests that the price is likely to be low due to low marginal costs, but it does not rule out the possibility of a higher price.
+* The statement is making a claim about the maximum possible price, which is not addressed in the context.
+* The context is discussing a specific scenario (preprints) and the statement is making a general claim about newspaper preprints, which may not be applicable to the specific scenario.
+* The context is providing a specific estimate (5 or 6 cents) and the statement is making a claim about a much higher price, which may not be related to the estimate provided.<|eot_id|>

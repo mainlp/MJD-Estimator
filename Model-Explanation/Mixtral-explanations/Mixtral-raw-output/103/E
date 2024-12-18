@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: There are many such at the present time. 
+Statement: There are over two currently. 
+Answer: [/INST] 1. "Such" refers to a specific category or group of items that exists in large numbers.
+2. "Over two" implies at least three items, which fits the context of many items.
+3. "Currently" aligns with the present time mentioned in the context.</s>

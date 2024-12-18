@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: He was crying like his mother had just walloped him. 
+Statement: He was crying like his mother hit him with a spoon. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context implies a strong or intense action, but hitting with a spoon is not typically considered a strong or intense action.
+* The word "walloped" connotes a sense of force or violence, which is not consistent with hitting with a spoon.
+* The context suggests a serious or severe reason for crying, but hitting with a spoon is not a serious or severe action.
+* The tone of the context is one of distress or upset, but hitting with a spoon is not typically associated with causing distress or upset.
+* The context implies a level of pain or discomfort, but hitting with a spoon is not typically painful or uncomfortable.<|eot_id|>

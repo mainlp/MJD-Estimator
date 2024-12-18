@@ -1,0 +1,16 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: But I'll take up my stand somewhere near, and when he comes out of the building I'll drop a handkerchief or something, and off you go!" 
+Statement: I want you to follow him, so watch for the signal that I give. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context only mentions dropping a handkerchief or something, but it doesn't explicitly state that the signal is for the listener to follow him.
+* The context doesn't provide enough information to determine if the speaker wants the listener to follow the person for a specific purpose or with a specific intention.
+* The statement is too general and doesn't provide enough context to determine the speaker's intent or the listener's role in following the person.
+* The context only mentions the speaker taking a stand and giving a signal, but it doesn't explicitly state what the listener is supposed to do after receiving the signal.
+* The statement is ambiguous and could be interpreted in different ways, such as the listener following the person for surveillance, assistance, or some other purpose.
+* The context doesn't provide enough information to determine the relationship between the speaker, the listener, and the person being followed.
+* The statement is too vague and doesn't provide enough context to determine the scope or boundaries of the task being assigned to the listener.<|eot_id|>

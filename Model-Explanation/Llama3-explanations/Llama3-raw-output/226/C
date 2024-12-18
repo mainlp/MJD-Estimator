@@ -1,0 +1,9 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Enlarging the village was not desirable and most knew that Severn only desired wealth and a seat on the council of elders. 
+Statement: Severn was happy being poor. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* Severn desired wealth, implying he was not happy with his current state of poverty.
+* The context suggests Severn's motivations were driven by a desire for wealth, contradicting the idea that he was happy being poor.<|eot_id|>

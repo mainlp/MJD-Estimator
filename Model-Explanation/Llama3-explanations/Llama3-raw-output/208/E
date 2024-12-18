@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: It's come back? cried Julius excitedly. 
+Statement: They were excited to hear it will come back. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* Julius's excitement implies that he is happy to hear the news, and "they" likely includes Julius, so they are excited.
+* The phrase "it's come back" suggests that something has returned or will return, and Julius's excitement implies that this is good news, so "they" are excited to hear it will come back.
+* The use of "cried" to describe Julius's exclamation implies strong emotions, and in this context, the strong emotion is excitement, so "they" are excited to hear it will come back.
+* The context implies that Julius is not alone, and "they" refers to a group that includes Julius, so if Julius is excited, it is likely that "they" are also excited.<|eot_id|>

@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The central features of the Results Act-strategic planning, performance measurement, and public reporting and accountability-can serve as powerful tools to help change the basic culture of government. 
+Statement: The Results Act has strategic planning as a central feature for public organizations. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The Results Act has strategic planning as a central feature, but not specifically for public organizations.
+* The Results Act has strategic planning as a central feature, but it is not limited to public organizations.
+* The Results Act has strategic planning as a central feature, but it is for government, not public organizations.
+* The Results Act has strategic planning as a central feature, but it is not exclusively for public organizations.
+* The context does not mention public organizations, it mentions government.<|eot_id|>

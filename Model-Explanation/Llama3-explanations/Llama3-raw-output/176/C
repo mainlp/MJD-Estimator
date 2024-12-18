@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: So it wasn't Missenhardt's singing--marvelous though that was--that made Osmin's rantings so thrilling. 
+Statement: Osmin was always calm and collected. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context describes Osmin's behavior as "rantings", which implies a state of agitation or anger, contradicting the idea of being "calm and collected".
+* The use of "rantings" suggests a loud, intense, and possibly emotional outburst, which is incompatible with being "calm and collected".
+* The context highlights the thrilling nature of Osmin's behavior, implying a level of energy and passion that is inconsistent with being "calm and collected".
+* The contrast between "marvelous" singing and "thrilling" rantings implies that Osmin's behavior was more intense or dramatic than calm and collected.<|eot_id|>

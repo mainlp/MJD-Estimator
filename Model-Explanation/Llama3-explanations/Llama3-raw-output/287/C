@@ -1,0 +1,16 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: 'I see.' 
+Statement: It was clear 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The speaker did not understand the situation.
+* The situation was ambiguous.
+* The speaker was unsure about what was happening.
+* The speaker did not have enough information to make a judgment.
+* The situation was unclear or confusing.
+* The speaker was surprised or caught off guard.
+* The speaker's response "I see" was sarcastic or ironic, implying the opposite of what it literally means.<|eot_id|>

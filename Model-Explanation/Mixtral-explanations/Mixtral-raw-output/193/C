@@ -1,0 +1,20 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: He'd gone a long way on what he'd found in one elementary book. 
+Statement: He learned a lot from that elementary book. 
+Answer: [/INST] 1. The book was factually inaccurate.
+2. The book was written in a language he doesn't understand.
+3. He couldn't concentrate while reading the book.
+4. He didn't understand the content of the book.
+5. The book was about a topic he already knew.
+6. The book was missing crucial pages.
+7. He had prior knowledge that contradicted the book's content.
+8. He was not in a state to learn, such as being extremely tired or distracted.
+9. The book was too damaged to read.
+10. He was reading the book as a joke or prank.
+11. He was pretending to read the book but wasn't actually taking in the information.
+12. He was reading the book out of order, causing confusion.
+13. He was hallucinating and didn't actually read the book.
+14. He has a learning disability that prevented him from learning from the book.
+15. The book was too advanced for him.
+16. The book was too basic for him.
+17. He was not interested in the topic of the book.

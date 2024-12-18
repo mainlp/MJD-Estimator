@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: You will remember my saying that it was wise to beware of people who were not telling you the truth." 
+Statement: There might be dishonest people around here. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false (contradiction):
+
+* The context does not mention dishonest people being present.
+* The context only advises to beware of people who were not telling the truth, but does not imply their presence.
+* The context is a general warning, not a statement about the current situation.
+* The speaker's statement is about remembering a past advice, not about the current environment.
+* The context does not provide any evidence or indication of dishonest people being around.<|eot_id|>

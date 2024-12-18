@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Because marginal costs are very low, a newspaper price for preprints might be as low as 5 or 6 cents per piece. 
+Statement: Many people consider these prices to be unfair to new printers. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The prices are very low, which might be perceived as unfair to new printers who have higher costs.
+* New printers might not be able to match these low prices, making it difficult for them to compete.
+* The low prices might be seen as predatory pricing, aimed at driving new printers out of business.
+* New printers might feel that the low prices are unsustainable and will eventually lead to a price war that will harm them.
+* The low prices might be seen as a barrier to entry for new printers, making it difficult for them to enter the market.
+* The prices are so low that they might be perceived as unfair to new printers who are trying to make a profit.<|eot_id|>

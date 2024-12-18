@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: yeah it's a U S territory and it's just we own it or 
+Statement: I used to be great at remembering this type of thing, but now I don't. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is about the speaker's memory, but the context is about a US territory, which are unrelated topics.
+* The context does not provide any information about the speaker's memory or their ability to remember things.
+* The statement expresses a personal experience or feeling, but the context is a factual statement about a US territory.
+* The tone of the context is informative, while the tone of the statement is reflective and personal.
+* The context does not provide any information about the speaker's past or present abilities, which is the focus of the statement.
+* The statement implies a change or decline in the speaker's memory, but the context does not provide any information about the speaker's memory or its changes over time.<|eot_id|>

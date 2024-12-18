@@ -1,0 +1,5 @@
+- The context does not specify that signatures are limited to only attestations, verifications, or approvals, leaving open the possibility that they could indicate other things as well.
+- The context describes what signatures usually show, implying there might be exceptions or additional functions not mentioned.
+- The statement uses the word "only," which is not addressed in the context, making it unclear if signatures have other purposes.
+- The context does not explicitly exclude other potential meanings or functions of signatures in manual systems.
+- The context provides examples of what signatures can show but does not claim these are the exclusive functions.

@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The centralization dear to Richelieu and Louis XIV was becoming a reality. 
+Statement: Louis XIV cared a lot about centralization of his country and people. 
+Answer: [/INST] 1. The context only states that centralization was becoming a reality, not who specifically was driving this change.
+2. The statement assumes that Louis XIV himself cared about centralization, but the context does not provide explicit information on his personal feelings towards it.
+3. It is possible that Louis XIV was indifferent to centralization and it was being driven by Richelieu or other forces.
+4. The context may be referring to a different type of centralization than what the statement is implying.
+5. The statement is not undetermined because of any contradiction, but because of a lack of sufficient evidence provided in the context to support the statement.</s>

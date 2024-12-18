@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Time's cover package considers what makes a good school. 
+Statement: Time's cover package is about how most college students have to deal with insane student loans. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are possible explanations why the statement is not true (no entailment):
+
+* The context only mentions "what makes a good school" which is a broader topic, whereas the statement specifically talks about "insane student loans" which is a narrower topic.
+* There is no mention of "college students" or "student loans" in the context, which are key elements of the statement.
+* The context focuses on the quality of schools, whereas the statement focuses on the financial burden of students.
+* The context does not provide any information about the financial aspects of education, which is the main topic of the statement.
+* The statement makes a specific claim about the content of Time's cover package, which is not supported by the context.<|eot_id|>

@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: 'Would you like some tea?' 
+Statement: DO you want a cup of tea? 
+Answer: [/INST] 1. The statement is a rephrasing of the question in the context.
+2. Both the statement and the context are inquiring about offering tea to the person being addressed.
+3. The statement expresses the same proposition as the context, but with slight variation in wording.
+4. The statement is a more casual way of asking the same question as in the context.
+5. The statement is a paraphrase of the context, conveying the same meaning.
+6. The statement is a variation of the context, with the same intended meaning.
+7. The statement is a colloquial version of the context, asking if the person wants tea.
+8. The statement and the context are expressing the same request for offering tea.
+9. The statement is a reformulation of the context, inquiring about serving tea.
+10. The statement and the context are asking the same question, just in different words.</s>

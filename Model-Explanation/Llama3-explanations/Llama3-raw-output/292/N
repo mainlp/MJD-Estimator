@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The questions may need to be tailored to 
+Statement: A majority of the questions referenced will need to be tailored to. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions that "questions may need to be tailored" without providing a specific proportion or quantity, so it's unclear if a majority is involved.
+* The statement assumes a specific scope of "questions referenced" which is not explicitly defined in the context.
+* The context does not provide enough information to determine if the questions that need to be tailored will indeed be a majority.
+* The phrase "may need to be tailored" in the context implies uncertainty, which is not sufficient to infer that a majority will need to be tailored.
+* The statement is making a stronger claim than the context, which only suggests a possibility, but does not provide enough evidence to support the claim.<|eot_id|>

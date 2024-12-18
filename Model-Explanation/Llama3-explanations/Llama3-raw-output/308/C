@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: I touched my palm to his mutilated cheek, and tried to stem my instinctive revulsion. 
+Statement: You could see where the bear had scratched across his cheek. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The injury was not caused by a bear.
+* The injury was not a scratch.
+* The injury was not on his cheek.
+* The injury was not visible.<|eot_id|>

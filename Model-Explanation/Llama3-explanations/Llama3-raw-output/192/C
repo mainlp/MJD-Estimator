@@ -1,0 +1,17 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Likewise, at their production decision reviews, these programs did not capture manufacturing and product reliability knowledge consistent with best practices. 
+Statement: Their production decision reviews located an anomaly in the data. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The production decision reviews did not capture any information, including anomalies in the data.
+* The reviews were not designed to locate anomalies in the data.
+* The reviews were not capable of detecting anomalies in the data.
+* The data did not contain any anomalies to be located.
+* The reviews were not thorough or comprehensive enough to identify anomalies in the data.
+* The reviews were focused on other aspects, not on locating anomalies in the data.
+* The reviews did not have the necessary tools or resources to detect anomalies in the data.
+* The reviews were not conducted properly or were incomplete.<|eot_id|>

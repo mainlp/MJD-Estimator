@@ -1,0 +1,17 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Flying at a discount should be more dangerous. 
+Statement: It's totally safe to take advantage of discounted flying. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are possible explanations why the statement is true (entailment):
+
+* The discount is not related to safety features or maintenance, but rather to other factors such as fuel efficiency or empty seats.
+* The airline has implemented additional safety measures to compensate for the discount.
+* The discount is offered by a reputable airline with a good safety record.
+* The discount is for a specific route or time of year that is inherently safer.
+* The discount is not a reflection of the airline's safety standards, but rather a marketing strategy.
+* The airline has received safety certifications or awards that ensure its safety despite the discount.
+* The discount is for a newer, safer aircraft or a more experienced pilot.
+* The discount is a one-time offer and not a regular practice, so safety is not compromised.<|eot_id|>

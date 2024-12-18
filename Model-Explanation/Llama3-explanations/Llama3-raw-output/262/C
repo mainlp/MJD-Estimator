@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: But you will find it all right." 
+Statement: You, I'm sure, will find it more than adequate. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false (contradiction):
+
+* The context only guarantees that it will be "all right", not "more than adequate", implying a lower level of satisfaction.
+* The context expresses a neutral or modest expectation, while the statement expresses a higher level of confidence or enthusiasm.
+* The context does not provide any information about the level of adequacy, while the statement makes a stronger claim about it being "more than adequate".
+* The tone of the context is more cautious or uncertain, while the statement is more assertive or optimistic.<|eot_id|>

@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: They have prominent red protuberances and may have been named after the British redcoats. 
+Statement: They were named after the redcoats because they are the same bright red color on their bodies. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions "prominent red protuberances", not that their entire bodies are bright red.
+* The context suggests a possible reason for the naming ("may have been named"), but does not confirm it, whereas the statement asserts a definitive reason.
+* The context does not establish a direct causal link between the red color and the naming, whereas the statement implies a direct cause-and-effect relationship.
+* The statement assumes that the red color is the primary or only reason for the naming, whereas the context leaves open the possibility of other factors.
+* The context mentions "may have been named", implying uncertainty or possibility, whereas the statement makes a definitive claim.<|eot_id|>

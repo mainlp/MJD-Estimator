@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: On the northwestern Alpine frontier, a new state had appeared on the scene, destined to lead the movement to a united Italy. 
+Statement: The alpine frontier was separated from Italy by glaciers. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not provide any information about the geographical features of the Alpine frontier, making it impossible to determine if it was separated from Italy by glaciers.
+* There is no mention of glaciers in the context, so it cannot be inferred that the Alpine frontier was or was not separated from Italy by glaciers.
+* The context focuses on the emergence of a new state and its role in the unification of Italy, but does not provide any details about the geography of the region.
+* The statement is making a claim about a specific geographical feature (glaciers) that is not addressed in the context.
+* The context does not provide enough information to support or contradict the statement, leaving it undetermined.
+* The statement is introducing new information that is not present in the context, making it impossible to determine its truth value based on the provided context.<|eot_id|>

@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Think of it this  When consumer confidence declines, it is as if, for some reason, the typical member of the co-op had become less willing to go out, more anxious to accumulate coupons for a rainy day. 
+Statement: Coupon collecting is no longer allowed in most US stores. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are possible explanations why the statement is true (entailment) given the context:
+
+* The co-op has implemented a policy to discourage coupon accumulation due to the decline in consumer confidence.
+* The typical member of the co-op has become so anxious to accumulate coupons that stores have had to ban the practice to prevent hoarding.
+* The decline in consumer confidence has led to a surge in coupon collecting, causing stores to run out of stock, and thus, they have banned the practice.
+* The co-op has realized that coupon collecting is a sign of anxiety and has decided to prohibit it to promote a more positive shopping experience.
+* The increased demand for coupons has driven up prices, making it unprofitable for stores to continue offering them, leading to a ban on coupon collecting.
+* The co-op has shifted its focus to other forms of promotions, making coupon collecting obsolete and thus, no longer allowed.<|eot_id|>

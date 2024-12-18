@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: 'Dave Hanson, to whom nothing was impossible.' Well, we have a nearly impossible task: a task of engineering and building. 
+Statement: This building job is almost impossible, even for an experienced engineer. 
+Answer: [/INST] 1. Dave Hanson is not an experienced engineer.
+2. Dave Hanson has never done a building job before.
+3. The building job is actually impossible, not just almost impossible.
+4. The building job is more difficult for Dave Hanson than for other experienced engineers.
+5. Dave Hanson has lost his abilities and cannot perform impossible tasks anymore.
+6. The task is not a building job.
+7. Dave Hanson has decided that the task is not worth the effort.
+8. Dave Hanson is not willing to do the building job.
+9. There are external factors preventing Dave Hanson from completing the building job.
+10. Dave Hanson has misjudged his abilities and believes he cannot complete the building job.</s>

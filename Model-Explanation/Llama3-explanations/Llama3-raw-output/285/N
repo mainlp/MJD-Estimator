@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: oh really it wouldn't matter if we plant them when it was starting to get warmer 
+Statement: It is better to plant when it is colder. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not provide a clear comparison between planting in warm and cold weather, making it impossible to determine if one is better than the other.
+* The context suggests that the timing of planting may not be crucial, implying that both warm and cold weather might be suitable.
+* The statement contradicts the context, which implies that the timing of planting is not important, whereas the statement claims that one timing is better than the other.
+* The context focuses on the idea that the timing of planting is not crucial, whereas the statement makes a claim about the relative quality of different timings.
+* The context does not provide enough information to determine whether cold or warm weather is better for planting.
+* The statement's claim about cold weather being better is not supported or refuted by the context.
+* The context's tone is casual and conversational, implying that the speaker may not be making a strong claim about the optimal planting time.
+* The context's focus on "it wouldn't matter" suggests a lack of strong preference for either warm or cold weather, making the statement's claim undetermined.<|eot_id|>

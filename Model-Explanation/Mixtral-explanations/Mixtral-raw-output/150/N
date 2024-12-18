@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: So unlike people who are fortunate enough to be able to afford attorneys and can go to another lawyer, our clients are simply lost in the legal system if they cannot get access to it from us. 
+Statement: Our clients can barely afford our legal assistance. 
+Answer: [/INST] 1. The cost of our legal assistance is just barely within the financial means of our clients.
+2. The financial strain of paying for our legal assistance is significant, but not prohibitive.
+3. While our clients struggle to afford our legal assistance, they have not yet been unable to pay.
+4. Our clients have had to make significant sacrifices in order to afford our legal assistance.
+5. The cost of our legal assistance is not stable, and our clients may not always be able to afford it.
+6. Our clients may have to choose between receiving our legal assistance and other essential needs.
+7. Our clients' ability to afford our legal assistance could change in the future due to unforeseen circumstances.
+8. Our clients may have to rely on financial assistance from others to afford our legal assistance.
+9. Our clients may have to go into debt to afford our legal assistance.
+10. Our clients may only be able to afford limited legal assistance from us.</s>

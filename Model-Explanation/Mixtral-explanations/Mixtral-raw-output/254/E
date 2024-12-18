@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: She didn't listen. 
+Statement: She did not listen to the noise. 
+Answer: [/INST] 1. The "noise" is what she was supposed to listen to.
+2. The "noise" was the only thing to listen to.
+3. The "noise" was the only relevant thing to listen to.
+4. The "noise" was the only auditory stimulus present.
+5. She intentionally ignored the "noise".
+6. She was unable to hear the "noise".
+7. She was distracted and didn't pay attention to the "noise".
+8. She chose not to pay attention to the "noise".
+9. She was focused on something else and didn't listen to the "noise".
+10. She was listening to something else instead of the "noise".</s>

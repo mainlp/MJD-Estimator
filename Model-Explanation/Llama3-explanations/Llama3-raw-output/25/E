@@ -1,0 +1,17 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Classic Castilian restaurant. 
+Statement: The restaurant is based off a classic Castilian style. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true:
+
+* The restaurant's architecture is inspired by traditional Castilian buildings.
+* The restaurant's decor features elements reminiscent of Castilian culture.
+* The restaurant's menu consists of dishes originating from the Castile region.
+* The restaurant's ambiance is designed to evoke a sense of traditional Castilian hospitality.
+* The restaurant's name or branding explicitly references Castilian heritage.
+* The restaurant's owners or chefs have a background or training in Castilian cuisine.
+* The restaurant's cooking techniques or ingredients are characteristic of Castilian cooking traditions.
+* The restaurant's overall aesthetic or atmosphere is meant to evoke a sense of classic Castilian elegance.<|eot_id|>

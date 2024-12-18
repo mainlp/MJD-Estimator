@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: 'But if White has any designs at all on living, he'll be as far from Little as he can possibly get by now.' 
+Statement: White should be afraid to come back to Little. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* White's designs on living imply that White values his life, and being far from Little is necessary for survival, so coming back to Little would put White's life at risk.
+* The context implies that Little is a dangerous place for White, and if White wants to live, he should avoid it, which means he should be afraid to come back.
+* The phrase "as far from Little as he can possibly get" suggests that Little is a threat to White's well-being, and returning to Little would be a risky decision, inducing fear.
+* The context creates a causal link between being near Little and being in danger, so White should be afraid to come back to Little to avoid this danger.
+* The statement is a logical consequence of the context, as if White wants to live, he should avoid Little, and fear is a natural response to a perceived threat, making it reasonable for White to be afraid to come back.<|eot_id|>

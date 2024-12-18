@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The draft treaty was Tommy's bait. 
+Statement: Tommy took the bait of the treaty. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions that the draft treaty was Tommy's bait, but it doesn't specify who was trying to bait Tommy or what the treaty was about.
+* The phrase "Tommy took the bait" is ambiguous and could mean either that Tommy was tricked into doing something or that Tommy intentionally used the treaty as bait for someone else.
+* The context doesn't provide enough information to determine whether Tommy was the one being deceived or the one doing the deceiving.
+* The statement could be interpreted in multiple ways, such as Tommy being the victim of a trap or Tommy using the treaty to lure someone into a trap.
+* The context only establishes a metaphorical relationship between Tommy and the treaty, but it doesn't provide enough information to determine the exact nature of that relationship.<|eot_id|>

@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: (And yes, he has said a few things that can, with some effort, be construed as support for supply-side economics.) 
+Statement: It would take some work to construe the things as support for supply-side economics. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The things said can be construed as support for supply-side economics, but it requires some effort.
+* Construing the things as support for supply-side economics is not straightforward and needs some work.
+* The things said are not explicit support for supply-side economics, but can be interpreted as such with some effort.
+* The connection between the things said and supply-side economics is not obvious and requires some work to establish.
+* The things said are ambiguous and need some work to be understood as supporting supply-side economics.<|eot_id|>

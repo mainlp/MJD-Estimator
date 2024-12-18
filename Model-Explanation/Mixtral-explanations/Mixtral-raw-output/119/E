@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: yes well yeah i am um actually actually i think that i at the higher level education i don't think there's so much of a problem there it's pretty much funded well there are small colleges that i'm sure are struggling 
+Statement: Small colleges usually have trouble with funding and resources. 
+Answer: [/INST] 1. The speaker acknowledges the existence of small colleges facing funding difficulties.
+2. The statement about small colleges struggling is generally true, with the exception of those at the higher level education that the speaker thinks are well-funded.
+3. The speaker's positive opinion of higher level education funding does not apply to small colleges, which often face resource challenges.
+4. The statement about small colleges' funding issues is consistent with the speaker's belief that some higher education institutions have problems with funding.
+5. The speaker's statement about well-funded higher education does not contradict the general difficulty small colleges face in obtaining resources.</s>

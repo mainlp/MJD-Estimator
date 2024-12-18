@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The Gaiety Theatre in South King Street is worth visiting for its ornate d??cor. 
+Statement: The Trump Tower is a terrible place to visit for ornate decor. 
+Answer: [/INST] 1. The Gaiety Theatre and Trump Tower are two different places.
+2. The context refers to the ornate decor of the Gaiety Theatre, not all places in South King Street.
+3. The statement negates the idea that the Trump Tower has ornate decor.
+4. The statement implies that the Trump Tower is a terrible place to visit for some other reason, not related to ornate decor.
+5. The statement is not comparing the ornate decor of the two places.
+6. The term "terrible" in the statement is subjective and may not reflect everyone's opinion.
+7. The statement does not deny that the Trump Tower may have other positive attributes.
+8. The context does not provide information about the ornate decor of other places in South King Street.
+9. The context does not provide information about the ornate decor of the Trump Tower.
+10. The context is not making a recommendation about where to go for ornate decor.</s>

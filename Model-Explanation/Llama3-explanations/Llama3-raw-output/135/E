@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Tommy realized perfectly that in his own wits lay the only chance of escape, and behind his casual manner he was racking his brains furiously. 
+Statement: He'd been stuck for hours, starting to feel doubt crawl into his mind. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* Tommy was trying to escape, implying he was in a confined or trapped situation, which often takes time to resolve, hence "stuck for hours".
+* The fact that Tommy was "racking his brains furiously" suggests he was under mental pressure, which can lead to feelings of doubt and frustration, especially if he wasn't making progress.
+* The context implies Tommy was in a difficult situation, and the longer he was stuck, the more likely he was to feel doubt and uncertainty.
+* The "casual manner" Tommy was displaying was likely a facade, and beneath the surface, he was experiencing anxiety and doubt, which would naturally increase over time.
+* The use of "perfectly" to describe Tommy's realization implies that he was aware of his situation and the need to escape, which would lead to feelings of doubt and desperation if he wasn't making progress.<|eot_id|>

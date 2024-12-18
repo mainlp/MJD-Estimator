@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: EPA estimates that 5.6 million acres of lakes, estuaries and wetlands and 43,500 miles of streams, rivers and coasts are impaired by mercury emissions. 
+Statement: The release of mercury has an impact on rivers, streams and lakes 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only provides information about the extent of impairment, but not the specific impact of mercury emissions on rivers, streams, and lakes.
+* The statement is too vague, and the context does not provide enough information to determine the exact nature of the impact.
+* The context only mentions impairment, but does not specify whether the impact is positive, negative, or neutral.
+* The statement does not specify what kind of impact (e.g., pollution, contamination, damage, etc.) is being referred to, making it difficult to determine the relationship with the context.
+* The context provides quantitative data, but the statement is qualitative, making it hard to establish a clear connection.
+* The statement is too general, and the context does not provide enough specific information to support or contradict it.<|eot_id|>

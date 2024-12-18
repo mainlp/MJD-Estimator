@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Krugman's column will henceforth be known as The Dismal Science, a phrase too famous to be ownable by anyone, except possibly British essayist Thomas Carlyle (1795-1881), who coined it. 
+Statement: Krugman writes novels. 
+Answer: [/INST] 1. The statement is false, as the context only discusses Krugman's column being named "The Dismal Science," not him writing novels.
+2. The context does not provide information about Krugman's occupation other than writing a column.
+3. The phrase "The Dismal Science" is attributed to Thomas Carlyle, not Krugman.
+4. Krugman's column is about economics, not fiction.
+5. The context does not suggest that Krugman has any interest or expertise in writing novels.
+6. The statement is not an entailment because the context does not imply that Krugman writes anything other than his column.</s>

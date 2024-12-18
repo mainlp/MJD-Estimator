@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: All were prominent nationally known organizations. 
+Statement: The only identified organizations were well-known. 
+Answer: [/INST] 1. Some organizations were not identified.
+2. There were organizations that were not well-known.
+3. There were organizations that were known locally but not nationally.
+4. Some organizations were known both locally and nationally, but were not identified.
+5. There were organizations that were known internationally but not nationally.
+6. There were organizations that were not known at all, but were identified.
+7. There were organizations that were identified, but were not known to the public.
+8. There were organizations that were identified, but were not known to the speaker.
+9. There were organizations that were identified, but were not known to the writer.
+10. There were organizations that were identified, but were not known to the audience.</s>

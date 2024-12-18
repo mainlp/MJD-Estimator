@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Wear a nicely ventilated hat and keep to the shade in the street. 
+Statement: The buildings are so low that there is no shade in the streets. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The context advises to keep to the shade in the street, implying that shade is normally available, but the statement contradicts this, suggesting the buildings are too low to provide shade.
+* The context recommends wearing a ventilated hat, which is more necessary in sunny conditions, implying that the streets are sunny and lack shade, which is only possible if the buildings are too low.
+* The context focuses on protecting oneself from the sun, implying that the sun's rays are not blocked by buildings, which is only possible if the buildings are too low to provide shade.
+* The statement is a correction to the assumption in the context that shade is available in the streets, implying that the buildings are not tall enough to provide shade.<|eot_id|>

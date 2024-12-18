@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Bush the elder came of age when New England Republicans led the party, and patrician manners were boons to a Republican. 
+Statement: New England Republicans were weak. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions that New England Republicans led the party, but it does not provide information about their strength or weakness.
+* The phrase "patrician manners were boons to a Republican" suggests that having a certain type of manner was beneficial, but it does not imply anything about the strength or weakness of New England Republicans.
+* The context focuses on the social aspect of being a Republican (having patrician manners) rather than their political power or influence.
+* There is no explicit contradiction or confirmation of the statement "New England Republicans were weak" in the context.
+* The context is more descriptive of the environment in which Bush the elder came of age, rather than making a claim about the strength or weakness of New England Republicans.<|eot_id|>

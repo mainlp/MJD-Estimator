@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: kind of kind of nothing i won't have anything to do with 
+Statement: I don't want anything to do with it, no doubts about it. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The speaker's reluctance to engage with something is absolute, leaving no room for doubt or hesitation.
+* The speaker's initial statement "kind of kind of nothing" implies a strong negative sentiment, which is reinforced by the subsequent statement, eliminating any possibility of doubt.
+* The speaker's use of "no doubts about it" is a emphatic affirmation of their initial stance, indicating a high degree of confidence in their decision.
+* The speaker's tone and language convey a sense of finality and decisiveness, implying that their mind is made up and they will not reconsider.
+* The speaker's statement "I don't want anything to do with it" is a direct and unequivocal expression of their intentions, leaving no ambiguity or room for misinterpretation.<|eot_id|>

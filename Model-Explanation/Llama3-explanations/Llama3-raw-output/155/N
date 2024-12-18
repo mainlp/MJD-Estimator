@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: substitute my my yeah my kid'll do uh four or five hours this week for me no problem 
+Statement: I just can't make the time because of my job. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context implies the speaker's kid can substitute for them, but it's unclear if the speaker's job is the reason they can't make time or if they're making an excuse.
+* The context shows the speaker's kid can cover 4-5 hours, but it's unknown if that's enough to fulfill the required time commitment.
+* The statement's tone and language ("just can't make the time") could be interpreted as either a genuine limitation or an excuse.
+* The context doesn't provide information about the speaker's job requirements or schedule, making it difficult to determine if they truly can't make time.
+* The speaker's kid's availability might not be relevant to the speaker's own time commitment, and the statement could be referring to a separate obligation.
+* The context only mentions the kid's availability for a specific task, but the statement's "make the time" could be referring to a different task or responsibility.
+* The speaker's tone and language might be downplaying their own availability, making it unclear if they're being truthful about their job constraints.<|eot_id|>

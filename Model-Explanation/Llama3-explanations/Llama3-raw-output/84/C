@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: it it like strange that it you're right in the middle of the mountains and it's so brown and dry but boy you just didn't feel 
+Statement: you are in the right part of the mountains. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The speaker is not in the right part of the mountains because the surroundings are brown and dry, which is unusual for a mountainous region.
+* The speaker's expectation of the mountains is not met, implying they are not in the right part of the mountains.
+* The speaker's feeling or experience does not match their location, suggesting they are not in the right part of the mountains.
+* The description of the environment (brown and dry) contradicts the typical characteristics of a mountainous region, implying the speaker is not in the right part of the mountains.<|eot_id|>

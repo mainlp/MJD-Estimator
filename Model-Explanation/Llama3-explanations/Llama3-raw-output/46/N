@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Auditors from another country engaged to conduct audits in their country should meet the professional qualifications to practice under that country's laws and regulations or other acceptable standards, such as those issued by the International Organization of Supreme Audit Institutions. 
+Statement: All auditors report to a globally managed governing body. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context only discusses the professional qualifications and standards for auditors, but does not mention anything about a globally managed governing body.
+* There is no information provided about the organizational structure or reporting lines of auditors.
+* The context focuses on the country-specific laws and regulations, and international standards, but does not imply a global governing body.
+* The statement makes a claim about a global governing body, which is not supported or contradicted by the context.
+* The context does not provide enough information to determine whether auditors report to a globally managed governing body or not.
+* The statement's claim about a globally managed governing body is not relevant to the context's discussion of professional qualifications and standards.<|eot_id|>

@@ -1,0 +1,30 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Lincoln glared. 
+Statement: The man was angry. 
+Answer: [/INST] 1. The man expressed happiness.
+2. The man showed no emotion.
+3. The man was content.
+4. The man smiled.
+5. The man was feeling sad.
+6. The man was calm.
+7. The man was feeling neutral.
+8. The man laughed.
+9. The man was feeling pleased.
+10. The man was feeling excited.
+11. The man was feeling hopeful.
+12. The man was feeling relaxed.
+13. The man was feeling affectionate.
+14. The man was feeling proud.
+15. The man was feeling relieved.
+16. The man was feeling sentimental.
+17. The man was feeling sympathetic.
+18. The man was feeling thoughtful.
+19. The man was feeling surprised.
+20. The man was feeling nervous.
+21. The man was feeling anxious.
+22. The man was feeling ashamed.
+23. The man was feeling disappointed.
+24. The man was feeling frustrated.
+25. The man was feeling confused.
+26. The man was feeling tired.
+27. The man

@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Exhibit 3 presents total national emissions of NOx and SO2 from all sectors, including power. 
+Statement: In Exhibit 3 there are the total regional emissions od NOx and SO2 from all sectors. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions "national" emissions, whereas the statement refers to "regional" emissions, which are not necessarily the same.
+* The context does not provide information about regional emissions, so it cannot be determined if the statement is true or false.
+* The statement is not a direct contradiction of the context, but it is not directly supported by the context either.
+* The context only mentions emissions from "all sectors, including power", but does not specify if it includes regional emissions.
+* The term "regional" is not defined in the context, so it is unclear what it refers to.
+* The context does not provide enough information to determine if the exhibit includes regional emissions or not.<|eot_id|>

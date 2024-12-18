@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: In manual systems, attestations, verifications, and approvals are usually shown by a signature or initial of an individual on a hard copy document. 
+Statement: The only things that signatures in manual systems show are attestations, verifications, or approvals. 
+Answer: [/INST] 1. Signatures in manual systems are used to indicate attestations.
+2. Verifications are represented by signatures in manual systems.
+3. Signatures in manual systems serve to show approvals.
+4. Manual systems utilize signatures to display attestations, verifications, or approvals.
+5. The sole functions of signatures in manual systems are related to attestations, verifications, or approvals.
+6. Signatures in manual systems have no other purpose than to indicate attestations, verifications, or approvals.
+7. In manual systems, if a signature is present, it implies attestation, verification, or approval.
+8. The presence of a signature in a manual system is equivalent to an attestation, verification, or approval.
+9. Manual systems rely on signatures to express attestations, verifications, or approvals exclusively.
+10. Signatures in manual systems are directly associated with attestations, verifications, or approvals.</s>

@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The tomb guardian will unlock the gate to the tunnel and give you a candle to explore the small circular catacomb, but for what little you can see, it is hardly worth the effort. 
+Statement: The tomb garden can give you a thorough tour of the catacombs. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context mentions a "tomb guardian", not a "tomb garden".
+* The context implies that the catacombs are small and hardly worth exploring, contradicting the idea of a thorough tour.
+* The context only mentions a candle to explore the small circular catacomb, not a thorough tour of the entire catacombs.
+* The context does not mention a tour, but rather a personal exploration with a candle.<|eot_id|>

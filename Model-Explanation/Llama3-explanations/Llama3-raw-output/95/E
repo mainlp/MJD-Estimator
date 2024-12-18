@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Exhibit 3 presents total national emissions of NOx and SO2 from all sectors, including power. 
+Statement: In Exhibit 3 there are the total regional emissions od NOx and SO2 from all sectors. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* "National" is a synonym for "regional" in this context, implying that the exhibit presents emissions for a specific region, which is the nation as a whole.
+* The phrase "including power" suggests that the exhibit presents emissions from all sectors, which would necessarily include regional emissions.
+* The exhibit presents total emissions, which would encompass regional emissions as a subset of the total.
+* The context does not explicitly state that the exhibit only presents national emissions, leaving open the possibility that it also includes regional emissions.
+* The statement is a paraphrase of the context, with "regional" replacing "national" and "od" being a typo or minor error that does not affect the meaning.<|eot_id|>

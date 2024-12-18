@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: (And yes, he has said a few things that can, with some effort, be construed as support for supply-side economics.) 
+Statement: It would take some work to construe the things as support for supply-side economics. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The things cannot be construed as support for supply-side economics.
+* It does not take some work to construe the things as support for supply-side economics.
+* The things can be easily construed as support for supply-side economics.
+* The things are clearly support for supply-side economics.
+* No effort is required to construe the things as support for supply-side economics.<|eot_id|>

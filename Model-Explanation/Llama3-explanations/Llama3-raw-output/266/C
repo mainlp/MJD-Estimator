@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Jon twisted the man's wrist. 
+Statement: Jon grabbed the man. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* Twisting and grabbing are two different actions, and the context only mentions twisting.
+* The context specifically mentions twisting the wrist, which is a more specific and precise action than grabbing, which could refer to any part of the body.
+* The context implies a more violent or forceful action (twisting) than grabbing, which could be a more gentle or casual action.
+* The context does not provide any information about Jon grabbing the man, only twisting his wrist.<|eot_id|>

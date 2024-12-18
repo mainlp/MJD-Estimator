@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Time 's cover package considers what makes a good school. 
+Statement: Time's cover package is about how most college students have to deal with insane student loans. 
+Answer: [/INST] 1. The context does not specify that the cover package is about college students or student loans.
+2. The cover package could be discussing K-12 education and not higher education.
+3. The cover package could be focusing on other aspects of what makes a good school, such as curriculum, faculty, or extracurricular activities.
+4. The statement could be referring to a different Time cover package or article.
+5. The statement could be true, but not the main focus of the cover package.
+6. The statement could be a minor point in the cover package.
+7. The statement could be mentioned in the cover package, but not in a way that supports or contradicts it.
+8. The statement could be based on a misunderstanding or misinterpretation of the cover package.
+9. The statement could be an opinion or assumption, rather than a factual claim.
+10. The statement could be presented as a fact, but without sufficient evidence to support it.</s>

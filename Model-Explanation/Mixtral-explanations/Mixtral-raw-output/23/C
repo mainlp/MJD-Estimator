@@ -1,0 +1,18 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The students' reaction was swift and contentious, as if their feelings had been hurt. 
+Statement: The students reacted with horror. 
+Answer: [/INST] 1. The students felt amused or entertained by the situation.
+2. The students were indifferent to the situation.
+3. The students reacted with joy or excitement.
+4. The students felt grateful or relieved.
+5. The students were not shocked or terrified.
+6. The students' feelings were not hurt.
+7. The students' reaction was not swift.
+8. The students' reaction was not contentious.
+9. The students' reaction did not resemble horror.
+10. The students' reaction was staged or feigned horror.
+11. The students' horror was not genuine.
+12. The students' horror was not their initial reaction.
+13. The students' horror was not the dominant reaction.
+14. The students' horror was not universal among them.
+15. The students' horror was not directed at the same object or event.</s>

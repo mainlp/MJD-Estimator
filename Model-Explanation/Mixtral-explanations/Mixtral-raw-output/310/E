@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: yeah yeah i i went i went off to school wanting to either be a high school algebra teacher or high school French teacher because my two favorite people in the in high school were my algebra teacher and French teacher and uh and i was going to do that until the end of our sophomore year when we wanted uh we came time to sign up for majors and i had taken chemistry for the first time that year and surprised myself i did well in it 
+Statement: You are required to sign up for a major freshman year. 
+Answer: [/INST] 1. The context mentions signing up for majors during sophomore year, implying that it typically occurs after freshman year.
+2. The speaker's decision to major in a subject is influenced by their experience in chemistry, suggesting that they had not yet chosen a major during freshman year.
+3. The structure and requirements of the school system are such that students are not required to declare a major until a certain point, allowing for exploration of different subjects, as in this case.</s>

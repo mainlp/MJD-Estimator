@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Then you're ready for the fray, either in the bustling great bazaars such as Delhi's Chandni Chowk or Mumbai's Bhuleshwar, or the more sedate ambience of grander shops and showrooms. 
+Statement: All of the great bazaars are bustling at all times. 
+Answer: [/INST] 1. The stated great bazaars, Delhi's Chandni Chowk and Mumbai's Bhuleshwar, are always bustling.
+2. There are no non-bustling great bazaars mentioned in the context.
+3. Great bazaars in general are described as bustling in the context.
+4. The phrase "ready for the fray" implies a lively and busy atmosphere, which is attributed to the great bazaars in the context.
+5. No other type of location is mentioned as bustling in the context, only the great bazaars.
+6. The contrast between "bustling great bazaars" and "the more sedate ambience of grander shops and showrooms" suggests that the great bazaars are consistently bustling.</s>

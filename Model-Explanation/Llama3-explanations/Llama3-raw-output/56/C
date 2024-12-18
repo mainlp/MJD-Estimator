@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The questions may need to be tailored to 
+Statement: There are some questions that may or may not need to be tailored to. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The context implies that all questions may need to be tailored, leaving no room for questions that may not need to be tailored.
+* The context suggests that the need for tailoring is not optional, whereas the statement implies that it is optional.
+* The statement's "may or may not" phrase is inconsistent with the context's implication that tailoring is a necessity.
+* The context implies a universal requirement for tailoring, whereas the statement suggests that only some questions may need tailoring, leaving others unaffected.
+* The statement's ambiguity about which questions need tailoring contradicts the context's implication that all questions are affected.<|eot_id|>

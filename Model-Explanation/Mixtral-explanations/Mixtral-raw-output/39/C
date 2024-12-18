@@ -1,0 +1,17 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Think of it this  When consumer confidence declines, it is as if, for some reason, the typical member of the co-op had become less willing to go out, more anxious to accumulate coupons for a rainy day. 
+Statement: Coupon collecting is no longer allowed in most US stores. 
+Answer: [/INST] 1. Consumer confidence has no impact on coupon collecting policies in US stores.
+2. Coupon collecting is still allowed in most US stores.
+3. The statement is unrelated to the context.
+4. The context does not imply a decline in coupon collecting.
+5. The typical member of the co-op is still willing to go out and collect coupons.
+6. The decline in consumer confidence does not make members more anxious to accumulate coupons.
+7. The statement is not specific to the typical member of the co-op.
+8. The statement does not mention any change in coupon collecting behavior.
+9. The statement does not indicate that coupon collecting is less common in US stores.
+10. The statement does not provide any information about a "rainy day".
+11. The statement does not specify any reason for the change in coupon collecting policies.
+12. The statement does not indicate that the change in coupon collecting policies is due to consumer confidence.
+13. The statement does not indicate that the change in coupon collecting policies is specific to the co-op.
+14. The statement does not indicate that the change in coupon

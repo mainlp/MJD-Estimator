@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Auditors from another country engaged to conduct audits in their country should meet the professional qualifications to practice under that country's laws and regulations or other acceptable standards, such as those issued by the International Organization of Supreme Audit Institutions. 
+Statement: All auditors report to a globally managed governing body. 
+Answer: [/INST] 1. The International Organization of Supreme Audit Institutions (INTOSAI) serves as the global managing body for supreme audit institutions, and auditors from other countries who meet professional qualifications under that country's laws and regulations or INTOSAI standards are effectively reporting to this organization.
+2. The context implies that auditors from other countries should adhere to professional qualifications set by their country's laws and regulations or INTOSAI standards, which can be interpreted as a form of reporting to a global governing body.
+3. The INTOSAI, as a globally recognized organization, sets standards for auditors from different countries, which can be seen as a form of indirect reporting or adherence to a global governing body.</s>

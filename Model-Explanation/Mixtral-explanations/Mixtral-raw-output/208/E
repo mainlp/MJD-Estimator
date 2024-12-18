@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: It's come back? cried Julius excitedly. 
+Statement: They were excited to hear it will come back. 
+Answer: [/INST] 1. Julius and the group he's with were waiting for something to return.
+2. The return of the subject in question was confirmed, causing Julius to express his excitement.
+3. The anticipated subject was previously missing or absent, and its return was a positive development.
+4. The group Julius is part of had a shared interest in the subject returning.
+5. The return of the subject will have a beneficial impact on Julius and the group.
+6. Julius's excitement implies that the return of the subject was not guaranteed, making it a pleasant surprise.
+7. The group Julius represents had been discussing the possibility of the subject's return, and now they're excited because it's confirmed.
+8. The subject's return was a topic of curiosity or anticipation for Julius and the group.
+9. The return of the subject was a desirable outcome, and Julius's excitement conveys that they achieved it.
+10. Julius and the group had been hoping or wishing for the subject to come back, and now they're excited because it's happening.</s>

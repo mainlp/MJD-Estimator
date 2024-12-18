@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The questions may need to be tailored to 
+Statement: A majority of the questions referenced will need to be tailored to. 
+Answer: [/INST] 1. The context does not specify the number of questions that need to be tailored.
+2. It is unclear if any questions have already been tailored.
+3. The context does not indicate the current state of the questions.
+4. The context does not provide information about the nature of the required tailoring.
+5. The context does not specify who will be responsible for tailoring the questions.
+6. The context does not provide information about the intended audience for the questions.
+7. The context does not indicate the purpose or objective of the questions.
+8. The context does not provide information about the subject matter or topic of the questions.
+9. The context does not specify the format or medium in which the questions will be presented.
+10. The context does not provide information about any constraints or limitations on the tailoring of the questions.</s>

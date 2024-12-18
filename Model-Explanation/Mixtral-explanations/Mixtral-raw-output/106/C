@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The important thing is to realize that it's way past time to move it. 
+Statement: It has not been moved yet in the past. 
+Answer: [/INST] 1. The item was moved recently, not in the past.
+2. The item was moved a long time ago, before it was important.
+3. The item was moved just now, so it wasn't moved in the past.
+4. The item was moved multiple times in the past, but not now.
+5. The item was moved in the past, but not way past time.
+6. The person who needs to move the item is not the same as the one who said the context.
+7. The context is referring to a different "it" that was moved.
+8. The context is metaphorical or figurative, but the statement is literal.
+9. The statement is a misunderstanding of the context's meaning of "past time."
+10. The statement is a deliberate attempt to contradict the context.</s>

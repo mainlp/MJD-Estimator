@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Hong Kong has long been China's handiest window on the West, and the city is unrivaled in its commercial know-how and managerial expertise. 
+Statement: Hong Kong is a great place to find commercial know-how if you are hiring someone new. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions Hong Kong's commercial know-how and managerial expertise in general, but does not provide information about the availability of individuals with such skills for hire.
+* The context does not imply that Hong Kong's commercial know-how and managerial expertise are readily available for others to tap into or utilize.
+* The statement assumes a specific scenario (hiring someone new) that is not explicitly supported by the context.
+* The context does not provide information about the job market or labor availability in Hong Kong.
+* The statement makes a subjective judgment ("great place") that is not justified by the objective information provided in the context.
+* The context only describes Hong Kong's characteristics, but does not provide information about the feasibility of finding individuals with commercial know-how for hire.<|eot_id|>

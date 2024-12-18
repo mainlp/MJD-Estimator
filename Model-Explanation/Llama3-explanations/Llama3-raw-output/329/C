@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: These alone could have valuable uses. 
+Statement: They may be valuable. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context implies that "these" are valuable, but the statement only suggests a possibility, which is weaker than the certainty implied in the context.
+* The context states that "these" have valuable uses, but the statement only mentions that "they" may be valuable, without specifying the uses.
+* The context is more specific about the value of "these", whereas the statement is more general and uncertain.
+* The context implies a stronger connection between "these" and value, whereas the statement only suggests a possibility of value.
+* The context is more affirmative about the value of "these", whereas the statement is more tentative.<|eot_id|>

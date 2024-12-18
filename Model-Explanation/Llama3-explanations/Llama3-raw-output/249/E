@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Lie back, and DON'T THINK. 
+Statement: Lie back, and do not use your crazy mind. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* "Don't think" implies not using one's mind, and "crazy mind" is a colloquialism for one's thoughts or mental faculties, so the statement is a paraphrase of the context.
+* The context instructs not to think, and "do not use your crazy mind" is a more descriptive way of saying the same thing, emphasizing the idea of not engaging one's mental faculties.
+* The context and statement both convey a sense of relaxation and disengagement from mental activity, making the statement a logical extension of the context.
+* "Don't think" is a more general instruction, while "do not use your crazy mind" is a more specific and colorful way of expressing the same idea, making the statement an entailment of the context.
+* The statement is a rephrased version of the context, using more vivid language to convey the same message, which is to refrain from mental activity.<|eot_id|>

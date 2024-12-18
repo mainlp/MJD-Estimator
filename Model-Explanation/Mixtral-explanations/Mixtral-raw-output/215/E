@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Everybody has this quote from NBA commissioner David  You cannot strike your boss and still hold your job--unless you play in the NBA. 
+Statement: NBA commissioner said he hates NBA players. 
+Answer: [/INST] 1. The quote implies that NBA players are held to a different standard than regular employees, allowing them to get away with actions that would not be tolerated in other professions, such as striking their boss.
+2. The statement could be interpreted as the commissioner expressing his frustration or disapproval of NBA players' behavior, which could be seen as a form of dislike or "hate."
+3. The commissioner may have made the quote in a sarcastic or tongue-in-cheek manner, implying a certain level of disdain or dislike for the actions of NBA players.
+4. The quote could be seen as a criticism of the NBA culture, where players have a significant amount of power and influence, and the commissioner may feel that they do not respect the rules and authority as they should.
+5. The statement could be a generalization based on the quote, that the commissioner holds a negative view towards NBA players as a group.
+
+It's important to note that the statement is not explicitly stated in the context, and it's a conclusion that could be inferred based on the information provided.</s>

@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: okay and and i think we just hang up i don't think we have to do anything else 
+Statement: We need to wait until they tell us what to do. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context implies that the conversation is ending, and no further action is required, contradicting the need to wait for instructions.
+* The speaker thinks they don't have to do anything else, implying that they don't need to wait for further instructions.
+* The tone of the context is one of finality, suggesting that the conversation is concluded, and no additional steps are necessary, contradicting the need to wait.
+* The speaker's statement "I don't think we have to do anything else" directly contradicts the idea that they need to wait for further instructions.
+* The context implies a sense of independence or self-sufficiency, where the speaker doesn't need to rely on others for guidance, contradicting the need to wait for instructions.<|eot_id|>

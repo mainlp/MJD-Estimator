@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: When he's ready for a major strike, how many innocents do you suppose are going to suffer? To quote one of your contemporaries; 'The needs of the many outweigh the needs of the few.''
+Statement: He won't care how many innocent people will suffer. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+1. The context implies that "he" is willing to make a "major strike", which suggests a lack of concern for innocent people.
+2. The quote "The needs of the many outweigh the needs of the few" implies that "he" prioritizes the greater good over individual lives, including innocent people.
+3. The question "how many innocents do you suppose are going to suffer" implies that suffering is expected, and "he" is not concerned about it.
+4. The tone of the context is critical and warning, suggesting that "he" is callous and won't care about innocent people.
+5. The use of "when he's ready" implies a sense of inevitability, and "he" is not going to be deterred by concerns about innocent people.<|eot_id|>

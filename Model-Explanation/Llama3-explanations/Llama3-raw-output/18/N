@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Marriage is an important institution. 
+Statement: Marriage is crucial to society. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only states that marriage is important, but does not provide a clear indication of its level of importance, leaving room for interpretation.
+* The term "crucial" is stronger than "important", but the context does not provide enough information to determine if the statement is true or false.
+* The context does not provide a clear definition of what makes an institution "important" or "crucial", making it difficult to determine the truth value of the statement.
+* The statement could be true, but the context does not provide sufficient evidence to support or refute it.
+* The context only provides a general statement about marriage, but does not provide specific information about its role in society, making it difficult to determine if it is crucial.
+* The term "crucial" implies a high level of necessity or importance, but the context does not provide enough information to determine if marriage meets this threshold.<|eot_id|>

@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: yeah well that's my uh i mean every time i've tried to go you know it's always there's there's always a league bowling 
+Statement: Every time I try to go bowling there are leagues only and I can't bowl. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The speaker implies that they have tried to go bowling multiple times, but the statement claims that they can't bowl at all, which contradicts the idea of trying.
+* The context mentions "every time I've tried to go", which suggests that the speaker has been able to go bowling, but the statement claims that they can't.
+* The statement says "there are leagues only", implying that leagues are the only option, but the context mentions "there's always a league bowling", which suggests that leagues are present, but not the only option.
+* The context has a casual tone and uses filler words like "uh" and "you know", which suggests that the speaker is not making a strong claim about not being able to bowl, but the statement makes a definitive claim.
+* The statement is an exaggeration or an overstatement, as it's unlikely that every time the speaker tries to go bowling, there are only leagues and they can't bowl.<|eot_id|>

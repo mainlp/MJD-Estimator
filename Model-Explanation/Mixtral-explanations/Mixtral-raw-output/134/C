@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: It has served as a fortress for the Gallo-Romans, the Visigoths, Franks, and medieval French (you can see the layers of their masonry in the ramparts). 
+Statement: The fortress was built by the medieval French in 1173. 
+Answer: [/INST] 1. The fortress was not built from scratch in 1173 by the medieval French.
+2. The medieval French may have used the existing fortress for their own purposes in 1173, but they did not build it.
+3. The statement is false because it implies that the medieval French were the only or the first to build the fortress, while the context indicates that it was built and occupied by several groups before them.</s>

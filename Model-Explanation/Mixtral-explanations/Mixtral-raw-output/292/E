@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The questions may need to be tailored to 
+Statement: A majority of the questions referenced will need to be tailored to. 
+Answer: [/INST] 1. The provided context discusses the need to tailor questions.
+2. The statement indicates that most of the questions mentioned in the context require tailoring.
+3. There is no contradiction between the context and the statement.
+4. The statement can be inferred from the context.
+5. The context suggests that some or all questions need to be modified, and the statement affirms that a majority of them will need to be tailored.</s>

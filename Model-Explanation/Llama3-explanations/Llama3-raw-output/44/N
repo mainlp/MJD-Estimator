@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: You have to walk through it). 
+Statement: Walking is the best way to get through it. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions that walking is a way to get through "it", but it doesn't provide any information about whether it's the best way or not.
+* The statement assumes a comparison with other ways to get through "it", but the context doesn't provide any alternatives to compare with.
+* The context doesn't provide any information about the nature of "it", which could affect the suitability of walking as a means to get through it.
+* The statement expresses a subjective opinion ("the best way"), but the context doesn't provide any objective criteria to support or refute this claim.
+* The context only mentions that walking is possible, but it doesn't provide any information about the efficiency, safety, or convenience of walking compared to other methods.<|eot_id|>

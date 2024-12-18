@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: News'cover says the proliferation of small computer devices and the ascendance of Web-based applications are eroding Microsoft's dominance. 
+Statement: Microsoft is a more profitable company than Apple. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The context implies Microsoft's dominance is eroding, suggesting a decline in its market position, which contradicts the idea that it is more profitable than Apple.
+* The rise of Web-based applications and small computer devices may be benefiting Apple more than Microsoft, leading to a shift in profitability.
+* Microsoft's traditional strengths are being challenged, making it less likely to be more profitable than Apple.
+* The context does not provide any information that would suggest Microsoft's profitability is increasing or surpassing that of Apple.
+* The focus on the erosion of Microsoft's dominance implies that Apple may be gaining ground, which would contradict Microsoft being more profitable.
+* The statement assumes a static market position, but the context suggests a dynamic shift in the market, making it unlikely that Microsoft is more profitable than Apple.<|eot_id|>

@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Each caters to a specific crowd, so hunt around until you find the one right for you. 
+Statement: There are marketers who have argued that there needs to be more effort to broaden appeal. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The context implies that catering to specific crowds is sufficient, so there is no need to broaden appeal.
+* The existence of multiple options for different crowds suggests that marketers have already made efforts to cater to various groups, making the argument for more effort unnecessary.
+* The phrase "hunt around until you find the one right for you" implies that individuals can find a suitable option among the existing ones, reducing the need for broader appeal.
+* The context focuses on the diversity of options, which contradicts the idea that more effort is needed to broaden appeal.<|eot_id|>

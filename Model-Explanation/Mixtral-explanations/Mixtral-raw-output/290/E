@@ -1,0 +1,18 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Total volume grew 13. 
+Statement: The expected increase was 10. 
+Answer: [/INST] 1. The growth of 13 exceeded the expected increase of 10.
+2. The actual volume increase surpassed the anticipated rise of 10.
+3. The total volume increased by more than the predicted 10.
+4. The volume growth was greater than the expected growth of 10.
+5. The final volume exceeded the projected volume increase of 10.
+6. The actual volume increase was larger than the expected growth of 10.
+7. The volume growth turned out to be higher than the anticipated 10.
+8. The total volume grew more than the expected 10.
+9. The volume increase exceeded the expectation of a 10 growth.
+10. The actual volume growth was above the expected 10.
+11. The volume increase went beyond the expected 10.
+12. The total volume growth surpassed the expectation of 10.
+13. The actual volume growth was greater than the expected 10.
+14. The volume growth turned out to be more than the expected 10.
+15. The actual volume growth exceeded the prediction of 10

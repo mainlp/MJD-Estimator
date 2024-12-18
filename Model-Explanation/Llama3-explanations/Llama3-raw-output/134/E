@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: It has served as a fortress for the Gallo-Romans, the Visigoths, Franks, and medieval French (you can see the layers of their masonry in the ramparts). 
+Statement: The fortress was built by the medieval French in 1173. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is not true (no entailment):
+
+* The context does not mention a specific year of construction, let alone 1173.
+* The context implies that the medieval French were one of the groups that used the fortress, but it does not state that they built it.
+* The context mentions "layers of their masonry in the ramparts", suggesting that multiple groups contributed to the construction of the fortress, but it does not attribute the entire construction to the medieval French.<|eot_id|>

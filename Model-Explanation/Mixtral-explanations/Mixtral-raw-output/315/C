@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The good news, however, can be found in reports like this one. 
+Statement: The good news is that the puppy's life was able to be saved. 
+Answer: [/INST] 1. The puppy's life could not be saved despite efforts.
+2. Reports indicate that the puppy did not survive.
+3. Contrary to reports, the puppy's life was not saved.
+4. The so-called "good news" did not apply to the puppy's situation.
+5. The "reports like this one" mentioned in the context did not contain good news about the puppy's survival.
+6. The statement is unrelated to the context, as there are no shared entities or topics between them.
+7. The context refers to a different set of reports, not including the one about the puppy.
+8. The "good news" in the context is about something else, not the puppy's life being saved.
+9. The context is misleading or false, implying good news when there is none regarding the puppy's life.
+10. The statement is a misunderstanding or misinterpretation of the actual news about the puppy.</s>

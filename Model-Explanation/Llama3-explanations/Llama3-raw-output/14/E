@@ -1,0 +1,16 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: wow who can afford that  my God i can't afford to miss a day let alone six 
+Statement: It's amazing that some people can afford to miss days from work, whereas I can't even afford to miss one. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The speaker is expressing astonishment at others' ability to afford missing days from work, implying they have a different financial situation.
+* The speaker's financial situation is precarious, making it impossible for them to afford missing even a single day of work.
+* The speaker is highlighting the contrast between their financial struggles and others' financial stability.
+* The speaker's income is heavily dependent on their daily work, making it essential for them to attend work every day.
+* The speaker is implying that others have a more secure or stable financial situation, allowing them to take time off without worrying about the consequences.
+* The speaker's expenses are so high that they cannot afford to miss a single day of work, whereas others may have more manageable expenses.
+* The speaker is emphasizing their own financial constraints, which are more restrictive than those of others.<|eot_id|>

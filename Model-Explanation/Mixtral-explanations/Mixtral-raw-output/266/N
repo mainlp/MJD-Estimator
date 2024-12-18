@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Jon twisted the man's wrist. 
+Statement: Jon grabbed the man. 
+Answer: [/INST] 1. The context does not specify when Jon grabbed the man.
+2. It's possible Jon grabbed the man before twisting his wrist.
+3. It's possible Jon grabbed the man after twisting his wrist.
+4. The context does not indicate who the man is or if Jon had permission to grab him.
+5. The context does not specify how Jon grabbed the man.
+6. It's possible Jon used a level of force that constitutes grabbing but not twisting the man's wrist.
+7. The context does not provide information about the relationship between Jon and the man, so it's unclear if Jon had the right to grab him.
+8. The context does not provide information about the situation or setting, so it's unclear if grabbing the man was appropriate or relevant.</s>

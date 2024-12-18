@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Suddenly she started, and her face blanched. 
+Statement: She moved swiftly, her face pale. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* "Started" implies sudden movement, which is equivalent to moving swiftly.
+* "Blanched" means her face became pale, which is equivalent to having a pale face.
+* The context describes a sudden reaction, and the statement is a plausible consequence of that reaction.
+* The use of "suddenly" in the context and "swiftly" in the statement suggests a rapid action, which is consistent with the described scenario.
+* The change in her facial expression (blanching) is likely accompanied by a physical response (moving swiftly), which is a common human reaction to sudden stimuli.<|eot_id|>

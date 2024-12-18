@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: He walked out into the street and I followed. 
+Statement: I followed him down the street. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions "I followed" but does not specify what or whom "I" followed, leaving the object of "followed" ambiguous.
+* The context does not provide enough information to determine whether "I" followed him down the street or just followed him out into the street.
+* The statement assumes a direction ("down the street") that is not present in the context, which only mentions walking out into the street.
+* The context does not rule out the possibility that "I" followed someone or something else, not necessarily "him".
+* The statement implies a specific path or route ("down the street") that is not supported by the context.<|eot_id|>

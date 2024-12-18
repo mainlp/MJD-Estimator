@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The long-sought, the mysterious, the elusive Jane Finn!  
+Statement: Jane Finn is as beautiful as she is mysterious. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only provides an emotional tone and a sense of intrigue about Jane Finn, but does not provide any information about her physical appearance or beauty.
+* The statement makes a claim about Jane Finn's beauty, which is not supported or contradicted by the context.
+* The context focuses on Jane Finn's mysterious nature, but does not provide any information that would allow us to infer her level of beauty.
+* The statement is making a subjective claim about Jane Finn's beauty, which cannot be verified or falsified based on the context.
+* The context does not provide any information about Jane Finn's physical appearance, making it impossible to determine whether the statement is true or false.
+* The statement is making a comparative claim (as beautiful as she is mysterious), but the context does not provide a clear understanding of what "mysterious" means in this context, making the comparison unclear.<|eot_id|>

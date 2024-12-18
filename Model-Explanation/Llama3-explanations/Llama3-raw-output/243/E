@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: oh that's not really important the the other stuff is just you know window dressing because we we've never ordered anything fact the the van that we've got we bought uh from an estate it was an estate trade uh it was almost brand new the the gentlemen who owned it had died 
+Statement: We were very lucky to get the van given how new it was. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+1. The van was almost brand new.
+2. It was bought from an estate sale, implying a good deal.
+3. The original owner had died, suggesting little to no use.
+4. The speaker considers the purchase a fortunate event.<|eot_id|>

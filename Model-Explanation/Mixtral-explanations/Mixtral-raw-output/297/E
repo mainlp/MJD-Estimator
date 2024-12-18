@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Three more days went by in dreary inaction. 
+Statement: The days passed by slowly. 
+Answer: [/INST] 1. The context states that three days went by, implying the passage of time.
+2. The word "dreary" suggests that these days were not exciting or eventful.
+3. "Inaction" indicates a lack of activity or movement.
+4. Therefore, the days passed by slowly due to the absence of things to break up the monotony.</s>

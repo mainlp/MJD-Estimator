@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Suddenly she started, and her face blanched. 
+Statement: She moved swiftly, her face pale. 
+Answer: [/INST] 1. The statement's action of moving swiftly could have occurred before or after the context's action of starting and face blanching.
+2. The statement's description of a pale face could be a continuation of the context's blanched face or a result of a different action.
+3. The intensity of the paleness in the statement might not be the same as the one in the context.
+4. The statement's "she" could be referring to a different person than the "she" in the context.
+5. The context's "suddenly" does not provide enough information to determine if it's related to the statement's "swiftly."
+6. The emotional state of the person in the statement is not clear, making it neutral if it's related to the context.
+7. The cause of the blanching in the context is not specified, leaving it undetermined if it's related to the statement.
+8. The statement's "swiftly" might not be indicative of a significant change from the context.
+9. The lighting conditions or other external factors could affect the perception of the face's color in both

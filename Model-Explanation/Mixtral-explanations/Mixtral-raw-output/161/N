@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Castlerigg near Keswick is the best example. 
+Statement: A good example would be Castlerigg near Keswick, in Scotland. 
+Answer: [/INST] 1. The statement incorrectly identifies the location of Castlerigg as Scotland instead of England.
+2. The statement may be using "Scotland" as a general term for a remote, scenic location, not realizing that Castlerigg is specifically in England.
+3. The statement could be referring to a different "Castlerigg" in Scotland, unrelated to the one near Keswick.
+4. The speaker of the statement may have a different understanding of "best example" compared to the speaker of the context, leading to a neutral classification.
+5. The statement may be using "best example" in a subjective sense, while the context uses it in an objective sense, leading to a neutral classification.
+6. The statement may be referring to a different type of "example" (e.g., a hypothetical or historical example) compared to the context, leading to a neutral classification.
+7. The statement may be using "example" to refer to a specific instance, while the context uses it to refer to a general category, leading to a neutral classification.
+8. The statement may be using "example" in a broader sense than the context, leading to a neutral classification.
+9

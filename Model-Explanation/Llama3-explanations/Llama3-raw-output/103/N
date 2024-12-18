@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: There are many such at the present time. 
+Statement: There are over two currently. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only provides a vague quantity ("many") without specifying a numerical value, making it impossible to determine if "over two" is true or false.
+* The context does not provide a clear definition of what "many" means in this context, which could be more or less than two.
+* The statement "over two" is too specific and does not provide enough information to determine its truth value based on the context.
+* The context only mentions the present time, but does not provide any information about the exact number of entities, making it impossible to determine if "over two" is true or false.
+* The statement "over two" could be true or false depending on the specific interpretation of "many", which is not provided in the context.<|eot_id|>

@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The standard technology assumptions of scenario A were used by EIA in the development of the AEO2001 reference case projections. 
+Statement: EIA used the standard technology assumptions to eliminate the AEO2001 reference case projections. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is NOT true (contradiction):
+
+* The context states that EIA "used" the standard technology assumptions, implying a positive action, whereas the statement claims EIA "used" them to "eliminate" the projections, implying a negative action.
+* The context mentions "development" of the projections, which implies creation or construction, whereas the statement claims EIA used the assumptions to "eliminate" the projections, implying destruction or removal.
+* There is no indication in the context that the standard technology assumptions were used to eliminate anything, let alone the AEO2001 reference case projections.<|eot_id|>

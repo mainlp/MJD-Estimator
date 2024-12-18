@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The road along the coastline to the south travels through busy agricultural towns and fishing villages untouched by tourism. 
+Statement: There are no tourists on the road through the agricultural towns and fishing villages. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+1. The road is untouched by tourism, implying a complete absence of tourists.
+2. The towns and villages are untouched by tourism, which means tourists do not visit them, and therefore, are not on the road that passes through them.
+3. The description of the towns and villages as "untouched by tourism" suggests that they are not tourist attractions, and as a result, tourists are not present on the road that goes through them.
+4. The focus on the road passing through "busy agricultural towns and fishing villages" implies that the road is primarily used by locals, and tourists are not among them.
+5. The phrase "untouched by tourism" creates a contrast between the described area and typical tourist destinations, implying that tourists are not found in this region, including on the road.<|eot_id|>

@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: For an authentic feel of old Portugal, slip into the cool entrance hall of theimpressive Leal Senado ( Loyal Senate building), a fine example of colonial architecture. 
+Statement: All that remains of  Leal Senado is old ruins. 
+Answer: [/INST] 1. The Leal Senado building was built during the colonial era and has been preserved to maintain its old Portuguese architecture.
+2. The term "old" in the statement refers to the historical significance and age of the Leal Senado building.
+3. The entrance hall mentioned in the context is still intact, but the rest of the building may have been destroyed, leaving only the old ruins.
+4. The context highlights the impressive colonial architecture of the Leal Senado building, implying its historical value, which is now reduced to ruins.
+5. The statement could be an exaggeration, and what remains of Leal Senado might be partially destroyed or significantly damaged structures, still giving the impression of "ruins."</s>

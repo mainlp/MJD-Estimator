@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: 'Dave Hanson, to whom nothing was impossible.' Well, we have a nearly impossible task: a task of engineering and building. 
+Statement: This building job is almost impossible, even for an experienced engineer. 
+Answer: [/INST] 1. The context refers to Dave Hanson's general ability to accomplish anything, but it does not specify his expertise in building or engineering.
+2. The statement does not indicate whether Dave Hanson will be involved in the building task.
+3. The term "nearly impossible" in the context might not be equivalent to "almost impossible" in the statement, leading to a lack of clarity.
+4. The context does not provide information about the specific challenges of the building job, making it unclear if Dave Hanson could overcome them.
+5. The statement does not specify if the experienced engineer is comparable to Dave Hanson in terms of skills and abilities.</s>

@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: You have to walk through it). 
+Statement: Walking is the best way to get through it. 
+Answer: [/INST] 1. The context does not specify what "it" refers to.
+2. "It" could be a physical space that can't be traversed by walking.
+3. "It" could be a situation that requires a different approach than walking.
+4. The context does not provide information about other possible ways to "get through it."
+5. The context does not indicate the speaker's preference or expertise in getting through "it."
+6. The context does not provide information about the speaker's physical abilities or limitations.
+7. The context does not indicate whether "it" is a time-sensitive matter.
+8. The context does not provide information about the resources or tools available for getting through "it."
+9. The context does not indicate the speaker's familiarity with the situation or location.
+10. The context does not provide information about the distance or difficulty of "getting through it."</s>

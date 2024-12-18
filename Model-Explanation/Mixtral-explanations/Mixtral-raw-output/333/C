@@ -1,0 +1,21 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Julius nodded gravely. 
+Statement: Julius loves to ask questions. 
+Answer: [/INST] 1. Julius dislikes asking questions.
+2. Julius is indifferent to asking questions.
+3. Julius is a fictional character who never asks questions.
+4. Julius is a robot that cannot ask questions.
+5. Julius is asleep and not asking questions.
+6. Julius is in a situation where he cannot ask questions.
+7. Julius is pretending to not ask questions.
+8. Julius has lost the ability to ask questions.
+9. Julius has been forbidden to ask questions.
+10. Julius has been instructed not to ask questions.
+11. Julius has been silenced and cannot ask questions.
+12. Julius has been threatened if he asks questions.
+13. Julius is under oath and cannot ask questions.
+14. Julius is in a coma and not asking questions.
+15. Julius is in a state of shock and not asking questions.
+16. Julius is in a place where asking questions is prohibited.
+17. Julius is in a situation where asking questions is inappropriate.
+18. Julius is in a context where asking

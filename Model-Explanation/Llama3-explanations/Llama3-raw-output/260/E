@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: An organization's activities, core processes, and resources must be aligned to support its mission and help it achieve its goals. 
+Statement: An organization is successful if its activities, resources, and goals align. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The alignment of activities, resources, and goals ensures the organization is working towards its mission, leading to success.
+* When an organization's activities, resources, and goals are aligned, it is able to effectively utilize its resources to achieve its objectives, resulting in success.
+* Alignment of activities, resources, and goals enables the organization to focus on its core processes, leading to efficient and effective operations, which in turn lead to success.
+* The alignment of activities, resources, and goals ensures that the organization is working towards a common objective, promoting unity of purpose and direction, which is a key factor in achieving success.
+* When an organization's activities, resources, and goals are aligned, it is able to make the most of its resources, minimize waste, and optimize performance, leading to success.
+* Alignment of activities, resources, and goals enables the organization to respond effectively to changes in its environment, adapt to new circumstances, and stay focused on its goals, leading to success.<|eot_id|>

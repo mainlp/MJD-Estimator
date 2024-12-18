@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Earlier this week, the Pakistani paper Dawn ran an editorial about reports that Pakistani poppy growers are planning to recultivate opium on a bigger scale because they haven't received promised compensation for switching to other crops. 
+Statement: It is illegal to grow opium in Pakistan. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* Pakistani poppy growers are planning to recultivate opium, implying that it is not illegal to grow opium in Pakistan.
+* If growing opium were illegal, the growers would not be planning to recultivate it on a bigger scale.
+* The editorial in Dawn reports on the plans of Pakistani poppy growers to recultivate opium, suggesting that the activity is not prohibited.
+* The growers are seeking compensation for switching to other crops, implying that growing opium was previously allowed or tolerated.
+* The fact that the growers are seeking compensation implies that they were initially allowed to grow opium and are now seeking restitution for changing their crops.<|eot_id|>

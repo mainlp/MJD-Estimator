@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The political cleansing that did not happen through the impeachment process leaves Clinton with a great and serious burden. 
+Statement: There was no such instance of political cleansing. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The context explicitly mentions "the political cleansing that did not happen", implying that there was an attempt or an instance of political cleansing.
+* The phrase "that did not happen" suggests that there was an expectation or an attempt at political cleansing, which did not succeed.
+* The use of "did not happen" implies that there was a possibility or an attempt at political cleansing, which was not fulfilled.
+* The context assumes that political cleansing was a possible or intended outcome of the impeachment process, which did not occur.
+* The phrase "leaves Clinton with a great and serious burden" implies that there are consequences or repercussions of the political cleansing, which would not be possible if there was no instance of political cleansing.<|eot_id|>

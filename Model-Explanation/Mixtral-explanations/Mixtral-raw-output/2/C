@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The governing statute provides that a committee consisting of the Comptroller General, the Speaker of the House and President Pro Tempore of the Senate, the Majority and Minority leaders, and the Chairmen and Ranking Minority Members of the Senate Governmental Affairs and House Government Reform Committees recommend an individual to the President for appointment. 
+Statement: The process is long and will be reformed in the coming years. 
+Answer: [/INST] 1. The appointment process is not lengthy as described in the context.
+2. The contextual appointment process will not undergo reform in the future.
+3. The statement implies that the reform is necessary due to the current lengthy process, but the context disproves this.
+4. The statement suggests that the reform is planned, yet the context does not provide any evidence of such plans.</s>

@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: It has served as a fortress for the Gallo-Romans, the Visigoths, Franks, and medieval French (you can see the layers of their masonry in the ramparts). 
+Statement: The fortress was built by the medieval French in 1173. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context mentions multiple groups (Gallo-Romans, Visigoths, Franks, and medieval French) contributing to the fortress, implying it was not built by a single group.
+* The context mentions "layers of their masonry in the ramparts", suggesting a gradual construction process over time, rather than a single event in 1173.
+* The context does not mention a specific date, 1173, for the construction of the fortress.
+* The medieval French are mentioned as one of the groups that used the fortress, but not as its sole builders.
+* The statement implies a single point of construction, whereas the context suggests a process of modification and addition over time.<|eot_id|>

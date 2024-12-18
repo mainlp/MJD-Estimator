@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: San'doro didn't make it sound hypothetical, thought Jon. 
+Statement: San'doro's words were hollow, and Jon knew the truth of that immediately. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* San'doro's words were not hollow, but rather convincing or sincere.
+* Jon did not know the truth of San'doro's words immediately, but rather was uncertain or needed more time to think about it.
+* San'doro's words were not immediately recognizable as hollow, but rather seemed plausible or believable at first.
+* Jon did not have a clear understanding of San'doro's words, and therefore could not determine if they were hollow or not.
+* San'doro's words were not intended to be taken as truth, but rather as a hypothetical or rhetorical statement.<|eot_id|>

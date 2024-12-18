@@ -1,0 +1,8 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: So it wasn't Missenhardt's singing--marvelous though that was--that made Osmin's rantings so thrilling. 
+Statement: Osmin was always calm and collected. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* None. The statement is actually false (contradiction) given the context, which suggests that Osmin's rantings were thrilling, implying that Osmin was not calm and collected.<|eot_id|>

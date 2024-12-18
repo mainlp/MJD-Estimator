@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: NEH-supported exhibitions were distinguished by their elaborate wall panels--educational maps, photomurals, stenciled treatises--which competed with the objects themselves for space and attention. 
+Statement: The exhibitions seem well-funded due to the elaborate detail of the gallery. 
+Answer: [/INST] 1. Lack of direct funding mention: The context does not explicitly state that NEH funding went towards the elaborateness of the exhibitions, only that they were distinctive for their detailed wall panels.
+2. Elaborate wall panels vs. overall gallery: The statement refers to the "gallery" being elaborate, while the context specifies only the "wall panels" are elaborate.
+3. Competing for space and attention: The context states that the elaborate wall panels competed with the objects for space and attention, which could imply inadequate funding.
+4. Cause and effect: The statement assumes that elaborate details indicate good funding, but the context does not necessarily support this causal relationship.</s>

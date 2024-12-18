@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: This having come to his stepmother's ears, she taxed him with it on the afternoon before her death, and a quarrel ensued, part of which was overheard.  
+Statement: A love affair sparked just moments before her death. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* There is no mention of a love affair in the context, so the statement is not entailed.
+* The context only mentions a quarrel between the stepmother and the person, which does not imply a love affair.
+* The quarrel was about the issue that the stepmother had heard, but the nature of the issue is not specified, and it does not suggest a romantic relationship.
+* The context only provides information about a conflict, not a romantic encounter.
+* The timing of the quarrel (afternoon before her death) does not imply a love affair.
+* The context does not provide any information about the person's romantic relationships or feelings.<|eot_id|>

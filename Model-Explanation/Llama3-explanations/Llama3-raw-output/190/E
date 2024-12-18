@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Whether a government postal service can engage in these kinds of negotiations deserves serious study. 
+Statement: There is serious study needed to check. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The context mentions "serious study" is needed to determine if a government postal service can engage in certain negotiations, and the statement says "serious study needed to check", implying that the study is needed to check or determine the same thing.
+* The phrase "deserves serious study" in the context implies that a thorough examination or investigation is required, and the statement "serious study needed to check" conveys the same idea.
+* The context and statement both convey the idea that a careful and thorough examination is necessary, which is the essence of "serious study".
+* The statement is a paraphrased version of the context, with "to check" being an implicit reference to the issue of whether a government postal service can engage in certain negotiations.<|eot_id|>

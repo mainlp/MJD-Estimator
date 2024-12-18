@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: He dismounted and Ca'daan saw he was smaller than the rest. 
+Statement: He was shorter than the others. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* "Smaller" refers to weight or build, not height.
+* "Smaller" is a subjective judgment, and Ca'daan's perception is incorrect.
+* "The rest" refers to a different group or category, not "the others".
+* The comparison is not about physical characteristics, but about something else (e.g., social status, experience).
+* The sentence "He dismounted" implies a non-human entity, and "smaller" is not applicable to it.
+* Ca'daan's observation is based on a misleading or incomplete view (e.g., he only saw him from a distance).<|eot_id|>

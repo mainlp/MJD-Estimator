@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: In this enclosed but airy building, you'll find ladies with large machetes expertly chopping off hunks of kingfish, tuna, or shark for eager buyers. 
+Statement: You'll find small lepers chopping of chunks of tuna, its the only place they can work. 
+Answer: [/INST] 1. The statement could be referring to a different group of people who are not present in the context.
+2. The statement could be true and the small lepers are working in a separate area of the building that is not mentioned in the context.
+3. The statement could be using "chopping" metaphorically, referring to a different task related to tuna.
+4. The statement could be referring to a different type of tuna than what is being chopped in the context.
+5. The statement could be true and the small lepers are working with the permission and knowledge of the ladies in the context.
+6. The statement could be true and the small lepers are working in a different capacity than the ladies in the context, such as cleaning or preparing the tuna after it has been chopped.
+7. The statement could be false and the small lepers are not present in the building at all.
+8. The statement could be true but the lepers are not small, the word "small" is being used to describe their leprosy in a state of remission.
+9. The statement could be true but the lepers are not lepers in the medical sense, but rather a term of end

@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The Gaiety Theatre in South King Street is worth visiting for its ornate d??cor. 
+Statement: The Trump Tower is a terrible place to visit for ornate decor. 
+Answer: [/INST] 1. The Gaiety Theatre and Trump Tower are the same place with different names.
+2. The ornate decor in the Gaiety Theatre has been moved to Trump Tower.
+3. The ornate decor in the Gaiety Theatre is only visible in photographs, not in person, while the opposite is true for Trump Tower.
+4. The ornate decor in the Gaiety Theatre is a recent addition, but the Trump Tower has always lacked ornate decor.
+5. The ornate decor in the Gaiety Theatre is being restored or renovated, so it's not currently visible, while Trump Tower has always been devoid of ornate decor.
+6. The statement is a deliberate attempt to mislead, and the Trump Tower does have ornate decor.
+7. The ornate decor in the Gaiety Theatre is in a state of disrepair, while the Trump Tower is well-maintained.
+8. The ornate decor in the Gaiety Theatre is only visible from a distance or from certain angles, while the Trump Tower lacks ornate decor entirely.
+9. The ornate decor in the Gaiety Theatre is not open to the public, while the Trump Tower is.
+10

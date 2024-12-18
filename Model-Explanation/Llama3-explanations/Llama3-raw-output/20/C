@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The newspaper publishes just one letter a week from a reader, always with an editorial riposte at the bottom. 
+Statement: There are many letters submitted each week, but only one is chosen. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement does not provide enough information to conclude that many letters are submitted each week.
+* The context does not mention the number of letters submitted, only that one is published.
+* The statement assumes that the newspaper receives many letters, but this is not explicitly stated in the context.
+* The context only mentions the publication of one letter, not the number of submissions.
+* The statement is an inference that cannot be logically deduced from the provided context.<|eot_id|>

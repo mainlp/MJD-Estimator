@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The Palace of Jahangir is built around a square court with arches. 
+Statement: The Palace of Jahangir houses a wonderful square court, complete with arches. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The Palace of Jahangir does not exist.
+* The Palace of Jahangir is not built around a square court.
+* The Palace of Jahangir is built around a square court, but it does not have arches.
+* The Palace of Jahangir has a square court, but it is not wonderful.
+* The square court in the Palace of Jahangir does not have arches.
+* The Palace of Jahangir does not house a square court.<|eot_id|>

@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The questions may need to be tailored to 
+Statement: There are some questions that may or may not need to be tailored to. 
+Answer: [/INST] 1. The context does not specify which questions are being referred to.
+2. It is unclear if the "questions" in the statement are the same as the "questions" in the context.
+3. The context may imply that all questions need to be tailored, or that none do, making the statement indeterminate.
+4. The statement could be true if some questions need to be tailored and some do not.
+5. The statement could be false if all questions either do or do not need to be tailored.
+6. The statement is too vague without further information about the questions and the tailoring process.
+7. The context may not provide enough information to determine if the questions need to be tailored or not.
+8. The statement is neutral because it does not provide enough information to confirm or contradict the context.</s>

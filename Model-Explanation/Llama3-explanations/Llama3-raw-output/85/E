@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: California is high 
+Statement: California is hyped up! 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are possible explanations why the statement is true (entailment):
+
+* "High" and "hyped up" are synonyms, both conveying a sense of excitement or enthusiasm.
+* "High" can imply a state of euphoria or elation, which is equivalent to being "hyped up".
+* "High" might refer to a state of heightened energy or arousal, which is similar to being "hyped up".
+* The phrase "California is high" could be interpreted as California being in a state of heightened excitement or anticipation, which is equivalent to being "hyped up".
+* "High" can be used to describe a sense of pride or confidence, which is similar to being "hyped up".
+* The statement "California is high" might be using "high" as a slang term to mean "excited" or "energized", which is equivalent to being "hyped up".<|eot_id|>

@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Ca'daan heard the Kal grunt and felt the horse lift. 
+Statement: The Kal heard Ca'daan grunt. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions Ca'daan hearing the Kal grunt, but not the other way around.
+* There is no explicit information about the Kal's auditory perception or reaction to Ca'daan's potential grunt.
+* The sentence structure and wording are similar, but the context does not provide enough evidence to infer that the Kal heard Ca'daan grunt.
+* The focus of the context is on Ca'daan's actions and perceptions, not the Kal's.
+* The context does not provide a clear causal relationship between Ca'daan's grunt and the Kal's hearing.
+* The statement is not logically entailed or contradicted by the context, leaving the relationship between Ca'daan's grunt and the Kal's hearing ambiguous.<|eot_id|>

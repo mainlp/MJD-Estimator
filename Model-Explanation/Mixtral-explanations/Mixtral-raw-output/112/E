@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: After shuttering the DOE, Clinton could depict himself as a crusader against waste and bureaucracy who succeeded where even Reagan failed. 
+Statement: Clinton shuttered the DOE to move against waste. 
+Answer: [/INST] 1. Clinton closing the DOE was a deliberate action to eliminate waste.
+2. Clinton's shuttering of the DOE was a successful attempt to address waste.
+3. The DOE was closed by Clinton as part of his crusade against waste.
+4. Clinton's closing of the DOE can be seen as a move against bureaucracy and waste.
+5. Clinton's efforts in shutting down the DOE were more successful than Reagan's in reducing waste.
+6. Clinton's depiction of himself as a waste fighter is supported by his decision to shutter the DOE.
+7. Clinton's success in closing the DOE demonstrates his commitment to fighting waste.
+8. The closure of the DOE by Clinton was a direct response to the existence of waste.
+9. Clinton's shuttering of the DOE was a way of proving that he is more capable than Reagan in eliminating waste.
+10. Clinton's decision to shut down the DOE was driven by his desire to reduce waste and bureaucracy.</s>

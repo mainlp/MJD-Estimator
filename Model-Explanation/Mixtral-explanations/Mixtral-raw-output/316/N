@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: This one ended up being surprisingly easy! 
+Statement: This question was very easy to answer. 
+Answer: [/INST] 1. The statement could be referring to a different question, not the one mentioned in the context.
+2. The speaker's definition of "easy" might not be the same as the one in the context.
+3. The context could be referring to the overall task being easy, while the statement is about the specific question being easy.
+4. The statement could be expressing the speaker's subjective experience, while the context is based on the speaker's objective observation.
+5. The context could be using irony or sarcasm, implying that the question was actually difficult, while the statement is genuinely expressing that the question was easy.
+6. The context could be referring to the ease of understanding the question, while the statement is about the ease of finding the answer.
+7. The context could be referring to the ease of completing the question quickly, while the statement is about the ease of getting the correct answer.
+8. The context could be referring to the ease of the question for a particular group of people, while the statement is about the ease of the question for the speaker.
+9. The context could be referring to the ease of the question in a specific domain, while the statement is about

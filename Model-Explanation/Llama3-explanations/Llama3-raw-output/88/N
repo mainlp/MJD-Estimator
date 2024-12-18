@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Don't take it to heart, lad, he said kindly. 
+Statement: He was trying to console the lad. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only provides the tone of the speaker ("kindly") but not their intention, which might be different from consolation.
+* The phrase "don't take it to heart" is ambiguous and could be used in various situations, not just consolation.
+* The speaker's words might be sarcastic or ironic, which would contradict the idea of consolation.
+* The context lacks information about the situation or event that prompted the speaker's words, making it difficult to determine their intention.
+* The speaker's tone ("kindly") could be genuine or feigned, which affects the interpretation of their intention.
+* The statement assumes a specific emotional state of the lad (e.g., being upset), which is not explicitly mentioned in the context.
+* The context does not provide enough information to rule out alternative explanations for the speaker's words, such as offering advice or making a statement of fact.<|eot_id|>

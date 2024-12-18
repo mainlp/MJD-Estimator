@@ -1,0 +1,15 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: and the other thing is the cost it's almost prohibitive to bring it to a dealer 
+Statement: The cost of fixing it makes it hard to bring it to a dealer. 
+Answer: [/INST] 1. The high cost of fixing the item makes it difficult for people to afford taking it to a dealer.
+2. The expensive repair fees act as a barrier for people to bring the item to a dealer.
+3. The considerable cost of fixing the item makes it challenging to transport it to a dealer.
+4. The high repair expenses hinder the ability to bring the item to a dealer.
+5. The considerable financial burden of fixing the item results in people finding it hard to bring it to a dealer.
+6. The high cost of repairing the item makes it almost impossible for people to consider bringing it to a dealer.
+7. The expensive repair costs make it difficult for people to think about taking the item to a dealer.
+8. The high financial burden of fixing the item makes it a challenge for people to bring it to a dealer.
+9. The considerable expense of repairing the item makes it difficult for people to contemplate bringing it to a dealer.
+10. The high cost of repairing the item makes it unfeasible for people to transport it to a dealer.
+11. The high repair costs make it financially challenging for people to bring the item to a dealer.
+12

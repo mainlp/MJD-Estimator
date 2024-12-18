@@ -1,0 +1,20 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: We have done that spectacularly. 
+Statement: Spectacular results was the only way to describe the impact of our past work. 
+Answer: [/INST] 1. The past work resulted in poor performance, not spectacular.
+2. The past work had a minimal impact, not described as spectacular.
+3. The past work was unremarkable, not described as spectacular.
+4. The past work was disappointing, not described as spectacular.
+5. The past work was mediocre, not described as spectacular.
+6. The past work was described as a failure, not spectacular.
+7. The past work was described as unsuccessful, not spectacular.
+8. The past work was described as below average, not spectacular.
+9. The past work was described as lackluster, not spectacular.
+10. The past work was described as insignificant, not spectacular.
+11. The past work was described as negative, not spectacular.
+12. The past work was described as poor, not spectacular.
+13. The past work was described as below expectations, not spectacular.
+14. The past work was described as not meeting goals, not spectacular.
+15. The past work was described as not successful, not spectacular.
+16. The past work was described as underperforming, not spectacular.
+17.

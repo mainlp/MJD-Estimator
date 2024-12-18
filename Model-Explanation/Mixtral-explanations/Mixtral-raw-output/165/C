@@ -1,0 +1,15 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Credibility is a vital factor, and Jim Lehrer does, indeed, have it. 
+Statement: Everyone would believe whatever Jim Lehrer said. 
+Answer: [/INST] 1. Jim Lehrer could have a history of making inaccurate statements.
+2. People might not trust Jim Lehrer's judgment on certain topics.
+3. Some individuals may have personal biases against Jim Lehrer.
+4. Jim Lehrer could be expressing personal opinions, not facts.
+5. The audience might lack the necessary background knowledge to believe him.
+6. Jim Lehrer could be speaking in a joking or sarcastic manner.
+7. Some people might not find Jim Lehrer's credibility relevant to the topic.
+8. The audience might not pay attention to what Jim Lehrer is saying.
+9. Jim Lehrer could be misinterpreted or misunderstood.
+10. The audience might not consider Jim Lehrer a credible source due to their own preconceived notions.
+
+Please note that these explanations are hypothetical and do not necessarily reflect reality. They are merely possible reasons why the statement "Everyone would believe whatever Jim Lehrer said" could be false given the context "Credibility is a vital factor, and Jim Lehrer does, indeed, have it."</s>

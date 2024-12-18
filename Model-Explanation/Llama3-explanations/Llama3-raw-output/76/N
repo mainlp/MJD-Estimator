@@ -1,0 +1,16 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: and my and my part-time work you know it's not our the restaurant our favorite restaurant in the town of Salisbury where actually we live you know where my where i'll return to my job or whatever we can normally eat out for um under fourteen dollars 
+Statement: My first part time job was in a restaurant in Salisbury where you could eat out for under $14. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions the speaker's current part-time job, not their first part-time job.
+* The context does not provide information about the speaker's first part-time job, only their current job and eating habits.
+* The context mentions the speaker's favorite restaurant, but it is unclear if this is the same restaurant where they had their first part-time job.
+* The context does not explicitly state the speaker's first part-time job was in the same restaurant they currently work at.
+* The context only mentions the affordability of eating out, but not the speaker's work history.
+* The statement assumes a specific restaurant, but the context does not confirm this.
+* The context does not provide enough information to determine if the speaker's first part-time job was in Salisbury or somewhere else.<|eot_id|>

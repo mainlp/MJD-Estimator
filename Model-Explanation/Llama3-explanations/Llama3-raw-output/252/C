@@ -1,0 +1,10 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Catch up on the Indian avant-garde and the bohemian people of Caletta at the Academy of Fine Arts on the southeast corner of the Maidan. 
+Statement: The Academy of Fine Arts is located in Northern Maidan. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The Academy of Fine Arts is located on the southeast corner of the Maidan, which is not in the northern part of the Maidan.
+* The location "southeast corner" is mutually exclusive with "Northern Maidan".
+* The context explicitly mentions the location of the Academy of Fine Arts as the southeast corner, which contradicts the statement's claim of it being in the Northern Maidan.<|eot_id|>

@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Mack Lee, Body Servant of General Robert E. Lee Through the Civil War, published in 1918. 
+Statement: The book was first drafted in early 1915. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are possible explanations why the statement is true:
+
+* The book was published in 1918, which implies that it was written before that, and 1915 is a plausible time for the drafting to have occurred.
+* The time gap between 1915 and 1918 is sufficient for the drafting, editing, and publishing process to have taken place.
+* The author, Mack Lee, may have started writing the book in 1915 and took around three years to complete it.
+* The book's content, being a memoir or biography, may have required research and reflection, which could have begun in 1915.
+* Mack Lee may have been inspired to write the book in 1915, possibly due to a significant event or anniversary related to the Civil War.<|eot_id|>

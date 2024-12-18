@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Sphinxes were guardian deitiesinEgyptianmythologyandthis was monumentalprotection,standing73 m (240 ft)longand20 m (66 feet) high. 
+Statement: Sphinxes were put in the tombs to protect the dead. 
+Answer: [/INST] 1. Sphinxes, as guardian deities in Egyptian mythology, were associated with protection.
+2. The protective nature of Sphinxes in Egyptian mythology was monumental, indicating a significant form of protection.
+3. The large size of Sphinxes in Egyptian mythology (73 m long and 20 m high) suggests they were meant to guard something of great importance.
+4. The context implies a connection between Sphinxes and tombs, as they were placed as guardian deities in Egyptian mythology.
+5. The association of Sphinxes with the protection of the dead is a common theme in Egyptian mythology.</s>

@@ -1,0 +1,16 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The large scale production of entertainment films is a phenomenon well worth seeing several times. 
+Statement: The production of entertainment films is elaborate and large scaled. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context only mentions that the large scale production of entertainment films is worth seeing, but does not explicitly state that the production is elaborate.
+* The context does not provide enough information to determine if the production is elaborate, only that it is large scale.
+* The term "well worth seeing" is subjective and does not provide a clear indication of the production's characteristics, such as being elaborate.
+* The context focuses on the value of the production being worth seeing, rather than its specific features or qualities.
+* The statement assumes a specific meaning of "elaborate" which is not explicitly supported by the context.
+* The context does not provide a clear definition of what "large scale" means in this context, which makes it difficult to determine if it implies "elaborate".
+* The statement is making an inference about the production's characteristics based on the context, but the context does not provide enough evidence to support or refute this inference.<|eot_id|>

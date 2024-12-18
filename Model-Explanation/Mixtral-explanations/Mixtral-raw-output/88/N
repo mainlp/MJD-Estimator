@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Don't take it to heart, lad, he said kindly. 
+Statement: He was trying to console the lad. 
+Answer: [/INST] 1. The context only indicates that the speaker said something kindly to the lad.
+2. There is no explicit mention of an attempt to console in the context.
+3. The speaker's tone of voice could be kind for a reason other than consolation.
+4. The context does not provide enough information about the situation or the speaker's intentions.
+5. The statement could be true, but the context does not provide sufficient evidence to confirm it.
+6. The speaker's kind words might not have been directed towards the lad's emotional state.
+7. The speaker's kind words could have been a response to something the lad said or did, rather than an attempt to console.
+8. The context does not provide information about the speaker's relationship with the lad, which could affect the interpretation of the speaker's kind words.
+9. The speaker's kind words could have been a one-time gesture, rather than part of an ongoing attempt to console the lad.
+10. The context does not provide information about the lad's reaction to the speaker's kind words, which could affect the interpretation of the speaker's intentions.</s>

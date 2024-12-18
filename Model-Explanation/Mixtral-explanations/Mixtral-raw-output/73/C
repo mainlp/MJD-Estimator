@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: There's a lot of villas all the way along, but by degrees they seemed to get more and more thinned out, and in the end we got to one that seemed the last of the bunch. 
+Statement: There were only a few villas the whole way along, until we reached a small village that seemed to be the end. 
+Answer: [/INST] 1. Contradiction in number: The statement says "there were only a few villas" while the context mentions "a lot of villas."
+2. Contradiction in distribution: The statement implies that the villas were concentrated in one small area ("until we reached a small village") whereas the context suggests that they were spread out along the way.
+3. Contradiction in the "last" villa: The statement suggests that the villa they reached was not the "last of the bunch," contradicting the context.
+4. Contradiction in the existence of a village: The statement mentions reaching a "small village," which is not mentioned in the context.</s>

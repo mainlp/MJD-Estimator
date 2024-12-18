@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: By seeding packs with a few high-value cards, the manufacturer is encouraging kids to buy Pokemon cards like lottery tickets. 
+Statement: Each Pokemon card pack is filled with every rare card a kid could want. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement implies that every pack has all rare cards, but the context suggests that only a few high-value cards are included to encourage kids to buy more packs.
+* The context implies that the rarity of cards is used to motivate kids to buy more packs, which would not be the case if every pack had all rare cards.
+* The statement suggests that kids can get all the rare cards they want in a single pack, but the context implies that the manufacturer is using the rarity of cards to encourage repeat purchases.
+* The presence of "a few" high-value cards in the context contradicts the idea that every pack has every rare card a kid could want.
+* The context implies that the distribution of rare cards is limited and unpredictable, like a lottery, which contradicts the idea that every pack has all rare cards.<|eot_id|>

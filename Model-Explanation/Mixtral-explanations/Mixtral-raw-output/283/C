@@ -1,0 +1,15 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The Palace of Jahangir is built around a square court with arches. 
+Statement: The Palace of Jahangir houses a wonderful square court, complete with arches. 
+Answer: [/INST] 1. The Palace of Jahangir does not contain a square court anymore.
+2. The square court in the Palace of Jahangir has been destroyed.
+3. The square court in the Palace of Jahangir is not part of the palace anymore.
+4. The square court in the Palace of Jahangir has no arches.
+5. The arches in the Palace of Jahangir are not located in the square court.
+6. The square court with arches is not housed within the Palace of Jahangir.
+7. The wonderful square court with arches is not located in the Palace of Jahangir.
+8. The description of the square court in the Palace of Jahangir is not accurate or true.
+9. The statement is outdated, and the Palace of Jahangir no longer has a square court with arches.
+10. The square court with arches is not wonderful in the Palace of Jahangir.
+11. The speaker is mistaken about the Palace of Jahangir having a square court with arches.
+12. The statement is a deliberate lie to mislead the listener about the Palace of Jahangir.</s>

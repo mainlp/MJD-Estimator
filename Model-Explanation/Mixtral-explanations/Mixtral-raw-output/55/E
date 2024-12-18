@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: kind of kind of nothing i won't have anything to do with 
+Statement: I don't want anything to do with it, no doubts about it. 
+Answer: [/INST] 1. The statement "I don't want anything to do with it, no doubts about it" indicates a firm decision to not be involved.
+2. The context "kind of kind of nothing i won't have anything to do with" suggests a reluctance or disinclination to have anything to do with something.
+3. The statement is a stronger expression of disinterest than the context, indicating a clear entailment.
+4. The statement's assertion "no doubts about it" emphasizes the speaker's certainty in not wanting to be involved, aligning with the context's assertion of having "nothing to do with".
+5. The context's repetition of "kind of" may imply a level of hesitation, but the statement's direct language shows no such hesitation, confirming the entailment.</s>

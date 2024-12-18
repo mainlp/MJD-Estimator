@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Bauerstein had been at Styles on the fatal night, and added: "He said twice: 'That alters everything.' And I've been thinking.  
+Statement: The fact that Styles was at Bauerstein changes everything. 
+Answer: [/INST] 1. Bauerstein's presence at Styles on the night in question was acknowledged by the statement "Bauerstein had been at Styles on the fatal night."
+2. The statement "He said twice: 'That alters everything'" implies that Styles' presence had a significant impact.
+3. The pronoun "that" in Styles' statement refers to his own presence, as indicated by the context "Bauerstein had been at Styles on the fatal night."
+4. The repetition of the phrase "That alters everything" emphasizes the importance of Styles' presence.
+5. The statement "I've been thinking" suggests that Bauerstein has been contemplating the implications of Styles' presence.
+6. The fact that the statement "The fact that Styles was at Bauerstein changes everything" is presented as a fact implies that it is a widely accepted or proven truth.</s>

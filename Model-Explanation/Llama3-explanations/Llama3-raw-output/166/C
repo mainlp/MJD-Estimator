@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: right oh they've really done uh good job of keeping everybody informed of what's going on sometimes i've wondered if it wasn't almost more than we needed to know 
+Statement: I think I have shared too much information with everyone, so next year I will share less.  
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The speaker is praising the effort of keeping everyone informed, implying they think it's a good thing.
+* The speaker wonders if it's almost more than needed, suggesting they don't think it's too much.
+* There is no indication the speaker is the one who shared the information in the first place.
+* The speaker's tone is appreciative, not regretful or concerned about sharing too much.
+* The context is about someone else's (they've) effort, not the speaker's own actions.<|eot_id|>

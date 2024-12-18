@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Standard screens may not perform as well in these patient subgroups that may represent a considerable part of the ED population. 
+Statement: The subgroups may not perform well in standard screens. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is reversing the subject and object of the original sentence, making it unclear if the subgroups are performing poorly or the standard screens are performing poorly on the subgroups.
+* The original sentence implies that the standard screens may not perform well on the subgroups, but it does not provide information about the subgroups' performance on standard screens.
+* The statement is using the same words as the original sentence, but with a different meaning, making it unclear what is meant by "perform well".
+* The context only provides information about the performance of standard screens on the subgroups, but not about the performance of the subgroups on standard screens.
+* The statement is ambiguous and could be interpreted in multiple ways, making it difficult to determine its truth value.
+* The original sentence is talking about the performance of standard screens, while the statement is talking about the performance of the subgroups, which is a different topic.
+* The statement is not providing any new information, but rather rephrasing the original sentence in a way that changes its meaning.<|eot_id|>

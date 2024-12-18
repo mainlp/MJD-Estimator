@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: However, the other young lady was most kind.  
+Statement: I received a warm welcome from the other young lady who was present. 
+Answer: [/INST] 1. The "other young lady" in the statement is the same person referred to as "the other young lady" in the context.
+2. The "warm welcome" mentioned in the statement is synonymous with a kind reception.
+3. The kindness of the "other young lady" in the context is expressed through her welcoming actions towards the speaker in the statement.
+4. The speaker's reception by the "other young lady" is described in a positive manner in the statement, aligning with the context's description of her kindness.</s>

@@ -1,0 +1,16 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Perhaps a further password would be required, or, at any rate, some proof of identity. 
+Statement: Identity should be a minimum requirement. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context only mentions "some proof of identity" as a possibility, but does not imply that identity should be a minimum requirement.
+* The context does not provide enough information to determine whether identity is already a minimum requirement or not.
+* The statement is a subjective opinion, and the context does not provide an objective fact to support or contradict it.
+* The context is discussing the possibility of a further password or proof of identity, but does not make a claim about the current requirements.
+* The statement is a general statement, and the context is discussing a specific situation, making it unclear how the statement applies to the context.
+* The context does not provide enough information to determine whether the minimum requirement is already in place or not.
+* The statement is a value judgment, and the context does not provide enough information to determine whether the value judgment is correct or not.<|eot_id|>

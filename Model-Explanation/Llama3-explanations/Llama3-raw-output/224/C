@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The centralization dear to Richelieu and Louis XIV was becoming a reality. 
+Statement: Louis XIV cared a lot about centralization of his country and people. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The context only mentions that centralization was becoming a reality, but it does not explicitly state that Louis XIV cared about it.
+* The phrase "dear to Richelieu and Louis XIV" implies that centralization was a goal or ideal of both individuals, but it does not necessarily mean that Louis XIV cared about it in the sense of being emotionally invested.
+* The context focuses on the outcome (centralization becoming a reality) rather than Louis XIV's personal feelings or motivations.
+* The statement assumes a level of emotional investment or personal interest on the part of Louis XIV, which is not supported by the context.
+* The context presents centralization as a policy or goal, rather than a personal preference or emotional concern of Louis XIV.<|eot_id|>

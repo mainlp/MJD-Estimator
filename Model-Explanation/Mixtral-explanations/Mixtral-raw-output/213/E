@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Generally, FGD systems tend to be constructed closer to the ground compared to SCR technology retrofits. 
+Statement: FGD systems tend to replicate SCR systems. 
+Answer: [/INST] 1. The context could be referring to the physical proximity of FGD systems to the ground, while the statement is using "constructed closer" metaphorically to mean that FGD systems are more similar to SCR systems in their design or functionality.
+2. The context could be referring to the initial construction of FGD systems, while the statement is referring to the subsequent adaptation of FGD systems to function more like SCR systems.
+3. The context could be referring to FGD systems in general, while the statement is referring to a specific type of FGD system that replicates the functionality of SCR systems.
+4. The context could be comparing FGD systems to SCR technology retrofits, while the statement is comparing FGD systems to SCR systems directly.
+5. The context could be referring to the construction of FGD systems being closer to the ground in terms of cost or complexity, while the statement is referring to FGD systems replicating the performance or effectiveness of SCR systems.</s>

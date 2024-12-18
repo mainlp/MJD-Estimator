@@ -1,0 +1,16 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: But I'll take up my stand somewhere near, and when he comes out of the building I'll drop a handkerchief or something, and off you go!" 
+Statement: I want you to follow him, so watch for the signal that I give. 
+Answer: [/INST] 1. The context does not specify whether the signal has been given or not.
+2. It is unclear if the speaker's "he" and the statement's "him" refer to the same person.
+3. The context does not indicate if the speaker will be in a position to give a signal.
+4. The statement does not confirm if the listener is in a position to see the signal.
+5. The context does not clarify what the signal will be, so it cannot be determined if it has been given.
+6. The speaker's ability to give a signal is not confirmed in the context.
+7. The context does not reveal if the listener is ready to follow the signal.
+8. The statement does not specify when the listener should start following.
+9. The context does not confirm if the building has only one exit.
+10. The speaker's visibility from the building exit is not confirmed in the context.
+11. The context does not reveal if any obstacles might prevent the signal from being seen.
+12. The statement does not indicate if the listener is already watching for the signal.
+13. The context does not reveal if the speaker has the necessary

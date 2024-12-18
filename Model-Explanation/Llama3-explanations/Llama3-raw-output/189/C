@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: In a six-year study, scientists fed dogs and other animals irradiated chicken and found no evidence of increased cancer or other toxic effects. 
+Statement: Scientists gave animals irradiated chicken and they all lived as long as the rest of them. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement implies that the animals lived as long as the rest of them, but the context only mentions the absence of increased cancer or toxic effects, not the longevity of the animals.
+* The context does not provide information about the lifespan of the animals, so it cannot be inferred that they lived as long as the rest of them.
+* The phrase "as long as the rest of them" is ambiguous and could refer to different groups of animals, making it unclear what the statement is comparing.
+* The study only found no evidence of increased cancer or toxic effects, but it does not imply that the animals were completely unaffected by the irradiated chicken.
+* The statement implies a causal relationship between the irradiated chicken and the animals' lifespan, which is not supported by the context.<|eot_id|>

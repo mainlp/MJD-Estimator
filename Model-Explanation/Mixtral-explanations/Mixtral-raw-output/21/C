@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Meanwhile, a site established for the WorldAid '96 Global Expo and Conference on Emergency Relief, which took place last fall, gives you a firsthand glimpse of the frequently crass world of the relief business (note the long list of commercial exhibitors in attendance). 
+Statement: WorldAid had a GLobal expo in 2002. 
+Answer: [/INST] 1. The Global Expo by WorldAid mentioned in the context took place in fall of the previous year, not 2002.
+2. The Global Expo by WorldAid occurred only once, and it was in 1996.
+3. The statement neglects the fact that the Global Expo by WorldAid is an annual event, and 2002 was not the year it occurred.
+4. The Global Expo by WorldAid did not take place in 2002, as the context refers to the '96 event.
+5. The statement is incorrect as the Global Expo by WorldAid in 2002 is not mentioned or implied in the context.
+6. The context focuses on the '96 Global Expo by WorldAid, making no reference to any event in 2002.
+7. The statement is false as the Global Expo by WorldAid in 1996 was the latest one, with no mention of a 2002 event.
+8. The context indicates that the relief business event was specific to '96, not 2002.
+9. The

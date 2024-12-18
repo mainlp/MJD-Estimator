@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: You see, he said sadly, "you have no instincts." 
+Statement: He said that I had no willpower. 
+Answer: [/INST] 1. He equates lack of instincts with lack of willpower.
+2. He considers instincts and willpower to be similar in nature.
+3. He believes that having instincts is necessary for having willpower.
+4. He thinks that the absence of instincts implies the absence of willpower.
+5. He used "no instincts" as a metaphorical way of saying "no willpower".
+6. He mistakenly used the term "instincts" when he meant to say "willpower".
+7. He intentionally replaced "willpower" with "instincts" to emphasize his point.
+8. He believes that having no instincts is a sign of weak willpower.
+9. He used "instincts" as a euphemism for "willpower".
+10. He holds the opinion that instincts and willpower are interchangeable concepts.</s>

@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: oh wow no i just started about well five years ago i think 
+Statement: It had started five years ago. 
+Answer: [/INST] 1. The speaker began something around the time they were referring to.
+2. The speaker's experience or event they mentioned started in the past, around five years ago.
+3. The speaker is reminiscing about an event or situation that started in the past, specifically five years ago.
+4. The speaker's statement implies that the onset of the event or experience occurred five years ago, which aligns with the statement provided.</s>

@@ -1,0 +1,18 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Next, you enter the vast and splendid Imperial Hall, with three handsome marble fountains, and a canopied throne from which the sultan would enjoy the music and dancing of his concubines. 
+Statement: The sultan enjoyed drinking from the marble fountains in the Imperial Hall. 
+Answer: [/INST] 1. The sultan never drank from the marble fountains.
+2. The marble fountains were decorative and not functional.
+3. The sultan was too tall to drink from the fountains.
+4. The sultan was not present in the Imperial Hall when the fountains were filled with water.
+5. The sultan disliked the taste of the water in the fountains.
+6. The sultan was physically unable to drink from the fountains.
+7. The sultan was unaware that he could drink from the fountains.
+8. The sultan preferred to drink from a different source.
+9. The sultan was not allowed to drink from the fountains.
+10. The sultan was not interested in drinking from the fountains.
+11. The sultan was not aware of the presence of the marble fountains.
+12. The sultan was not in the Imperial Hall when the statement was made.
+13. The statement is not referring to the same Imperial Hall.
+14. The statement is not referring to the same sultan.
+15. The statement is a fabrication or false

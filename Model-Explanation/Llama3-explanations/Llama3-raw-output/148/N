@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The policy succeeded, and I was fortunate to have had the opportunity to make that contribution to my people. 
+Statement: Because the policy was a success, I was able to make a contribution to my people. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context does not explicitly state that the policy's success was the cause of the speaker's contribution, only that both events occurred.
+* The context implies that the speaker's contribution was part of the policy, but it's unclear if the policy's success was necessary for the contribution to be made.
+* The statement assumes a causal relationship between the policy's success and the speaker's contribution, but the context only provides a temporal relationship.
+* The context focuses on the speaker's fortune in having the opportunity to make a contribution, rather than the policy's success being the direct cause of that opportunity.
+* The statement's wording is similar to, but not identical with, the context, leaving room for alternative interpretations.<|eot_id|>

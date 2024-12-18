@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: He'd gone a long way on what he'd found in one elementary book. 
+Statement: He learned a lot from that elementary book. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions that he'd gone a long way, but it's unclear what "a long way" means in this context, leaving the extent of his learning ambiguous.
+* The phrase "on what he'd found" is vague and doesn't explicitly imply that he learned a lot.
+* The context doesn't provide a direct causal link between the book and his learning, making it uncertain if the book was the primary source of his knowledge.
+* The statement assumes that "gone a long way" is equivalent to "learned a lot", which might not be the case.
+* The context doesn't rule out the possibility that he learned from other sources in addition to the elementary book, making it unclear if the book was the primary source of his learning.
+* The phrase "gone a long way" could imply progress or achievement, but not necessarily learning or acquiring knowledge.<|eot_id|>

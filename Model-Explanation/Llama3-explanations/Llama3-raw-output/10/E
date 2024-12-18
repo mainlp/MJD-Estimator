@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The door did not budge. 
+Statement: The door was stuck, so it did not move.  
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The door's failure to budge implies it was stuck, and as a result, it did not move.
+* The door's immobility is attributed to its stuck state, which is consistent with it not budging.
+* The phrase "did not budge" is a synonym for "did not move", and the additional information "it was stuck" provides a reason for this immobility.
+* The stuck state of the door is a sufficient condition for it not to move, and the context confirms this condition was met.
+* The door's lack of movement is a direct consequence of its stuck state, which is implied by the context.<|eot_id|>

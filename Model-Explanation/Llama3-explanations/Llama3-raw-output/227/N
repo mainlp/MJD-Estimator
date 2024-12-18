@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: and the other thing is the cost it's almost prohibitive to bring it to a dealer 
+Statement: The cost of fixing it makes it hard to bring it to a dealer. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is a paraphrase of the context, but it's not clear if it's a direct consequence or a related idea.
+* The context mentions "the cost" without specifying what cost, while the statement specifies "the cost of fixing it", which might be a subset of the original cost.
+* The context uses "almost prohibitive" to describe the cost, while the statement uses "makes it hard", which are similar but not identical sentiments.
+* The context implies that the cost is a major obstacle, while the statement only says it's a contributing factor.
+* The statement could be seen as a more general statement about the cost of fixing something, rather than a direct reference to the context.
+* The context and statement have different grammatical structures, which might affect their meaning and relationship.<|eot_id|>

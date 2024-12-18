@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: you can get a hard copy of it and that's about it 
+Statement: An email won't cut it. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* An email can serve as a substitute for a hard copy.
+* An email is sufficient for the purpose.
+* An email is an acceptable alternative to a hard copy.
+* An email can fulfill the same function as a hard copy.
+* An email is not inferior to a hard copy in this context.<|eot_id|>

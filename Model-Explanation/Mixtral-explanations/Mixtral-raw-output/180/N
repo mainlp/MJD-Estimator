@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: By seeding packs with a few high-value cards, the manufacturer is encouraging kids to buy Pokemon cards like lottery tickets. 
+Statement: Each Pokemon card pack is filled with every rare card a kid could want. 
+Answer: [/INST] 1. The context only mentions that a few high-value cards are included in some packs, not all packs.
+2. The statement doesn't specify if every rare card is included in each pack.
+3. The manufacturer could be producing different packs with different high-value cards.
+4. The manufacturer might not include the same set of high-value cards in every pack.
+5. The statement doesn't clarify if the kids want all the rare cards or just some of them.
+6. The context and statement come from different sources, so they might not be related.
+7. The manufacturer could be producing limited edition packs with specific high-value cards.
+8. The manufacturer might not consider all rare cards as high-value.
+9. The manufacturer could be producing packs with a mix of high-value and low-value cards.
+10. The statement doesn't indicate if the packs contain only rare cards or also common cards.</s>

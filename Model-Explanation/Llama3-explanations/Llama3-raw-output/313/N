@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: 5 are highly correlated during summer months in some areas. 
+Statement: Six are correlated to winter in certain areas. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions correlation during summer months, but the statement talks about correlation to winter, which is a different season.
+* The context mentions "some areas", but the statement mentions "certain areas", which may or may not be the same areas.
+* The context mentions "5 are highly correlated", but the statement mentions "Six are correlated", which is a different number.
+* The context does not provide any information about the correlation of 6 items to winter in certain areas, so it cannot be inferred.
+* The statement is too vague and does not provide enough information to determine its truth value based on the context.<|eot_id|>

@@ -1,0 +1,8 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: For an authentic feel of old Portugal, slip into the cool entrance hall of theimpressive Leal Senado ( Loyal Senate building), a fine example of colonial architecture. 
+Statement: All that remains of  Leal Senado is old ruins. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* No explanation is possible, as the statement is actually a contradiction (contradiction) given the context. The context describes the Leal Senado as an "impressive" building and a "fine example of colonial architecture", implying that it is well-preserved, whereas the statement claims that all that remains is old ruins, implying that it is in a state of disrepair.<|eot_id|>

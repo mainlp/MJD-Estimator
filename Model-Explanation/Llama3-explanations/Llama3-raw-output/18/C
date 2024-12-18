@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Marriage is an important institution. 
+Statement: Marriage is crucial to society. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false (contradiction):
+
+* The context only states that marriage is important, but not crucial.
+* The context does not provide enough information to conclude that marriage is crucial to society.
+* The term "important" in the context has a different connotation than "crucial" in the statement.
+* The context only focuses on the institution of marriage, whereas the statement makes a broader claim about its impact on society.
+* The context does not imply that marriage is essential or vital to society, which is what "crucial" implies.<|eot_id|>

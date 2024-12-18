@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: 'You burned down my house.' 
+Statement: 'Even though you tried to burn it down, my house is in perfect state.' 
+Answer: [/INST] 1. The fire was extinguished before any significant damage occurred.
+2. The house was already in a state of disrepair and the fire did not worsen its condition.
+3. The house was already destroyed by some other means prior to the attempted arson.
+4. The statement "you burned down my house" is figurative or hyperbolic, not literal.
+5. The house was rebuilt after the attempted arson.
+6. The damage caused by the fire was fully repaired and restored.
+7. The house was insured and the insurance company covered the cost of repairs.
+8. The house was protected by a sprinkler system that prevented significant damage.
+9. The attempted arson was not successful in damaging the house.
+10. The house was not the intended target of the arson.</s>

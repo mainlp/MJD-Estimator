@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Lincoln glared. 
+Statement: The man was angry. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions Lincoln, but the statement refers to "the man", which may not be Lincoln.
+* Lincoln's glare could be due to a reason other than anger, such as frustration, disappointment, or concentration.
+* The statement assumes a specific emotion (anger) based on a single action (glaring), which may not be a reliable indicator of emotions.
+* The context does not provide enough information to infer Lincoln's emotional state.
+* Lincoln's glare could be a habitual or cultural behavior rather than an emotional response.
+* The statement makes an assumption about Lincoln's internal state, which cannot be directly observed from the context.<|eot_id|>

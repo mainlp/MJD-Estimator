@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The remaining parts of the north, although enticing, are difficult to explore. 
+Statement: The rest of the north presents a steep challenge. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context mentions the remaining parts of the north are "difficult to explore", but it doesn't explicitly state that they present a "steep challenge", which is a more intense phrase.
+* The context focuses on the difficulty of exploration, while the statement focuses on the challenge presented, which might be related but not exactly the same concept.
+* The context uses "enticing" to describe the remaining parts, which implies some attractiveness or appeal, whereas the statement only mentions the challenge, without acknowledging the enticing aspect.
+* The context is more descriptive and neutral, while the statement is more evaluative and negative, which might not be entirely justified by the context.
+* The context doesn't provide enough information to determine the level of challenge, and "steep" is a subjective judgment that might not be universally agreed upon.<|eot_id|>

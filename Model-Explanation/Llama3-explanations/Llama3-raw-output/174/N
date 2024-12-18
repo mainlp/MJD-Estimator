@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: No, I exclaimed, astonished.  
+Statement: I said no to him several time, utterly surprised by the change of events.  
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions the speaker's emotional state (astonished) but not the specific action of saying no to someone.
+* The context does not provide information about the frequency of saying no, which is mentioned in the statement (several times).
+* The statement implies a specific addressee (him), which is not mentioned in the context.
+* The context does not mention the change of events, which is mentioned in the statement as the cause of the speaker's surprise.
+* The tone of the context (exclaimed) does not necessarily match the tone of the statement (utterly surprised).<|eot_id|>

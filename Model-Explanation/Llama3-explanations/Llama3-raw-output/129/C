@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Because marginal costs are very low, a newspaper price for preprints might be as low as 5 or 6 cents per piece. 
+Statement: Many people consider these prices to be unfair to new printers. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not mention anything about new printers, it only talks about preprints.
+* The prices mentioned (5 or 6 cents per piece) are very low, which might be considered fair or even beneficial to new printers.
+* There is no information provided about the opinions of people regarding these prices, so it cannot be inferred that many people consider them unfair.
+* The context focuses on the low marginal costs, which might suggest that the prices are reasonable, not unfair.<|eot_id|>

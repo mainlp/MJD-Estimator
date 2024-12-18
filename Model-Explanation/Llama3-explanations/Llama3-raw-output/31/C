@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The air is warm. 
+Statement: The arid air permeates the surrounding land. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* "Arid" implies dry air, but the context states the air is warm, which is often associated with humid air, not dry air.
+* The context does not mention anything about the air being dry or arid, which is a necessary condition for the statement to be true.
+* The statement implies a lack of moisture in the air, but the context suggests the opposite, as warm air is often more humid than cold air.
+* The word "arid" has a connotation of being hot and dry, but the context only mentions the air being warm, without implying dryness.
+* The statement is too specific and adds new information not present in the context, which only mentions the temperature of the air, not its dryness or humidity.<|eot_id|>

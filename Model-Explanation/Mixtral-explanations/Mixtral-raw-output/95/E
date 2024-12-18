@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Exhibit 3 presents total national emissions of NOx and SO2 from all sectors, including power. 
+Statement: In Exhibit 3 there are the total regional emissions od NOx and SO2 from all sectors. 
+Answer: [/INST] 1. "Regional" in the statement refers to the whole nation, which is consistent with the context mentioning "total national emissions."
+2. The statement includes NOx and SO2 emissions, which aligns with the context's mention of both pollutants.
+3. The statement mentions "all sectors," which is consistent with the context's mention of emissions from all sectors, including power.
+
+Therefore, the statement is true (entailment) given the context.</s>

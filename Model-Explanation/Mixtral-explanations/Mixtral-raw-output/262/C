@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: But you will find it all right." 
+Statement: You, I'm sure, will find it more than adequate. 
+Answer: [/INST] * The speaker thinks that the person being addressed will find it lacking or inadequate.
+* The speaker believes that the person being addressed will find it unsatisfactory.
+* The speaker expects that the person being addressed will find it disappointing.
+* The speaker assumes that the person being addressed will find it unacceptable.
+* The speaker predicts that the person being addressed will find it inappropriate.
+* The speaker suggests that the person being addressed will find it insufficient.
+* The speaker implies that the person being addressed will find it below expectations.
+* The speaker indicates that the person being addressed will find it not up to the mark.
+* The speaker conveys that the person being addressed will find it not up to par.
+* The speaker communicates that the person being addressed will find it not up to scratch.</s>

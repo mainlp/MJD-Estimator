@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: NEH-supported exhibitions were distinguished by their elaborate wall panels--educational maps, photomurals, stenciled treatises--which competed with the objects themselves for space and attention. 
+Statement: The exhibitions seem well-funded due to the elaborate detail of the gallery. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The use of elaborate wall panels implies a high level of investment in the exhibition's design and production.
+* The inclusion of educational maps, photomurals, and stenciled treatises suggests a significant budget for materials and labor.
+* The fact that these elements compete with the objects themselves for space and attention implies a level of extravagance and luxury.
+* The overall aesthetic of the exhibition, with its elaborate details, conveys a sense of opulence and high production value.
+* The presence of such elaborate features implies that the exhibition has a substantial budget, which is typically associated with well-funded projects.
+* The level of detail and craftsmanship evident in the wall panels suggests a high level of resources and funding.<|eot_id|>

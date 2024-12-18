@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Perhaps a further password would be required, or, at any rate, some proof of identity. 
+Statement: Identity should be a minimum requirement. 
+Answer: [/INST] 1. The statement is true because the context suggests that proof of identity is needed to proceed, implying that identity is a minimum requirement.
+2. The statement is true because the context mentions "proof of identity" as an alternative to a password, indicating the importance of identity for access or authorization.
+3. The statement is true since the context implies that identity verification is necessary, making identity a fundamental prerequisite.</s>

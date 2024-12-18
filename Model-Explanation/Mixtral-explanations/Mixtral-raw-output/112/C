@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: After shuttering the DOE, Clinton could depict himself as a crusader against waste and bureaucracy who succeeded where even Reagan failed. 
+Statement: Clinton shuttered the DOE to move against waste. 
+Answer: [/INST] 1. Clinton did not shutter the DOE.
+2. The DOE was not shuttered due to waste.
+3. Clinton did not depict himself as a crusader against waste and bureaucracy.
+4. Clinton did not succeed where Reagan failed.
+5. Reagan had succeeded in shuttering the DOE.
+6. Shuttering the DOE was not an action against bureaucracy.
+7. The shuttering of the DOE was not a success.
+8. Clinton did not shutter the DOE to move against bureaucracy.
+9. The shuttering of the DOE was not a result of Clinton's actions.
+10. Clinton did not shutter the DOE for any reason related to waste or bureaucracy.</s>

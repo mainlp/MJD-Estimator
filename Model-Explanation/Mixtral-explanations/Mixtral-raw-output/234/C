@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: It vibrated under his hand. 
+Statement: It hummed quietly in his hand. 
+Answer: [/INST] 1. The object did not make any sound at all.
+2. It made a loud noise, not quiet.
+3. It made a different sound, such as a buzz or a ring.
+4. It did not make a continuous sound, but rather a one-time noise.
+5. The object was not in his hand.
+6. The object was not vibrating and making a humming sound simultaneously.</s>

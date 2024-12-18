@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: As legal scholar Randall Kennedy wrote in his book Race, Crime, and the Law, Even if race is only one of several factors behind a decision, tolerating it at all means tolerating it as potentially the decisive factor. 
+Statement: Race is one of several factors in some judicial decisions 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false (contradiction) given the context:
+
+* Race is not a factor in any judicial decisions.
+* Race is the only factor in all judicial decisions.
+* Race is the decisive factor in all judicial decisions.
+* Judicial decisions are not influenced by race at all.<|eot_id|>

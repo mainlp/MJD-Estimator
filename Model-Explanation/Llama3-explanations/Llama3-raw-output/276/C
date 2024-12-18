@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: He walked out into the street and I followed. 
+Statement: I followed him down the street. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions "I followed" without specifying what or whom was followed.
+* The direction "down the street" is not mentioned in the context.
+* The context does not imply that "he" was walked down the street, only that he walked out into the street.
+* The statement assumes a specific direction ("down") that is not present in the context.
+* The context does not provide enough information to infer that "he" was the one being followed.<|eot_id|>

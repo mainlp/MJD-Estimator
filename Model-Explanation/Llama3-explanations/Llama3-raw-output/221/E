@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: After shuttering the DOE, Clinton could depict himself as a crusader against waste and bureaucracy who succeeded where even Reagan failed. 
+Statement: Reagan had tried to shutter the DOE but was unable to. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true:
+
+* The phrase "succeeded where even Reagan failed" implies that Reagan had attempted to shutter the DOE but was unsuccessful.
+* The context suggests that Clinton's action was a success, and the comparison to Reagan's failure implies that Reagan had also tried to achieve the same goal.
+* The use of "even" in "even Reagan failed" emphasizes that Reagan's failure was notable, implying that he had made a serious attempt to shutter the DOE.
+* The contrast between Clinton's success and Reagan's failure implies that Reagan's attempt was genuine, but ultimately unsuccessful.<|eot_id|>

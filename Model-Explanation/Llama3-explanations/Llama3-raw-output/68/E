@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: we were lucky in that in one respect in that after she had her stroke she wasn't really you know really much aware of what was going on 
+Statement: She had a very serious stroke. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+1. The context mentions "after she had her stroke", implying that a stroke occurred.
+2. The phrase "we were lucky" suggests that the outcome could have been worse, implying the stroke was serious.
+3. The description "she wasn't really much aware of what was going on" implies a significant impact on her cognitive abilities, consistent with a serious stroke.
+4. The use of "really" as an intensifier in "really much aware" emphasizes the extent of her unawareness, suggesting a severe stroke.
+5. The context's focus on her lack of awareness implies that the stroke had a significant effect on her, which is consistent with a serious stroke.<|eot_id|>

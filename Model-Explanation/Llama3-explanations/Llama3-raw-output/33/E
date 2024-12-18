@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: News berates computer users for picking obvious, easily cracked passwords and chastises system administrators for ignoring basic security precautions. 
+Statement: Users and system administrators both do not prioritize security. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true:
+
+* The context mentions that users pick obvious, easily cracked passwords, implying that they do not prioritize security.
+* The context also mentions that system administrators ignore basic security precautions, implying that they do not prioritize security either.
+* The criticism of both users and system administrators in the context suggests that they share a common fault, which is not prioritizing security.
+* The fact that news berates both users and system administrators implies that they are both guilty of the same mistake, which is not prioritizing security.
+* The context presents a contrast between what is expected of users and system administrators (i.e., prioritizing security) and what they actually do (i.e., not prioritizing security), highlighting their shared failure.<|eot_id|>

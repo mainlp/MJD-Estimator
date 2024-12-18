@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: During his disastrous campaign in Russia, he found time in Moscow to draw up a new statute for the Com??die-Francaise (the national theater), which had been dissolved during the Revolution. 
+Statement: Russia has been successfully invaded hundreds of times. 
+Answer: [/INST] 1. The statement does not mention any time period, while the context refers to a specific campaign in Russia.
+2. The statement is about invasions of Russia, while the context discusses a theater statute during a campaign.
+3. The statement is about the success of invasions, while the context does not provide information about the outcome of the campaign.
+4. The statement is a generalization about Russia's history, while the context focuses on a single event during the French Revolution.
+5. The statement does not specify who is responsible for the invasions, while the context refers to a specific individual's actions.
+6. The statement does not provide details about the invasions, such as their purpose, scale, or impact.
+7. The statement is not directly related to the context, which discusses a cultural event during a military campaign.
+8. The statement is not contradicted by the context, but it is also not supported or relevant to the information provided.</s>

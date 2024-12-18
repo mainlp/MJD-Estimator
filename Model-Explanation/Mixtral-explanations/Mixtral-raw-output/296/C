@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Managing better requires that agencies have, and rely upon, sound financial and program information. 
+Statement: Agencies that rely on information based on unsound financial information will have management problems. 
+Answer: [/INST] 1. Agencies relying on unsound financial information still have management improvements.
+2. Management issues do not arise in agencies using unsound financial information.
+3. There are no management problems for agencies that depend on poor financial information.
+4. Sound financial and program information is not necessary for agencies to manage better.
+5. Relying on unsound financial information enhances management in agencies.
+6. Management quality is not affected by the use of unsound financial information.
+7. Agencies can have good management despite using unsound financial information.
+8. Using unsound financial information does not lead to management difficulties.
+9. Management performance improves with the use of unsound financial information.
+10. Agencies relying on unsound financial information have no management problems.</s>

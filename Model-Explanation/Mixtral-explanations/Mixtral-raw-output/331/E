@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Then he is very sure. 
+Statement: He is very sure of himself. 
+Answer: [/INST] 1. The "he" in the context and statement refer to the same person.
+2. The speaker has conveyed through "then" that some previous statement or situation has led to his certainty.
+3. The certainty mentioned in the context applies to his self-assurance, as indicated in the statement.</s>

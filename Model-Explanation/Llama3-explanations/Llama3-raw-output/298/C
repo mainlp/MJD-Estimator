@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The party's broad aims were to support capitalist policies and to continue close ties with Britain and the rest of the Commonwealth. 
+Statement: The party sought to establish ties with the United States. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions close ties with Britain and the rest of the Commonwealth, but not the United States.
+* There is no mention of the party seeking to establish ties with the United States.
+* The context focuses on the party's aims to support capitalist policies and maintain relationships with Britain and the Commonwealth, without any indication of interest in the United States.
+* The statement is not implied or suggested by the context.
+* The context does not provide any information about the party's stance or intentions regarding the United States.<|eot_id|>

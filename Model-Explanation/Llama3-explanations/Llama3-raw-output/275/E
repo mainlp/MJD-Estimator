@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The importer pays duties that are required by law 
+Statement: Imported goods have duties 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The importer's payment of duties implies the existence of duties to be paid.
+* The law requiring duties to be paid suggests that duties are inherently associated with imported goods.
+* The act of paying duties is only necessary if duties are applicable to the goods being imported.
+* The context assumes a causal relationship between importing goods and the requirement to pay duties, implying that duties are a consequence of importing goods.
+* The phrase "required by law" implies that duties are an inherent part of the process of importing goods, and therefore, imported goods have duties.<|eot_id|>

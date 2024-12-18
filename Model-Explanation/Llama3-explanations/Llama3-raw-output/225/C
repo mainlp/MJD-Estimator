@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Tuppence rose. 
+Statement: Tuppence stood up. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* "Rose" and "stood up" are synonyms, but "rose" implies a change from a lower to a higher position, whereas "stood up" implies a change from a sitting position, which is not necessarily the case in the context.
+* The context only mentions "Tuppence rose", which could mean Tuppence's value or popularity increased, rather than a physical action of standing up.
+* The context does not provide any information about Tuppence's initial position, so it cannot be inferred that Tuppence was sitting or lying down before rising.
+* "Rose" could be a metaphorical or figurative expression, whereas "stood up" is a literal physical action, which may not be equivalent in this context.<|eot_id|>

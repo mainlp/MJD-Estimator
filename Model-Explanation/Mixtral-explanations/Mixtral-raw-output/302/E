@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: By coordinating policy development and awareness activities in this manner, she helps ensure that new risks and policies are communicated promptly and that employees are periodically reminded of existing policies through means such as monthly bulletins, an intranet web site, and presentations to new employees. 
+Statement: There new employees are a risk. 
+Answer: [/INST] 1. New employees' lack of familiarity with existing policies poses a risk.
+2. Neglecting to inform new employees of policies increases risk.
+3. Inadequate communication to new employees can lead to risk.
+4. New employees, if not properly informed, can cause risks.
+5. The presence of new employees introduces potential risks.</s>

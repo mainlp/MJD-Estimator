@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Both initial and supplemental proposed rule publications invited comments on the information collection requirements imposed by the rule. 
+Statement: There's no point in following politics or voting because your vote won't actually make a difference. 
+Answer: [/INST] 1. The context and statement are not related.
+2. The context discusses rule-making and comment solicitation, while the statement discusses political participation and voting.
+3. The statement does not mention any relationship to information collection requirements.
+4. The statement's assertion about the impact of voting is unrelated to the context.
+5. The context does not provide information about the significance of individual votes or political participation.
+6. The statement's claim about voting's insignificance is not contradicted or supported by the context.
+7. The context does not offer evidence or arguments regarding the effectiveness of voting or political engagement.
+8. The statement's generalization about voting may not apply to specific cases or contexts, such as the rule-making process mentioned in the context.
+9. The context does not discuss any connection between the rule-making process and political participation or voting.
+10. The statement's claim about the impact of an individual's vote is not addressed in the context.</s>

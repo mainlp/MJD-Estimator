@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The door did not budge. 
+Statement: The door was stuck, so it did not move.  
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only states that the door did not budge, but it does not explicitly state that the door was stuck.
+* The statement assumes a causal relationship between the door being stuck and not moving, which is not explicitly supported by the context.
+* The context does not provide enough information to determine whether the door's failure to budge was due to being stuck or some other reason.
+* The statement's use of "so" implies a causal connection, but the context does not provide sufficient evidence to support this connection.
+* The context only reports an observation (the door did not budge), while the statement makes an inference (the door was stuck) that goes beyond the observed facts.
+* The statement's language is more specific and explanatory than the context, which only provides a simple observation, making it difficult to determine the relationship between the two.<|eot_id|>

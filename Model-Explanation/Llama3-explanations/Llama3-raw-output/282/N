@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: We still espouse a God-given right of human beings to use the environment for their benefit, says Barrett Duke of the Southern Baptists. 
+Statement: Human beings are entitled to the environment. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context does not explicitly state that humans are entitled to the environment, but rather that they have a "God-given right" to use it for their benefit, which may not necessarily imply entitlement.
+* The concept of "entitlement" implies a sense of ownership or inherent right, which is not explicitly mentioned in the context.
+* The context focuses on the right to use the environment for human benefit, but does not specify whether humans have a broader entitlement to the environment itself.
+* The phrase "God-given right" may imply a moral or religious justification for human use of the environment, but does not necessarily imply a legal or absolute entitlement.
+* The statement is ambiguous because "entitled to the environment" could be interpreted as either having a right to use the environment or having a right to own or control the environment, which is not clarified in the context.<|eot_id|>

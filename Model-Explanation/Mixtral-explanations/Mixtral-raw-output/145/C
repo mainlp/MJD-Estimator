@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Strange as it may seem to the typical household, capital gains on its existing assets do not contribute to saving as measured in NIPA. 
+Statement: NIPA considers cat fur when it defines savings. 
+Answer: [/INST] 1. "Cat fur" is not a type of capital gain.
+2. Capital gains on assets do not include valuation of "cat fur".
+3. "Cat fur" is not included in the definition of savings in NIPA.
+4. NIPA measures savings based on economic factors, not physical assets like "cat fur".
+5. The statement misinterprets what is included in NIPA's definition of savings.
+6. Existence of "cat fur" has no relevance to NIPA's definition of savings.
+7. NIPA does not consider non-financial assets like "cat fur" when calculating savings.
+8. The statement incorrectly assumes that non-economic items like "cat fur" are part of NIPA's savings calculation.</s>

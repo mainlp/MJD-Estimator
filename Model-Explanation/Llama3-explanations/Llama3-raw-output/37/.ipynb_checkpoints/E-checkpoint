@@ -1,0 +1,8 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: After the recovery of Jerusalem in 1099, it took four hundred years of sieges and battles, treaties, betrayals, and yet more battles, before Christian kings and warlords succeeded in subduing the Moors. 
+Statement: The Moors were able to subdue the Christian kings after just a decade of war. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+There are no possible explanations why the statement is true, as it is actually false. The context states that it took Christian kings and warlords 400 years to subdue the Moors, implying that the Moors were not subdued by the Christian kings after just a decade of war.<|eot_id|>

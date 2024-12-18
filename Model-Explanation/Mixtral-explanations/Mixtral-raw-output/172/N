@@ -1,0 +1,15 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: He threw one of them and shot the other. 
+Statement: He shot his gun. 
+Answer: [/INST] 1. The statement doesn't specify which person "he" shot.
+2. The context doesn't mention if "he" used a gun to throw or shoot.
+3. It's unclear if "his" refers to one of the two objects or to a gun owned by "he".
+4. The context doesn't indicate if "he" owns a gun.
+5. The statement doesn't specify when "he" shot his gun.
+6. The context doesn't clarify if "he" shot the object he threw or a separate object.
+7. The statement doesn't indicate if "he" shot his gun with success.
+8. The context doesn't provide enough information about the objects to determine if they are capable of being shot.
+9. The statement doesn't specify the type of gun "he" used.
+10. The context doesn't indicate if "he" had a gun before the action of throwing and shooting.
+11. The statement doesn't specify if "he" shot his gun intentionally or accidentally.
+12. The context doesn't indicate if "he" was in possession of a gun at the time of the

@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: and the other thing is the cost it's almost prohibitive to bring it to a dealer 
+Statement: The cost of fixing it makes it hard to bring it to a dealer. 
+Answer: [/INST] 1. The statement doesn't specify whether the cost of fixing the item is more or less than the cost of bringing it to a dealer.
+2. The context doesn't clarify if the cost of fixing the item is the only reason it's hard to bring it to a dealer.
+3. The statement doesn't indicate if the item is being brought to the dealer for fixing or for some other reason.
+4. The context doesn't specify if there are other factors, besides cost, that make it hard to bring the item to a dealer.
+5. The statement doesn't specify who "it" refers to, making it unclear what exactly the cost of fixing refers to.
+6. The context doesn't provide enough information about the nature of the item or the dealer, making it difficult to determine the relationship between the cost of fixing and bringing it to a dealer.</s>

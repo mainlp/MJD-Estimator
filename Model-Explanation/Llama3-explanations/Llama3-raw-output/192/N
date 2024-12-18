@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Likewise, at their production decision reviews, these programs did not capture manufacturing and product reliability knowledge consistent with best practices. 
+Statement: Their production decision reviews located an anomaly in the data. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions what the programs did not do, but does not provide information about what they did or found.
+* There is no mention of the programs' ability to locate anomalies in the data.
+* The context focuses on the lack of capturing knowledge, whereas the statement is about finding an anomaly, which are different aspects.
+* The context does not provide enough information to infer whether the programs were capable of or actually did locate an anomaly.
+* The statement is making a positive claim, whereas the context is making a negative claim, and there is no clear connection between the two.
+* The context does not provide any information about the data or what kind of anomaly might be present, making it impossible to determine the truth of the statement.<|eot_id|>

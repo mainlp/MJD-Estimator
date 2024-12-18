@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: By coordinating policy development and awareness activities in this manner, she helps ensure that new risks and policies are communicated promptly and that employees are periodically reminded of existing policies through means such as monthly bulletins, an intranet web site, and presentations to new employees. 
+Statement: She can find new risks with the awareness campaign. 
+Answer: [/INST] 1. The statement doesn't specify whether the awareness campaign will directly lead to finding new risks.
+2. The context doesn't mention if the campaign involves any active risk-finding methods.
+3. The awareness campaign might be more focused on communication of existing policies rather than identifying new risks.
+4. The campaign could potentially help in identifying new risks indirectly, not explicitly stated in the context.
+5. The context doesn't provide information about the scope or nature of the awareness campaign.</s>

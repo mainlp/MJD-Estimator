@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: have that well and it doesn't seem like very many people uh are really i mean there's a lot of people that are on death row but there's not very many people that actually um do get killed 
+Statement: Most people on death row end up living out their lives awaiting execution. 
+Answer: [/INST] 1. The context speaks of a small number of people "that actually um do get killed," but it does not explicitly state how many people on death row this represents.
+2. The context indicates that "there's not very many people that actually um do get killed," but it does not specify whether the majority of people on death row end up living out their lives in prison.
+3. The context suggests that there are many people on death row, but it does not indicate whether most of them will live out their lives in prison or be executed.
+4. The context does not provide information on the outcome of the cases of people on death row, making it impossible to determine whether most of them will live out their lives in prison.
+5. The context does not specify whether the people who are executed were on death row for a long time before their execution.
+6. The context does not provide information on the rate of executions versus the number of people on death row, making it impossible to determine whether most people on death row will live out their lives in prison.
+7. The context does not specify whether the people who are executed are replaced by new people on death row, which could affect the overall number of people on death row who

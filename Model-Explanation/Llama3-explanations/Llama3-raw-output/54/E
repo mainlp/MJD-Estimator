@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: I found her leaning against the bannisters, deadly pale.  
+Statement: She couldn't stand on her own so she leaned against the bannisters until I found her. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* She was leaning against the bannisters, which implies she needed support to stand.
+* Her pale color suggests she might be weak or faint, making it difficult for her to stand.
+* The fact that she was found leaning against the bannisters implies she was unable to stand without support.
+* The phrase "deadly pale" implies a state of physical distress, which could cause her to lose her balance or strength to stand.
+* Leaning against the bannisters is a common action taken when someone feels dizzy or lightheaded, which would make it hard for her to stand on her own.<|eot_id|>

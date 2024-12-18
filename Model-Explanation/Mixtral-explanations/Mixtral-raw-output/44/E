@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: You have to walk through it). 
+Statement: Walking is the best way to get through it. 
+Answer: [/INST] 1. The context implies that some obstacle or challenge must be "gotten through."
+2. The statement suggests that walking is the recommended method for overcoming this obstacle.
+3. There is no information in the context that suggests any other method of "getting through" would be more effective.
+4. The statement can be interpreted as a comparison to other methods of "getting through," implying that walking is superior.
+5. The statement does not specify what "it" refers to, allowing for a broad interpretation of the context.
+6. The statement does not specify any conditions or limitations that would make walking an inappropriate method for "getting through."
+7. The statement does not contradict any information provided in the context.</s>

@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The Chinese calendar was used to calculate the year of Japan's foundation by counting back the 1,260 years of the Chinese cosmological cycle. 
+Statement: The calculation of Japan's year of foundation was very exact. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The calculation is based on a cosmological cycle, which is not a precise scientific method.
+* The cycle is 1,260 years, which is a rough estimate and not an exact figure.
+* Counting back a cycle is an indirect method, prone to errors and inaccuracies.
+* The Chinese calendar itself may not be exact, which would affect the calculation.
+* The concept of "year of foundation" is often a mythical or legendary event, making it difficult to pinpoint an exact date.
+* The calculation is based on a cycle, which implies a repetitive pattern, rather than a unique event with an exact date.<|eot_id|>

@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: well do you know you have a ten limit a ten minute time limit well that's okay and then they come on and tell you and they tell you got five seconds to say good-bye 
+Statement: You get a ten minute time limit, but sometimes you'll be told to end early. 
+Answer: [/INST] 1. The ten minute time limit is the maximum allotted time.
+2. Speakers can be signaled to end early with a five-second warning.
+3. The "tell you got five seconds to say good-bye" implies being told to end early.
+4. The context implies that the ten minute limit is not always strictly enforced.
+5. The statement's use of "sometimes" aligns with the context's implication of occasional time limit adjustments.</s>

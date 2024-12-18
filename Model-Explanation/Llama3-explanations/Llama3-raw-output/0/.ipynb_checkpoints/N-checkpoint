@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: In this enclosed but airy building, you'll find ladies with large machetes expertly chopping off hunks of kingfish, tuna, or shark for eager buyers. 
+Statement: You'll find small lepers chopping of chunks of tuna, its the only place they can work. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The context mentions "ladies" but the statement says "small lepers", which are different entities.
+* The context does not mention "lepers" at all, implying they are not present in the scene.
+* The context describes the ladies as expertly chopping, but the statement does not provide any information about the lepers' expertise.
+* The context mentions "large machetes" but the statement does not mention the tool used by the lepers.
+* The context mentions "kingfish, tuna, or shark" as the types of fish being chopped, but the statement only mentions "tuna".
+* The context does not imply that the ladies are chopping fish because they have no other place to work, whereas the statement suggests that the lepers are chopping fish because it's the only place they can work.<|eot_id|>

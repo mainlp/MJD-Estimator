@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: OMB issued the guidance in Memorandum M0010, dated April 25, 2000. 
+Statement: Memorandum M0010 was issued by INS. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* OMB, not INS, issued the guidance in Memorandum M0010.
+* The issuer of Memorandum M0010 is OMB, which is different from INS.
+* INS is not the entity that issued Memorandum M0010, it was OMB.
+* The context explicitly states that OMB issued the guidance, contradicting the statement that INS did.
+* The statement incorrectly attributes the issuance of Memorandum M0010 to INS, when in fact it was OMB.<|eot_id|>

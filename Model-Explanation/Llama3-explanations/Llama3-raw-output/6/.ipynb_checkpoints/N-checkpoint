@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Larger ski resorts are 90 minutes away. 
+Statement: The largest resort is actually 100 minutes away. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context states that larger ski resorts are 90 minutes away, implying that the largest resort is also 90 minutes away, but the statement claims it is 100 minutes away.
+* The statement contradicts the context by providing a different distance (100 minutes) than the one mentioned in the context (90 minutes).
+* The context sets a general rule or pattern (larger resorts are 90 minutes away), but the statement provides a specific exception or counterexample (the largest resort is 100 minutes away) that contradicts this rule.
+* The statement implies that there is a larger resort that is farther away than the ones mentioned in the context, which contradicts the idea that larger resorts are 90 minutes away.<|eot_id|>

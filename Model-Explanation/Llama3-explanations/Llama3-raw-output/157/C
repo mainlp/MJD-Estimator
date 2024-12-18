@@ -1,0 +1,10 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: To get a wonderful view of the whole stretch of river, and to stretch your legs in a beautiful parklike setting, climb up to the Ceteau de Marqueyssac and its jardins suspendus (hanging gardens). 
+Statement: You will enjoy stretching your legs as you climb the Ceteau de Marqueyssac. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context suggests climbing up to Ceteau de Marqueyssac to stretch legs in a beautiful parklike setting, implying that the stretching of legs occurs after climbing, not during.
+* Climbing typically requires effort and may not be enjoyable for everyone, contradicting the statement that you will "enjoy" stretching your legs as you climb.
+* The phrase "stretch your legs" in the context is likely referring to taking a leisurely walk or stroll, not the physical act of climbing.<|eot_id|>

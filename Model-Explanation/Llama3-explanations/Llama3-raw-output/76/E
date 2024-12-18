@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: and my and my part-time work you know it's not our the restaurant our favorite restaurant in the town of Salisbury where actually we live you know where my where i'll return to my job or whatever we can normally eat out for um under fourteen dollars 
+Statement: My first part time job was in a restaurant in Salisbury where you could eat out for under $14. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The speaker's part-time work is in a restaurant in Salisbury.
+* The speaker's favorite restaurant is in Salisbury, where they live.
+* The speaker can normally eat out for under $14 at their favorite restaurant.
+* The speaker will return to their job at the restaurant in Salisbury.
+* The speaker's part-time job is at their favorite restaurant in Salisbury.
+* The speaker's first part-time job was at the same restaurant where they can eat out for under $14.<|eot_id|>

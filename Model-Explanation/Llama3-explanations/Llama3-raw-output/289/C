@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: yeah okay yeah those games are fun to watch you you you watch those games 
+Statement: Those games are a lot of fun. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The speaker does not think those games are fun.
+* The speaker only thinks they are fun to watch, not to play.
+* The speaker is being sarcastic or ironic when saying "those games are fun to watch".
+* The speaker is not referring to the same "those games" in both sentences.
+* The speaker's tone or context implies a negative sentiment towards the games.<|eot_id|>

@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: All of our many earnest experiments produced results in line with random chance, they conclude. 
+Statement: The experiments proved it was a much better predictor. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement contradicts the context, which states that the results were in line with random chance, implying no significant prediction.
+* The context does not provide any information about the experiments proving something to be a better predictor.
+* The statement implies a positive outcome, but the context suggests a neutral or negative outcome (random chance).
+* There is no mention of a specific "it" that the experiments proved to be a better predictor, making the statement unclear.
+* The context focuses on the outcome of the experiments being in line with random chance, whereas the statement suggests a conclusive result.
+* The statement's tone is positive and conclusive, whereas the context's tone is neutral or negative.<|eot_id|>

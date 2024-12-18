@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: These days, newspaper writers are no longer allowed the kind of license he took. 
+Statement: Newspaper writers need to be more factual and careful these days. 
+Answer: [/INST] 1. Newspaper writers are now allowed to be less factual and careless.
+2. Newspaper writers are taking more liberties with the truth these days.
+3. Newspaper writers are not held to high standards of accuracy and caution these days.
+4. Newspaper writers are free to exaggerate and embellish the news these days.
+5. Newspaper writers are not required to be careful and factual in their reporting these days.
+6. Newspaper writers are not expected to verify information before publishing these days.
+7. Newspaper writers are not being held accountable for their mistakes these days.
+8. Newspaper writers are not being scrutinized for their accuracy these days.
+9. Newspaper writers are not being encouraged to be truthful and precise these days.
+10. Newspaper writers are not being told to be more careful and factual these days.</s>

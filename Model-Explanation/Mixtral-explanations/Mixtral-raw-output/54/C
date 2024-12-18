@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: I found her leaning against the bannisters, deadly pale.  
+Statement: She couldn't stand on her own so she leaned against the bannisters until I found her. 
+Answer: [/INST] 1. She was leaning against the bannisters, but she was not pale.
+2. She was not leaning against the bannisters, but she was pale.
+3. She was not leaning against the bannisters, and she was not pale.
+4. She was able to stand on her own, but she leaned against the bannisters for some other reason.
+5. She was found by someone other than the speaker.
+6. She was not pale due to illness or injury, but rather due to something else, such as makeup or lighting.
+7. She was not leaning against the bannisters when the speaker found her.
+8. She was not in distress or in need of support when she leaned against the bannisters.
+9. The speaker did not find her in a literal sense, but rather was informed of her location.
+10. The speaker's statement is a deliberate lie or exaggeration.</s>

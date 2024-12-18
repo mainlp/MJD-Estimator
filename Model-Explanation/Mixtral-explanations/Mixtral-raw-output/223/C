@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Time 's cover package considers what makes a good school. 
+Statement: Time's cover package is about how most college students have to deal with insane student loans. 
+Answer: [/INST] 1. The cover package does not mention college students.
+2. The cover package does not discuss student loans.
+3. The cover package does not mention insane student loans.
+4. The cover package does not relate student loans to colleges.
+5. The cover package does not explore the challenges of paying for college.
+6. The cover package does not examine the burden of student debt.
+7. The cover package does not consider the impact of student loans on college students.
+8. The cover package does not investigate the factors contributing to high student loans.
+9. The cover package does not reveal any information about the cost of education.
+10. The cover package does not explore solutions for managing student loan debt.</s>

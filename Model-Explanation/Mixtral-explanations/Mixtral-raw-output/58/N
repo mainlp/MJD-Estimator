@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: A martini should be gin and vermouth and a twist. 
+Statement: A martini must be composed by gin and vermouth. 
+Answer: [/INST] 1. The context specifies "a martini should be" but the statement says "a martini must be," which could imply a difference in certainty or strength of opinion.
+2. The context includes "and a twist" but the statement does not, leaving open the possibility that a twist is required for a martini in the context.
+3. The context and statement both use the phrase "gin and vermouth," but the context could be interpreted as specifying the exact proportions or type of each ingredient, while the statement does not, leaving room for variation.
+4. The context is an opinion or preference, while the statement is presented as a fact or rule, but the statement's validity is not determined by the context.
+5. The context is not a definitive source, it could be a personal opinion, a recipe, a bartender's advice, etc. and the statement is a general rule, so it might not apply to the context.
+6. The context is not mentioning any specific quantity of gin and vermouth, and the statement does not specify if the quantities are relevant or not.
+7. The context does not mention any specific type of gin or vermouth,

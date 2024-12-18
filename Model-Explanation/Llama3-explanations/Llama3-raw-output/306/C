@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Agencies may perform the analyses required by sections 603 and 604 in conjunction with or as part of any other agenda or analysis required by other law if such other analysis satisfies the provisions of these sections. 
+Statement: There are many times when the agencies have gotten in trouble. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false (contradiction) given the context:
+
+* The context only discusses the agencies' ability to perform analyses, not their past mistakes or troubles.
+* There is no mention of agencies getting in trouble in the context.
+* The context implies that agencies are following the law and performing required analyses, which contradicts the idea of them getting in trouble.
+* The statement is unrelated to the topic of agencies performing analyses, making it a non-sequitur.
+* The context does not provide any information about the agencies' past performance or mistakes, making the statement unfounded.<|eot_id|>

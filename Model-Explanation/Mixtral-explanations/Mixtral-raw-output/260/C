@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: An organization's activities, core processes, and resources must be aligned to support its mission and help it achieve its goals. 
+Statement: An organization is successful if its activities, resources, and goals align. 
+Answer: [/INST] 1. An organization's success does not depend solely on the alignment of its activities, resources, and goals.
+2. Achieving goal alignment in an organization does not necessarily lead to success.
+3. Successful organizations may not have aligned activities, resources, and goals.
+4. The success of an organization may involve factors other than the alignment of its activities, resources, and goals.
+5. The alignment of an organization's resources and activities does not guarantee the alignment of its goals.
+6. The success of an organization is not solely determined by its internal alignments.
+7. External factors can influence an organization's success independently of the alignment of its activities, resources, and goals.</s>

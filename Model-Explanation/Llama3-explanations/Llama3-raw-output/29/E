@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: I can FEEL him." 
+Statement: I can sense his presence. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+1. The speaker is implying a physical sensation, such as a touch or a warmth, that indicates the person is near.
+2. The speaker is suggesting a strong emotional connection, allowing them to intuitively sense the person's presence.
+3. The speaker is using "feel" to convey a sense of intuition or instinct, which is triggered by the person's presence.
+4. The speaker is implying a supernatural or paranormal connection, allowing them to sense the person's presence in a non-physical way.
+5. The speaker is using "feel" to describe a heightened sense of awareness or sensitivity, which enables them to detect the person's presence.
+6. The speaker is suggesting that they can sense the person's emotions or energy, which is manifesting as a physical sensation.
+7. The speaker is implying a deep emotional connection, which allows them to sense the person's presence even when they are not physically near.<|eot_id|>

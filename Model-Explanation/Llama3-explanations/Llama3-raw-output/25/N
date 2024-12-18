@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Classic Castilian restaurant. 
+Statement: The restaurant is based off a classic Castilian style. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The statement is a paraphrase of the context, providing no new information.
+* The statement is a tautology, simply restating the context without adding any value.
+* The context already implies the statement, making it redundant.
+* The statement does not provide any additional details or insights beyond what is already known from the context.
+* The statement is a trivial inference, not requiring any significant cognitive effort or reasoning.
+* The statement is a mere repetition of the context, lacking any meaningful implication or consequence.<|eot_id|>

@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Splendid! 
+Statement: The speaker is excited by the situation. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The speaker is being sarcastic, and "Splendid!" is meant to convey irony or annoyance.
+* The speaker is using "Splendid!" to express relief or resignation, rather than excitement.
+* The speaker is being facetious, and "Splendid!" is meant to be humorous or playful, but not genuinely excited.
+* The speaker is using "Splendid!" in a formal or old-fashioned way, without conveying strong emotions like excitement.
+* The speaker is expressing a sense of detachment or indifference, and "Splendid!" is a neutral or bland response.
+* The speaker is being passive-aggressive, and "Splendid!" is meant to convey annoyance or frustration, rather than excitement.<|eot_id|>

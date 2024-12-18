@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The results of even the most well designed epidemiological studies are characterized by this type of uncertainty, though well-designed studies typically report narrower uncertainty bounds around the best estimate than do studies of lesser quality. 
+Statement: All studies have the same amount of uncertainty to them. 
+Answer: [/INST] 1. The statement is too absolute, as it does not allow for any variation in the amount of uncertainty between studies.
+2. The context only talks about "well-designed" and "studies of lesser quality," but the statement makes a blanket claim about "all studies."
+3. The context suggests that the amount of uncertainty can vary based on study design and quality, which contradicts the statement's claim of equal uncertainty for all studies.
+4. The statement does not take into account the difference in uncertainty bounds between well-designed and lesser quality studies mentioned in the context.
+5. The statement fails to consider that the uncertainty in the results of a study can also depend on other factors such as sample size, data quality, and the complexity of the research question.
+6. The statement does not specify whether it is referring to the same type of uncertainty mentioned in the context.
+7. The statement may be referring to a different type of uncertainty, such as uncertainty in the study's methods or assumptions, which is not addressed in the context.
+8. The statement may be assuming that all studies are of equal design and quality, which is not the case as mentioned in the context.
+9. The statement may be

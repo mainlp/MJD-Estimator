@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: We also have found that leading organizations strive to ensure that their core processes efficiently and effectively support mission-related outcomes. 
+Statement: Leading organizations want to be sure their processes are successful. 
+Answer: [/INST] 1. Processes in leading organizations do not contribute to mission-related outcomes.
+2. Processes in leading organizations are not aligned with the mission.
+3. Processes in leading organizations are not effective in supporting mission-related outcomes.
+4. Processes in leading organizations are not efficient in supporting mission-related outcomes.
+5. Leading organizations do not care about the success of their processes.
+6. The success of processes in leading organizations is not a priority.
+7. The definition of "success" for processes in leading organizations does not relate to mission-related outcomes.</s>

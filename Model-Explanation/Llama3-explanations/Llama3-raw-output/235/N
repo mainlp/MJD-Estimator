@@ -1,0 +1,16 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: yeah i can believe that 
+Statement: I agree with what you said. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context "yeah i can believe that" is ambiguous and could be agreeing or simply acknowledging the previous statement without taking a stance.
+* The statement "I agree with what you said" is too vague, and it's unclear what specific point the speaker is agreeing with.
+* The context and statement are too brief, lacking sufficient information to determine the speaker's stance.
+* The tone of the context "yeah i can believe that" is casual and informal, which might not convey a strong agreement or disagreement.
+* The speaker might be using "I agree" as a polite phrase rather than a genuine expression of agreement.
+* The context and statement do not provide enough information to determine the speaker's opinion or stance on the topic.
+* The statement "I agree with what you said" could be seen as a hedge, allowing the speaker to maintain a neutral stance.
+* The context "yeah i can believe that" might be expressing surprise or skepticism, which would contradict the statement "I agree with what you said".
+* The speaker's intention or tone behind the statement "I agree with what you said" is unclear, making it difficult to determine their stance.<|eot_id|>

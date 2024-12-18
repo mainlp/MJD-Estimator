@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: 1 Now that each unit is fully staffed, the LSC Office of Program Performance and its state planning team contain over 260 years of experience in LSC-funded programs. 
+Statement: The LSC has over 260 years of experience with their lawyers. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context mentions "LSC Office of Program Performance and its state planning team", not "lawyers".
+* The experience is in "LSC-funded programs", not with lawyers.
+* There is no mention of lawyers in the context.
+* The context implies a collective experience of the team, not a single entity like "the LSC".
+* The context does not mention the LSC as a whole having experience, but rather the Office of Program Performance and the state planning team.<|eot_id|>

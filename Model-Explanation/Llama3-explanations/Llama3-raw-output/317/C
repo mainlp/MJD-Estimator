@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The percent of total cost for each function included in the model and cost elasticity (with respect to volume) are shown in Table 1. 
+Statement: Table 1 also shows a picture diagram for each function. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions the percent of total cost and cost elasticity being shown in Table 1, with no mention of picture diagrams.
+* The context implies that Table 1 contains numerical or textual data, not visual diagrams.
+* The phrase "are shown" in the context suggests a textual or numerical representation, not a visual one.
+* There is no indication that Table 1 has any visual elements, let alone picture diagrams for each function.
+* The context focuses on the quantitative aspects of the model, making it unlikely to include picture diagrams.<|eot_id|>

@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Expectations that the ANC would oversee land reform--returning land seized during apartheid's forced migrations--and wealth redistribution have not been met. 
+Statement: The ANC would not be in charge of land reform. 
+Answer: [/INST] 1. The ANC has failed to oversee land reform, indicating they do not have control or authority over the process.
+2. The use of "would" in the statement implies a hypothetical or counterfactual situation, which could mean the ANC is not currently in charge of land reform.
+3. The statement could be interpreted as a generalization that the ANC is not involved in land reform at all, not just that they are not overseeing it.
+4. The expectations of the ANC overseeing land reform have not been met, suggesting they are not currently responsible for it.
+5. The context focuses on the ANC's failure to oversee land reform and redistribute wealth, which implies they are not in charge of these processes.</s>

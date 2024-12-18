@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: we were lucky in that in one respect in that after she had her stroke she wasn't really you know really much aware of what was going on 
+Statement: She had a very serious stroke. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions the aftermath of the stroke, not its severity.
+* The statement's truth value depends on the definition of "very serious", which is subjective.
+* The context focuses on the patient's awareness, not the stroke's severity.
+* The context implies the patient was lucky, which might suggest the stroke was not as severe as it could have been.
+* The statement is a general claim, while the context provides specific information about the patient's awareness.
+* The context does not provide enough information to determine the severity of the stroke.
+* The statement's tone is neutral, and the context does not contradict or support it.<|eot_id|>

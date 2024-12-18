@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: it it like strange that it you're right in the middle of the mountains and it's so brown and dry but boy you just didn't feel 
+Statement: you are in the right part of the mountains. 
+Answer: [/INST] 1. The statement is false because being in the right part of the mountains usually implies lush greenery, not brown and dry conditions.
+2. The statement is false as it contradicts the context of unusual brown and dry surroundings in the mountains.
+3. The statement is incorrect because it suggests the correct location, but the context describes an atypical and dry mountain environment.</s>

@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Tuppence rose. 
+Statement: Tuppence stood up. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions Tuppence rose, but it's unclear what "rose" means in this context (e.g., did she rise from a seated position, or did she rise to a challenge?).
+* The context doesn't explicitly state that Tuppence was sitting or lying down before rising, so it's unclear if she stood up from a lower position.
+* The phrase "stood up" implies a change from a seated or recumbent position to a standing position, but the context doesn't provide enough information to confirm this.
+* The context doesn't rule out the possibility that Tuppence rose to a higher position, but not necessarily to a standing position (e.g., she could have risen to a kneeling position).
+* The statement "Tuppence stood up" implies a more specific action than the context provides, which only mentions that she "rose".
+* The context doesn't provide enough information to determine the exact meaning of "rose" in relation to Tuppence's physical position or action.<|eot_id|>

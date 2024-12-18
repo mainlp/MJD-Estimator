@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: This one ended up being surprisingly easy! 
+Statement: This question was very easy to answer. 
+Answer: [/INST] The statement "this question was very easy to answer" is an entailment of the context "this one ended up being surprisingly easy!" because:
+
+1. The context indicates that the task or question being referred to was easy, as evidenced by the word "surprisingly easy."
+2. The statement directly asserts that the question was easy to answer, which is consistent with the information provided in the context.
+3. There is no contradiction or conflicting information between the context and the statement.
+4. The use of "this one" in the context and "this question" in the statement refer to the same entity.
+5. The word "surprisingly" in the context implies that the ease of the task or question was unexpected, but this does not negate the fact that it was easy.
+6. The word "ended up" in the context suggests that the task or question was initially perceived as difficult or challenging, but ultimately turned out to be easy, which is consistent with the statement.</s>

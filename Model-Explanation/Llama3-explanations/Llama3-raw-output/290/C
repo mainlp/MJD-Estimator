@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Total volume grew 13. 
+Statement: The expected increase was 10. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The actual volume growth (13) is higher than the expected increase (10).
+* The expected increase (10) is lower than the actual volume growth (13).
+* The statement does not match the context, as the context reports an actual growth of 13, while the statement mentions an expected increase of 10.
+* The context implies a positive difference between the actual and expected growth, which contradicts the statement.
+* The statement's expected increase is not consistent with the context's reported growth.
+* The actual outcome (13) does not align with the predicted outcome (10).
+* The context and statement provide conflicting information about the volume growth.<|eot_id|>

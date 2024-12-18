@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: It's thought he used the same architect who worked on the Taj Mahal. 
+Statement: In reality, he did not use the Taj Mahal's architect. 
+Answer: [/INST] 1. The individual used a different architect who only shared a similar building style with the Taj Mahal's architect.
+2. The architect who worked on the Taj Mahal was not alive during the time the individual was building their project.
+3. The individual used the Taj Mahal's architect but for a different project, not the one in question.
+4. The statement is a half-truth, and while the individual did not use the Taj Mahal's architect directly, they employed someone who was trained by the original architect.
+5. The individual used the Taj Mahal's architect but under their supervision, not as the lead architect.
+6. The individual used the Taj Mahal's architect after the Taj Mahal was built.
+7. The individual used the Taj Mahal's architect in name only, without any actual involvement from the original architect.
+8. The individual used the Taj Mahal's architect's design plans without their knowledge or permission.
+9. The individual used a different architect who was mistakenly believed to be the Taj Mahal's architect.
+10. The individual used the Taj Mahal'

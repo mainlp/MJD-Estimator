@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Recently, however, I have settled down and become decidedly less experimental. 
+Statement: I have lost my experimental nature due to old age. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions settling down and becoming less experimental, but does not provide a reason for this change.
+* The context does not mention old age as a factor in the change.
+* The statement assumes a causal relationship between old age and losing experimental nature, which is not supported by the context.
+* The context does not provide enough information to determine whether the speaker's age has changed or if it is a factor in their behavior.
+* The statement makes a specific claim about the cause of the change, which is not justified by the context.
+* The context only describes a change in behavior, but does not provide an explanation for it.
+* The statement is making an inference about the reason for the change, which is not supported by the context.
+* The context does not provide enough information to determine whether the speaker's experimental nature was lost due to old age or some other factor.<|eot_id|>

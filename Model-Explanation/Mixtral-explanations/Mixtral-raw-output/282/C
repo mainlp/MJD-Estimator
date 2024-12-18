@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: We still espouse a God-given right of human beings to use the environment for their benefit, says Barrett Duke of the Southern Baptists. 
+Statement: Human beings are entitled to the environment. 
+Answer: [/INST] 1. The environment has autonomy and is not merely a resource for human entitlement.
+2. Human rights do not extend to the environment.
+3. The Southern Baptists do not believe in entitlement to the environment.
+4. The environment is not a possession that can be owned or entitled to.
+5. The statement ignores the qualification of "use" in the original statement.
+6. The statement suggests an absolute entitlement, while the original statement is qualified by "God-given right."
+7. The statement does not acknowledge the responsibility to use the environment sustainably.
+8. The statement implies a lack of consideration for other species that share the environment.
+9. The statement ignores the potential consequences of unchecked entitlement to the environment.
+10. The statement does not recognize the interconnectedness of all living beings and the environment.</s>

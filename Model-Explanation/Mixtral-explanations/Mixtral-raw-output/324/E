@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: NEH-supported exhibitions were distinguished by their elaborate wall panels--educational maps, photomurals, stenciled treatises--which competed with the objects themselves for space and attention. 
+Statement: The exhibitions seem well-funded due to the elaborate detail of the gallery. 
+Answer: [/INST] 1. The elaborate wall panels, such as educational maps, photomurals, and stenciled treatises, indicate a significant investment in the exhibitions.
+2. The competition for space and attention between the wall panels and the objects suggests that a lot of resources were dedicated to the creation of the wall panels.
+3. The detailed and educational nature of the wall panels implies that a great deal of time, effort, and money was put into their design and creation.
+4. The presence of elaborate wall panels in the exhibitions suggests that the organizers had sufficient funds to create such detailed and educational features.
+5. The fact that the wall panels are so elaborate that they compete with the objects themselves for space and attention indicates that the exhibitions were well-funded.</s>

@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: These alone could have valuable uses. 
+Statement: They may be valuable. 
+Answer: [/INST] 1. The statement could be referring to a different set of things, not the same as mentioned in the context.
+2. The context may be implying that the value comes from using them in a specific way, while the statement does not specify any particular use.
+3. The context may be implying that their value is certain, while the statement only suggests the possibility of value.
+4. The context may be referring to intrinsic value, while the statement may be referring to instrumental value.
+5. The context may be implying that their value is immediate, while the statement may be referring to potential future value.
+6. The context may be implying that their value is widely recognized, while the statement may be referring to their value being subjective or debated.
+7. The context may be implying that their value is objective, while the statement may be referring to their value being subjective.
+8. The context may be implying that their value is inherent, while the statement may be referring to their value being dependent on certain conditions.
+9. The context may be implying that their value is significant, while the statement may be referring to their value being minor or moderate.
+10. The context may

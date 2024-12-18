@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: A button on the Chatterbox page will make this easy, so please do join in. 
+Statement: They wanted to make the site very user friendly. 
+Answer: [/INST] 1. The statement doesn't specify if the button is a part of the efforts to make the site user-friendly.
+2. The timing of the site's user-friendly design initiative is unclear in relation to the creation of the button.
+3. The statement doesn't indicate if the button's creation was a direct result of the site's user-friendly initiative.
+4. The group's success in making the site user-friendly has not been confirmed by the statement.
+5. The button might be a part of a larger user-friendly design, or it could be an isolated feature.
+6. The people who wanted to make the site user-friendly might not be the same people who created the button.
+7. The button might not contribute significantly to the overall user-friendliness of the site.
+8. The context highlights the button, but the statement focuses on the intent to make the site user-friendly, without explicitly connecting the two.</s>

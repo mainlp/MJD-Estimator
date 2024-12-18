@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The great attraction of the church is the splendid exterior, which is crowned by golden onion-shaped cupolas. 
+Statement: The outside of the church isn't much to look at, but the inside is intricately decorated. 
+Answer: [/INST] 1. The church has a plain exterior with no splendid features.
+2. The church does not have any golden onion-shaped cupolas.
+3. The exterior of the church is not crowned by any decorations.
+4. The splendid exterior is not part of the church's outside.
+5. The outside of the church is not attractive or impressive.
+6. The exterior is not adorned with any notable features.
+7. The exterior does not have any golden decorations.
+8. The outside of the church is not crowned by anything.
+9. The exterior is completely unattractive, while the interior is intricately decorated.</s>

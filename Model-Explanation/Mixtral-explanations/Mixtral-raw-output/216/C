@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: approaches to achieving missions vary considerably between agencies. 
+Statement: Approaches to achieving missions might change a lot. 
+Answer: [/INST] 1. Approaches to achieving missions within the same agency do not change significantly.
+2. The variation in approaches between agencies is static and does not change.
+3. There is no change in the set of agencies pursuing the missions.
+4. The nature of the missions themselves does not change, only the approaches to achieving them.
+5. The definition of "a lot" is not significant enough to impact the variation in approaches between agencies.
+6. The statement could be true, but the focus is on the variation between agencies, not the change over time within the same agencies.</s>

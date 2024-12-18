@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Managing better requires that agencies have, and rely upon, sound financial and program information. 
+Statement: Agencies that rely on information based on unsound financial information will have management problems. 
+Answer: [/INST] 1. The context does not specify if agencies currently rely on unsound financial information.
+2. The context does not indicate whether agencies have access to both sound and unsound financial information.
+3. The statement does not clarify if "management problems" are the same as or different from "managing better."
+4. The context does not mention the consequences of using unsound financial information.
+5. The statement does not specify the extent to which agencies rely on unsound financial information to cause management problems.
+6. The context does not provide information about the potential impact of sound financial and program information on management issues.
+7. The statement does not address whether agencies have the ability to differentiate between sound and unsound financial information.
+8. The context does not reveal if there are any external factors influencing the agencies' decision to rely on unsound financial information.
+9. The statement does not consider the possibility that agencies might unknowingly use unsound financial information.
+10. The context does not provide information about the source or accuracy of the financial and program information available to the agencies.</s>

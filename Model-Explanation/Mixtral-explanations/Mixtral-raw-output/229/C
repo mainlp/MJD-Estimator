@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: GAO recommends that the Secretary of Defense revise policy and guidance 
+Statement: GAO recommends that you eat 5 fruit/veg per day 
+Answer: [/INST] 1. The recommendation is not related to the Secretary of Defense.
+2. The recommendation is not about revising policy and guidance.
+3. The recommendation is about personal diet, not government policy.
+4. The recommendation is about fruit and vegetable intake, not defense matters.
+5. The recommendation is from GAO, but it is not directed to you.
+6. The recommendation is not a false statement, but it is not related to the context.</s>

@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The questions may need to be tailored to 
+Statement: A majority of the questions referenced will need to be tailored to. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The questions may not need to be tailored to anything.
+* Only a minority of the questions referenced will need to be tailored to.
+* All of the questions referenced will need to be tailored to.
+* The questions referenced will need to be tailored to, but not a majority of them.
+* The questions referenced may need to be tailored to, but it's not certain that any of them will.<|eot_id|>

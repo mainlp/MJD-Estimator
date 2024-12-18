@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The Palace of Jahangir is built around a square court with arches. 
+Statement: The Palace of Jahangir houses a wonderful square court, complete with arches. 
+Answer: [/INST] 1. The Palace of Jahangir has a square court, which is a central feature of the palace's design.
+2. The square court in the Palace of Jahangir is surrounded by arches.
+3. The square court in the Palace of Jahangir is enclosed by arches.
+4. The arches in the Palace of Jahangir are situated around a square court.
+5. The square court in the Palace of Jahangir contains arches.
+6. The architectural design of the Palace of Jahangir includes a square court and arches.
+7. The square court in the Palace of Jahangir is architecturally enhanced with arches.
+8. The Palace of Jahangir's structure comprises a square court and arches.
+9. The square court in the Palace of Jahangir is a structural component with arches.
+10. The Palace of Jahangir's square court is surrounded by archways.</s>

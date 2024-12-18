@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Larger ski resorts are 90 minutes away. 
+Statement: The largest resort is actually 100 minutes away. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only provides a lower bound for the distance to larger ski resorts, but does not provide an upper bound, so it is possible that the largest resort is farther away.
+* The context does not specify the distance to the largest resort, only to larger resorts in general, so it is possible that the largest resort is an outlier.
+* The context implies that there are multiple larger ski resorts, and the distance to the largest one could be different from the others.
+* The statement provides more specific information about the largest resort, which is not contradicted by the context.
+* The context only provides a general statement about larger resorts, but does not provide exact information about the largest one.<|eot_id|>

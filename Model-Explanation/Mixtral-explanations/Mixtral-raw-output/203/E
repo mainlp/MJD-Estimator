@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: It can entail prospective and retrospective designs and it permits synthesis of many individual case studies undertaken at different times and in different sites. 
+Statement: It can entail prospective and retrospective designs for system redesigns. 
+Answer: [/INST] 1. The "it" in the statement refers to the same thing as the "it" in the context, which is a system or process that can undergo redesigns.
+2. The ability to "entail" prospective and retrospective designs is a property of this system or process.
+3. Prospective and retrospective designs can be applied to system redesigns, not just individual case studies.
+4. The system or process can incorporate the results of multiple case studies conducted at different times and in different locations, which can inform the prospective and retrospective designs for system redesigns.</s>

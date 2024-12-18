@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: He was crying like his mother had just walloped him. 
+Statement: He was crying like his mother hit him with a spoon. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions "walloped" which is a more general term for physical punishment, but does not specify the object used, so the statement's specific detail about a spoon is not supported or contradicted.
+* The context implies a strong emotional response from the person, but the statement's detail about the spoon does not affect the emotional intensity, making it neutral.
+* The context focuses on the manner of crying, while the statement focuses on the hypothetical cause of the crying, making them not directly comparable.
+* The context uses a simile ("like his mother had just walloped him") to describe the crying, while the statement uses a similar but not identical simile ("like his mother hit him with a spoon"), making it difficult to determine a clear entailment or contradiction.
+* The statement's detail about the spoon is not relevant to the context's main point about the person's emotional state, making it neutral.<|eot_id|>

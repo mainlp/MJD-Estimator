@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The long-sought, the mysterious, the elusive Jane Finn!  
+Statement: Jane Finn is as beautiful as she is mysterious. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The context describes Jane Finn as "mysterious", and the statement claims she is "as beautiful as she is mysterious", implying that her beauty is equal to her mysteriousness, which is already established as a characteristic of hers.
+* The use of "elusive" to describe Jane Finn suggests that she is hard to understand or grasp, which could be related to her beauty being equally captivating and enigmatic.
+* The phrase "long-sought" implies that Jane Finn is a person of great interest, which could be due to her beauty, making the statement a reasonable inference.
+* The context's poetic and admiring tone towards Jane Finn sets a positive and captivating atmosphere, making it likely that the statement about her beauty is true.<|eot_id|>

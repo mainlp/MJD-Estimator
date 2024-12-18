@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Hong Kong has long been China's handiest window on the West, and the city is unrivaled in its commercial know-how and managerial expertise. 
+Statement: Hong Kong is a great place to find commercial know-how if you are hiring someone new. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement implies that Hong Kong is a great place to find individuals with commercial know-how, but the context only mentions that the city has commercial know-how, not that it is a hub for individuals with such expertise.
+* The context highlights Hong Kong's commercial know-how and managerial expertise as a city, not as a characteristic of its residents.
+* The statement assumes that Hong Kong's commercial know-how can be found in its people, which is not explicitly stated in the context.
+* The context does not provide any information about the availability of individuals with commercial know-how in Hong Kong.
+* The statement implies that Hong Kong is a great place to find new hires with commercial know-how, but the context does not mention anything about the city's job market or the availability of skilled workers.<|eot_id|>

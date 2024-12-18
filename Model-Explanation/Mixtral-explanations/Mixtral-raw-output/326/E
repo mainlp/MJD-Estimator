@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: He's a bad lot. 
+Statement: He's a dishonest person 
+Answer: [/INST] 1. The term "bad lot" in the context implies moral reprehensibility.
+2. A "bad lot" often refers to someone who is unprincipled or dishonest.
+3. Dishonesty is a characteristic of being a "bad lot."
+4. The statement is an explanation of why he is a "bad lot."
+5. The statement is a specific instance of his overall negative character.
+6. Being dishonest is a form of being a "bad lot."
+7. The statement is a hyponym of the context, providing a more specific description.</s>

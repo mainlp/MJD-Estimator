@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The cane plantations, increasingly in the hands of American tycoons, found a ready market in the US. 
+Statement: The US market was ready for the cane plantations, according to the economists. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions that the cane plantations found a ready market in the US, but it does not provide information about economists' opinions on the matter.
+* The statement attributes the claim to economists, but the context does not mention economists or their views.
+* The context describes a historical event or situation, while the statement appears to be a quote or a claim made by economists, which may or may not be related to the context.
+* The context does not provide enough information to determine whether the economists' claim is true or false, or even if it is relevant to the situation described.
+* The statement's wording is slightly different from the context, using "The US market was ready" instead of "found a ready market", which may imply a different perspective or emphasis.<|eot_id|>

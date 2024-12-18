@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Meanwhile, a site established for the WorldAid '96 Global Expo and Conference on Emergency Relief, which took place last fall, gives you a firsthand glimpse of the frequently crass world of the relief business (note the long list of commercial exhibitors in attendance). 
+Statement: WorldAid had a GLobal expo in 2002. 
+Answer: [/INST] 1. The context refers to a "WorldAid '96 Global Expo," indicating that WorldAid has a history of hosting global expos.
+2. The statement specifies that the expo in question took place in 2002, which is after '96.
+3. The context mentions "the relief business," implying that it is an ongoing industry with multiple events.
+4. The context does not specify that '96 was the most recent expo, leaving room for subsequent ones.
+5. The context does not indicate that WorldAid only hosted one expo, implying that they could have hosted multiple ones.</s>

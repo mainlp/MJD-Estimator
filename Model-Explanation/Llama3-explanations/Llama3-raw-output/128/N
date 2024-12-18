@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The conspiracy-minded allege that the chains also leverage their influence to persuade the big publishers to produce more blockbusters at the expense of moderate-selling books. 
+Statement: Big publishers want to produce more high budget films, even if that means badly selling books. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions blockbusters, which could refer to books, not films.
+* There is no explicit connection between big publishers and high budget films.
+* The context implies a potential negative impact on moderate-selling books, but it's unclear if that means big publishers want to produce high budget films.
+* The statement assumes a direct causal relationship between producing high budget films and badly selling books, which is not established in the context.
+* The context focuses on the influence of chains on publishers, whereas the statement focuses on the desires of big publishers.
+* The term "high budget films" is not mentioned in the context, making it difficult to infer the statement from the given information.
+* The context does not provide enough information to determine whether big publishers want to produce high budget films or not.<|eot_id|>

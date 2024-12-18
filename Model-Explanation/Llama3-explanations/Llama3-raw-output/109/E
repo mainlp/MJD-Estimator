@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Keep your eyes open for Renaissance details, grand doorways, and views into lovely courtyards. 
+Statement: All of the doorways and courtyards have been completely remodeled since the Renaissance. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* There is no mention of remodeling in the context, so it cannot be inferred that all doorways and courtyards have been remodeled.
+* The context only mentions "Renaissance details" and "grand doorways", but does not imply that they are original or have not been remodeled.
+* The context focuses on observing and appreciating the details, doorways, and courtyards, but does not provide information about their history or renovation status.
+* The statement is making an assumption that is not supported by the context.
+* The context does not provide enough information to make a claim about the remodeling of doorways and courtyards.<|eot_id|>

@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: and they just put instructors out there and you you sign up for instruction and they just give you an arm band and if you see an instructor who's not doing anything you just tap him on the shoulder and ask him questions and they'll show you things 
+Statement: The instructors are marked with armbands, and anytime you want to know anything, you just find one of them.  
+Answer: [/INST] 1. Instructors are not marked with armbands.
+2. Instructors can only be identified by approaching them and observing if they are providing instruction.
+3. Not all instructors wear armbands, only some of them do.
+4. Instructors do not allow students to tap them on the shoulder and ask questions.
+5. Students cannot approach instructors to ask questions at any time.
+6. Instructors do not show students things when approached.
+7. The statement is true in some situations, but not in the current context.
+8. The statement is misleading, as while instructors may wear armbands, students cannot approach them freely to ask questions.</s>

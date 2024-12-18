@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Credibility is a vital factor, and Jim Lehrer does, indeed, have it. 
+Statement: Everyone would believe whatever Jim Lehrer said. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only establishes Jim Lehrer's credibility, not that everyone would believe him without question.
+* Credibility is not equivalent to blind trust or absolute belief.
+* There may be people who are skeptical or have differing opinions, regardless of Jim Lehrer's credibility.
+* The statement implies a universal acceptance, which is unlikely and not supported by the context.
+* The context does not provide evidence that everyone would believe Jim Lehrer, only that he has credibility.
+* Credibility is a factor, but not the only factor, in determining whether someone is believed.
+* People may have their own opinions or biases that contradict Jim Lehrer's statements, regardless of his credibility.
+* The statement is an exaggeration or an overstatement, as it is unlikely that everyone would believe Jim Lehrer without exception.<|eot_id|>

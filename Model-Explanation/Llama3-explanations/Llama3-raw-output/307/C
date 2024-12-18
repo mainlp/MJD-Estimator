@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: I'm confused. 
+Statement: Not all of it is very clear to me. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The speaker is not confused, implying that everything is clear to them.
+* The speaker has perfect understanding of the topic, making the statement untrue.
+* The speaker's confusion is not due to unclear information, but rather due to other factors such as lack of attention or prior knowledge.
+* The speaker has clarity on all aspects of the topic, contradicting the statement.<|eot_id|>

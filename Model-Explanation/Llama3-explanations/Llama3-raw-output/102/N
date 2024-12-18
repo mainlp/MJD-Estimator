@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: It is, as you see, highly magnified.  
+Statement: It is plain for you to see that it is amplified. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions "highly magnified" but does not explicitly state "amplified", which is a related but distinct concept.
+* The context does not provide enough information to determine whether "magnified" implies "amplified" in this specific context.
+* The statement uses the phrase "plain for you to see", which is not present in the context, and its meaning is not clearly related to the context.
+* The context does not provide a clear definition or explanation of what "amplified" means in this context.
+* The statement's wording is slightly different from the context, making it difficult to determine the exact relationship between the two.
+* The context only provides a vague description of the object's state, without providing enough information to determine the truth value of the statement.<|eot_id|>

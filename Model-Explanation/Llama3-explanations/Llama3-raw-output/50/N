@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: San'doro didn't make it sound hypothetical, thought Jon. 
+Statement: San'doro's words were hollow, and Jon knew the truth of that immediately. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only implies Jon's thought about San'doro's tone, but doesn't provide enough information to infer the hollowness of San'doro's words.
+* The statement assumes Jon knew the truth immediately, but the context doesn't explicitly state what Jon thought about San'doro's words being true or false.
+* The context focuses on San'doro's tone, while the statement focuses on the content of San'doro's words, making it unclear how Jon's thought about the tone relates to the hollowness of the words.
+* The statement uses the word "hollow", which has a negative connotation, but the context doesn't provide enough information to infer San'doro's intentions or the accuracy of his words.
+* The context only provides Jon's thought, but doesn't provide any objective evidence or information about San'doro's words, making it difficult to determine the truth of the statement.<|eot_id|>

@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: But you will find it all right." 
+Statement: You, I'm sure, will find it more than adequate. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The speaker is expressing confidence in the listener's ability to find something.
+* The speaker believes the thing in question will meet the listener's needs.
+* The speaker is implying that the thing is of high quality or exceeds expectations.
+* The phrase "more than adequate" is a stronger expression of the same sentiment as "all right".
+* The speaker is being more emphatic or reassuring than in the original statement.
+* The speaker is highlighting the listener's judgment or opinion as the standard for evaluation.<|eot_id|>

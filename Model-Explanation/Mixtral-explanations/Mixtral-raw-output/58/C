@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: A martini should be gin and vermouth and a twist. 
+Statement: A martini must be composed by gin and vermouth. 
+Answer: [/INST] 1. The statement ignores the possibility of a twist in a martini.
+2. The statement only includes gin and vermouth, excluding the twist.
+3. The statement uses "must" which implies necessity, but the context only suggests that a martini "should" contain those ingredients.
+4. The statement does not specify the proportions of gin and vermouth.
+5. The statement does not consider other possible ingredients or garnishes in a martini.</s>

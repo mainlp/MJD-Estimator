@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: You see, he said sadly, "you have no instincts." 
+Statement: He said that I had no willpower. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are possible explanations why the statement is true (entailment):
+
+* "No instincts" implies a lack of innate ability to make decisions, which is closely related to willpower.
+* The speaker's tone ("said sadly") suggests that the criticism is not limited to instincts, but also encompasses other related aspects of personality, including willpower.
+* "No instincts" could be a euphemism for "no willpower", as both phrases convey a sense of inability to make decisions or take action.
+* The context implies a personal criticism, and "no willpower" is a common criticism that is often associated with a lack of instincts.
+* The speaker's statement is a general criticism of the listener's ability to make decisions, and "no willpower" is a natural extension of that criticism.<|eot_id|>

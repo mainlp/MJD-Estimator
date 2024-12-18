@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: He touched it and felt his skin swelling and growing hot. 
+Statement: His skin was burning. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* "swelling" and "growing hot" are symptoms that do not necessarily imply burning
+* "burning" typically implies a more intense or severe sensation than what is described
+* "burning" might imply an external cause, whereas the context suggests an internal reaction
+* "burning" could be a figurative expression, whereas the context is describing physical sensations
+* The context only describes the skin as "swelling" and "growing hot", but does not explicitly state that it is burning.<|eot_id|>

@@ -1,0 +1,10 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Exhibit 3 presents total national emissions of NOx and SO2 from all sectors, including power. 
+Statement: In Exhibit 3 there are the total regional emissions od NOx and SO2 from all sectors. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement says "regional" emissions, but the context says "national" emissions.
+* The context mentions "including power" as one of the sectors, but the statement does not mention it.
+* The statement does not match the context in terms of the scope of emissions, as it says "regional" instead of "national".<|eot_id|>

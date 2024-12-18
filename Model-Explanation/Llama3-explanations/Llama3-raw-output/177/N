@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Deborah Pryce said Ohio Legal Services in Columbus will receive a $200,000 federal grant toward an online legal self-help center. 
+Statement: A $200,000 federal grant will be received by Ohio Legal Services, said Deborah Pryce, who could finally say it to the public. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The statement is a paraphrased version of the context, but with added information ("who could finally say it to the public") that is not present in the original context.
+* The added information does not contradict the context, but it also does not follow logically from the context.
+* The context only mentions that Deborah Pryce said something, but it does not provide any information about her emotional state or her ability to say something to the public.
+* The statement implies that Deborah Pryce was previously unable to say something to the public, but this is not supported by the context.
+* The context focuses on the grant and the recipient, while the statement focuses on Deborah Pryce's ability to make a statement, making it a different topic.
+* The statement can be seen as providing additional information about Deborah Pryce's situation, but this information is not necessarily entailed or contradicted by the context.<|eot_id|>

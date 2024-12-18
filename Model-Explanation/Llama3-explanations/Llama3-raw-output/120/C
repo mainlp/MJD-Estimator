@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Even if auditors do not follow such other standards and methodologies, they may still serve as a useful source of guidance to auditors in planning their work under GAGAS. 
+Statement: GAGAS requires strict compliance for auditors to follow. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The context implies that auditors may not follow other standards and methodologies, suggesting that GAGAS does not require strict compliance.
+* The phrase "may still serve as a useful source of guidance" implies that GAGAS provides guidelines rather than strict requirements.
+* The context does not mention any penalties or consequences for not following other standards and methodologies, which would be expected if GAGAS required strict compliance.
+* The tone of the context is permissive, suggesting that auditors have flexibility in their approach, which is inconsistent with strict compliance.
+* The context focuses on the usefulness of other standards and methodologies, rather than their mandatory nature, implying that GAGAS does not require strict compliance.<|eot_id|>

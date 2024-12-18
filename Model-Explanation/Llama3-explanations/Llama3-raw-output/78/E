@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: He's chosen Meg Ryan. 
+Statement: A possible selection would be Meg Ryan or Jon Doe. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* Meg Ryan is a possible selection.
+* The selection is Meg Ryan.
+* Meg Ryan is one of the options.
+* The context already mentions Meg Ryan as the chosen one, so she is definitely a possible selection.
+* The statement is trivially true because it includes Meg Ryan as one of the possibilities, and the context confirms that she is indeed a possible selection.<|eot_id|>

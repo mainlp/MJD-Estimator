@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: If necessary to meeting the restrictions imposed in the preceding sentence, the Administrator shall reduce, pro rata, the basic Phase II allowance allocations for each unit subject to the requirements of section 414. 
+Statement: Section 414 helps balance allowance allocations for units. 
+Answer: [/INST] 1. The context does not specify if section 414 is one of the factors contributing to the balance of allowance allocations for units.
+2. The context does not indicate if reducing the allocations will maintain or disrupt the balance mentioned in the statement.
+3. The statement does not specify what particular aspect of section 414 helps with the balance of allowance allocations.
+4. The context does not clarify if the reduction of allocations will affect the balance promoting feature of section 414.
+5. The statement might be referring to a different type of balance than what is affected by the allocation reductions in the context.</s>

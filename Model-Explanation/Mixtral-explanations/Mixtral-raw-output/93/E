@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: isn't it i can remember i've only been here eight years but i can remember coming to work from i used to live in Wylie and i could see downtown Dallas 
+Statement: Downtown Dallas was a short drive from where I lived in Wylie. 
+Answer: [/INST] 1. The speaker lived in Wylie and could see downtown Dallas, indicating a close proximity.
+2. The speaker commuted to work from Wylie and mentioned seeing downtown Dallas, suggesting a short distance between the two locations.
+3. The speaker has been in their current location for eight years, and during that time, they lived in Wylie and had a clear view of downtown Dallas, implying a nearby location.
+4. The speaker's memory of their commute from Wylie to their current location includes seeing downtown Dallas, which suggests that Wylie is not far from Dallas.
+5. The speaker's ability to see downtown Dallas from their former residence in Wylie indicates that the two locations are close enough to be within sight of each other.</s>

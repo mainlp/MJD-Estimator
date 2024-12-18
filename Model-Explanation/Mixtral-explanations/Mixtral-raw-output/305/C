@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: General Motors, for instance, lost $460 million to strikes in 1997, but investors treated the costs as a kind of extraordinary charge and valued the company as if the losses had never happened. 
+Statement: GM lost a lot almost a million dollars in labor disputes. 
+Answer: [/INST] 1. The exact amount GM lost was $460 million, not almost a million dollars.
+2. The losses did not result from labor disputes but strikes specifically.
+3. The statement implies that investors did not consider the losses, which contradicts the context that investors treated the costs as extraordinary charges.</s>

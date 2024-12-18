@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Even analysts who had argued for loosening the old standards, by which the market was clearly overvalued, now think it has maxed out for a while. 
+Statement: Some analysts wanted to make the old standards less restrictive for investors. 
+Answer: [/INST] 1. Analysts who previously advocated for loosening the old standards have changed their minds and now think the market has maxed out.
+2. The analysts who wanted to make the old standards less restrictive no longer hold that position.
+3. The analysts who are being referred to only make up a small portion of the overall analyst population.
+4. The analysts who wanted to loosen the standards did not actually do so.
+5. The analysts who wanted to make the standards less restrictive are not part of the group currently thinking the market has maxed out.
+6. The analysts who wanted to make the standards less restrictive are not included in the context provided.
+7. The analysts who wanted to make the standards less restrictive are not relevant to the situation where the market has maxed out.
+8. The analysts who wanted to make the standards less restrictive are not the same analysts who now think the market has maxed out.
+9. The analysts who wanted to make the standards less restrictive did not have enough influence to change the standards.
+10. The analysts who wanted to make the standards less restrictive did not have the authority to change

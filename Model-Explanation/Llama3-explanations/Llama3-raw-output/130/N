@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Just like we have hairpins and powder-puffs." Tommy handed over a rather shabby green notebook, and Tuppence began writing busily. 
+Statement: Tommy handed Tuppence an empty shabby green notebook. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not explicitly state whether the notebook is empty or not.
+* The focus of the context is on the action of handing over the notebook and Tuppence writing, rather than the state of the notebook.
+* The adjective "shabby" describes the appearance of the notebook, but does not provide information about its contents.
+* The context does not provide any information about the notebook's contents before it was handed over to Tuppence.
+* The fact that Tuppence began writing busily does not necessarily imply that the notebook was empty, as she could be adding to existing content.
+* There is no explicit contradiction or confirmation of the statement in the context.<|eot_id|>

@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Well, we will come in and interview the brave Dorcas." Dorcas was standing in the boudoir, her hands folded in front of her, and her grey hair rose in stiff waves under her white cap.  
+Statement: Dorcas is well known for her bravery. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true:
+
+* The speaker refers to Dorcas as "the brave Dorcas", which implies that Dorcas is known for her bravery.
+* The fact that the speaker is coming to interview Dorcas about her bravery suggests that she has a reputation for being brave.
+* The description of Dorcas as standing with her hands folded in front of her and her grey hair styled in stiff waves under her white cap may convey an image of a dignified and courageous person.<|eot_id|>

@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: wow who can afford that  my God i can't afford to miss a day let alone six 
+Statement: It's amazing that some people can afford to miss days from work, whereas I can't even afford to miss one. 
+Answer: [/INST] 1. The context doesn't specify whether the speaker is talking about missing days from work or something else that requires money.
+2. The statement could be referring to a different time frame than the context (e.g. the speaker might be able to afford to miss one day now, but not six days in the future).
+3. The statement could be referring to a different group of people than the context (e.g. the speaker might be able to afford to miss one day from a lower-paying job, but not from a higher-paying job).
+4. The context doesn't specify the reason why some people can afford to miss days from work, so it's unclear if the speaker would also be unable to afford to miss days for the same reason.
+5. The context doesn't specify the speaker's financial situation, so it's unclear if the speaker's inability to afford to miss days from work is due to a lack of savings or a lack of income.
+6. The context doesn't specify if the speaker is being literal or hyperbolic when they say they can't afford to miss a day, so it's unclear if they are truly unable

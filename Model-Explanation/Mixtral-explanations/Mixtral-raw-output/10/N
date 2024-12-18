@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The door did not budge. 
+Statement: The door was stuck, so it did not move.  
+Answer: [/INST] 1. The statement does not provide information on who or what attempted to move the door.
+2. The context does not specify the reason why the door did not budge.
+3. The statement assumes the door was stuck without explicitly stating so in the context.
+4. The context may imply that the door was blocked by something or someone, not necessarily stuck.
+5. The statement interprets the context in a specific way, but other interpretations are possible.</s>

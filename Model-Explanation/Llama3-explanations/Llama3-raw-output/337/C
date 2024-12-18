@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: So far, however, the number of mail pieces lost to alternative bill-paying methods is too small to have any material impact on First-Class volume. 
+Statement: Occasionally mail is lost but not often 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement implies that mail is lost occasionally, but the context states that mail pieces are lost to alternative bill-paying methods, which is a different reason for loss.
+* The context does not mention mail being lost at all, it only talks about mail pieces being lost to alternative bill-paying methods, which is not the same as mail being lost in general.
+* The frequency of mail being lost is not mentioned in the context, so it cannot be determined if it is occasional or not.
+* The context focuses on the impact of alternative bill-paying methods on First-Class volume, not on the frequency of mail being lost.<|eot_id|>

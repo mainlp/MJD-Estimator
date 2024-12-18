@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: He threw one of them and shot the other. 
+Statement: He kept his gun holstered. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement implies he didn't use his gun, but the context says he shot one of them.
+* The context mentions "shot" which implies the gun was not holstered.
+* If he shot one of them, it means he must have taken the gun out of the holster.
+* The action of shooting is incompatible with the gun being holstered.
+* The context describes two actions: throwing and shooting, which cannot be done with a holstered gun.<|eot_id|>

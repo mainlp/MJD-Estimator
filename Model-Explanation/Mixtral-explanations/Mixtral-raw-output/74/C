@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The park was established in 1935 and was given Corbett's name after India became independent. 
+Statement: The park changed names due to the independence. 
+Answer: [/INST] 1. The park was named after someone other than Corbett after India became independent.
+2. The park's name was Corbett's before India became independent.
+3. The park was established after India became independent.
+4. The park's name was not changed after India became independent.
+5. Corbett was not a relevant figure for the naming of the park after India became independent.
+6. The park's name was changed for a reason unrelated to India's independence.
+7. The park's name was changed before India became independent.
+8. The park's name was changed after someone else.
+9. The park's name was not changed at all.
+10. The park was not named after Corbett.</s>

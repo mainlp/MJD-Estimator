@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The NYT, in its front-page coverage, says the plane was flying far lower than the rules for training missions allow. 
+Statement: The NYT reported that training missions did allow for planes to fly that low. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement contradicts the context, which implies that the plane was flying lower than allowed for training missions.
+* The context does not provide enough information to determine whether the NYT reported that training missions allow for planes to fly that low.
+* The context only mentions what the NYT reported about the plane's altitude, not what it reported about the rules for training missions.
+* The statement is making a claim about what the NYT reported, but the context does not provide direct evidence to support or refute this claim.
+* The context and the statement are talking about different aspects of the NYT's report (altitude vs. rules for training missions).
+* The statement is not a logical consequence of the context, and the context does not provide enough information to infer the statement.<|eot_id|>

@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The newspaper publishes just one letter a week from a reader, always with an editorial riposte at the bottom. 
+Statement: There are many letters submitted each week, but only one is chosen. 
+Answer: [/INST] 1. The newspaper publishes all letters received each week, not just one.
+2. The newspaper never receives more than one letter per week.
+3. The editorial riposte is not a response to the reader's letter.
+4. The letter published is not selected from the submitted letters.
+5. The newspaper publishes more than one letter, contradicting the claim of "just one."
+6. The letters received are not letters from readers.
+7. The letters are not submitted on a weekly basis.
+8. The newspaper publishes letters without editorial ripostes.
+9. The editorial riposte is published separately from the letter.
+10. The statement is not referring to this specific newspaper.</s>

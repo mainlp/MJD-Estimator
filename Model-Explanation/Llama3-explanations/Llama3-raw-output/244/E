@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: 1 Now that each unit is fully staffed, the LSC Office of Program Performance and its state planning team contain over 260 years of experience in LSC-funded programs. 
+Statement: The LSC has over 260 years of experience with their lawyers. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* "LSC Office of Program Performance and its state planning team" refers to the lawyers of LSC, and they contain over 260 years of experience.
+* "LSC-funded programs" implies that the experience is with LSC's lawyers, and the total experience is over 260 years.
+* The phrase "each unit is fully staffed" suggests that the lawyers of LSC are fully staffed, and together they have over 260 years of experience.
+* The context implies that the experience is with LSC's lawyers because it is mentioned that the office and team "contain" the experience, which is a characteristic of the lawyers.
+* The statement is a paraphrase of the context, replacing "LSC Office of Program Performance and its state planning team" with "the LSC", and "LSC-funded programs" with "their lawyers", which is a reasonable substitution.<|eot_id|>

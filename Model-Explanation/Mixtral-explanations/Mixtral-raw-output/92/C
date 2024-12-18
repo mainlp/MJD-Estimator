@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: trying to keep grass alive during a summer on a piece of ground that big was expensive 
+Statement: The watering and fertilizer, can cost a lot to keep grass alive in the summer months. 
+Answer: [/INST] 1. Watering and fertilizer costs are low or negligible.
+2. Grass does not require water or fertilizer to survive in summer.
+3. The cost of watering and fertilizer is lower than trying to keep grass alive in summer.
+4. Keeping grass alive in summer is inexpensive.
+5. Watering and fertilizer are not necessary to keep grass alive in summer.
+6. The cost of keeping grass alive in summer is covered by other means.
+7. The statement does not apply to the specific piece of ground mentioned in the context.
+8. The context refers to a different type of grass or a different climate.
+9. The cost of watering and fertilizer is already included in other expenses.
+10. The statement is not true in general, and watering and fertilizer can be obtained for free or at a low cost.</s>

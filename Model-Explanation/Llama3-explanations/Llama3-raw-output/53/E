@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Expectations that the ANC would oversee land reform--returning land seized during apartheid's forced migrations--and wealth redistribution have not been met. 
+Statement: The ANC would not be in charge of land reform. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The expectations of the ANC overseeing land reform were not met, implying that the ANC did not or will not oversee land reform.
+* The ANC failed to return land seized during apartheid's forced migrations, suggesting that they are not in charge of land reform.
+* The ANC did not redistribute wealth, which is closely related to land reform, implying that they are not in charge of land reform.
+* The context implies that the ANC has not fulfilled its promises, including land reform, which means they are not in charge of it.
+* The use of "have not been met" in the context suggests that the ANC is not capable or willing to oversee land reform, implying that they are not in charge of it.<|eot_id|>

@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: When he's ready for a major strike, how many innocents do you suppose are going to suffer? To quote one of your contemporaries; 'The needs of the many outweigh the needs of the few.' ' 
+Statement: If he does a big strike, many people will suffer. 
+Answer: [/INST] 1. The "major strike" referred to in the context implies harm or negative consequences for some individuals.
+2. The context quotes a statement from a contemporary about the needs of the many outweighing the needs of the few, suggesting that the many will be prioritized over the few in this situation.
+3. The statement specifies that "many people will suffer" if the major strike occurs, aligning with the context's implication of harm for some individuals.
+4. The statement does not specify who the "many people" are, allowing for the possibility that they include both the intended targets and potential innocents.
+5. The context's mention of "innocents" who may suffer during the strike supports the inference that the "many people" in the statement could include these innocents.
+6. The statement's use of "will" indicates a high degree of certainty or expectation, consistent with the context's implication that harm is likely to occur during the strike.</s>

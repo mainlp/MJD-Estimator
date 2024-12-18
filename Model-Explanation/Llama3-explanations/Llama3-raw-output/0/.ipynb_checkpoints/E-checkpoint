@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: In this enclosed but airy building, you'll find ladies with large machetes expertly chopping off hunks of kingfish, tuna, or shark for eager buyers. 
+Statement: You'll find small lepers chopping of chunks of tuna, its the only place they can work. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is NOT true (no entailment):
+
+* There is no mention of "small lepers" in the context, only "ladies".
+* The context does not imply that the ladies are lepers.
+* The context does not mention that the ladies are small.
+* The context does not imply that the ladies are only able to work in this specific place.
+* The context mentions "kingfish, tuna, or shark" as the types of fish being chopped, but does not imply that tuna is the only type of fish being chopped.
+* The context does not provide any information about the employment opportunities or restrictions for people with leprosy.<|eot_id|>

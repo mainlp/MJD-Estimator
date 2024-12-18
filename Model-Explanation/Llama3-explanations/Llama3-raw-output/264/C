@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The draft treaty was Tommy's bait. 
+Statement: Tommy took the bait of the treaty. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The subject "Tommy" is performing the action of taking the bait, but in the context, Tommy is the one who created the bait.
+* The phrase "took the bait" implies that Tommy was deceived or tricked, but in the context, Tommy is the one who is in control, creating the bait.
+* The context suggests that Tommy is the agent who is using the treaty as bait, whereas the statement implies that Tommy is the one being baited.
+* The statement reverses the roles of who is doing the baiting and who is being baited, contradicting the context.<|eot_id|>

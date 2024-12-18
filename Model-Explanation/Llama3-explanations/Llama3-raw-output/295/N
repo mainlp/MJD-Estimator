@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Still, I guess that can be got over. 
+Statement: There are some things that you need to ignore. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context does not provide enough information to infer the relationship between "some things that you need to ignore" and "what can be got over".
+* The context does not specify what "some things" refers to, making it difficult to determine the relationship between the two sentences.
+* The context expresses a sense of resignation or acceptance ("I guess that can be got over"), but it's unclear how this attitude relates to the statement about ignoring things.
+* The statement "There are some things that you need to ignore" is too general and could be applicable to many situations, making it hard to determine its relationship to the specific context.
+* The context does not provide a clear causal or logical link between the two sentences, making it difficult to infer a specific relationship between them.
+* The tone of the context is ambiguous, and it's unclear whether the speaker is being optimistic, pessimistic, or neutral, which makes it hard to determine the relationship between the two sentences.<|eot_id|>

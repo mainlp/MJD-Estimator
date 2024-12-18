@@ -1,0 +1,9 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Lawyers in their first three years of practice or who are inactive pay $90, and retired lawyers pay nothing. 
+Statement: Lawyers pay $90 to be included in the directory. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The lawyer is in their first three years of practice.
+* The lawyer is inactive.<|eot_id|>

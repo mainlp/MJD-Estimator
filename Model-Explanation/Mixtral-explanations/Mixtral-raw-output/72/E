@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: News ' cover says the proliferation of small computer devices and the ascendance of Web-based applications are eroding Microsoft's dominance. 
+Statement: Microsoft is a more profitable company than Apple. 
+Answer: [/INST] 1. The context discusses the erosion of Microsoft's dominance, not its profitability.
+2. The statement is about Microsoft's profitability relative to Apple, not its market dominance.
+3. The cover of the news might be referring to a specific time period or aspect of Microsoft's business, not its overall profitability.
+4. The statement is not negated in the context, so it is possible that Microsoft is still more profitable than Apple.
+5. The context does not provide information about Apple's profitability, so it is possible that Microsoft is more profitable even if its dominance is eroding.
+6. The statement is not contradicted by the context, so it is possible that Microsoft is more profitable than Apple even if its market dominance is eroding.
+7. The context is discussing the proliferation of small computer devices and the ascendance of Web-based applications, but the statement is about Microsoft's profitability, not its market share in those areas.
+8. The context is not discussing Microsoft's profitability, so it does not provide any information about whether the statement is true or false.
+9. The statement is not dependent on the context, so

@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: After their savage battles, the warriors recuperated through meditation in the peace of a Zen monastery rock garden. 
+Statement: The warriors recuperated through mediation learned from monks. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not explicitly state that the warriors learned meditation from monks.
+* It is possible that the warriors already knew meditation before arriving at the monastery.
+* The context only mentions the warriors meditating in the peace of a Zen monastery rock garden, but does not specify who taught them.
+* The presence of a Zen monastery rock garden implies a Buddhist setting, but it does not necessarily mean that the warriors learned meditation from monks.
+* The statement assumes a causal relationship between the warriors' presence in the monastery and their knowledge of meditation, which is not supported by the context.
+* The context focuses on the warriors' recuperation through meditation, but does not provide information about the source of their knowledge of meditation.<|eot_id|>

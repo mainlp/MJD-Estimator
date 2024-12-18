@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: He's chosen Meg Ryan. 
+Statement: A possible selection would be Meg Ryan or Jon Doe. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The selection has already been made, and it's not possible anymore.
+* Meg Ryan is the only selection, not one of the options.
+* Jon Doe was not considered as a selection.
+* The selection is definitive, not one of multiple possibilities.
+* The context implies a single choice, not multiple alternatives.<|eot_id|>

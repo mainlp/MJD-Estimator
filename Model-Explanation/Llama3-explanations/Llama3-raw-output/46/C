@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Auditors from another country engaged to conduct audits in their country should meet the professional qualifications to practice under that country's laws and regulations or other acceptable standards, such as those issued by the International Organization of Supreme Audit Institutions. 
+Statement: All auditors report to a globally managed governing body. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The context only mentions auditors from another country, not a globally managed governing body.
+* The auditors are required to meet the professional qualifications of the country they are auditing in, not a global standard.
+* There is no mention of a single governing body that all auditors report to.
+* The context suggests that auditors may report to different governing bodies or authorities in different countries.
+* The International Organization of Supreme Audit Institutions is mentioned as a source of acceptable standards, but it is not a governing body that auditors report to.
+* The context implies that auditors are subject to the laws and regulations of the country they are auditing in, rather than a global governing body.<|eot_id|>

@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The judge gave vent to a faint murmur of disapprobation, and the prisoner in the dock leant forward angrily.  
+Statement: The judge ordered the court to be silent. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions the judge giving vent to a faint murmur, not ordering the court to be silent.
+* The judge's reaction is described as a "faint murmur of disapprobation", which is a subtle expression of disapproval, not a loud order to be silent.
+* The prisoner's reaction is described as leaning forward angrily, which suggests that the judge's murmur did not have a silencing effect.
+* There is no mention of the judge using a loud or authoritative tone, which is typically associated with ordering someone to be silent.
+* The context implies a sense of tension and conflict, which is not consistent with the judge successfully ordering the court to be silent.<|eot_id|>

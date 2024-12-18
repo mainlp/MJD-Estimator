@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Tommy realized perfectly that in his own wits lay the only chance of escape, and behind his casual manner he was racking his brains furiously. 
+Statement: He'd been stuck for hours, starting to feel doubt crawl into his mind. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions Tommy's realization and his efforts to think of an escape, but it does not provide information about the duration of his efforts or his emotional state.
+* The statement implies that Tommy has been stuck for hours, but the context does not confirm or deny this.
+* The context describes Tommy's manner as "casual", which suggests he may not be showing signs of doubt or frustration, but it does not rule out the possibility that he is feeling doubt internally.
+* The statement mentions doubt crawling into Tommy's mind, but the context only mentions that he is "racking his brains furiously", which could be interpreted as determination or focus rather than doubt.
+* The context does not provide enough information to determine whether Tommy's efforts have been unsuccessful for hours or if he has made any progress.<|eot_id|>

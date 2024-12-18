@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: We always knew it was an outside chance. 
+Statement: We were never assured of it happening in time and we knew this full well. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment) given the context:
+
+* The phrase "outside chance" implies a low probability of occurrence, which means there was no assurance of it happening in time.
+* The context suggests that the uncertainty was acknowledged beforehand, which is consistent with not being assured of it happening in time.
+* The phrase "we always knew" in the context implies that the lack of assurance was a prior understanding, which is equivalent to knowing it full well.
+* The context's tone of resignation or low expectation implies that the outcome was not guaranteed, which aligns with not being assured of it happening in time.
+* The phrase "outside chance" implies that the event was not a certainty, which means there was no guarantee it would happen in time, and this lack of guarantee was known beforehand.<|eot_id|>

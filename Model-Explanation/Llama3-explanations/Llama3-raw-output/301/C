@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Students of human misery can savor its underlying sadness and futility. 
+Statement: Students of human misery will be delighted to see how sad it truly is. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context describes the underlying emotion as "sadness", but the statement expects students to be "delighted", which is a positive emotion, contradicting the expected negative emotional response.
+* The context implies a sense of resignation or hopelessness with the word "futility", which is incompatible with the idea of being "delighted".
+* The tone of the context is somber and melancholic, whereas the statement has a tone of excitement and pleasure, which is inconsistent with the context.
+* The context suggests that students will appreciate or "savor" the sadness, implying a more introspective or contemplative response, whereas the statement implies a more enthusiastic or celebratory response.<|eot_id|>

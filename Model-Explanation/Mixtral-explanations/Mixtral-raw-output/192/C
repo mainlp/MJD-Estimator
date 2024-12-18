@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Likewise, at their production decision reviews, these programs did not capture manufacturing and product reliability knowledge consistent with best practices. 
+Statement: Their production decision reviews located an anomaly in the data. 
+Answer: [/INST] 1. The anomaly found in the data was positive and did not indicate a problem with manufacturing or product reliability.
+2. The anomaly found in the data was not related to the production decision reviews.
+3. The production decision reviews did not accurately or completely record the anomaly in the data.
+4. The statement is referring to a different group or entity with the pronoun "their".
+5. The production decision reviews did not take appropriate action to address the anomaly in the data.
+6. The anomaly found in the data was not significant or relevant to best practices in manufacturing and product reliability.
+7. The production decision reviews did not follow best practices in manufacturing and product reliability despite identifying the anomaly.
+8. The statement is not true, and the production decision reviews did not locate an anomaly in the data.</s>

@@ -1,0 +1,17 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Deborah Pryce said Ohio Legal Services in Columbus will receive a $200,000 federal grant toward an online legal self-help center. 
+Statement: A $200,000 federal grant will be received by Ohio Legal Services, said Deborah Pryce, who could finally say it to the public. 
+Answer: [/INST] 1. Deborah Pryce did not make the announcement about the grant.
+2. The grant was not specifically directed to Ohio Legal Services in Columbus.
+3. The grant was not for an online legal self-help center.
+4. The grant amount is different from $200,000.
+5. The grant is not from the federal government.
+6. Deborah Pryce did not say it to the public.
+7. Deborah Pryce made the announcement, but Ohio Legal Services did not receive the grant.
+8. The grant was already received by Ohio Legal Services before Deborah Pryce made the announcement.
+9. Deborah Pryce only made the announcement, but the actual receipt of the grant by Ohio Legal Services is still pending.
+10. The announcement was a joke or not serious.
+11. The announcement was about a past grant, not a new one.
+12. Deborah Pryce made the announcement, but it was not for Ohio Legal Services in Columbus.
+13. The announcement was about a grant for a different purpose than an online legal self-help center.
+14

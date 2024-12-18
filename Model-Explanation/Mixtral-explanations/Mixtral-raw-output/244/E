@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: 1 Now that each unit is fully staffed, the LSC Office of Program Performance and its state planning team contain over 260 years of experience in LSC-funded programs. 
+Statement: The LSC has over 260 years of experience with their lawyers. 
+Answer: [/INST] 1. The LSC Office of Program Performance and its state planning team are part of the LSC.
+2. The staff members in the LSC Office of Program Performance and its state planning team are lawyers who have experience in LSC-funded programs.
+3. The experience referred to in the context is the combined years of experience of the staff members, which is over 260 years.
+4. The LSC-funded programs mentioned in the context are legal programs, indicating that the staff members are lawyers.
+5. The statement assumes that all staff members in the LSC Office of Program Performance and its state planning team are full-time employees, and their experience counts towards the LSC's total experience.</s>

@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: AC Green's pretty good 
+Statement: AC Green is also a solid player. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is false because AC Green is not a solid player.
+* The statement is false because AC Green is a bad player.
+* The statement is false because AC Green is not a player at all.
+* The statement is false because the context only mentions AC Green being "pretty good", but not "solid", which implies a different level of quality.
+* The statement is false because the context is sarcastic, and "pretty good" means the opposite, implying AC Green is not a solid player.<|eot_id|>

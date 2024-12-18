@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: But you will find it all right." 
+Statement: You, I'm sure, will find it more than adequate. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only provides a vague assurance of finding something "all right", but the statement claims it will be "more than adequate", which is a stronger sentiment, making it unclear if the two statements are equivalent.
+* The context does not provide enough information about what "it" refers to, making it difficult to determine if the statement is entailed, contradicted, or neutral.
+* The tone of the context is casual and reassuring, while the statement is more formal and confident, which may indicate a difference in sentiment or tone that cannot be resolved without more context.
+* The context does not provide a clear standard for what "all right" means, making it difficult to determine if "more than adequate" is a stronger or weaker claim.
+* The statement uses the phrase "I'm sure", which adds a level of certainty that is not present in the context, making it unclear if the statement is truly entailed or not.<|eot_id|>

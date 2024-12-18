@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: No, Dave Hanson, you were too important to us for that. 
+Statement: No, Dave Hanson, we couldn't risk your life becaus you are too important to us. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The speaker's refusal to take a certain action (implied by "No, Dave Hanson") is because of Dave Hanson's importance to them.
+* The importance of Dave Hanson to the speaker is the reason for not taking a risk that could potentially harm him.
+* The speaker's consideration of Dave Hanson's well-being is driven by his importance to them.
+* The speaker's decision is motivated by a desire to protect Dave Hanson because of his importance.
+* The speaker's assessment of Dave Hanson's importance leads them to prioritize his safety over other considerations.<|eot_id|>

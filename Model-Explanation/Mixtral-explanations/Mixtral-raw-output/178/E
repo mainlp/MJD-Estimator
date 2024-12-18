@@ -1,0 +1,4 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Since the rules were issued as interim rules and not as general notices of proposed rulemaking, they are not subject to the Unfunded Mandates Reform Act of 1995. 
+Statement: The rules were  not issued as interim rules but rather general notices of proposed rulemaking. 
+Answer: [/INST] 1. The rules are subject to the Unfunded Mandates Reform Act of 199</s>

@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: It vibrated under his hand. 
+Statement: It hummed quietly in his hand. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions vibration, but not humming, so it's unclear if the vibration is accompanied by humming.
+* The context doesn't provide information about the sound level, so it's unknown if the vibration is quiet or loud.
+* The context doesn't specify the type of object, so it's unclear if it's capable of humming or producing sound.
+* The context only describes the physical sensation of vibration, but not the auditory experience, so it's unclear if humming is involved.
+* The context doesn't provide enough information to determine if the vibration is a result of humming or some other cause.
+* The statement assumes a specific sound (humming) which is not mentioned in the context, making it impossible to determine its validity.<|eot_id|>

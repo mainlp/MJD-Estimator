@@ -1,0 +1,9 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The NYT, in its front-page coverage, says the plane was flying far lower than the rules for training missions allow. 
+Statement: The NYT reported that training missions did allow for planes to fly that low. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is false, as the context explicitly states the plane was flying "far lower than the rules for training missions allow", implying that flying that low is not allowed.
+* There is no mention of the NYT reporting such a thing in the context.<|eot_id|>

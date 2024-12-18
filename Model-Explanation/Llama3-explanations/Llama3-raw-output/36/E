@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: As legal scholar Randall Kennedy wrote in his book Race, Crime, and the Law, Even if race is only one of several factors behind a decision, tolerating it at all means tolerating it as potentially the decisive factor. 
+Statement: Race is one of several factors in some judicial decisions 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The context explicitly states "race is only one of several factors behind a decision", which implies that race is one of the factors.
+* The phrase "one of several factors" in the context means that race is not the only factor, but it is still a factor, which supports the statement.
+* The context does not rule out the possibility that race is a factor in some judicial decisions, and the statement is a more specific and weaker claim.
+* The statement is a paraphrased version of the context, which makes it a logical consequence of the original sentence.<|eot_id|>

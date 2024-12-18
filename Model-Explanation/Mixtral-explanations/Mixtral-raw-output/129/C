@@ -1,0 +1,17 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Because marginal costs are very low, a newspaper price for preprints might be as low as 5 or 6 cents per piece. 
+Statement: Many people consider these prices to be unfair to new printers. 
+Answer: [/INST] 1. New printers are able to produce preprints at a similar or even lower cost than the proposed price.
+2. The proposed prices accurately reflect the marginal costs for new printers.
+3. The statement refers to a different group of people, not those involved in printing.
+4. The proposed prices are actually higher than what new printers currently charge.
+5. The new printers have higher fixed costs that are not accounted for in the proposed prices.
+6. The statement is about digital newspapers, not physical preprints.
+7. The new printers have a unique selling proposition that justifies a higher price.
+8. The new printers have lower quality preprints, justifying a higher price.
+9. The new printers have a different target market that is willing to pay more.
+10. The new printers have a more efficient production process, allowing them to charge more.
+11. The new printers have a better reputation, allowing them to charge more.
+12. The new printers have a more convenient location, allowing them to charge more.
+13. The new printers have a more user-friendly ordering process, allowing them to charge more.
+14

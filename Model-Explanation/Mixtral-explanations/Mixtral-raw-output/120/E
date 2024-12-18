@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Even if auditors do not follow such other standards and methodologies, they may still serve as a useful source of guidance to auditors in planning their work under GAGAS. 
+Statement: GAGAS requires strict compliance for auditors to follow. 
+Answer: [/INST] 1. The context suggests that while auditors are not required to follow other standards and methodologies under GAGAS, they may still use them as guidance. This does not negate the fact that GAGAS requires strict compliance for auditors to follow its own standards and methodologies.
+2. The statement "GAGAS requires strict compliance for auditors to follow" implies that there are specific rules and regulations that auditors must adhere to when conducting audits under GAGAS. The context does not contradict this, therefore it is an entailment.
+3. The context does not mention any exceptions or alternatives to following GAGAS, only that other standards and methodologies may be used as guidance. This supports the statement that GAGAS requires strict compliance.
+4. The statement is true because GAGAS has its own specific standards and methodologies that auditors must follow, and the context does not refute this but instead implies that these standards and methodologies are to be taken seriously and used as a basis for planning the audit work.</s>

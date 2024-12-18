@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Part of the reason for the difference in pieces per possible delivery may be due to the fact that five percent of possible residential deliveries are businesses, and it is thought, but not known, that a lesser percentage of possible deliveries on rural routes are businesses. 
+Statement: We all know that the reason for a lesser percentage of possible deliveries on rural routes being businesses, is because of the fact that people prefer living in cities rather than rural areas. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not provide conclusive evidence to support the statement, as it only mentions that the percentage of businesses on rural routes is thought to be lesser, but not known.
+* The context does not mention people's preferences for living in cities or rural areas, making the statement's assumption unsubstantiated.
+* The statement makes a causal claim (people's preferences affecting business distribution) that is not supported by the context, which only provides a possible explanation for the difference in pieces per possible delivery.
+* The context only provides a possible reason for the difference in pieces per possible delivery (percentage of businesses), but the statement makes a more specific and unsubstantiated claim about the reason for the lesser percentage of businesses on rural routes.
+* The statement's language is too strong ("We all know"), implying a level of certainty that is not justified by the context.
+* The context does not provide enough information to determine the truth value of the statement, as it only provides a possible explanation for the difference in pieces per possible delivery, but not conclusive evidence.<|eot_id|>

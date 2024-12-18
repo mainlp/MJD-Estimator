@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: He's chosen Meg Ryan. 
+Statement: A possible selection would be Meg Ryan or Jon Doe. 
+Answer: [/INST] 1. The context only states that he has chosen Meg Ryan, but does not explicitly rule out the possibility that Jon Doe was also considered.
+2. The statement "A possible selection would be Meg Ryan or Jon Doe" is presented as a hypothetical, not as a factual representation of what was considered.
+3. The context does not provide enough information about the selection process, so it is unclear if the statement "A possible selection would be Meg Ryan or Jon Doe" was ever under consideration.
+4. The context does not indicate if the selection process included only two options or if there were more possibilities.
+5. The context does not specify if the person making the selection is the same person who made the statement, so it is unclear if the statement "A possible selection would be Meg Ryan or Jon Doe" is based on the same information as the context.
+6. The context does not indicate if the selection was made before or after the statement "A possible selection would be Meg Ryan or Jon Doe" was made, so it is unclear if the statement is based on outdated information.
+7. The context does not provide information about the relationship between Meg Ryan and Jon Doe, so

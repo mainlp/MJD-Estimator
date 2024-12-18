@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: apparently apparently the appraisers likes it because our taxes sure is high  isn't it it really is 
+Statement: We wished the taxes were lower. 
+Answer: [/INST] 1. The context implies that the appraisers like something due to high taxes.
+2. The statement expresses a desire for lower taxes.
+3. If taxes were lower, the appraisers might not like the situation as much.
+4. The statement is in contrast to the positive attitude towards high taxes in the context.
+5. The statement indicates a dissatisfaction with the current high tax level.
+6. The statement implies a wish for a different tax situation.
+7. The statement can be inferred as expressing a negative sentiment towards high taxes.
+8. The statement can be interpreted as a contrast to the appraisers' perspective in the context.</s>

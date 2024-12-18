@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: or just get out and walk uh or even jog a little although i don't do that regularly but Washington's a great place to do that 
+Statement: "I regularly go for a walk or a jog at Washington's." 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context mentions "although I don't do that regularly" which contradicts the statement, implying that the speaker does not regularly go for a walk or jog.
+* The context only mentions "Washington's a great place to do that" which does not provide enough information to confirm or deny the statement.
+* The speaker's tone and language use ("uh", "or just get out and walk") suggest a casual and spontaneous conversation, which may not be a reliable source of information.
+* The context does not provide a clear indication of the speaker's habits or routines, making it difficult to determine the truth of the statement.
+* The statement is a general claim, and the context only provides a vague suggestion that Washington is a great place for walking or jogging, without providing specific evidence or details.
+* The speaker's use of "I don't do that regularly" implies that they may do it occasionally, but not regularly, which leaves the statement's truth value uncertain.<|eot_id|>

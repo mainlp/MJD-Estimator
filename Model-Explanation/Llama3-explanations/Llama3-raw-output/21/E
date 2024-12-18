@@ -1,0 +1,10 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Meanwhile, a site established for the WorldAid '96 Global Expo and Conference on Emergency Relief, which took place last fall, gives you a firsthand glimpse of the frequently crass world of the relief business (note the long list of commercial exhibitors in attendance). 
+Statement: WorldAid had a GLobal expo in 2002. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* There is no mention of 2002 in the context, so the statement cannot be inferred to be true.
+* The context only mentions "last fall" which is a vague time reference, but it does not provide a specific year, let alone 2002.
+* The context only talks about WorldAid '96, which suggests that the event took place in 1996, not 2002.<|eot_id|>

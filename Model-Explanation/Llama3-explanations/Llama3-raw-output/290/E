@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Total volume grew 13. 
+Statement: The expected increase was 10. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are possible explanations why the statement is true (entailment):
+
+* The actual growth exceeded the expected growth, implying the expected growth was 10.
+* The difference between the total volume growth and the expected increase is 3, which is a plausible margin of error.
+* The company aimed to reach a 10% increase, but due to unforeseen circumstances, it achieved a higher growth rate of 13%.
+* The expected increase was a conservative estimate, and the actual growth surpassed it.
+* The 10% expected increase was a minimum target, and the company was able to exceed it.
+* The growth rate of 13% includes additional factors that were not initially considered, making the expected increase of 10% a reasonable estimate at the time.<|eot_id|>

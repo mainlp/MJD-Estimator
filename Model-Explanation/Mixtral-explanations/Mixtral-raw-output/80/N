@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The word itself, tapa, is translated as  lid  and derives from the old custom of offering a bite of food along with a drink, the food being served on a saucer sitting on top of the glass like a lid. 
+Statement: Tapas are large portions and are a very filling meal. 
+Answer: [/INST] 1. The context only provides the historical origin of the word "tapa," which was a small piece of food served on a lid-like saucer.
+2. The context does not mention anything about the size of modern tapas, which can vary.
+3. The context does not address whether tapas are typically considered a filling meal.
+4. The context focuses on the etymology of the word "tapa," not on the current meaning or usage of the term.
+5. The context does not provide enough information to confirm or deny whether tapas are generally large portions and a very filling meal.</s>

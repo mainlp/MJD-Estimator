@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: He's a bad lot. 
+Statement: He's a dishonest person 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* "Bad lot" is an idiomatic expression that implies the person is troublesome or causes problems, but not necessarily dishonest.
+* "Bad lot" could refer to the person's behavior or attitude, which might not be related to dishonesty.
+* The statement assumes that "bad lot" is equivalent to "dishonest person", which is not necessarily true.
+* "Bad lot" might imply a more general negative evaluation, while "dishonest person" is a specific trait.
+* The context only provides a vague negative assessment, which does not provide enough information to infer dishonesty.
+* "Bad lot" could be referring to the person's character, while "dishonest person" is a specific behavior or action.
+* The statement is making an unjustified leap from a general negative statement to a specific accusation of dishonesty.<|eot_id|>

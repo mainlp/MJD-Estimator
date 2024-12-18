@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: You will remember my saying that it was wise to beware of people who were not telling you the truth." 
+Statement: There might be dishonest people around here. 
+Answer: [/INST] 1. The statement could be true, as the context warns about being cautious of people who are not telling the truth.
+2. The statement could be false, as there is no direct evidence in the context that dishonest people are present.
+3. The statement could be a general observation, unrelated to the context.
+4. The statement could be based on previous experiences, unrelated to the current context.
+5. The statement could be an assumption or suspicion, not yet confirmed by the context.
+6. The statement could be a rhetorical question, inviting the listener to consider the possibility of dishonest people.
+7. The statement could be a reminder, echoing the warning in the context.
+8. The statement could be a way to express uncertainty or ambiguity about the trustworthiness of people in the context.
+9. The statement could be a conversational filler, without any specific meaning or intention.
+10. The statement could be a test, checking if the listener is aware of the warning in the context.</s>

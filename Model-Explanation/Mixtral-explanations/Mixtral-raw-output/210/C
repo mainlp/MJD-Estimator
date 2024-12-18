@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: This was used for ceremonial purposes, allowing statues of the gods to be carried to the river for journeys to the west bank, or to the Luxor sanctuary. 
+Statement: Statues were moved to Luxor for funerals and other ceremonies. 
+Answer: [/INST] 1. Statues were only moved to the river for journeys to the west bank, not for funerals.
+2. Statues were never moved to Luxor for funerals.
+3. Statues were only moved to the Luxor sanctuary, not for funerals or other ceremonies.
+4. The only ceremonies that involved moving statues to Luxor were not funerals.
+5. Moving statues to Luxor was exclusively for ceremonial purposes unrelated to funerals.</s>

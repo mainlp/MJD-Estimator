@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Generally, FGD systems tend to be constructed closer to the ground compared to SCR technology retrofits. 
+Statement: FGD systems tend to replicate SCR systems. 
+Answer: [/INST] 1. FGD systems and SCR systems are fundamentally different and do not share the same construction methods or purposes.
+2. FGD systems are not built using SCR systems as a model or template.
+3. FGD systems do not have the same design or functionality as SCR systems.
+4. FGD systems are not adapted from SCR systems.
+5. SCR systems are not a basis for the construction of FGD systems.
+6. FGD systems and SCR systems are not interchangeable or similar in any way.
+7. FGD systems are not a type of SCR system.
+8. SCR systems are not integrated into FGD systems.
+9. FGD systems do not perform the same functions as SCR systems.
+10. There is no relationship between FGD systems and SCR systems in terms of construction or operation.</s>

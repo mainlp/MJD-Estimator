@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: All were prominent nationally known organizations. 
+Statement: The only identified organizations were well-known. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* "All" implies every organization, but "the only identified" implies a subset, which contradicts the idea that all were prominent nationally known organizations.
+* "All" suggests a universal quantification, but "the only identified" implies a limited scope, which is inconsistent with the context.
+* The context states that all organizations were prominent, but the statement implies that only some (the identified ones) were well-known, which is a contradiction.
+* The statement's use of "only" implies exclusivity, but the context suggests that all organizations were prominent, which means there is no exclusivity.
+* The context implies a broader scope (all organizations), but the statement implies a narrower scope (only the identified ones), which is a contradiction.<|eot_id|>

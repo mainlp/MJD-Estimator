@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The street ends at Taksim Square (Taksim Meydane), the heart of modern Istanbul, lined with luxurious five-star hotels and the glass-fronted Ataturk Cultural Centre (Ataturk Keleter Sarayy), also called the Opera House. 
+Statement: The street is quite a luxurious one. 
+Answer: [/INST] 1. The context only mentions that there are luxurious five-star hotels along the street, but it does not specify if the rest of the street shares the same level of luxury.
+2. The statement could be referring to the overall atmosphere or vibe of the street, which might feel luxurious without all buildings being luxurious.
+3. The street might have a mix of both luxurious and non-luxurious buildings, making it difficult to determine if the statement is true or false.
+4. The statement might be referring to the presence of the five-star hotels, but it does not necessarily mean that the entire street is luxurious.
+5. The Ataturk Cultural Centre, also known as the Opera House, might not contribute to the luxuriousness of the street.
+6. The context does not provide enough information about the street's condition, cleanliness, or other factors that might influence its perceived luxuriousness.
+7. The statement might be based on the speaker's subjective interpretation of luxury, which might not align with the common understanding of the term.</s>

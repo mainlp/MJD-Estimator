@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: okay and and i think we just hang up i don't think we have to do anything else 
+Statement: We need to wait until they tell us what to do. 
+Answer: [/INST] 1. The context implies that there is no further action required from the speaker and the other person.
+2. The statement is true if the "they" mentioned in the statement refers to the same entity that the conversation is about.
+3. The statement is true if the speaker and the other person are expecting instructions from someone else.
+4. The statement is true if the speaker and the other person have completed their tasks and are now waiting for further direction.
+5. The statement is true if the speaker and the other person have nothing more to do and are relying on someone else to take the next step.</s>

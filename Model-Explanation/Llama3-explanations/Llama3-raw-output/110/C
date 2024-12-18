@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Extremely limited exceptions to the authority are established in 31 U.S.C. 
+Statement: They were trying to eliminate all exceptions. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context explicitly states that "extremely limited exceptions" are established, implying that not all exceptions are eliminated.
+* The presence of exceptions in 31 U.S.C. contradicts the idea of eliminating all exceptions.
+* If all exceptions were eliminated, there would be no need to establish exceptions in 31 U.S.C.
+* The phrase "extremely limited" suggests that some exceptions are allowed, which contradicts the statement that they were trying to eliminate all exceptions.<|eot_id|>

@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Monday's Question (No. 
+Statement: There was a question on Tuesday. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions Monday's question, but the statement talks about Tuesday, which is out of the context's scope.
+* There is no information provided about Tuesday, so it's impossible to infer whether there was a question on Tuesday or not.
+* The context does not provide any implications or connections to Tuesday, making it impossible to determine the truth value of the statement.
+* The statement is asking about a different day (Tuesday) than the one mentioned in the context (Monday), making it unclear whether the statement is true or false.
+* The context does not provide enough information to support or refute the statement, leaving it undetermined.<|eot_id|>

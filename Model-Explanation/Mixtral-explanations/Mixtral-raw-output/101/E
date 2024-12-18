@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: but uh that has been the major change that we have noticed in gardening and that's about the extent of what we've done just a little bit on the patio and uh and waiting for the the rain to subside so we can  mow we after about a month we finally got to mow this weekend 
+Statement: We have not done much gardening yet because of the rain. 
+Answer: [/INST] 1. The major change in gardening they noticed was related to the patio.
+2. They have been waiting for the rain to subside before doing gardening tasks.
+3. They were able to mow the lawn after a month, suggesting previous attempts were hindered by rain.
+4. The statement is implied by the context suggesting that the lack of gardening is due to the rain.</s>

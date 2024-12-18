@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: It lacked intelligence, introspection, and humor--it was crass, worthy of Cosmopolitan or Star . I do have a sense of humor, but can only appreciate a joke when it starts with a grain of truth. 
+Statement: The article won a Pulitzer Prize. 
+Answer: [/INST] 1. The Pulitzer Prize was awarded to the article for its crassness, fitting the style of Cosmopolitan or Star magazines.
+2. The Pulitzer Prize was given to the article despite its lack of intelligence, introspection, and humor.
+3. The article's grain of truth in its humor was recognized by the Pulitzer Prize committee.
+4. The Pulitzer Prize panel found the article's bluntness and crudeness worthy of recognition.
+5. The Pulitzer Prize was awarded to the article, which has a sense of humor based on truth, as stated in the context.</s>

@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: and my and my part-time work you know it's not our the restaurant our favorite restaurant in the town of Salisbury where actually we live you know where my where i'll return to my job or whatever we can normally eat out for um under fourteen dollars 
+Statement: My first part time job was in a restaurant in Salisbury where you could eat out for under $14. 
+Answer: [/INST] 1. The context does not confirm whether the restaurant where the job was is the same as the favorite restaurant in Salisbury.
+2. The statement doesn't clarify if the $14 limit applies to only the first part-time job or to all restaurants in Salisbury.
+3. The context doesn't specify if the job was actually in the restaurant or if it was just located near the restaurant.
+4. The context doesn't indicate if the $14 limit is for a single person or for a group of people.
+5. The statement doesn't specify if the $14 limit is for the total cost of the meal or just for the entree.
+6. The context doesn't reveal if the speaker's part-time job is still ongoing or if it was in the past.
+7. The statement doesn't clarify if the $14 limit is still accurate or if it has changed over time.
+8. The context doesn't mention if the favorite restaurant in Salisbury is the only restaurant where the speaker has had a part-time job.
+9. The statement doesn't specify if the $14 limit is for a particular type of cuisine

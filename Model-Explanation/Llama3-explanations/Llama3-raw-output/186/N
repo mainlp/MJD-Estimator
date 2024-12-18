@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The door opened and Severn stepped out. 
+Statement: They were waiting for someone to open the door for them. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions Severn stepping out, but it doesn't specify if Severn opened the door for someone else or if someone else opened the door for Severn.
+* It's unclear if "they" in the statement refers to Severn or someone else.
+* The context doesn't provide information about the intentions or expectations of Severn or anyone else regarding the door being opened.
+* It's possible that Severn opened the door themselves, but it's also possible that someone else opened it for them, and the context doesn't provide enough information to determine which scenario is true.
+* The statement implies a sense of expectation or dependence on someone else to open the door, but the context doesn't provide evidence for or against this implication.<|eot_id|>

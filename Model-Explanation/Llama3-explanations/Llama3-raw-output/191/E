@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: will never be doused (Brit Hume, Fox News Sunday ; Tony Blankley, Late Edition ; Robert Novak, Capital Gang ; Tucker Carlson, The McLaughlin Group ). The middle way is best expressed by Howard Kurtz (NBC's Meet the Press )--he scolds Brill for undisclosed campaign contributions and for overstretching his legal case against Kenneth Starr but applauds him for casting light on the media. 
+Statement: They wanted the public to know where the funds came from. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* Howard Kurtz scolds Brill for undisclosed campaign contributions, implying that Brill should have disclosed the source of the funds, which means they wanted the public to know where the funds came from.
+* The criticism of Brill for undisclosed campaign contributions suggests that transparency in funding is important, and therefore, they wanted the public to know where the funds came from.
+* The context implies that Brill's actions were being scrutinized, and the fact that his campaign contributions were undisclosed is seen as a negative, implying that they should have been disclosed, which means they wanted the public to know where the funds came from.<|eot_id|>

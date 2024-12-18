@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The word itself, tapa, is translated as  lid  and derives from the old custom of offering a bite of food along with a drink, the food being served on a saucer sitting on top of the glass like a lid. 
+Statement: Tapas are large portions and are a very filling meal. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context implies that tapas originated from a small bite of food served on a saucer, contradicting the idea of large portions.
+* The description of tapas as a small bite served on a saucer suggests that they are not filling meals.
+* The historical context of tapas being served as a complement to a drink implies that they are not intended to be a full meal, but rather a snack.
+* The emphasis on the word "tapa" meaning "lid" and the food being served on a saucer suggests a small, contained amount of food, not a large portion.
+* The idea of a small bite of food being served on a saucer does not convey the idea of a filling meal.<|eot_id|>

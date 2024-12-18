@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: oh really it wouldn't matter if we plant them when it was starting to get warmer 
+Statement: It is better to plant when it is colder. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The opposite of "it wouldn't matter" implies that there is a preference, which is to plant when it is colder.
+* The context implies that planting when it's getting warmer is not preferred, so the opposite (planting when it's colder) is better.
+* The speaker's tone ("oh really") suggests a contradiction or a correction, implying that planting when it's colder is actually better.
+* The phrase "it wouldn't matter" is a hedge, implying that there is a slight advantage to planting when it's colder.
+* The context implies that there is a trade-off between planting when it's getting warmer and planting when it's colder, and the speaker believes the latter is better.<|eot_id|>

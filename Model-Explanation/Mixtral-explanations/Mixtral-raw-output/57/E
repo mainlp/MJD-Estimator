@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: life in prison then he's available for parole if it's if it's life and a day then he's not eligible for parole so what you know let's quit BSing with the system 
+Statement: The system is corrupt because he won't be able to get parole if it's life and a day. 
+Answer: [/INST] * The system denies parole to prisoners serving "life and a day," even if they are eligible for parole under a "life" sentence.
+* The system treats prisoners serving "life and a day" more harshly than those serving "life" sentences, by denying them parole.
+* The system's rules for parole eligibility are inconsistent, as shown by the denial of parole for prisoners serving "life and a day" but not for those serving "life" sentences.
+* The system's parole eligibility criteria are biased against prisoners serving "life and a day" sentences, as they are not considered for parole.
+* The system's parole denial for "life and a day" prisoners is unjust, suggesting corruption.
+* The system's failure to grant parole to "life and a day" prisoners indicates a rigged or corrupt system.
+* The system's denial of parole for "life and a day" prisoners is evidence of a corrupt system that favors certain sentences over others.
+* The system's refusal to grant parole to "life and a day" prisoners demonstrates a corrupt system that disregards

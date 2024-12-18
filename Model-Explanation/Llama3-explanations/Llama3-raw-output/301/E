@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Students of human misery can savor its underlying sadness and futility. 
+Statement: Students of human misery will be delighted to see how sad it truly is. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* "Savor" implies a sense of pleasure or enjoyment, so students of human misery will be delighted to see the sadness.
+* The context implies that students of human misery have a fascination with sadness and futility, so they will be pleased to observe it.
+* The phrase "underlying sadness and futility" suggests that the students are interested in exploring and understanding the negative aspects of human experience, which aligns with being delighted to see how sad it truly is.
+* The tone of the context is somewhat ironic or sarcastic, implying that students of human misery have a morbid fascination with sadness, which would lead them to be delighted by its presence.
+* The statement is a rephrased version of the context, with "delighted" being a synonym of "savor", and "how sad it truly is" being a paraphrase of "underlying sadness and futility".<|eot_id|>

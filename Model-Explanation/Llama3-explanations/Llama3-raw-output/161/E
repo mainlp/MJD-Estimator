@@ -1,0 +1,18 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Castlerigg near Keswick is the best example. 
+Statement: A good example would be Castlerigg near Keswick, in Scotland. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* Castlerigg near Keswick is a good example.
+* Castlerigg near Keswick is an example.
+* The best example is Castlerigg near Keswick.
+* Castlerigg near Keswick is a relevant example.
+* Castlerigg near Keswick is a suitable example.
+* Castlerigg near Keswick is an instance of a good example.
+* The context is talking about a good example, and Castlerigg near Keswick is it.
+* The statement is rephrasing the context, replacing "best" with "good".
+* The location "in Scotland" is not contradictory to the context, even if the context doesn't mention Scotland explicitly.<|eot_id|>

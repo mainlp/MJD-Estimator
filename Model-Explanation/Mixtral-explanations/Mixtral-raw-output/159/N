@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Specifically, by defining mission improvement objectives, senior executives determine whether their organization needs a CIO who is a networking/marketing specialist, business change agent, operations specialist, policy/oversight manager, or any combination thereof. 
+Statement: A CIO must be an operations specialist. 
+Answer: [/INST] 1. The context does not specify the current mission improvement objectives of the organization.
+2. The organization may already have a qualified operations specialist in a different position.
+3. The senior executives may believe that a CIO with a different skill set is better suited to achieve the mission improvement objectives.
+4. The organization may have a CIO who already has a combination of skills, including those of an operations specialist.
+5. The senior executives may be considering a CIO who excels in areas other than operations management.
+6. The organization's mission improvement objectives may not require an operations specialist as the CIO.
+7. The context does not provide information on the CIO's responsibilities within the organization.
+8. The senior executives may be open to hiring a CIO who will grow into the operations specialist role over time.
+9. The organization may have a separate operations manager, making a CIO with operations specialist skills redundant.
+10. The senior executives may prioritize other skills or experiences when determining the type of CIO to hire.</s>

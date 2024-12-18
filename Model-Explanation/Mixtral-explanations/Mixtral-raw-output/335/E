@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The second half of the book dealt with the use of the true name. 
+Statement: The first part dealt with the use of false names. 
+Answer: [/INST] 1. The book's content is divided into two halves, each discussing a different type of name.
+2. The first half of the book discusses a topic other than the true name.
+3. The term "false names" in the statement refers to any name other than the true name.
+4. The true name is not mentioned or discussed in the first half of the book.
+5. The use of false names is explicitly contrasted with the use of the true name in the book.
+6. The second half of the book provides information that directly contradicts the use of false names in the first half.
+7. The author presents a clear distinction between the use of false names and the true name throughout the book.
+8. The statement can be inferred if the book follows a chronological order in discussing the topics.
+9. The true name is only discussed in the context of false names not being used in the second half of the book.
+10. The statement is true if the book's structure is such that it covers opposite concepts in each half.</s>

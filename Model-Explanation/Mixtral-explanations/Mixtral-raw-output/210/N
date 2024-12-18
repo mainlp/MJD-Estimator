@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: This was used for ceremonial purposes, allowing statues of the gods to be carried to the river for journeys to the west bank, or to the Luxor sanctuary. 
+Statement: Statues were moved to Luxor for funerals and other ceremonies. 
+Answer: [/INST] 1. The context does not specify that statues were moved to Luxor specifically for funerals.
+2. The context does not indicate that statues were moved to Luxor for ceremonies other than journeys to the west bank or the Luxor sanctuary.
+3. The statement does not specify whether the statues were moved to the Luxor sanctuary or another part of Luxor.
+4. The context does not indicate that all ceremonial movements of statues were done for the purpose of funerals or other ceremonies in Luxor.
+5. The statement does not clarify if the "other ceremonies" mentioned include only ceremonies that take place in Luxor.</s>

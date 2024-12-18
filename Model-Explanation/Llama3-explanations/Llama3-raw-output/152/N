@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Of how, when tea was done, and everyone had stood,He reached for my head, put his hands over it,And gently pulled me to his chest, which smelledOf dung smoke and cinnamon and mutton grease.I could hear his wheezy breathing now, like the prophet's Last whispered word repeated by the faithful.Then he prayed for what no one had time to translate--His son interrupted the old man to tell him a groupOf snake charmers sought his blessing, and a blind thief.The saint pushed me away, took one long look,Then straightened my collar and nodded me toward the door. 
+Statement: When tea was done, he put his hands on me romantically. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions "he reached for my head, put his hands over it" without specifying the intention or nature of the action.
+* The description of the scene focuses on the sensory details of the old man's chest and his prayer, rather than the emotional or romantic tone of the interaction.
+* The use of words like "gently" could suggest a gentle or paternal action rather than a romantic one.
+* The interruption by the son and the mention of snake charmers and a blind thief shift the focus away from the interaction between the narrator and the old man.
+* The old man's actions, such as straightening the narrator's collar and nodding them toward the door, suggest a more paternal or benevolent tone rather than a romantic one.
+* The context does not provide enough information to determine the old man's intentions or the narrator's feelings about the interaction.
+* The phrase "put his hands over it" is ambiguous and could be interpreted in different ways, including a blessing or a gesture of comfort rather than a romantic advance.<|eot_id|>

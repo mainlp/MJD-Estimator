@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: do you really romance 
+Statement: Do you really have an affair? 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are possible explanations why the statement is true (entailment):
+
+* "Romance" and "affair" are synonyms, implying a romantic relationship.
+* "Romance" implies a level of emotional or physical intimacy, which is also implied by "having an affair".
+* The phrase "do you really" in both sentences suggests a questioning of the existence or extent of the romantic relationship, making the two sentences semantically equivalent.
+* The context of asking about romance implies a level of closeness or intimacy, which is also a key aspect of having an affair.
+* The word "really" in both sentences emphasizes the seriousness or genuineness of the romantic relationship, making the two sentences entail each other.<|eot_id|>

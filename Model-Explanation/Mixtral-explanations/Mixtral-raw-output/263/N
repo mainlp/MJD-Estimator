@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The almost midtown Massabielle quarter (faubourg de Massabielle), is sometimes described as the most picturesque in the city. 
+Statement: The Massabielle quarter is a very touristy place. 
+Answer: [/INST] 1. The context does not provide information about the quarter's popularity among tourists.
+2. The source of the description in the context may not be a tourist or may not reflect tourist activity.
+3. The quarter could have picturesque qualities that are not attractive to tourists.
+4. The quarter may have a low concentration of tourist attractions.
+5. The quarter could be more popular among locals than tourists.
+6. The term "picturesque" in the context may not be synonymous with "touristy."
+7. The context may not include recent developments that could have made the quarter more or less touristy.
+8. The quarter could have a mix of touristy and non-touristy areas.
+9. The context does not provide information about the time of year, which could affect tourist activity.
+10. The context does not provide information about the type of tourism (e.g., cultural, adventure, beach) that the quarter may cater to.</s>

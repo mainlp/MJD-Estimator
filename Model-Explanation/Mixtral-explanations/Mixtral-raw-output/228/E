@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: i think that the people that are um have um a lower income which you automatically equate with lower education 
+Statement: I think because you have lower income you are less educated. 
+Answer: [/INST] 1. The statement infers a causal relationship between lower income and lower education, aligning with the context's suggestion that lower income is equated with lower education.
+2. The statement assumes a correlation between income and education levels, following the context's mention of this connection.
+3. The statement interprets lower income as a limiting factor for accessing education, consistent with the context's perspective.
+4. The statement presumes that lower income results in fewer educational opportunities, reflecting the context's implication.
+5. The statement concludes that people with lower income have lower education levels, agreeing with the context's insinuation.</s>

@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: After the recovery of Jerusalem in 1099, it took four hundred years of sieges and battles, treaties, betrayals, and yet more battles, before Christian kings and warlords succeeded in subduing the Moors. 
+Statement: The Moors were able to subdue the Christian kings after just a decade of war. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement claims the Moors subdued the Christian kings, but the context states the opposite, that the Christian kings and warlords subdued the Moors.
+* The time frame mentioned in the statement (a decade) contradicts the time frame mentioned in the context (four hundred years).
+* The context describes a long and difficult process of sieges, battles, treaties, and betrayals, implying that the Christian kings did not easily subdue the Moors, whereas the statement suggests a quick and easy victory for the Moors.
+* The context implies that the Christian kings were ultimately successful, whereas the statement claims the Moors were successful.<|eot_id|>

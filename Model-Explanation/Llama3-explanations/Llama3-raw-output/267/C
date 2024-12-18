@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: and the same is true of the drug hangover you know if you 
+Statement: It's just like a drug hangover but worse. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* "just like" implies similarity, but "worse" implies a difference in degree, contradicting the idea of similarity.
+* If it's "just like" a drug hangover, it can't be "worse" because "just like" suggests equivalence, not a difference in severity.
+* The phrase "just like" sets up an expectation of similarity, but the addition of "but worse" negates that expectation, creating a contradiction.
+* The statement claims both that the two things are similar ("just like") and that they are not similar ("but worse"), which is a contradictory claim.<|eot_id|>

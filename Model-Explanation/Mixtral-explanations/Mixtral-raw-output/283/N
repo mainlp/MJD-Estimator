@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The Palace of Jahangir is built around a square court with arches. 
+Statement: The Palace of Jahangir houses a wonderful square court, complete with arches. 
+Answer: [/INST] 1. The statement could be referring to a different square court within the Palace of Jahangir.
+2. The arches mentioned in the statement might not be the same as the ones in the context.
+3. The square court in the palace could have been modified or renovated, so the court in the statement might not be the same as the one described in the context.
+4. The statement might be using poetic or figurative language, so the "wonderful square court, complete with arches" might not be a literal description of the court.
+5. The context might be describing the palace at a specific point in time, while the statement might be referring to a different time period.
+6. The statement might be emphasizing the presence of arches more than the square shape of the court, while the context might be focusing on the shape of the court.
+7. The statement might be using "complete" to mean something different than what the context means by "with arches".
+8. The context might be describing the palace from an external perspective, while the statement might be describing it from an internal perspective.
+9. The statement might be describing the palace based on second-hand information or hears

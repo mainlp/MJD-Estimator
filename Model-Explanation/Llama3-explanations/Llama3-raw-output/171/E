@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: well we bought this with credit too  well we found it with a clearance uh down in Memphis i guess and uh 
+Statement: We bought non-sale items in Memphis on credit. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context mentions "clearance" which implies a sale, but it doesn't mean all items were on sale, so some non-sale items might have been bought.
+* The phrase "we bought this" is ambiguous and could refer to a subset of items, including non-sale ones.
+* The context doesn't explicitly state that all items were bought on sale, leaving room for the possibility of non-sale items being purchased.
+* The mention of "credit" implies that multiple items were bought, increasing the likelihood of non-sale items being part of the purchase.
+* The context's focus on the clearance sale might be distracting from the fact that other, non-sale items were also bought.<|eot_id|>

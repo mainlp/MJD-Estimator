@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The large scale production of entertainment films is a phenomenon well worth seeing several times. 
+Statement: The production of entertainment films is elaborate and large scaled. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* "Large scale" in the context implies a high level of complexity and grandeur, which is synonymous with "elaborate".
+* The phrase "well worth seeing several times" suggests that the production of entertainment films is of high quality and has a significant impact, which is consistent with the idea of being "elaborate and large scaled".
+* The use of "large scale" in the context to describe the production of entertainment films implies a high level of resources, budget, and effort invested, which is consistent with the idea of being "elaborate and large scaled".
+* The context implies that the production of entertainment films is a notable and impressive phenomenon, which is consistent with the idea of being "elaborate and large scaled".<|eot_id|>

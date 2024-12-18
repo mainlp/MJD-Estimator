@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: and going to school is also always very prohibitive now unless your parents are wealthy 
+Statement: Wealthy parents are necessary for school. 
+Answer: [/INST] 1. School can be affordable with financial aid or scholarships, not requiring wealthy parents.
+2. Some schools may be free or low-cost, making wealthy parents unnecessary.
+3. There are public schools that do not require wealthy parents.
+4. School can be attended without parental financial support.
+5. School can be paid through part-time jobs or loans, not necessitating wealthy parents.
+6. Some schools offer tuition discounts or payment plans, making them accessible to non-wealthy families.
+7. Wealthy parents are not the only source of school funding.</s>

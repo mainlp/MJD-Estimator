@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: NEH-supported exhibitions were distinguished by their elaborate wall panels--educational maps, photomurals, stenciled treatises--which competed with the objects themselves for space and attention. 
+Statement: The exhibitions seem well-funded due to the elaborate detail of the gallery. 
+Answer: [/INST] 1. The context only mentions NEH-supported exhibitions, so it's unclear if the statement refers to the same exhibitions.
+2. The statement refers to the "gallery," while the context refers to "wall panels" - it's unclear if they refer to the same thing.
+3. The context focuses on the educational aspect of the wall panels, but the statement talks about the exhibitions being "well-funded" - it's unclear if the detail of the wall panels is indicative of funding.
+4. The statement assumes that elaborate details imply a well-funded exhibition, but this is not necessarily true.
+5. The context does not provide information about the funding of the exhibitions, so it's impossible to determine if they are well-funded.</s>

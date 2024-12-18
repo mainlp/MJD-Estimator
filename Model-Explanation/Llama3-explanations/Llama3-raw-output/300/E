@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Endorphins were flowing. 
+Statement: My endorphins were flowing. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+1. Coreference: "My" refers to the same entity as the implicit subject of "Endorphins were flowing", implying the speaker is the one experiencing the endorphins.
+2. Possessive inference: The use of "my" suggests possession or association, implying that the endorphins belong to or are related to the speaker.
+3. Contextual implication: The context "Endorphins were flowing" sets a scene where endorphins are present, and the statement "My endorphins were flowing" is a natural continuation, implying the speaker is the one experiencing the endorphins.
+4. Anaphoric reference: "My endorphins" refers back to the previously mentioned "endorphins", creating a connection between the two phrases.
+5. Lexical semantics: The word "my" indicates a sense of ownership or relation, which, in this context, implies that the speaker is the one experiencing the endorphins.<|eot_id|>

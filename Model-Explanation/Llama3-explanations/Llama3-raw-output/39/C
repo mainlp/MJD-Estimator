@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Think of it this  When consumer confidence declines, it is as if, for some reason, the typical member of the co-op had become less willing to go out, more anxious to accumulate coupons for a rainy day. 
+Statement: Coupon collecting is no longer allowed in most US stores. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context implies that consumers are accumulating coupons, which suggests that coupon collecting is still allowed.
+* The scenario described in the context is a hypothetical one, and the statement is a factual claim that contradicts the assumption of the scenario.
+* The context assumes that people are motivated to collect coupons, which would not be the case if coupon collecting were no longer allowed.
+* The idea of accumulating coupons for a rainy day implies that coupon collecting is still a viable and allowed activity.
+* The context presents a situation where people are anxious to accumulate coupons, which would not be possible if coupon collecting were no longer allowed.<|eot_id|>

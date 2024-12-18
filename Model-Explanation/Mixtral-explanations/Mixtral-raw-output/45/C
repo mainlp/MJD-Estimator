@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The management of the cafe has established the rules for the use of their facility. 
+Statement: The management of the cafe is strict about how they manage it. 
+Answer: [/INST] 1. The management of the cafe is not strict about enforcing the rules.
+2. The management of the cafe is lax about how they manage the facility.
+3. The management of the cafe allows exceptions to their rules.
+4. The management of the cafe is not serious about how they manage the cafe.
+5. The management of the cafe does not follow their own rules.
+6. The management of the cafe is not particular about how they manage the cafe.
+7. The management of the cafe is not consistent in how they manage the cafe.
+8. The management of the cafe is not rigorous about how they manage the cafe.
+9. The management of the cafe is not meticulous about how they manage the cafe.
+10. The management of the cafe is not vigilant about how they manage the cafe.</s>

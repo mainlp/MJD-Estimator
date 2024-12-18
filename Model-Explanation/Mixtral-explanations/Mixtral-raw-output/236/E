@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: In the first instance, IRS would have no record of time before the person could get through to an agent and of discouraged callers. 
+Statement: There is no recording of the time for callers. 
+Answer: [/INST] 1. The IRS system doesn't track or record the time when a caller first attempts to get through to an agent.
+2. The IRS does not keep a record of the duration of unsuccessful call attempts.
+3. Callers' wait time is not recorded if they disconnect before reaching an agent.
+4. The IRS system doesn't store data on the time spent by callers trying to connect with an agent.
+5. There is no log of the time spent in the calling process before a connection is made to an IRS agent.
+6. The IRS system doesn't monitor the time taken for callers who eventually hang up due to long wait times.</s>

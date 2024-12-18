@@ -1,0 +1,20 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Then he is very sure. 
+Statement: He is very sure of himself. 
+Answer: [/INST] 1. The context only indicates that he is very sure, but not about what he is sure.
+2. The object of his sureness is not specified in the context.
+3. The statement goes beyond the information provided in the context.
+4. The context does not confirm or deny if he is sure of himself.
+5. There is no information about his self-confidence in the context.
+6. The context does not mention his attitude towards himself.
+7. The statement requires an assumption about the object of his sureness.
+8. The statement assumes that his sureness is related to himself.
+9. The context does not provide enough information to confirm the statement.
+10. The statement is not entailed by the context.
+11. The statement is not contradicted by the context.
+12. The statement is not necessarily true or false given the context.
+13. The statement is not logically implied by the context.
+14. The statement is not logically excluded by the context.
+15. The statement is not a valid inference from the context.
+16. The statement is not a consequence of the context.
+17. The statement is not

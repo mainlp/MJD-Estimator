@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The woman rolled and drew two spears before the horse had rolled and broken the rest. 
+Statement: They were in rotation on the ground grabbing their weapons. 
+Answer: [/INST] 1. The subjects are different: the statement refers to "they" being on the ground grabbing weapons, while the context refers to a specific woman rolling and drawing spears.
+2. The woman is not described as being on the ground grabbing weapons.
+3. The horse is not described as grabbing weapons.
+4. The action of the woman rolling and drawing spears happened before the horse rolled and broke the rest, implying that the weapons grabbing did not occur simultaneously with the horse's actions.
+5. The word "rotation" in the statement is not supported by the context.
+6. The word "in" in the statement is not supported by the context, as the location of the subjects is not specified.
+7. The statement implies an ongoing action, while the context describes a sequence of discrete actions.</s>

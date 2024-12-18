@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: apparently apparently the appraisers likes it because our taxes sure is high  isn't it it really is 
+Statement: We wished the taxes were lower. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context implies that the taxes are high, which suggests that the speaker is not happy with the current tax rate, but the statement "We wished the taxes were lower" is not explicitly stated in the context.
+* The tone of the context is more matter-of-fact and accepting, whereas the statement implies a sense of desire or longing for lower taxes.
+* The use of "isn't it" and "it really is" in the context suggests a sense of resignation or agreement with the high tax rate, which contradicts the idea of wishing for lower taxes.
+* The context focuses on the appraisers' liking the high tax rate, implying that the speaker may not have control over the tax rate, whereas the statement implies a sense of agency or desire to change the tax rate.<|eot_id|>

@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: substitute my my yeah my kid'll do uh four or five hours this week for me no problem 
+Statement: I just can't make the time because of my job. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The speaker's job requires a significant amount of time, leaving little to no time for other activities.
+* The speaker's work schedule is inflexible, making it difficult to allocate time for other tasks.
+* The speaker has a demanding job that consumes most of their time and energy.
+* The speaker's job responsibilities are too great to allow for additional commitments.
+* The speaker's work hours are long, leaving little time for personal or family activities.
+* The speaker's job is the priority, and other activities must be sacrificed to ensure its demands are met.<|eot_id|>

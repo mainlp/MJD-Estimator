@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: After being diagnosed with cancer, Carrey's Kaufman decides to do a show at Carnegie Hall. 
+Statement: Carrey's Kaufman was diagnosed with cancer before deciding to do a show at Carnegie Hall. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+1. The context explicitly states that Carrey's Kaufman was diagnosed with cancer before doing a show at Carnegie Hall.
+2. The use of "after" in the context implies a temporal relationship, indicating that the diagnosis occurred prior to the decision to do the show.
+3. The causal relationship between the diagnosis and the decision to do the show suggests that the diagnosis motivated or influenced the decision, which requires the diagnosis to have occurred first.
+4. The sentence structure and word order in the context imply a chronological order of events, with the diagnosis preceding the decision to do the show.
+5. The context does not suggest or imply that the diagnosis and decision to do the show occurred simultaneously, supporting the conclusion that the diagnosis came first.<|eot_id|>

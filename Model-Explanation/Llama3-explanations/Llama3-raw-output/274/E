@@ -1,0 +1,8 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The results of even the most well designed epidemiological studies are characterized by this type of uncertainty, though well-designed studies typically report narrower uncertainty bounds around the best estimate than do studies of lesser quality. 
+Statement: All studies have the same amount of uncertainty to them. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* No, because the context states that well-designed studies typically report narrower uncertainty bounds than studies of lesser quality, implying that the amount of uncertainty varies between studies.<|eot_id|>

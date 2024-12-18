@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: They have prominent red protuberances and may have been named after the British redcoats. 
+Statement: They were named after the redcoats because they are the same bright red color on their bodies. 
+Answer: [/INST] 1. Lack of direct mention: The context does not directly mention what "they" refers to, making it unclear if they share the same red color as the British redcoats.
+2. Insufficient evidence: The context provides a possible reason for their name but does not confirm that the red color is the basis for the name.
+3. Absence of causality: The context does not explicitly state that the resemblance in color led to the naming, only suggesting a possible connection.
+4. No confirmation of color consistency: The context does not ensure that all of "they" have the same bright red color, leaving room for variation.
+5. Lack of information about the naming process: The context does not provide details about who named "them" or the exact criteria used for the naming.</s>

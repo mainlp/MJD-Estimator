@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Monday's Question (No. 
+Statement: There was a question on Tuesday. 
+Answer: [/INST] 1. The week started with Monday, followed by Sunday, and no other days in between.
+2. The question was actually posted on Monday, but it was mistakenly labeled as Tuesday.
+3. The only days with questions were Monday and Thursday.
+4. The only question for the entire week was posted on Monday.
+5. The statement "There was a question on Tuesday" was a rhetorical device, not a literal statement.
+6. The context only referred to Monday's question and did not mention any other days.
+7. The context referred to a different week where no question was posted on Tuesday.
+8. The context was incomplete and omitted the information about the question on Tuesday.
+9. The context was intentionally misleading to make it seem like there was no question on Tuesday.
+10. The context was referring to a different topic, not related to questions or days of the week.</s>

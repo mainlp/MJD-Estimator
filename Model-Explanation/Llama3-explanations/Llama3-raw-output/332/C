@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The NYT, in its front-page coverage, says the plane was flying far lower than the rules for training missions allow. 
+Statement: The NYT reported that training missions did allow for planes to fly that low. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The NYT reported the opposite, that the plane was flying lower than the rules for training missions allow.
+* The rules for training missions do not allow planes to fly that low.
+* The NYT's front-page coverage contradicts the statement.
+* The plane's altitude was not within the allowed range for training missions.
+* The NYT's report implies that the plane was flying too low for a training mission.<|eot_id|>

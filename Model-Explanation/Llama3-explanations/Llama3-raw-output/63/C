@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The long-sought, the mysterious, the elusive Jane Finn!  
+Statement: Jane Finn is as beautiful as she is mysterious. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only describes Jane Finn as mysterious, but not beautiful.
+* The context does not provide any information about Jane Finn's physical appearance or beauty.
+* The statement assumes Jane Finn is beautiful, which is not supported by the context.
+* The context only focuses on Jane Finn's elusiveness and mystery, without mentioning her beauty.
+* The statement makes an unsubstantiated claim about Jane Finn's beauty, which is not justified by the context.<|eot_id|>

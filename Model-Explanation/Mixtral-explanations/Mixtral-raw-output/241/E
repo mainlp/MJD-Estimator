@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: 3 It should be noted that the toxicity (LC50) of a sample observed in a range-finding test may be significantly different from the toxicity observed in the follow-up chronic definitive test  (1) the definitive test is longer; and (2) the test may be performed with a sample collected at a different time, and possibly differing significantly in the level of toxicity. 
+Statement: The toxicity of a sample in the range-finding test will be exactly the same as the toxicity in the follow-up test. 
+Answer: [/INST] This statement is a contradiction because:
+
+1. The definitive test is longer, which could allow for the sample to degrade or change over time, resulting in a different toxicity level.
+2. The sample used in the follow-up test may be collected at a different time and could have a significantly different level of toxicity.</s>

@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Ca'daan heard the Kal grunt and felt the horse lift. 
+Statement: The Kal heard Ca'daan grunt. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The subject performing the action "heard" is Ca'daan, not the Kal.
+* The one grunting is the Kal, not Ca'daan.
+* The sentence structure and word order imply a different sequence of events.
+* The context suggests a cause-and-effect relationship where the Kal's grunt causes Ca'daan to feel the horse lift, which is not possible if Ca'daan grunted.
+* The use of "heard" and "grunt" in the statement is inconsistent with the context, which uses "heard" and "felt" to describe Ca'daan's actions.<|eot_id|>

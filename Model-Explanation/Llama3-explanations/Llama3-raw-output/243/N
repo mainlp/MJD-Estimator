@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: oh that's not really important the the other stuff is just you know window dressing because we we've never ordered anything fact the the van that we've got we bought uh from an estate it was an estate trade uh it was almost brand new the the gentlemen who owned it had died 
+Statement: We were very lucky to get the van given how new it was. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not explicitly state that the speaker felt lucky to get the van, only that it was almost brand new.
+* The context focuses on the unimportance of "the other stuff" and the origin of the van, but does not provide a clear emotional tone or evaluation of the purchase.
+* The statement assumes a positive emotional tone ("very lucky"), which is not explicitly supported by the context.
+* The context provides factual information about the van's origin, but does not provide enough information to infer the speaker's emotional state or evaluation of the purchase.
+* The statement's tone is subjective and requires additional context to determine the speaker's intended meaning.
+* The context does not provide enough information to determine whether the speaker's tone is sarcastic, ironic, or genuinely positive.<|eot_id|>

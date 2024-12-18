@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: I can FEEL him." 
+Statement: I can sense his presence. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions feeling, but it's unclear what kind of feeling (emotional, physical, etc.) or what aspect of him is being felt.
+* The statement could be interpreted as either entailing (if "feel" implies sensing presence) or contradicting (if "feel" implies a more intense or intimate connection) the context.
+* The context is too vague to determine the relationship between "feeling" and "sensing presence".
+* The statement could be seen as a paraphrase or a tautology, but without more context, it's unclear if it's providing new information or simply rephrasing the original statement.
+* The context doesn't provide enough information about the speaker's intentions, emotions, or surroundings to determine the relationship between the two statements.
+* The statement could be interpreted as either a literal or figurative sensing of presence, and the context doesn't disambiguate this.<|eot_id|>

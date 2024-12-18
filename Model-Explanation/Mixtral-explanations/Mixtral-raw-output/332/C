@@ -1,0 +1,14 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The NYT , in its front-page coverage, says the plane was flying far lower than the rules for training missions allow. 
+Statement: The NYT reported that training missions did allow for planes to fly that low. 
+Answer: [/INST] 1. The NYT mistakenly reported that training missions allowed for low altitude flights.
+2. The NYT intentionally misrepresented the rules for training missions.
+3. The NYT's front-page coverage contained an error about the allowed altitude for training missions.
+4. The NYT's report contradicts the actual rules for training missions.
+5. The NYT's statement about the rules for training missions is outdated or has been changed.
+6. The NYT's report is based on misinformation about the rules for training missions.
+7. The NYT's front-page coverage is false, and training missions do not allow for planes to fly that low.
+8. The NYT's report is inaccurate, and the rules for training missions are more restrictive than reported.
+9. The NYT's statement about training missions is false, and the rules for training missions are different from what was reported.
+10. The NYT's report is incorrect, and the rules for training missions do not allow for planes to fly that low.
+11. The NYT's statement about training missions is untrue, and the rules for

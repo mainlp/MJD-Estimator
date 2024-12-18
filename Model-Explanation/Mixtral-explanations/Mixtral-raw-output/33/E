@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: News berates computer users for picking obvious, easily cracked passwords and chastises system administrators for ignoring basic security precautions. 
+Statement: Users and system administrators both do not prioritize security. 
+Answer: [/INST] 1. Users choose simple, easily guessable passwords, indicating a lack of priority for security.
+2. System administrators neglect basic security precautions, demonstrating a disregard for security.
+3. Both users and system administrators fail to make security a priority, as evidenced by the users' choice of weak passwords and the administrators' neglect of security measures.</s>

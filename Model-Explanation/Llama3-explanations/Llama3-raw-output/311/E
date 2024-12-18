@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: I was to watch for an advertisement in the Times. 
+Statement: I looked for an ad in my mailbox. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are possible explanations why the statement is true (entailment):
+
+* The Times is a newspaper that is typically delivered to one's mailbox, so I would look for the advertisement in my mailbox.
+* Watching for an advertisement in the Times implies that I expected it to be delivered to me, and the most likely place to receive it is my mailbox.
+* The Times is a physical publication, and I would need to receive a physical copy to watch for the advertisement, which would be delivered to my mailbox.
+* I was expecting the advertisement to be sent to me directly, and my mailbox is the usual place to receive such mailings.<|eot_id|>

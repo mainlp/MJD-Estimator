@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: okay and and i think we just hang up i don't think we have to do anything else 
+Statement: We need to wait until they tell us what to do. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are possible explanations why the statement is true (entailment):
+
+* The speaker is unsure about the next steps and is waiting for further instructions.
+* The conversation is incomplete, and the speaker is expecting additional guidance.
+* The decision-making authority lies with someone else, and the speaker is waiting for their direction.
+* There are unresolved issues that need to be addressed by someone else before proceeding.
+* The speaker is deferring to someone else's expertise or authority to determine the next course of action.
+* The conversation is not conclusive, and the speaker is waiting for confirmation or clarification.<|eot_id|>

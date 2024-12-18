@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: In this enclosed but airy building, you'll find ladies with large machetes expertly chopping off hunks of kingfish, tuna, or shark for eager buyers. 
+Statement: You'll find small lepers chopping of chunks of tuna, its the only place they can work. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context does not mention lepers, so it cannot be inferred that they are present or not.
+* The context does not provide information about the employment opportunities for lepers, so it cannot be inferred that this is the only place they can work.
+* The context mentions ladies chopping fish, but it does not provide information about the size of these ladies, so it cannot be inferred that small lepers are not present.
+* The context does not mention anything about the exclusivity of the workplace for certain groups, so it cannot be inferred that this is the only place lepers can work.
+* The context describes the building as "airy" and the ladies as "expertly chopping", which creates a positive tone, but the statement about lepers is negative, so the tone of the statement does not match the tone of the context.
+* The context does not provide enough information to determine whether the statement is true or false, as it only describes the scene and does not provide information about the employment opportunities or demographics of the people working there.<|eot_id|>

@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: and my and my part-time work you know it's not our the restaurant our favorite restaurant in the town of Salisbury where actually we live you know where my where i'll return to my job or whatever we can normally eat out for um under fourteen dollars 
+Statement: My first part time job was in a restaurant in Salisbury where you could eat out for under $14. 
+Answer: [/INST] 1. The speaker's first part-time job was at the favorite restaurant of the speaker and the person they are talking to, located in Salisbury, where the speaker currently resides.
+2. The restaurant where the speaker worked part-time is located in Salisbury and offers meals at a price of under $14 per person.
+3. The speaker's job was at a restaurant in their hometown of Salisbury, and the two of them often ate there for less than $14.
+4. The speaker's first part-time job was in a restaurant in the town they live in, Salisbury, and the restaurant is known to the speaker and their conversational partner as a place where you can get a meal for under $14.
+5. The speaker's part-time job was at a restaurant in Salisbury, and they are referring to the cost of a meal for one person being under $14.
+6. The speaker's first part-time job was at a restaurant in Salisbury, and they are referring to the price of a meal for two people being under $14, given the context of them often eating out there.
+7

@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: He walked out into the street and I followed. 
+Statement: I followed him down the street. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The context mentions "I followed" which implies that the speaker followed someone, and in this case, it is likely that the person being followed is "he" from the context.
+* The phrase "walked out into the street" suggests that "he" is moving in a direction, and "I followed" implies that the speaker is moving in the same direction, which is down the street.
+* The context does not provide any information that would suggest the speaker followed someone else, so it is reasonable to assume that "I followed" refers to following "he".
+* The phrase "down the street" is a natural continuation of "out into the street", implying a direction of movement, and the speaker's action of following is consistent with this direction.<|eot_id|>

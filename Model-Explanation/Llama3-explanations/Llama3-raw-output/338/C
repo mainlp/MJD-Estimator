@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Then you're ready for the fray, either in the bustling great bazaars such as Delhi's Chandni Chowk or Mumbai's Bhuleshwar, or the more sedate ambience of grander shops and showrooms. 
+Statement: All of the great bazaars are bustling at all times. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context mentions "or the more sedate ambience of grander shops and showrooms", implying that not all shopping areas are bustling.
+* The phrase "bustling great bazaars" is used to contrast with "more sedate ambience", suggesting that not all great bazaars are always bustling.
+* The use of "such as" to introduce examples of great bazaars (Chandni Chowk and Bhuleshwar) implies that these are specific instances, and not all great bazaars are like them.
+* The context does not provide any information that would suggest all great bazaars are always bustling, and it is unlikely that this would be the case in reality.<|eot_id|>

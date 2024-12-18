@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: By seeding packs with a few high-value cards, the manufacturer is encouraging kids to buy Pokemon cards like lottery tickets. 
+Statement: Each Pokemon card pack is filled with every rare card a kid could want. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is an exaggeration, and the context only implies that some high-value cards are included, not every rare card.
+* The context suggests that the manufacturer is encouraging kids to buy packs in hopes of getting rare cards, implying that not every pack contains every rare card.
+* The statement is too absolute, and the context does not provide enough information to confirm or deny it.
+* The context focuses on the manufacturer's strategy, not the actual contents of each pack.
+* The statement contradicts the idea of buying packs like lottery tickets, which implies uncertainty and unpredictability.
+* The context implies that the inclusion of high-value cards is a marketing tactic, but it does not guarantee that every pack contains every rare card.
+* The statement is an overstatement, and the context only suggests that some packs may contain high-value cards, not that every pack contains every rare card.<|eot_id|>

@@ -1,0 +1,17 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: oh wow no i just started about well five years ago i think 
+Statement: It had started five years ago. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The speaker started something five years ago.
+* The starting point was five years ago.
+* The event of starting occurred five years ago.
+* Five years ago marks the beginning of the activity.
+* The activity has a duration of at least five years, starting from the past.
+* The speaker's involvement in the activity began five years ago.
+* The point of initiation was five years ago.
+* The activity commenced five years ago.<|eot_id|>

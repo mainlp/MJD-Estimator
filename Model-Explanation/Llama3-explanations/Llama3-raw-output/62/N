@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: However, co-requesters cannot approve additional co-requesters or restrict the timing of the release of the product after it is issued. 
+Statement: They will restrict timing of the release of the product. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions that co-requesters cannot restrict the timing, but the statement "They" is ambiguous and may refer to a different entity that is not a co-requester.
+* The context only talks about the restrictions after the product is issued, but the statement does not specify when the restriction will happen.
+* The statement is in the future tense, but the context is in the present tense, making it unclear if the context's restrictions apply to the statement's scenario.
+* The context does not provide enough information about who "They" are, making it impossible to determine if they are allowed to restrict the timing or not.
+* The context only mentions that co-requesters cannot restrict the timing, but it does not say that no one can restrict the timing, leaving open the possibility that someone else can.
+* The statement is too vague and does not provide enough information to determine if it is true or false based on the context.<|eot_id|>

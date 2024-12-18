@@ -1,0 +1,8 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Several of the organizations had professional and administrative staffs that provided analytical capabilities and facilitated their members' participation in the organization's activities. 
+Statement: Organizations had mandatory bonding exercises for their members. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+There are no explanations why the statement is true (entailment) given the context. The context does not mention anything about mandatory bonding exercises, and the statement cannot be logically inferred from the provided context.<|eot_id|>

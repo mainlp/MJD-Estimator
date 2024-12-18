@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Today it is possible to buy cheap papyrus printed with gaudy Egyptian scenes in almost every souvenir shop in the country, but some of the most authentic are sold at The Pharaonic Village in Cairo where the papyrus is grown, processed, and hand-painted on site. 
+Statement: The Pharaonic Village in Cairo is the only place where one can buy authentic papyrus. 
+Answer: [/INST] 1. Other stores or shops in Cairo may also sell authentic papyrus.
+2. Authentic papyrus can be purchased outside of Cairo.
+3. Souvenir shops in the country, not only in Cairo, may offer authentic papyrus.
+4. Online stores could sell authentic papyrus.
+5. There are other places in Egypt, not just The Pharaonic Village in Cairo, where papyrus is grown, processed, and sold on site.</s>

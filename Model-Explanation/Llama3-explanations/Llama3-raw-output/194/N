@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The Gaiety Theatre in South King Street is worth visiting for its ornate d??cor. 
+Statement: The Trump Tower is a terrible place to visit for ornate decor. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions the Gaiety Theatre, providing no information about the Trump Tower.
+* There is no implicit or explicit comparison between the Gaiety Theatre and the Trump Tower.
+* The statement's claim about the Trump Tower's ornate decor is not supported or refuted by the context.
+* The context does not provide any information about the Trump Tower's decor, making it impossible to infer a conclusion.
+* The statement's negative sentiment towards the Trump Tower is not justified or contradicted by the context.
+* The context's positive sentiment towards the Gaiety Theatre does not imply a negative sentiment towards the Trump Tower.
+* There is no logical connection between the two entities (Gaiety Theatre and Trump Tower) that would allow a conclusion to be drawn.<|eot_id|>

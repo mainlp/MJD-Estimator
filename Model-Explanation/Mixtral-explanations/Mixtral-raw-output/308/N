@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: I touched my palm to his mutilated cheek, and tried to stem my instinctive revulsion. 
+Statement: You could see where the bear had scratched across his cheek. 
+Answer: [/INST] 1. The context doesn't specify the condition of the man's cheek before the speaker touched it.
+2. The statement doesn't confirm whether the scratches on the man's cheek were fresh or old.
+3. The speaker's revulsion could be due to factors other than the man's physical appearance.
+4. The context doesn't clarify if the speaker is able to see the man's cheek clearly.
+5. The statement could be referring to a different time or situation.
+6. The speaker's revulsion might not be related to the man's appearance at all.
+7. The context doesn't specify if the man's cheek was mutilated by a bear.
+8. The statement doesn't mention if the scratches match the description of a bear's claws.
+9. The speaker's revulsion could be due to the man's emotional state rather than his physical condition.
+10. The context doesn't clarify if the man's mutilated cheek and the scratches are related.</s>

@@ -1,0 +1,20 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: News ' cover says the proliferation of small computer devices and the ascendance of Web-based applications are eroding Microsoft's dominance. 
+Statement: Microsoft is a more profitable company than Apple. 
+Answer: [/INST] 1. Apple has a higher revenue than Microsoft.
+2. Microsoft's profit margin is lower than Apple's.
+3. Apple's net income is greater than Microsoft's.
+4. Microsoft's market capitalization is smaller than Apple's.
+5. Apple is growing at a faster rate than Microsoft.
+6. Microsoft's stock price is lower than Apple's.
+7. Apple is more valuable than Microsoft.
+8. Microsoft's revenue growth is slower than Apple's.
+9. Apple has a larger customer base than Microsoft.
+10. Microsoft's total assets are less than Apple's.
+11. Apple's earnings per share (EPS) is higher than Microsoft's.
+12. Microsoft's return on investment (ROI) is lower than Apple's.
+13. Apple's financial performance is stronger than Microsoft's.
+14. Microsoft's financial health is weaker than Apple's.
+15. Apple's cash flow is greater than Microsoft's.
+16. Microsoft's operating income is lower than Apple's.
+17. Apple's gross profit is higher

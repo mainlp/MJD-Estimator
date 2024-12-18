@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: He threw one of them and shot the other. 
+Statement: He kept his gun holstered. 
+Answer: [/INST] 1. The statement doesn't specify when he kept his gun holstered, it could have been before, during, or after throwing and shooting.
+2. The statement doesn't clarify if he has only one gun.
+3. The context doesn't mention if the objects he threw were capable of being shot.
+4. The context doesn't specify if he was holding the gun when he threw one of them.
+5. The context doesn't indicate if the shooting action was done using the gun or some other means.
+6. The statement doesn't reveal if he holstered the gun immediately after shooting.
+7. The context doesn't provide information about any rules or expectations that he might be following regarding gun use.
+8. The statement doesn't confirm if the gun was actually loaded while he kept it holstered.
+9. The context doesn't mention if there were any witnesses to the events, so it's unclear if anyone could have seen the gun's status.
+10. The statement doesn't reveal if there were any distractions or interruptions between the throwing and the shooting that might have affected the gun's status.</s>

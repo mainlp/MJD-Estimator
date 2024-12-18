@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: right oh they've really done uh good job of keeping everybody informed of what's going on sometimes i've wondered if it wasn't almost more than we needed to know 
+Statement: I think I have shared too much information with everyone, so next year I will share less.  
+Answer: [/INST] 1. The speaker in the context believes that the group has been sharing an excessive amount of information.
+2. The speaker in the context has sometimes questioned whether they needed to share so much information.
+3. The statement implies that the speaker will reduce the amount of information shared in the future.
+4. The statement suggests that the speaker believes they have shared too much information with the group.
+5. The context and statement both involve the topic of sharing information with a group.
+6. The statement can be inferred as a direct response to the context, with the speaker deciding to change their behavior based on the context.</s>

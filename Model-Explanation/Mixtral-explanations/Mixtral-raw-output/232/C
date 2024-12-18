@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: you can get a hard copy of it and that's about it 
+Statement: An email won't cut it. 
+Answer: [/INST] 1. The document is available in digital form, such as an email attachment.
+2. The document can be accessed and printed from a website.
+3. A digital version of the document is sent through a messaging app.
+4. The document can be viewed on a screen and saved as a digital file.
+5. The document can be transferred through a cloud-based service.
+6. The document can be shared via a file-sharing platform.
+7. The document can be screen-captured and saved as an image.
+8. The document can be converted to a digital format and sent as an email.
+9. The document can be faxed, which is not the same as being sent as an email.
+10. The document can be delivered physically, such as by hand or by mail.</s>

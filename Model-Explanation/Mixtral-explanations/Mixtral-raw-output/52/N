@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The village is Sainte-Marie, named by the explorer when he landed on 4 November 1493, attracted by the waterfalls and river he could see flowing down the green inland mountains. 
+Statement: The village is not named after the settling explorer. 
+Answer: [/INST] 1. The text only states that the village was named by the explorer, not that it was named after the explorer.
+2. The explorer's name is not mentioned in the context.
+3. The village could have been named after another person or thing associated with the explorer.
+4. The explorer might have named the village in honor of someone else with the same name.
+5. The explorer could have been inspired by a local name or word that sounds like his own.
+6. The explorer might have used a nickname or alternate name to name the village.
+7. The text does not provide information about the explorer's intentions or motivations for naming the village.
+8. The explorer might have named the village as a commemoration of the date of his landing, rather than after himself.
+9. The explorer might have been known by a different name in the context of his exploration.
+10. The text does not provide sufficient information to determine whether the village was named after the explorer or not.</s>

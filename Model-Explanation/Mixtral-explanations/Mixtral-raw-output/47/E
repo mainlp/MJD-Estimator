@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The idea that Clinton's approval represents something new and immoral in the country is historically shortsighted. 
+Statement: It's accurate to conclude that Clinton's approvals signify the start of a new form of immorality in the country. 
+Answer: [/INST] 1. The use of "historically shortsighted" in the context implies that Clinton's approval is not a new and immoral phenomenon, but the statement claims that it does represent the start of a new form of immorality. This is a misinterpretation of the context.
+2. The context suggests that the idea of Clinton's approval being immoral is not new, but the statement asserts that it is a new form of immorality. This is a contradiction of the context.
+3. The context implies that Clinton's approval is not a new form of immorality, but the statement claims that it is. This is a direct contradiction of the context.
+4. The context implies that Clinton's approval is not immoral, but the statement asserts that it is a new form of immorality. This is a contradiction of the context.
+5. The context implies that Clinton's approval is not a new phenomenon, but the statement claims that it is a new form of immorality. This is a contradiction of the context.
+6. The context implies that Clinton's approval is not a new or immoral phenomenon, but the statement asserts that it is

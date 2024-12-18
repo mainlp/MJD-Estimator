@@ -1,0 +1,10 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: David Cope, a professor of music at the University of California at Santa Cruz, claims to have created a 42 nd Mozart symphony. 
+Statement: Music Professor David Cope who specializes in Mozart's music claims to have created Mozart's 42nd symphony. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* There is no Mozart's 42nd symphony, as Mozart only wrote 41 symphonies.
+* David Cope is not a specialist in Mozart's music, but rather a professor of music in general.
+* David Cope did not create a Mozart symphony, but rather a symphony in the style of Mozart.<|eot_id|>

@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The chart to which Reich refers was actually presented during Saxton's opening statement, hours before Reich testified, and did not look as Reich claims it did. 
+Statement: Reich refers to a chart that he misunderstood. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement does not specify when Reich referred to the chart, so it is unclear if he referred to it before or after Saxton's opening statement.
+* The statement does not provide enough information to determine if Reich's misunderstanding of the chart is related to its appearance or content.
+* The context only mentions that the chart did not look as Reich claims, but it does not provide information about the content or accuracy of the chart.
+* The statement does not specify what exactly Reich misunderstood about the chart, which makes it difficult to determine the truth value of the statement.
+* The context does not provide enough information to determine if Reich's misunderstanding was intentional or unintentional.
+* The statement does not provide enough information to determine if Reich's reference to the chart was based on his own observation or someone else's description.
+* The context only provides information about the appearance of the chart, but it does not provide information about Reich's understanding of the chart's meaning or significance.<|eot_id|>

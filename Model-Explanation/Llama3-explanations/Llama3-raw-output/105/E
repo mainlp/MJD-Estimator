@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Answer? said Julius. 
+Statement: Julius already knew the answer. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+1. Julius is asking a rhetorical question, implying he already knows the answer.
+2. Julius is seeking confirmation of an answer he already knows.
+3. Julius is being sarcastic, and his question is meant to convey that he already knows the answer.
+4. Julius is testing someone's knowledge, and he already knows the answer himself.
+5. Julius is recalling a previous conversation where he learned the answer.
+6. Julius is trying to prompt someone to reveal that they don't know the answer, while he already does.
+7. Julius is rephrasing a statement he made earlier, and he already knew the answer at that time.
+8. Julius is quoting someone who already knew the answer.<|eot_id|>

@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The tip was hooked towards the edge, the same way the tips are hammered for knives used for slaughter. 
+Statement: They were fragile and could not leave a scratch. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context describes the tip's shape and preparation method, but does not provide information about the material or properties of the tip that would affect its fragility or scratching ability.
+* The context implies the tip is designed for a specific purpose (slaughter), but it's unclear if that purpose requires fragility or the ability to leave scratches.
+* The statement's claims about fragility and scratching ability are contradictory, making it difficult to infer a definitive conclusion based on the context.
+* The context does not provide a direct comparison or contrast to other objects that could help determine the tip's properties.
+* The statement's language is vague, and "fragile" and "could not leave a scratch" are relative terms that require additional context to determine their meaning.
+* The context focuses on the tip's shape and preparation, while the statement focuses on its material properties, making it difficult to draw a clear connection between the two.<|eot_id|>

@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: It is, as you see, highly magnified.  
+Statement: It is plain for you to see that it is amplified. 
+Answer: [/INST] 1. The word "magnified" in the context implies a significant increase in size or clarity, which is synonymous with "amplified."
+2. The statement "It is plain for you to see" suggests that the amplification is evident or clear, which is consistent with the context.
+3. The use of the word "highly" in the context emphasizes the degree of amplification, which is also conveyed in the statement.
+4. The statement directly acknowledges that the object is "amplified," which is the key information in the context.</s>

@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: In the first instance, IRS would have no record of time before the person could get through to an agent and of discouraged callers. 
+Statement: There is no recording of the time for callers. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true:
+
+* The IRS has no record of time before the person could get through to an agent.
+* The IRS does not record the time of discouraged callers.
+* The IRS does not keep track of the time spent by callers waiting to get through to an agent.
+* The IRS lacks a system to log the time callers spend on hold before speaking to an agent.
+* The time spent by callers waiting to get through to an agent is not documented by the IRS.
+* There is no mechanism in place for the IRS to capture the time callers spend on hold.<|eot_id|>

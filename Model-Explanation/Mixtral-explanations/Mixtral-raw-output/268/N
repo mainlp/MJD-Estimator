@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: and going to school is also always very prohibitive now unless your parents are wealthy 
+Statement: Wealthy parents are necessary for school. 
+Answer: [/INST] 1. The context states that going to school is prohibitive unless parents are wealthy, but it does not necessarily mean wealthy parents are necessary for school in general.
+2. It is possible that there are other ways to afford school without wealthy parents, such as scholarships or financial aid.
+3. The statement may be too broad, as it does not specify the level or type of school (e.g. primary, secondary, higher education, public, private).
+4. The context may refer to a specific situation or location, while the statement is more general.
+5. The word "necessary" in the statement can be interpreted in different ways, such as a requirement, a guarantee, or a strong recommendation.
+6. The context may imply that only the absence of financial burden is related to wealthy parents, not their presence per se.
+7. The statement does not distinguish between direct financial support and other forms of parental involvement or resources.
+8. The statement does not account for individual circumstances or exceptions.
+9. The statement does not specify whether "wealthy" means having a certain income, net worth, or social status.
+10. The statement does not clarify whether "school" refers to the institution, the

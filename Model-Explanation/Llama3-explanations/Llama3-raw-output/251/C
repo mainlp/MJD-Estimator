@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: or just get out and walk uh or even jog a little although i don't do that regularly but Washington's a great place to do that 
+Statement: "I regularly go for a walk or a jog at Washington's." 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The speaker explicitly states "I don't do that regularly" which contradicts the statement.
+* The context implies that the speaker is suggesting walking or jogging as an option, but does not imply that they do it regularly.
+* The speaker's tone is casual and conversational, suggesting that they are making a suggestion rather than stating a personal habit.
+* The use of "although" in the context implies a contrast between the suggestion and the speaker's actual behavior, which is not regular walking or jogging.<|eot_id|>

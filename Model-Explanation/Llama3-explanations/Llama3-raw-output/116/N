@@ -1,0 +1,16 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: but i don't know you know  maybe you could do that for a certain period of time but i mean how long does that kind of a thing take you know to to um say to question the person or to get into their head 
+Statement: It might take a long time to do that because getting inside a person's head takes time. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context is uncertain and hesitant, with phrases like "I don't know", "maybe", and "um", which makes it difficult to infer a clear conclusion.
+* The context is discussing a hypothetical scenario, which may not have a definitive answer.
+* The context is asking a question ("how long does that kind of a thing take"), which implies that the speaker is unsure and seeking information.
+* The statement is a rephrased version of the context, but it doesn't add any new information or certainty.
+* The statement is a vague and general statement, which doesn't provide a specific timeframe or concrete evidence.
+* The context is discussing a complex and abstract concept ("getting inside a person's head"), which may not have a clear or definitive answer.
+* The tone of the context is speculative and exploratory, rather than assertive or conclusive.<|eot_id|>

@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: This confluence of a bad tax, a $1 billion reserve, a botched opposition campaign, and voters willing to call a bluff resulted in the I-695 victory. 
+Statement: The I-695 failed in its campaign to help the people. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions the victory of I-695, but does not provide information about its campaign goals or outcomes, making it impossible to determine if it helped the people.
+* The context focuses on the factors that led to the victory, but does not provide any information about the impact or effects of I-695, leaving the statement's truth value unknown.
+* The statement makes a claim about the outcome of I-695's campaign, but the context only provides information about the circumstances of its victory, not its actual effects.
+* The context does not provide any information about the intentions or goals of I-695, making it impossible to determine if it failed to help the people.
+* The statement's truth value depends on the definition of "help the people", which is not provided in the context, making it impossible to determine if I-695 failed in its campaign.<|eot_id|>

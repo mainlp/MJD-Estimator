@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Suddenly she started, and her face blanched. 
+Statement: She moved swiftly, her face pale. 
+Answer: [/INST] 1. She moved swiftly, but her face did not remain pale; it regained its normal color.
+2. Her face became pale, but she did not start moving swiftly; she remained still.
+3. She moved slowly, not swiftly, despite her face being pale.
+4. She moved swiftly, but it was due to a different reason, not because her face was pale.
+5. Her face became pale due to a different reason, and she did not move swiftly.
+6. She moved swiftly, but her face became pale after she had already started moving.
+7. She moved swiftly, but her face was not pale; it was still its normal color.</s>

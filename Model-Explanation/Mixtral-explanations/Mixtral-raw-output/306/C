@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Agencies may perform the analyses required by sections 603 and 604 in conjunction with or as part of any other agenda or analysis required by other law if such other analysis satisfies the provisions of these sections. 
+Statement: There are many times when the agencies have gotten in trouble. 
+Answer: [/INST] 1. Agencies have never been reprimanded or faced consequences for not complying with the specific requirements of sections 603 and 604.
+2. The statement implies that the trouble is directly related to the analyses required by sections 603 and 604, but the context does not support this connection.
+3. The statement is a generalization that does not specify the instances when the agencies have gotten in trouble, making it contradictory to the context that focuses on the analyses required by sections 603 and 604.
+4. The context implies that agencies can perform the required analyses as part of other agendas or analyses, so the statement cannot be true if the agencies have not gotten in trouble for these other agendas or analyses.
+5. The statement does not provide any information on the cause of the trouble, and the context does not suggest that the required analyses would lead to trouble, making it a contradiction.</s>

@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: This was used for ceremonial purposes, allowing statues of the gods to be carried to the river for journeys to the west bank, or to the Luxor sanctuary. 
+Statement: Statues were moved to Luxor for funerals and other ceremonies. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The context mentions "ceremonial purposes" which includes funerals and other ceremonies.
+* The context states that statues were carried to the Luxor sanctuary, which implies that they were moved to Luxor for some purpose, and funerals and other ceremonies are a plausible explanation.
+* The mention of "journeys to the west bank" in the context could be related to funerals, as the west bank of the Nile was often associated with the afterlife in ancient Egyptian culture.
+* The fact that statues were carried to the river and then to Luxor suggests a processional or ceremonial movement, which is consistent with funerals and other ceremonies.<|eot_id|>

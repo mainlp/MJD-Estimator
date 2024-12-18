@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: oh really it wouldn't matter if we plant them when it was starting to get warmer 
+Statement: It is better to plant when it is colder. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context implies that the timing of planting doesn't matter, but the statement claims that a specific timing (colder) is better.
+* The context suggests that planting when it's getting warmer is acceptable, but the statement implies that planting when it's colder is superior.
+* The statement implies a preference for colder weather, but the context indicates that warmer weather is also suitable.
+* The context conveys a sense of indifference to the timing of planting, while the statement expresses a clear preference for a specific timing.
+* The statement's assertion that it's better to plant when it's colder contradicts the context's implication that the timing of planting is not crucial.<|eot_id|>

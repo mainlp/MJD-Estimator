@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: By seeding packs with a few high-value cards, the manufacturer is encouraging kids to buy Pokemon cards like lottery tickets. 
+Statement: Each Pokemon card pack is filled with every rare card a kid could want. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is an exaggeration, and the context implies that only a few high-value cards are included in each pack, not every rare card a kid could want.
+* The context suggests that the manufacturer is trying to entice kids to buy more packs, implying that not every pack contains every rare card.
+* The phrase "like lottery tickets" implies that the rarity of certain cards is what makes them desirable, and it's unlikely that every pack would contain every rare card.
+* The context focuses on the manufacturer's strategy to encourage kids to buy more packs, which would be unnecessary if every pack contained every rare card.
+* The statement is a hyperbole, and the context provides a more realistic understanding of the situation, which is that only a few high-value cards are included in each pack.<|eot_id|>

@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: yeah i can believe that 
+Statement: I agree with what you said. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+1. The speaker is expressing confirmation of the listener's statement.
+2. The speaker is showing acceptance of the listener's opinion or viewpoint.
+3. The speaker is indicating that they share the same sentiment as the listener.
+4. The speaker is acknowledging the validity or truth of the listener's statement.
+5. The speaker is demonstrating a sense of concurrence or harmony with the listener's perspective.
+6. The speaker is implying that they have no objections or disagreements with the listener's statement.
+7. The speaker is expressing a sense of alignment or unity with the listener's thoughts or opinions.
+8. The speaker is confirming that they understand and accept the listener's point of view.<|eot_id|>

@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: it's like but the time we went to Florida and needed to rent a car you know he believed in it 
+Statement: We rented a car while we were in Florida. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The speaker and someone else went to Florida and rented a car.
+* The need to rent a car in Florida was fulfilled.
+* The belief in something (likely the car rental) was justified or correct.
+* The event of renting a car occurred during the time the speaker was in Florida.
+* The speaker and someone else had a shared experience of renting a car in Florida.<|eot_id|>

@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: On the northern slopes of this rocky outcropping is the site of the ancient capital of the island, also called Thira, which dates from the third century b.c. (when the Aegean was under Ptolemaic rule). 
+Statement: Is the site of the ancient asteroid impact, also called Thira. 
+Answer: [/INST] 1. The site is not an asteroid impact.
+2. The site is not from an asteroid impact date.
+3. The site is not related to an asteroid impact in any way.
+4. The site called Thira is not an asteroid impact but an ancient capital.
+5. The site's name being Thira does not imply it is an asteroid impact.
+6. The site is not located on the northern slopes of a rocky outcropping if it's an asteroid impact.
+7. The site is not from the third century B.C. if it's an asteroid impact.
+8. The site is not in the Aegean if it's an asteroid impact.
+9. The site is not under Ptolemaic rule if it's an asteroid impact.</s>

@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The governing statute provides that a committee consisting of the Comptroller General, the Speaker of the House and President Pro Tempore of the Senate, the Majority and Minority leaders, and the Chairmen and Ranking Minority Members of the Senate Governmental Affairs and House Government Reform Committees recommend an individual to the President for appointment. 
+Statement: The process is long and will be reformed in the coming years. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are possible explanations why the statement is true (entailment):
+
+* The process involves multiple steps and stakeholders, implying a lengthy procedure.
+* The committee consists of many members from different branches of government, which may lead to delays and inefficiencies.
+* The process requires the President's appointment, adding an extra layer of complexity and potential delay.
+* The involvement of multiple committees and leaders may lead to disagreements and negotiations, prolonging the process.
+* The statute's provision for a committee to recommend an individual suggests a formal and potentially time-consuming process.
+* The need for reform in the coming years implies that the current process is perceived as inefficient or ineffective, supporting the claim that it is long.<|eot_id|>

@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The remaining parts of the north, although enticing, are difficult to explore. 
+Statement: The rest of the north presents a steep challenge. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* "difficult to explore" implies that there are obstacles or challenges to overcome, which is equivalent to "presents a steep challenge".
+* The phrase "although enticing" suggests that there is an attractive aspect to the remaining parts of the north, but this is outweighed by the difficulties, which makes it a challenging area to explore.
+* The word "difficult" has a strong connotation of something being hard to accomplish, which is similar to the idea of a "steep challenge".
+* The context implies that the remaining parts of the north are not easily accessible or navigable, which is equivalent to saying that they present a challenge.
+* The phrase "are difficult to explore" can be paraphrased as "pose a challenge to explore", which is similar to the statement "presents a steep challenge".<|eot_id|>

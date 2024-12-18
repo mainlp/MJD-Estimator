@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The door did not budge. 
+Statement: The door was stuck, so it did not move.  
+Answer: [/INST] 1. The door was never touched, so it did not move.
+2. The door was already open, so it did not need to move.
+3. The door was locked, preventing it from moving.
+4. The door was removed from its hinges, so it was not present to move.
+5. A strong force pushed the door open, overcoming any sticking.
+6. The door was never stuck; it just didn't move for some other reason.
+7. The door was an optical illusion, and never really existed.
+8. The door was replaced with a different type of entrance that doesn't "budge" or move.
+9. The definition of "budge" was misinterpreted, and the door did in fact move slightly.
+10. The statement is a trick, and the door did in fact move despite not budging.</s>

@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: A button on the Chatterbox page will make this easy, so please do join in. 
+Statement: They wanted to make the site very user friendly. 
+Answer: [/INST] 1. The designers intentionally made the site difficult to navigate.
+2. The developers did not consider user needs during the design process.
+3. The platform was created with the purpose of being complicated.
+4. The interface was designed to be purposefully unintuitive.
+5. The creators of the site have no interest in user-friendliness.
+6. The Chatterbox page was not developed to facilitate ease of use.
+7. The site's design is actually hindering users from participating.
+8. The button on the Chatterbox page is the only user-friendly feature.
+9. The site's developers did not focus on creating a user-friendly experience.
+10. The site's complexity contradicts any claims of user-friendliness.</s>

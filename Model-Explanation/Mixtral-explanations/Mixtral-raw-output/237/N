@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: This having come to his stepmother's ears, she taxed him with it on the afternoon before her death, and a quarrel ensued, part of which was overheard.  
+Statement: A love affair sparked just moments before her death. 
+Answer: [/INST] 1. The statement doesn't specify who was involved in the alleged love affair.
+2. The context doesn't mention any new relationship or affection between characters.
+3. The argument in the context might not be about a love affair.
+4. The overheard part of the quarrel might not include evidence of a love affair.
+5. The stepmother's taxing him with "it" doesn't necessarily refer to a love affair.
+6. The "it" in the context could refer to something other than a love affair.
+7. The quarrel could have been about a variety of topics, not limited to a love affair.
+8. The text doesn't provide enough information to confirm or deny the occurrence of a love affair.
+9. The statement could be too specific compared to the information provided in the context.
+10. The context may require additional information to make a definitive judgement.</s>

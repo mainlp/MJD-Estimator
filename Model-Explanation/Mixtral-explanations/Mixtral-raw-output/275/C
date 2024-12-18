@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The importer pays duties that are required by law 
+Statement: Imported goods have duties 
+Answer: [/INST] 1. The duties were already paid by someone else in the supply chain.
+2. The goods were imported legally through a duty-free agreement.
+3. The statement refers to a different type of duties, not related to import (e.g. duties of care).
+4. The goods were not imported, but rather produced domestically.
+5. The importer avoided paying duties through illegal means.
+6. The statement is outdated, and the laws have changed since then.
+7. The goods are exempt from duties due to their nature or purpose.
+8. The statement is a generalization, but the specific goods in question do not have duties.
+9. The statement is a misunderstanding, and refers to a different concept (e.g. tariffs).
+10. The importer is not the final recipient of the goods, and the duties will be paid by someone else.</s>

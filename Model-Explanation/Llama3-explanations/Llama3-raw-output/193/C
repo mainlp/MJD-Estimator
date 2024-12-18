@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: He'd gone a long way on what he'd found in one elementary book. 
+Statement: He learned a lot from that elementary book. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false (contradiction):
+
+* "a long way" implies a significant progress or achievement, but it doesn't necessarily mean he learned a lot from the book.
+* "what he'd found" is ambiguous and could refer to a single idea or concept, rather than a lot of knowledge.
+* The book is elementary, implying it may not have provided a lot of advanced or in-depth knowledge.
+* The sentence structure suggests that he may have used the book as a starting point and then went on to learn more from other sources, rather than learning a lot from the book itself.<|eot_id|>

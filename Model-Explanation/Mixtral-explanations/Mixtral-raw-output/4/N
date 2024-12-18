@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: uh plastic is just too easy i mean that's the that's the whole problem with it um have 
+Statement: I find plastic to be too easy to use. 
+Answer: [/INST] 1. The context focuses on the negative aspects of plastic, but the statement is a positive opinion about the ease of using plastic.
+2. The context is about plastic being overly common or accessible, while the statement is about the ease of use in a general sense.
+3. The context may imply that "plastic" refers to a specific type of plastic, but the statement does not provide enough information to confirm if it refers to the same type.
+4. The context may be about the environmental impact of plastic, but the statement does not address this concern.
+5. The context may be discussing the difficulty of working with plastic in a particular application, while the statement is about using plastic in general.
+6. The context may be about the simplicity of plastic's design or composition, but the statement is about the ease of using it in a practical sense.
+7. The context may be about the negative consequences of using plastic excessively, but the statement does not indicate whether the ease of use leads to overuse.
+8. The context may be about the lack of alternatives to plastic, while the statement does not address the availability of alternatives.
+9. The context may be about the negative aspects of plastic's durability,

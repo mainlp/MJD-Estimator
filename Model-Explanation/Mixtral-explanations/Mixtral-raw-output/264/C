@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The draft treaty was Tommy's bait. 
+Statement: Tommy took the bait of the treaty. 
+Answer: [/INST] 1. Tommy did not accept or agree to the terms of the treaty.
+2. Tommy offered the treaty as a trap to someone else.
+3. The treaty was not intended to be accepted or agreed upon by Tommy.
+4. The treaty was not presented as an option for Tommy to consider.
+5. Tommy was not interested in the treaty.
+6. Tommy was not influenced by the treaty in any way.
+7. Tommy rejected the treaty.
+8. Tommy was unaware of the treaty.
+9. The treaty was a fake or joke and Tommy did not fall for it.
+10. The treaty was not presented as something to be "taken" or accepted.</s>

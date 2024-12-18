@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: But you will find it all right." 
+Statement: You, I'm sure, will find it more than adequate. 
+Answer: [/INST] 1. The "it" in the statement refers to the same thing as the "it" in the context, and that thing is more than adequate.
+2. The speaker is expressing confidence that the listener will be satisfied or pleased with whatever "it" refers to.
+3. The speaker's assurance that the listener will "find it all right" implies that it will meet the listener's expectations or needs, which is further emphasized by the statement that the listener will find it "more than adequate."
+4. The statement is expressing a stronger positive opinion than the context, indicating that the speaker has high expectations for the listener's experience with "it."</s>

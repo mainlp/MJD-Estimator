@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The door did not budge. 
+Statement: The door was stuck, so it did not move.  
+Answer: [/INST] 1. The door's being stuck prevented it from moving, causing it to not budge.
+2. The door's immobility is due to it being stuck, which is why it didn't move.
+3. The door's being stuck resulted in its failure to budge.
+4. The door's stubborn refusal to move is because it's stuck.
+5. The door's inability to move is a direct consequence of it being stuck.
+6. The door's being stuck is the reason for its not budging.
+7. The door's being stuck is equivalent to it being immovable.
+8. The door's being stuck and its not budging are two sides of the same coin.
+9. The door's being stuck and its failure to move are one and the same.
+10. The door's being stuck and its not budging are interchangeable terms.</s>

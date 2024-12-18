@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: If necessary to meeting the restrictions imposed in the preceding sentence, the Administrator shall reduce, pro rata, the basic Phase II allowance allocations for each unit subject to the requirements of section 414. 
+Statement: Section 414 helps balance allowance allocations for units. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* Section 414 is not related to balancing allowance allocations for units.
+* Section 414 is only a requirement that must be met, but it does not directly affect the balance of allowance allocations.
+* The balancing of allowance allocations is done by the Administrator through pro rata reduction, not by Section 414.
+* Section 414 imposes restrictions, but it does not help in balancing allowance allocations.
+* The context only mentions that the Administrator shall reduce allocations to meet the requirements of Section 414, but it does not imply that Section 414 itself balances the allocations.<|eot_id|>

@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: So unlike people who are fortunate enough to be able to afford attorneys and can go to another lawyer, our clients are simply lost in the legal system if they cannot get access to it from us. 
+Statement: Our clients can barely afford our legal assistance. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context implies that the clients cannot afford attorneys, suggesting that they are not able to afford legal assistance at all, not just barely afford it.
+* The phrase "fortunate enough to be able to afford attorneys" in the context implies that the clients are not fortunate enough, meaning they cannot afford attorneys, which contradicts the idea that they can barely afford legal assistance.
+* The context states that the clients are "lost in the legal system" if they cannot get access to legal assistance from the speaker's organization, implying that they have no other affordable options, which contradicts the idea that they can barely afford legal assistance.
+* The context presents the speaker's organization as the only accessible option for the clients, suggesting that they cannot afford legal assistance elsewhere, which contradicts the idea that they can barely afford it.<|eot_id|>

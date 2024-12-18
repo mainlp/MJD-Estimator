@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: H-2A agricultural workers are required to maintain a foreign residence which they have no intention of abandoning. 
+Statement: Permanent foreign residence is required for some types of agricultural work visas. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is too broad, as it only applies to H-2A agricultural workers, not all types of agricultural work visas.
+* The statement is imprecise, as it does not specify that the foreign residence must be maintained with no intention of abandoning it.
+* The statement is misleading, as it implies that having a permanent foreign residence is sufficient, when in fact the intention not to abandon it is also a requirement.
+* The statement is incomplete, as it does not provide the full context of the H-2A visa requirements.
+* The statement is inaccurate, as it uses the term "permanent foreign residence" which might be interpreted as a permanent residence in a foreign country, whereas the context implies a residence that is maintained but not necessarily permanent.<|eot_id|>

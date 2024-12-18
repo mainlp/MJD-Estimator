@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Marriage is an important institution. 
+Statement: Marriage is crucial to society. 
+Answer: [/INST] 1. Marriage has no significant impact on society.
+2. Marriage is detrimental to society.
+3. Society functions perfectly without marriage.
+4. The concept of marriage is insignificant for society.
+5. Marriage is not a crucial factor in social stability.
+6. The institution of marriage is unimportant to society's progress.
+7. Marriage holds no necessary role in society's development.
+8. Society can thrive without the institution of marriage.</s>

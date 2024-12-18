@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Because marginal costs are very low, a newspaper price for preprints might be as low as 5 or 6 cents per piece. 
+Statement: Newspaper preprints can cost as much as $5. 
+Answer: [/INST] 1. The statement could be referring to the total cost of a preprint bundle, not the cost per piece.
+2. The statement could be referring to the selling price of preprints, not the production cost.
+3. The context could be referring to a specific time or situation where preprint prices were low, while the statement refers to a different time or situation.
+4. The statement could be using a different currency, leading to a higher cost in cents.
+5. The statement could be referring to a different type or quality of preprint that costs more to produce.
+6. The context could be referring to the cost of black and white preprints, while the statement refers to color preprints.
+7. The statement could be a rounded up estimate, while the context is a more precise calculation.
+8. The context could be referring to the cost of preprints for a specific newspaper, while the statement refers to the cost for a different newspaper.
+9. The statement could be including additional services or features in the cost, such as delivery or design services.
+10. The context could be referring to the cost of preprints for a special promotion or discount, while the statement refers to the regular cost.</s>

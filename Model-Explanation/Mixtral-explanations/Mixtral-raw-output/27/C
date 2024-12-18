@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: It is not a surprise, either, that Al Pacino chews the scenery in Devil's Advocate . And the idea that if the devil showed up on Earth he'd be running a New York corporate-law firm is also, to say the least, pre-chewed. 
+Statement: Nobody expects that the devil would take the form of a lawyer. 
+Answer: [/INST] 1. The statement contradicts the context by claiming that "nobody" has such an expectation, while the context asserts that the idea of the devil taking the form of a lawyer is "pre-chewed," implying that it is a familiar or expected concept.
+2. The context mentions Al Pacino's character in Devil's Advocate, which suggests that the devil appearing as a lawyer has already been depicted in the movie, contradicting the statement that "nobody" expects such a form.
+3. The use of the word "that" in the statement implies a specific group or individual's expectations, but the statement denies the expectation universally. The context, however, suggests that at least some people (those familiar with the movie or the concept) would expect the devil to take the form of a lawyer.</s>

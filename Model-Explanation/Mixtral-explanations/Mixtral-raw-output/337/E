@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: So far, however, the number of mail pieces lost to alternative bill-paying methods is too small to have any material impact on First-Class volume. 
+Statement: Occasionally mail is lost but not often 
+Answer: [/INST] 1. The context states that the number of mail pieces lost to alternative bill-paying methods is small.
+2. The statement claims that mail is occasionally lost.
+3. Therefore, the small number of lost mail pieces mentioned in the context could be the result of occasional losses.
+4. The statement also mentions that the impact on First-Class volume is not material.
+5. This implies that the occasional losses are not significant enough to affect the overall volume of mail.
+6. Therefore, it can be inferred that mail is occasionally lost but not often to a significant extent that impacts the First-Class volume.</s>

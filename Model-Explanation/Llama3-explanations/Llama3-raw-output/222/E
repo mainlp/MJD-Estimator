@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Tell me, how did those scribbled words on the envelope help you to discover that a will was made yesterday afternoon?" Poirot smiled.  
+Statement: How did you work out from that text that there was a new will? 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The scribbled words on the envelope mentioned the creation of a new will.
+* The scribbled words on the envelope indicated that a will was made recently, and "yesterday afternoon" is a recent time.
+* Poirot's smile implies that he found a clever clue in the scribbled words that led him to the conclusion.
+* The context implies that Poirot is a skilled detective who can make connections between seemingly unrelated information, including the scribbled words on the envelope.
+* The phrase "how did those scribbled words... help you to discover" implies that the scribbled words contained some information that contributed to Poirot's discovery.
+* The fact that Poirot is being asked to explain his reasoning implies that he has already made the connection between the scribbled words and the new will.<|eot_id|>

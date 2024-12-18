@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The tomb guardian will unlock the gate to the tunnel and give you a candle to explore the small circular catacomb, but for what little you can see, it is hardly worth the effort. 
+Statement: The tomb garden can give you a thorough tour of the catacombs. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* There is no mention of a "tomb garden" in the context, so it's unlikely to give a thorough tour of the catacombs.
+* The context only mentions a "tomb guardian", not a "tomb garden", and it only provides a candle to explore a small circular catacomb, not a thorough tour.
+* The context implies that the catacombs are not worth exploring thoroughly, so it's unlikely that a tomb garden or any other entity would provide a thorough tour.
+* The context does not provide any information about a tomb garden having the ability or resources to give a thorough tour of the catacombs.<|eot_id|>

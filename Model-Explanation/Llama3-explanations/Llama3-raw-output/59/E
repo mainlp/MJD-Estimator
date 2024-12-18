@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: and uh really they're about it they've got a guy named Herb Williams that that i guess sort of was supposed to take the place of uh Tarpley but he uh he just doesn't have the offensive skills 
+Statement: Tarpley is a better offensive player that Herb Williams. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+1. Herb Williams was supposed to take the place of Tarpley, implying Tarpley's skills are a benchmark.
+2. Herb Williams lacks the offensive skills, implying Tarpley has those skills.
+3. The comparison between Tarpley and Herb Williams is made in the context of offensive skills, suggesting Tarpley is better.
+4. The speaker's tone and language used ("he just doesn't have") convey a sense of disappointment or inadequacy, implying Tarpley is better.
+5. The speaker mentions Tarpley as a reference point, suggesting Tarpley is the standard or norm for offensive skills.<|eot_id|>

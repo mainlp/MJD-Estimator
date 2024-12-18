@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: EPA estimates that 5.6 million acres of lakes, estuaries and wetlands and 43,500 miles of streams, rivers and coasts are impaired by mercury emissions. 
+Statement: The release of mercury has an impact on rivers, streams and lakes 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* Mercury emissions impair 43,500 miles of streams, rivers, and coasts, which implies that the release of mercury has a negative effect on these bodies of water.
+* The impairment of 5.6 million acres of lakes, estuaries, and wetlands is attributed to mercury emissions, suggesting that the release of mercury has a detrimental impact on these ecosystems.
+* The context explicitly states that mercury emissions impair rivers, streams, and lakes, which directly supports the statement.
+* The fact that mercury emissions cause impairment to such a large area of lakes, estuaries, and wetlands, as well as a significant length of streams, rivers, and coasts, implies that the release of mercury has a substantial impact on these water bodies.
+* The use of the term "impaired" to describe the effect of mercury emissions on rivers, streams, and lakes suggests that the release of mercury has a harmful or damaging effect on these ecosystems.<|eot_id|>

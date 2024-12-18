@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: He found himself thinking in circles of worry and pulled himself back to his problem. 
+Statement: He could not afford to get distracted from his problem. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* He was already worried and thinking in circles, which implies distraction, and he had to pull himself back to his problem, indicating that distraction was not an option.
+* The fact that he had to pull himself back to his problem suggests that he was prone to distraction, and therefore, he could not afford to get distracted.
+* If he got distracted, he would continue thinking in circles of worry, which would hinder his ability to solve his problem.
+* His problem required focus and attention, and distraction would prevent him from making progress or finding a solution.
+* He recognized the negative impact of distraction on his problem-solving and deliberately pulled himself back, implying that distraction was not affordable.<|eot_id|>

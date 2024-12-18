@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: He watched the river flow. 
+Statement: The river roared by. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are possible explanations why the statement is true (entailment):
+
+* The verb "flow" can imply a certain level of noise or movement, which is consistent with the river "roaring by".
+* Watching the river flow implies the river was moving, and "roaring by" is a possible way to describe a moving river.
+* The context suggests a vivid and dynamic scene, and "roaring by" is a plausible continuation of that scene.
+* The phrase "roared by" is a common way to describe a river's sound or movement, and the context provides a suitable setting for this description.
+* The act of watching the river flow implies the speaker was in close proximity to the river, making it possible to hear the river "roaring by".
+* The verb "roared" can be seen as a more dramatic or emphatic way to describe the sound of the river, which is still consistent with the initial description of the river flowing.<|eot_id|>

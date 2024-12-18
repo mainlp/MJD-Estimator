@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The good news, however, can be found in reports like this one. 
+Statement: The good news is that the puppy's life was able to be saved. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are possible explanations why the statement is true (entailment):
+
+* The report mentioned in the context is about the puppy's life being saved, which is the good news.
+* The context implies that the report contains positive information, and the statement provides the specific good news mentioned in the report.
+* The phrase "good news" in the context is referring to the same good news mentioned in the statement, which is about the puppy's life being saved.
+* The context sets a positive tone, and the statement provides a specific example of that positivity, which is the good news about the puppy.
+* The report in the context is discussing a situation where the puppy's life was in danger, and the good news is that it was saved.<|eot_id|>

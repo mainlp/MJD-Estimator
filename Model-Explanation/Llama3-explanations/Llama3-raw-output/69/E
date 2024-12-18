@@ -1,0 +1,10 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: He hadn't seen even pictures of such things since the few silent movies run in some of the little art theaters. 
+Statement: He had recently seen pictures depicting those things. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not mention "recently", so the statement is not supported.
+* The context implies that he hadn't seen pictures of such things, which contradicts the statement.
+* There is no indication that he had seen pictures of those things in the little art theaters, as the context only mentions silent movies being run, not pictures being shown.<|eot_id|>

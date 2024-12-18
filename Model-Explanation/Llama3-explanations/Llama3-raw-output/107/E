@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: We know they will have to come from the south but that gives them a space as wide as the town in which to launch their attack. 
+Statement: The south is totally protected against an attack. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not provide enough information to support the statement, as it only mentions the attackers will come from the south, but does not imply the south is protected against an attack.
+* The statement is contradictory to the context, as it suggests the south is a vulnerable point for an attack, not a protected one.
+* There is no evidence in the context to suggest any protection measures are in place in the south.
+* The context implies the attackers have a wide space to launch their attack, which contradicts the idea of the south being protected.
+* The statement is an overstatement, as the context only provides information about the attackers' approach, not the defensive capabilities of the south.<|eot_id|>

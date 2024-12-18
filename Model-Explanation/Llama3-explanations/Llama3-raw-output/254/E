@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: She didn't listen. 
+Statement: She did not listen to the noise. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+1. The context implies that "listen" refers to the act of paying attention, and the statement specifies that the thing not listened to is the noise.
+2. The context's "didn't listen" is a more general statement, and the statement provides a specific example of what she didn't listen to, which is the noise.
+3. The context's negation of "listen" implies that she was not attentive or receptive, and the statement further clarifies that her inattentiveness was with respect to the noise.
+4. The context sets up a scenario where she failed to respond or react, and the statement explains that the stimulus she failed to respond to was the noise.
+5. The context's "didn't listen" could imply that she was not obedient or compliant, and the statement specifies that what she didn't comply with was the noise (perhaps an instruction or warning).<|eot_id|>

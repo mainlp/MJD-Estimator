@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Whether a government postal service can engage in these kinds of negotiations deserves serious study. 
+Statement: There is serious study needed to check. 
+Answer: [/INST] 1. Scope of "these kinds of negotiations" is unclear.
+2. The object of the study, i.e., whether the government postal service should engage in the negotiations or the feasibility of such negotiations, is not specified.
+3. The outcome of the study is not mentioned, so it's unclear if a positive or negative result would change the need for study.
+4. The subject of the serious study needed is not explicitly stated, it could be the government postal service or an external body.
+5. The context does not indicate if the study has already been initiated or not.
+6. The context does not provide information on the current stance of the government postal service regarding negotiations.
+7. The context does not specify the type of negotiations, such as labor negotiations, contract negotiations, or policy negotiations.
+8. The context does not indicate if the study is to be conducted by the government postal service or an independent third party.
+9. The context does not provide information on the potential benefits or drawbacks of the government postal service engaging in negotiations.
+10. The context does not specify the criteria for determining if the study is needed or not.</s>

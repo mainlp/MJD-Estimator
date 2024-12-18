@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: But they also don't seem to mind when the tranquillity of a Zen temple rock garden is shattered by recorded announcements blaring from loudspeakers parroting the information already contained in the leaflets provided at the ticket office; when heavy-metal pop music loudly emanates from the radio of the middle-aged owner of a corner grocery store; and when parks, gardens, and hallowed temples are ringed by garish souvenir shops whose shelves display both the tastefully understated and the hideously kitsch. 
+Statement: A Zen temple rock garden is a a place for lots of people to gather and celebrate. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context describes a Zen temple rock garden as a place of tranquillity, which contradicts the idea of it being a place for lots of people to gather and celebrate.
+* The context highlights the disruption of tranquillity by loud announcements and music, implying that the garden is not typically a place for loud gatherings.
+* The statement's description of the garden as a place for celebration is not supported by any information in the context.
+* The context focuses on the contrast between the serene atmosphere of the garden and the surrounding noise and commercialism, without providing any evidence for the garden being a place for large gatherings.
+* The statement's characterization of the garden as a place for "lots of people" to gather is not consistent with the context's emphasis on the disruption of tranquillity by external factors.<|eot_id|>

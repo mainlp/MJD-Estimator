@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Other functional components of the Postal Service are presumed here not to exhibit significant scale economies, although this has not been demonstrated. 
+Statement: The Postal Service only operates very large scale economies. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context states that other functional components are presumed not to exhibit significant scale economies, implying that not all components operate at a large scale.
+* The context does not provide evidence that the Postal Service as a whole only operates very large scale economies.
+* The statement is too absolute, using "only" to imply that all components operate at a large scale, which is not supported by the context.
+* The context suggests that the scale economies of other functional components are unknown or unproven, so it cannot be concluded that they are all large scale.
+* The statement contradicts the context's presumption that other functional components do not exhibit significant scale economies.<|eot_id|>

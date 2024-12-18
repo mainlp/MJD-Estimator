@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The results of even the most well designed epidemiological studies are characterized by this type of uncertainty, though well-designed studies typically report narrower uncertainty bounds around the best estimate than do studies of lesser quality. 
+Statement: All studies have the same amount of uncertainty to them. 
+Answer: [/INST] 1. The context does not specify that some studies can't have the same amount of uncertainty.
+2. The statement could be referring to a hypothetical scenario where all studies, regardless of design or quality, have an equal degree of unavoidable uncertainty.
+3. The statement could be interpreted as a generalization that all studies have some level of uncertainty, even if the specific amount varies.
+4. The term "uncertainty" in the statement might be used in a different context or with a different meaning than in the provided text.</s>

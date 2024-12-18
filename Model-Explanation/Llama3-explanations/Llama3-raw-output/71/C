@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: During his disastrous campaign in Russia, he found time in Moscow to draw up a new statute for the Com??die-Francaise (the national theater), which had been dissolved during the Revolution. 
+Statement: Russia has been successfully invaded hundreds of times. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context mentions a "disastrous campaign in Russia", implying that the invasion was not successful.
+* The context does not provide any evidence or mention of Russia being invaded hundreds of times.
+* The context focuses on a specific event during the Napoleonic Wars, whereas the statement makes a general claim about Russia's history.
+* The statement contradicts the idea of a "disastrous campaign", which suggests that the invasion was not successful.
+* The context implies that Napoleon's campaign in Russia was a singular event, whereas the statement claims that Russia has been invaded hundreds of times.
+* The statement is an exaggeration and not supported by historical records.<|eot_id|>

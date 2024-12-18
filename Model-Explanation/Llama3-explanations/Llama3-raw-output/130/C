@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Just like we have hairpins and powder-puffs." Tommy handed over a rather shabby green notebook, and Tuppence began writing busily. 
+Statement: Tommy handed Tuppence an empty shabby green notebook. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The notebook is described as "shabby green", but not explicitly stated to be empty.
+* The context implies that Tuppence began writing busily, suggesting that the notebook had blank pages or space to write, but not necessarily empty.
+* If the notebook were empty, there would be no point in Tuppence writing busily, as there would be no content to write about or add to.
+* The phrase "began writing busily" implies that Tuppence had something to write, which contradicts the idea of an empty notebook.<|eot_id|>

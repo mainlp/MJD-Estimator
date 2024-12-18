@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: And far, far away- lying still on the tracks- was the back of the train. 
+Statement: The train wasn't moving but then it started up. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions the back of the train lying still on the tracks, implying the entire train is stationary.
+* There is no indication of the train starting to move in the context.
+* The phrase "lying still" explicitly conveys a state of non-movement.
+* The context does not provide any information about the train's future actions or changes in its state.<|eot_id|>

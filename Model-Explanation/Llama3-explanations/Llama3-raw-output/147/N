@@ -1,0 +1,16 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: No, monsieur. 
+Statement: The speaker is answering no to a question. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only provides the word "No" without specifying the question being answered.
+* The speaker might be responding to a statement rather than a question.
+* The speaker could be expressing refusal, denial, or disagreement rather than answering a question.
+* The context lacks information about the tone, facial expression, or body language of the speaker.
+* The word "monsieur" suggests a level of formality, but it's unclear how this affects the interpretation of the "no".
+* The context doesn't provide enough information to determine the speaker's intent or the topic being discussed.
+* The statement assumes a question was asked, but the context doesn't confirm this.
+* The speaker might be using sarcasm or irony, which would change the meaning of the "no".
+* The context is too brief and lacks sufficient context to make a definitive inference.<|eot_id|>

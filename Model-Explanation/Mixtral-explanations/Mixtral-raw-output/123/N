@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The road along the coastline to the south travels through busy agricultural towns and fishing villages untouched by tourism. 
+Statement: There are no tourists on the road through the agricultural towns and fishing villages. 
+Answer: [/INST] 1. The statement could be true, as the road may not have any tourists due to its location in non-touristy areas.
+2. The statement could be false, as there might be tourists visiting the agricultural towns and fishing villages but not necessarily on the road at the time of observation.
+3. The statement could be partially true, as there might be no tourists on the road at the time of observation, but tourists could be present in the towns and villages.
+4. The context does not specify the time of year or day, so it's possible that the statement is true during certain periods and false during others.
+5. The context does not provide information about the entire length of the road, so the statement may only be true for the specific stretch of road mentioned in the context.
+6. The context does not specify whether the observation of the road was made in person or through some form of media (e.g., a photograph or video), leaving open the possibility that the statement is true for the media but not in reality.</s>

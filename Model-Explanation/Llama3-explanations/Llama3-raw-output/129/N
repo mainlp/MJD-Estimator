@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Because marginal costs are very low, a newspaper price for preprints might be as low as 5 or 6 cents per piece. 
+Statement: Many people consider these prices to be unfair to new printers. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only provides information about the price of preprints, but not about the fairness of the price or people's opinions about it.
+* There is no explicit connection between the low marginal costs and the fairness of the prices.
+* The context does not provide any information about the perspective or opinions of "many people" or "new printers".
+* The statement makes a claim about people's opinions, but the context does not provide any evidence or support for this claim.
+* The context only discusses the potential price of preprints, but not the potential impact of this price on new printers or their perception of fairness.
+* The statement introduces a new concept ("unfair") that is not mentioned or implied in the context.
+* The context does not provide any information about the current prices or the prices that new printers are expecting, which makes it difficult to determine if the prices are unfair or not.<|eot_id|>

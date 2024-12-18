@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: have that well and it doesn't seem like very many people uh are really i mean there's a lot of people that are on death row but there's not very many people that actually um do get killed 
+Statement: Most people on death row end up living out their lives awaiting execution. 
+Answer: [/INST] 1. The statement contradicts the context as it suggests a high number of people on death row live out their lives, while the context indicates a low number of executions.
+2. The statement is false because it implies the majority of people on death row are not executed, but the context states there are many people on death row and a low number who get killed.
+3. The statement is incorrect as it suggests most people on death row do not face execution, contradicting the context that indicates otherwise.
+4. The statement is untrue because it asserts that a large portion of people on death row do not get killed, which is in contrast to the context.
+5. The statement is not accurate because it claims that the majority of inmates on death row do not face execution, while the context implies that many do.
+6. The statement is factually wrong because it indicates that most people on death row will not be executed, while the context states that there are many people on death row and a low number who actually get killed.
+7. The statement is inconsistent with the context, which states that there are many people on death row but not many executions, implying that the statement's claim of most people living

@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: AC Green's pretty good 
+Statement: AC Green is also a solid player. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* "Pretty good" is a positive evaluation, and "solid player" is also a positive evaluation, implying a similar level of competence.
+* "Pretty good" suggests a certain level of skill or ability, and "solid player" reinforces this idea.
+* The phrase "pretty good" is a hedge, implying that AC Green is more than just average, and "solid player" confirms this assessment.
+* The context sets a positive tone, and the statement continues this tone by using a similar phrase with a similar meaning.
+* "Pretty good" is a vague phrase, and "solid player" provides a more specific and concrete description that is consistent with the initial evaluation.
+* The two phrases are synonymous, with "pretty good" being a more casual or colloquial expression, and "solid player" being a more formal or technical description.<|eot_id|>

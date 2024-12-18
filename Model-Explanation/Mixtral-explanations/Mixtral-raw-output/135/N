@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Tommy realized perfectly that in his own wits lay the only chance of escape, and behind his casual manner he was racking his brains furiously. 
+Statement: He'd been stuck for hours, starting to feel doubt crawl into his mind. 
+Answer: [/INST] 1. The context doesn't specify how long ago Tommy started trying to escape, so it's unclear if the hours he's been stuck refer to the same time period as the statement.
+2. The statement could be referring to a different time period than the context, where Tommy was feeling doubt earlier but now is feeling more confident.
+3. The statement could be referring to a different feeling of doubt than the one implied in the context, such as a general lack of confidence rather than a specific feeling of being stuck.
+4. The context doesn't specify the cause of Tommy's doubt, so it's unclear if it's related to his wits or his chance of escape.
+5. The statement doesn't specify the cause of Tommy's doubt, so it's unclear if it's related to his wits or his chance of escape.
+6. The context and statement use different language to describe Tommy's mental state, making it difficult to determine if they are referring to the same thing.
+7. The context and statement may be describing different aspects of Tommy's mental state, making it difficult to determine if they are in conflict or not.
+8. The context and

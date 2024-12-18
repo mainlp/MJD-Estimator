@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: So unlike people who are fortunate enough to be able to afford attorneys and can go to another lawyer, our clients are simply lost in the legal system if they cannot get access to it from us. 
+Statement: Our clients can barely afford our legal assistance. 
+Answer: [/INST] 1. Our clients' financial situation is precarious, making it difficult for them to afford our legal assistance.
+2. The cost of our legal assistance is a significant burden for our clients.
+3. Our clients barely have enough resources to pay for our legal services.
+4. Our clients' financial constraints make it challenging for them to access legal assistance from us.
+5. The financial demand of our legal services is almost too much for our clients to handle.
+6. Our clients' economic situation is such that they can barely afford our legal help.
+7. Our clients' financial resources are stretched thin, making it difficult for them to pay for our legal assistance.
+8. Our clients' financial situation is barely sufficient to cover the cost of our legal services.
+9. Our clients' economic situation is barely adequate to meet the expenses of our legal assistance.
+10. Our clients' financial means are barely enough to pay for our legal aid.</s>

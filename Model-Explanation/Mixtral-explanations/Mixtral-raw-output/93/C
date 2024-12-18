@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: isn't it i can remember i've only been here eight years but i can remember coming to work from i used to live in Wylie and i could see downtown Dallas 
+Statement: Downtown Dallas was a short drive from where I lived in Wylie. 
+Answer: [/INST] 1. The speaker lived in a different location in Wylie, not close to downtown Dallas.
+2. The speaker could not drive directly from their home in Wylie to downtown Dallas.
+3. The speaker took a long time to drive from their home in Wylie to downtown Dallas.
+4. The speaker never drove to downtown Dallas while they lived in Wylie.
+5. The speaker's memory is incorrect, and they did not live in Wylie eight years ago.
+6. The speaker's memory is incorrect, and they did not have a clear view of downtown Dallas from their previous home in Wylie.
+7. The speaker's statement is a hyperbole, and they did not mean it literally.
+8. The speaker's statement is a figure of speech, and they did not intend to convey a literal meaning.
+9. The speaker's statement is a joke or sarcasm, and they did not mean it seriously.
+10. The speaker's statement is a lie or untruth.</s>

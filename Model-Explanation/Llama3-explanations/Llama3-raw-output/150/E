@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: So unlike people who are fortunate enough to be able to afford attorneys and can go to another lawyer, our clients are simply lost in the legal system if they cannot get access to it from us. 
+Statement: Our clients can barely afford our legal assistance. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true:
+
+* The context implies that the clients cannot afford attorneys, suggesting that they have limited financial resources, which makes it likely that they can barely afford the legal assistance provided.
+* The clients are described as being "lost in the legal system" if they cannot access legal assistance from the speaker's organization, implying that they are not financially capable of seeking help elsewhere, and therefore can barely afford the assistance.
+* The contrast with people who are "fortunate enough to be able to afford attorneys" suggests that the speaker's clients are not in a similar financial situation, and therefore can barely afford legal assistance.
+* The emphasis on the clients' reliance on the speaker's organization for access to the legal system implies that they may not have the financial means to seek legal help elsewhere, and therefore can barely afford the assistance provided.<|eot_id|>

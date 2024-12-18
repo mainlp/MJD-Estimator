@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: yes well yeah i am um actually actually i think that i at the higher level education i don't think there's so much of a problem there it's pretty much funded well there are small colleges that i'm sure are struggling 
+Statement: Small colleges usually have trouble with funding and resources. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context mentions "small colleges that I'm sure are struggling", which implies that small colleges do have problems, but it's not explicitly stated that the problem is with funding and resources.
+* The context also mentions that "higher level education" is "pretty much funded well", which could imply that small colleges might not be part of this "higher level education" and therefore might have funding issues, but this is not explicitly stated.
+* The context does not provide enough information to determine the extent of the funding problems of small colleges, so it's unclear if they "usually" have trouble with funding and resources.
+* The context is focused on the speaker's opinion about the funding situation in higher education, and the statement is a general claim that might not be directly related to the speaker's opinion.
+* The context does not provide a clear definition of "small colleges", which could affect the interpretation of the statement.
+* The context does not provide enough information to determine if the speaker's statement is based on personal experience, general knowledge, or hearsay, which could affect the confidence in the statement.<|eot_id|>

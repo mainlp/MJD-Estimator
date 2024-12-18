@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: So unlike people who are fortunate enough to be able to afford attorneys and can go to another lawyer, our clients are simply lost in the legal system if they cannot get access to it from us. 
+Statement: Our clients can barely afford our legal assistance. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions that clients cannot afford attorneys in general, but not specifically that they cannot afford the speaker's legal assistance.
+* The context highlights the importance of access to legal assistance, but does not provide explicit information about the clients' ability to pay for it.
+* The context contrasts the clients with people who can afford attorneys, implying that the clients may not be able to afford attorneys, but it does not directly state that they can barely afford the speaker's legal assistance.
+* The context focuses on the clients' vulnerability in the legal system, rather than their financial situation in relation to the speaker's services.
+* The statement assumes a specific financial situation (barely affording), which is not explicitly supported by the context.
+* The context does not provide enough information to determine the clients' financial situation in relation to the speaker's legal assistance.<|eot_id|>

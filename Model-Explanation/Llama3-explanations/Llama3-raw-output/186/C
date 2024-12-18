@@ -1,0 +1,10 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The door opened and Severn stepped out. 
+Statement: They were waiting for someone to open the door for them. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The door has already been opened by Severn, so they didn't need someone to open it for them.
+* Severn stepped out, implying they were already on the other side of the door, so they wouldn't be waiting for someone to open it for them.
+* The context suggests Severn was the one who opened the door, not someone else, so they didn't need to wait for someone to open it.<|eot_id|>

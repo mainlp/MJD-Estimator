@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The almost midtown Massabielle quarter (faubourg de Massabielle), is sometimes described as the most picturesque in the city. 
+Statement: The Massabielle quarter is a very touristy place. 
+Answer: [/INST] 1. The Massabielle quarter receives few tourists.
+2. The Massabielle quarter is not visited by tourists.
+3. Tourists are rarely seen in the Massabielle quarter.
+4. The Massabielle quarter is not known for its tourist attractions.
+5. The Massabielle quarter is not a popular destination for tourists.
+6. The Massabielle quarter is not commercialized for tourism.
+7. The Massabielle quarter does not have tourist shops or restaurants.
+8. The Massabielle quarter is not associated with tourist activities.
+9. The Massabielle quarter is not crowded with tourists.
+10. The Massabielle quarter is not a typical tourist spot.</s>

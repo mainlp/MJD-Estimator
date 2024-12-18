@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: A button on the Chatterbox page will make this easy, so please do join in. 
+Statement: They wanted to make the site very user friendly. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The presence of a button on the Chatterbox page implies that the designers aimed to simplify user interaction.
+* The button's purpose is to make something "easy", which suggests a focus on user convenience.
+* The phrase "please do join in" indicates an intention to encourage user participation, which is facilitated by a user-friendly design.
+* The overall tone of the context is inviting and encouraging, implying that the site's creators prioritized usability and accessibility.<|eot_id|>

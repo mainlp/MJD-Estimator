@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The newspaper publishes just one letter a week from a reader, always with an editorial riposte at the bottom. 
+Statement: There are many letters submitted each week, but only one is chosen. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not explicitly state the number of letters submitted each week, but the statement implies it.
+* The context only mentions the publication of one letter, not the number of submissions.
+* The statement's claim about many letters being submitted is not contradicted or supported by the context.
+* The context focuses on the publication process, not the submission process.
+* The statement's information about the number of submissions is outside the scope of the context.
+* The context does not provide enough information to determine the truth value of the statement.<|eot_id|>

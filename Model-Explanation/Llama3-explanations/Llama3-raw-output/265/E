@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: All were prominent nationally known organizations. 
+Statement: The only identified organizations were well-known. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The context mentions "all" organizations, implying that every organization mentioned is nationally known, which means they are well-known.
+* The phrase "nationally known" in the context is a stronger condition than "well-known", so if an organization is nationally known, it is also well-known.
+* The context does not provide any information about unidentified organizations, so the statement only talks about the identified ones, which are well-known.
+* The use of "only" in the statement implies that there are no other organizations identified besides the well-known ones.
+* The statement is a subset of the context, as it only talks about the identified organizations, which are a part of the "all" organizations mentioned in the context.<|eot_id|>

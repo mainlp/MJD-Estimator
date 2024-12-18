@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Larger ski resorts are 90 minutes away. 
+Statement: The largest resort is actually 100 minutes away. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only provides information about larger ski resorts, but not specifically about the largest resort.
+* The context does not provide a clear upper bound for the distance of larger ski resorts.
+* The statement provides new information that is not contradictory to the context, but rather provides a specific detail about the largest resort.
+* The context does not imply that the largest resort is within the 90-minute range.
+* The statement does not entail a clear logical consequence that can be determined as true or false based on the context.
+* The context and statement are not mutually exclusive, but rather provide complementary information.
+* There is no clear contradiction or entailment between the context and statement, making it difficult to determine a definitive true or false label.<|eot_id|>

@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: We did not study the reasons for these deviations specifically, but they likely result from the context in which federal CIOs operate. 
+Statement: The Context in which federal CIOs operate is no different from other CIOs. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is NOT true (contradiction):
+
+* The context in which federal CIOs operate is unique to federal agencies.
+* Federal CIOs face distinct challenges or regulations not applicable to other CIOs.
+* The operating environment of federal CIOs is more complex or restrictive than that of other CIOs.
+* Federal CIOs have different priorities, responsibilities, or stakeholders than other CIOs.
+* The context in which federal CIOs operate is influenced by government-specific factors not present in other organizations.<|eot_id|>

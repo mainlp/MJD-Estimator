@@ -1,0 +1,17 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: He was crying like his mother had just walloped him. 
+Statement: He was crying like his mother hit him with a spoon. 
+Answer: [/INST] 1. His mother used a different object to hit him, not a spoon.
+2. His mother didn't hit him at all.
+3. His mother didn't hit him with a spoon specifically.
+4. The crying was not due to being hit with a spoon.
+5. The crying was not of the same intensity or emotion as when he was hit with a spoon.
+6. The crying was not for the same duration as when he was hit with a spoon.
+7. The crying was not in the same manner as when he was hit with a spoon.
+8. The crying was not in response to being hit with a spoon.
+9. The crying was not caused by the same reason as when he was hit with a spoon.
+10. The crying was not at the same time as when he was hit with a spoon.
+11. The crying was not in the same place as when he was hit with a spoon.
+12. The crying was not due to the same type of action as when he was hit with a spoon.
+13. The crying was not in the same context as when he was hit with a spoon.
+14. The crying was not in the

@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The important thing is to realize that it's way past time to move it. 
+Statement: It has not been moved yet in the past. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The phrase "way past time" implies that the expected time for moving it has already passed, suggesting that it has not been moved yet.
+* The use of "it's time to move it" implies that the action of moving has not been taken yet, otherwise, it would not be necessary to emphasize the need to move it.
+* The context implies a sense of urgency or delay, which would not be necessary if the action of moving had already been taken in the past.
+* The phrase "it's way past time" creates a contrast between the current state (not moved) and the expected state (moved), highlighting that the action has not been taken yet.<|eot_id|>

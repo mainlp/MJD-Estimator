@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Boca da Corrida Encumeada (moderate; 5 hours): views of Curral das Freiras and the valley of Ribeiro do Poco. 
+Statement: Boca da Corrida Encumeada is a moderate text that takes 5 hours to complete. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context describes a hike, not a text, so the statement's meaning is unclear.
+* "Moderate" in the context refers to the difficulty of the hike, not the complexity of a text.
+* The time "5 hours" in the context is the duration of the hike, not the time it takes to complete a text.
+* The statement is using terms from the context, but applying them to a completely different concept (text instead of hike).
+* There is no information in the context about a text, making it impossible to determine the truth of the statement.
+* The context does not provide any information about the readability or complexity of a text, even if it existed.<|eot_id|>

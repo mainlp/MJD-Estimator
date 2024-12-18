@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Everybody has this quote from NBA commissioner David  You cannot strike your boss and still hold your job--unless you play in the NBA. 
+Statement: NBA commissioner said he hates NBA players. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only provides a quote from the NBA commissioner, but it does not mention his personal feelings or opinions about NBA players.
+* The quote is humorous and does not convey a negative sentiment towards NBA players.
+* There is no evidence in the context to suggest that the NBA commissioner hates NBA players.
+* The context does not provide enough information to determine the NBA commissioner's personal feelings or opinions about NBA players.
+* The quote is focused on the unique nature of the NBA, rather than expressing a personal opinion about the players.
+* The tone of the quote is lighthearted and playful, rather than hateful or negative.
+* The context does not contain any information that would contradict or support the statement, making it impossible to determine its truth value.<|eot_id|>

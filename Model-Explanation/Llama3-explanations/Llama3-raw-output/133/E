@@ -1,0 +1,8 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: It will be held in the Maryland woods, and the telecast will consist of jittery footage of the contestants' slow descent into madness as they are systematically stalked and disappeared/disqualified by Bob Barker. 
+Statement: The show will be set in the woods north of Boston. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is false, as the context explicitly states the show will be held in the Maryland woods, not the woods north of Boston.<|eot_id|>

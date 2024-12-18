@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The living is not equal to the Ritz, he observed with a sigh. 
+Statement: The living is nothing compared to the glamour of the Ritz, he said sadly. 
+Answer: [/INST] 1. The speaker expressed a comparison between the living situation and the Ritz, indicating that the living is inferior.
+2. The speaker expressed a negative opinion about the living, highlighting the glamour and superiority of the Ritz.
+3. The speaker's sigh in the context implies his dissatisfaction with the living, which is further explained by his statement about the Ritz's glamour.
+4. The speaker suggested that the Ritz has a much higher level of luxury and elegance than the living.
+5. The speaker's observation in the context and his statement both convey the same idea: the living is significantly less impressive than the Ritz.</s>

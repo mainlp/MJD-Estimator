@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Endorphins were flowing. 
+Statement: My endorphins were flowing. 
+Answer: [/INST] 1. Different time frame: The speaker in the statement could be referring to a different time frame than the one described in the context.
+2. Different individuals: The speaker in the statement might not be the same person as the one described in the context.
+3. Metaphorical usage: Endorphins flowing could be used metaphorically in the context, while the speaker in the statement uses it literally.
+4. Lack of contextual information: The context might not provide enough information to confirm or deny the statement.
+5. Figurative language: The context might use figurative language, making it unclear if endorphins were actually flowing.
+6. Ambiguity in the statement: The statement itself might be ambiguous, leaving room for different interpretations.
+7. Contradictory evidence: There could be other information in the context that contradicts the statement, making it undetermined.
+8. Implicit negation: The context might implicitly negate the statement, making it neutral.
+9. Lack of shared knowledge: The speaker and the listener might not share the same knowledge about endorphins, making the statement undetermined.
+10. Contextual irre

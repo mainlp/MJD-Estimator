@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: San'doro didn't make it sound hypothetical, thought Jon. 
+Statement: San'doro's words were hollow, and Jon knew the truth of that immediately. 
+Answer: [/INST] 1. San'doro's words were not hypothetical, but they were not hollow either, instead they were sincere and truthful.
+2. San'doro's words were not hypothetical, but Jon misunderstood them, leading him to believe they were hollow.
+3. San'doro's words were not hypothetical, but Jon did not know the truth of their hollowness right away.
+4. San'doro's words were not hypothetical, but they were not hollow, instead they were meaningful and important.
+5. San'doro's words were not hypothetical, but Jon did not immediately recognize the truth of their hollowness.
+6. San'doro's words were not hypothetical, but they were not hollow, instead they were well-intentioned.
+7. San'doro's words were not hypothetical, but Jon did not immediately realize the truth of their meaning.
+8. San'doro's words were not hypothetical, but they were not hollow, instead they were genuine.
+9. San'doro'

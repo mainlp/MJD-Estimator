@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: You see, he said sadly, "you have no instincts." 
+Statement: He said that I had no willpower. 
+Answer: [/INST] 1. The person complimented the subject's willpower.
+2. The person acknowledged the subject's willpower but expressed concern about something else.
+3. The person mistook the subject's actions for someone else's.
+4. The person was talking about a different quality, not willpower.
+5. The person was being sarcastic or ironic.
+6. The subject misunderstood what the person said.
+7. The statement was made up and did not actually occur.
+8. The person was referring to a specific instance where the subject lacked willpower, not a general statement.
+9. The person was quoting someone else who said the subject had no willpower.
+10. The person was using a metaphor or idiom that was misunderstood.</s>

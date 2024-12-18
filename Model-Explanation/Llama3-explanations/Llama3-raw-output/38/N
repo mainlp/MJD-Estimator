@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: 'Would you like some tea?' 
+Statement: DO you want a cup of tea? 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context and statement use different verb forms ("Would" vs. "Do"), making it unclear if they are equivalent in meaning.
+* The context uses a more polite and informal phrase ("Would you like"), while the statement uses a more direct and formal phrase ("Do you want"), making it difficult to determine their relationship.
+* The context mentions "some tea", which is ambiguous and could refer to a quantity or a type of tea, whereas the statement mentions "a cup of tea", which is more specific, making it unclear if they are referring to the same thing.
+* The context is a question, while the statement is a rephrased question, making it unclear if they have the same implications or connotations.
+* The context and statement have different tones and levels of formality, making it difficult to determine if they are equivalent in meaning.
+* The statement is a more explicit and direct question, whereas the context is a more polite and indirect offer, making it unclear if they are equivalent in meaning.<|eot_id|>

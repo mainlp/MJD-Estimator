@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: It can entail prospective and retrospective designs and it permits synthesis of many individual case studies undertaken at different times and in different sites. 
+Statement: It can entail prospective and retrospective designs for system redesigns. 
+Answer: [/INST] 1. The concept cannot be applied to system redesigns.
+2. It can only involve synthesis of case studies for system redesigns, not prospective and retrospective designs.
+3. It can only be used for individual case studies, not multiple case studies over different times and sites.
+4. It cannot be used for both prospective and retrospective designs simultaneously.
+5. The application is limited to prospective designs, and does not include retrospective designs.
+6. The concept is only applicable to system redesigns conducted at a single time and site.</s>

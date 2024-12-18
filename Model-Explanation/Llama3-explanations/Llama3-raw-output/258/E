@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: 'You burned down my house.' 
+Statement: 'Even though you tried to burn it down, my house is in perfect state.' 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is sarcastic or ironic, implying the opposite of what is literally said.
+* The speaker is lying or being deceitful about the state of their house.
+* The house was already burned down before the accused person's alleged action.
+* The accused person's attempt to burn down the house was unsuccessful.
+* The house was restored or rebuilt to its original state after the accused person's action.
+* The speaker is using a figure of speech, such as hyperbole, to exaggerate the extent of the damage.
+* The statement is a joke or a playful remark, not meant to be taken literally.
+* The speaker is trying to provoke or annoy the accused person with a contradictory statement.<|eot_id|>

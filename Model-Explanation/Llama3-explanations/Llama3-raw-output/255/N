@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Several of the organizations had professional and administrative staffs that provided analytical capabilities and facilitated their members' participation in the organization's activities. 
+Statement: Organizations had mandatory bonding exercises for their members. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not mention bonding exercises at all, so it cannot be inferred that they were mandatory or not.
+* The context only talks about professional and administrative staffs, but does not provide information about the activities or exercises they organized for members.
+* There is no evidence in the context to suggest that bonding exercises were a requirement for members.
+* The context focuses on the staff's role in facilitating participation, but does not imply that participation was mandatory or involved specific activities like bonding exercises.
+* The context does not provide enough information to determine whether bonding exercises were even present, let alone mandatory.
+* The statement is making a claim about a specific type of activity (bonding exercises), which is not mentioned in the context, so it cannot be determined to be true or false.<|eot_id|>

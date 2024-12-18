@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: We still espouse a God-given right of human beings to use the environment for their benefit, says Barrett Duke of the Southern Baptists. 
+Statement: Human beings are entitled to the environment. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* "God-given right" implies a sense of entitlement or permission granted by a higher authority.
+* The phrase "to use the environment for their benefit" suggests that humans have a legitimate claim to utilize the environment in a way that advantages them.
+* The context implies that humans have a special status or privilege that allows them to exploit the environment for their own gain.
+* The statement "we still espouse" indicates that this belief is actively held and promoted, implying that humans are indeed entitled to the environment.
+* The use of "right" in "God-given right" connotes a sense of moral or legal justification for human beings to utilize the environment as they see fit.<|eot_id|>

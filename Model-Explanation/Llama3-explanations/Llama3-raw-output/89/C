@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: It started with The Wild Bunch : We sexualized violence, we made it beautiful. 
+Statement: Violence is now look at in the positive due to The Wild Bunch. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement says "now", implying a current or ongoing situation, but the context only talks about the past ("it started with..."), suggesting that the effect may not be ongoing.
+* The context says "we sexualized violence, we made it beautiful", which implies a negative or problematic connotation, whereas the statement says "look at in the positive", which implies a positive connotation.
+* The context does not explicitly state that The Wild Bunch caused violence to be viewed positively, only that it started a trend of sexualizing and beautifying violence, which is not the same thing.
+* The statement is too absolute, implying that everyone or society as a whole views violence positively due to The Wild Bunch, whereas the context only suggests a specific trend or influence.
+* The context implies a critique or negative commentary on the trend started by The Wild Bunch, whereas the statement presents it as a positive development.<|eot_id|>

@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Clearly, GAO needs assistance to meet its looming human capital challenges. 
+Statement: GAO will soon be suffering from a shortage of qualified personnel. 
+Answer: [/INST] 1. The context discusses "human capital challenges" but does not specify what those challenges are.
+2. The context states that GAO needs assistance, but it does not specify the type of assistance needed.
+3. The statement suggests a shortage of qualified personnel, but the context does not confirm this.
+4. The context may be referring to challenges other than a shortage of personnel.
+5. The context may be referring to challenges related to the skills or experience of the personnel, not just their quantity.
+6. The context does not indicate the severity or imminence of the "looming" challenges.
+7. The statement assumes that the challenges are related to a shortage of qualified personnel, but this may not be the case.
+8. The context may be referring to challenges related to technology or automation, not just human capital.
+9. The statement is a stronger claim than the context, as it asserts a "shortage" while the context only implies a "challenge".
+10. The context may be referring to challenges related to employee morale, turnover, or compensation, not just a shortage of personnel.</s>

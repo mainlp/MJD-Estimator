@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: and uh really they're about it they've got a guy named Herb Williams that that i guess sort of was supposed to take the place of uh Tarpley but he uh he just doesn't have the offensive skills 
+Statement: Tarpley is a better offensive player that Herb Williams. 
+Answer: [/INST] 1. Herb Williams lacks the offensive skills that Tarpley possesses.
+2. Herb Williams was meant to replace Tarpley but isn't as good offensively.
+3. Tarpley's offensive skills surpass those of Herb Williams.
+4. The individual making the statement considers Tarpley to be a better offensive player than Herb Williams.
+5. The statement implies that Tarpley has superior offensive abilities compared to Herb Williams.</s>

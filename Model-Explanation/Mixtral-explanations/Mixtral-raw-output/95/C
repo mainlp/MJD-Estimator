@@ -1,0 +1,16 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Exhibit 3 presents total national emissions of NOx and SO2 from all sectors, including power. 
+Statement: In Exhibit 3 there are the total regional emissions od NOx and SO2 from all sectors. 
+Answer: [/INST] 1. The data in Exhibit 3 is not divided by region.
+2. The exhibit only includes national emissions, not regional.
+3. The exhibit includes emissions from all sectors and power, but not just from the power sector.
+4. The exhibit does not include any other pollutants other than NOx and SO2.
+5. The exhibit does not include emissions from other countries, only the nation in question.
+6. The exhibit does not include historical emissions, only current or recent data.
+7. The exhibit does not include projected emissions for the future.
+8. The exhibit does not include emissions from natural sources, only man-made emissions.
+9. The exhibit does not include emissions from transportation sector.
+10. The exhibit does not include emissions from industrial processes.
+11. The exhibit does not include emissions from residential and commercial sectors.
+12. The exhibit does not include emissions from agricultural activities.
+13. The exhibit does not include emissions from waste management.</s>

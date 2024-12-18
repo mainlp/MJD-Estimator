@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: We have done that spectacularly. 
+Statement: Spectacular results was the only way to describe the impact of our past work. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions "that" without specifying what "that" refers to, whereas the statement assumes it refers to "our past work".
+* The context uses "spectacularly" to describe the manner in which "that" was done, whereas the statement uses "spectacular" to describe the results.
+* The context implies a sense of accomplishment or success, but does not necessarily imply that the results were the only way to describe the impact.
+* The statement is too absolute with "the only way", whereas the context is more casual and conversational.
+* The context does not mention "results" or "impact", whereas the statement assumes they are relevant and significant.<|eot_id|>

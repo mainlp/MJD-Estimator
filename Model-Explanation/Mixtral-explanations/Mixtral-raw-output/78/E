@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: He's chosen Meg Ryan. 
+Statement: A possible selection would be Meg Ryan or Jon Doe. 
+Answer: [/INST] 1. The context specifies that he has already chosen Meg Ryan, making her a selection.
+2. The statement includes Meg Ryan as a possible selection, which is true according to the context.
+3. The statement's other possible selection, Jon Doe, is not explicitly ruled out by the context.
+4. No information in the context contradicts the possibility of Meg Ryan being a selection.
+5. The statement's use of "would be" can be interpreted as a hypothetical scenario that is true in this context.</s>

@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Students of human misery can savor its underlying sadness and futility. 
+Statement: Students of human misery will be delighted to see how sad it truly is. 
+Answer: [/INST] 1. Contradictory emotions: The statement suggests that students of human misery will be delighted, which is the opposite of savoring the sadness and futility.
+2. Delight implies positive emotion: Delight is a positive emotion, contradicting the underlying sadness in the context.
+3. Savoring implies appreciation: Savoring suggests a certain level of appreciation, whereas the statement implies a negative emotion of delighting in the misery.
+4. Misinterpretation of the word "savor": The statement assumes that savoring means the same as delighting, which is not the case.
+5. Contradiction in experiencing misery: The context suggests a deep, empathetic understanding of human misery, while the statement implies a superficial, pleasure-seeking interest in it.</s>

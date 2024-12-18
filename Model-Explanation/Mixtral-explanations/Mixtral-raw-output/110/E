@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Extremely limited exceptions to the authority are established in 31 U.S.C. 
+Statement: They were trying to eliminate all exceptions. 
+Answer: [/INST] 1. The term "extremely limited" implies very few exceptions exist.
+2. The statement aims to "eliminate all exceptions," which includes the few existing ones.
+3. The context establishes these exceptions in 31 U.S.C., indicating that is the focus of the exception elimination.
+4. Therefore, if they were trying to eliminate all exceptions in 31 U.S.C., the statement is true.</s>

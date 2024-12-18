@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Managing better requires that agencies have, and rely upon, sound financial and program information. 
+Statement: Agencies that rely on information based on unsound financial information will have management problems. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* If agencies need sound financial information to manage better, then agencies without it will not manage better.
+* Relying on unsound financial information implies a lack of sound financial information, which is necessary for managing better.
+* Managing better requires sound financial information, so its absence will lead to management problems.
+* The absence of sound financial information will hinder an agency's ability to manage, resulting in management problems.
+* If sound financial information is necessary for managing better, then its opposite (unsound financial information) will lead to the opposite outcome (management problems).
+* The context implies that sound financial information is a prerequisite for good management, so its absence will lead to management problems.<|eot_id|>

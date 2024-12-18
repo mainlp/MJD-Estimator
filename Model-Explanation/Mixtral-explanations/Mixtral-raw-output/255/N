@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Several of the organizations had professional and administrative staffs that provided analytical capabilities and facilitated their members' participation in the organization's activities. 
+Statement: Organizations had mandatory bonding exercises for their members. 
+Answer: [/INST] 1. The context does not specify if organizations require members to participate in bonding exercises.
+2. The presence of professional and administrative staff does not imply the existence of bonding exercises.
+3. The analytical capabilities mentioned in the context may not be related to bonding exercises.
+4. The context does not indicate if the organizations' activities include bonding exercises.
+5. The statement could be true or false, and the given context does not provide enough information to make a determination.</s>

@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: and they just put instructors out there and you you sign up for instruction and they just give you an arm band and if you see an instructor who's not doing anything you just tap him on the shoulder and ask him questions and they'll show you things 
+Statement: The instructors are marked with armbands, and anytime you want to know anything, you just find one of them.  
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+1. Instructors wear armbands to identify themselves.
+2. Armbands are used to distinguish instructors from others.
+3. The presence of an armband indicates that the person is an instructor.
+4. If someone is wearing an armband, they are available to answer questions.
+5. You can approach an instructor wearing an armband to ask questions.
+6. Instructors are accessible and willing to help when wearing armbands.
+7. The armband serves as a signal that the instructor is available for questions.
+8. If you need information, you can find an instructor by looking for someone with an armband.<|eot_id|>

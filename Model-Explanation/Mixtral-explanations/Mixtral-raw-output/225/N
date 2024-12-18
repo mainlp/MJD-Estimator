@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Tuppence rose. 
+Statement: Tuppence stood up. 
+Answer: [/INST] 1. The context does not specify that Tuppence is a creature with the ability to stand up.
+2. The context does not provide information about Tuppence's current position or state, so it's unclear if standing up would result in a change.
+3. The context does not indicate whether Tuppence is an object or a living being.
+4. The context does not provide information about the surface or ground where Tuppence is located, so it's unclear if there is even a possibility for Tuppence to stand up.
+5. The context does not specify if "rose" refers to a physical movement or a change in state, making it unclear if standing up is a related action.</s>

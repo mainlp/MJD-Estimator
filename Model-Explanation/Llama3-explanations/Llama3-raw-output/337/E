@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: So far, however, the number of mail pieces lost to alternative bill-paying methods is too small to have any material impact on First-Class volume. 
+Statement: Occasionally mail is lost but not often 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The number of mail pieces lost is small, implying that mail is not often lost.
+* The impact on First-Class volume is not material, suggesting that the frequency of lost mail is not significant.
+* The context focuses on the effect of alternative bill-paying methods, implying that mail loss is an occasional exception rather than a common occurrence.
+* The phrase "too small" emphasizes the infrequency of lost mail.
+* The statement "not often" is a direct inference from the context, which implies that mail loss is an occasional event.<|eot_id|>

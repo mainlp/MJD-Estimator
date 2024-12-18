@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: right oh they've really done uh good job of keeping everybody informed of what's going on sometimes i've wondered if it wasn't almost more than we needed to know 
+Statement: I think I have shared too much information with everyone, so next year I will share less.  
+Answer: [/INST] 1. The statement doesn't specify whether the information shared is the same as what the "they" in the context refers to.
+2. The context is about being informed of "what's going on," while the statement is about sharing "too much information," which could refer to different types of information.
+3. The statement could be referring to a different group of people than the "everybody" in the context.
+4. The speaker in the context might not be the same as the one in the statement, so the decision to share less information next year might not apply to the group being discussed in the context.
+5. The statement is about sharing less information "next year," while the context is about the present, so it's unclear if the change has already been made or not.
+6. The context mentions that sometimes the information shared was "almost more than we needed to know," but it doesn't specify if this was a negative or positive experience, so it's unclear if sharing less information would be a good or bad thing.</s>

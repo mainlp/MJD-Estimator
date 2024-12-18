@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: When he's ready for a major strike, how many innocents do you suppose are going to suffer? To quote one of your contemporaries; 'The needs of the many outweigh the needs of the few.' ' 
+Statement: He won't care how many innocent people will suffer. 
+Answer: [/INST] 1. The person prioritizes the needs of the many over the needs of the few.
+2. The person is concerned about the number of innocent people who will suffer.
+3. The person's major strike will not harm any innocent people.
+4. The person's actions will be guided by the principle of considering the needs of the majority.
+5. The person's readiness for a major strike is not associated with a disregard for innocent lives.
+6. The person's readiness for a major strike is not indicative of a lack of compassion for the innocent.
+7. The person's readiness for a major strike is not synonymous with a willingness to cause harm to innocent people.
+8. The person's readiness for a major strike is not motivated by a desire to cause suffering to the innocent.
+9. The person's readiness for a major strike is not a reflection of a lack of empathy for the innocent.
+10. The person's readiness for a major strike is not a sign of indifference towards the suffering of innocent people.</s>

@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: It will be held in the Maryland woods, and the telecast will consist of jittery footage of the contestants' slow descent into madness as they are systematically stalked and disappeared/disqualified by Bob Barker. 
+Statement: The show will be set in the woods north of Boston. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions "Maryland woods", but the statement claims "woods north of Boston", which is a different location.
+* There is no information in the context that suggests the Maryland woods are north of Boston.
+* The context does not provide any geographical information that would allow us to determine the relationship between Maryland and Boston.
+* The statement makes a specific claim about the location that is not supported or contradicted by the context.
+* The context focuses on the format and tone of the show, but does not provide enough information to determine the exact location.<|eot_id|>

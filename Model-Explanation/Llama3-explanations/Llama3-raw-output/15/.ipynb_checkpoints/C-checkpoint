@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Flying at a discount should be more dangerous. 
+Statement: It's totally safe to take advantage of discounted flying. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context expresses a negative sentiment about discounted flying, but the statement asserts the opposite, making it unclear which perspective is correct.
+* The context implies a potential risk or danger, while the statement claims safety, creating a contradiction that cannot be resolved without additional information.
+* The context focuses on the discount aspect, whereas the statement emphasizes the safety aspect, making it difficult to determine the relationship between the two.
+* The context suggests a causal link between discounted flying and increased danger, but the statement does not provide evidence to refute or support this claim.
+* The statement's use of "totally safe" is an absolute claim that may not be justified, given the context's implication of potential risks.
+* The context and statement present two opposing views, and without additional context or evidence, it is impossible to determine which one is correct.<|eot_id|>

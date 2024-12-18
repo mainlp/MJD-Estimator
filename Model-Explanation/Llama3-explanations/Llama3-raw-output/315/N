@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The good news, however, can be found in reports like this one. 
+Statement: The good news is that the puppy's life was able to be saved. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context does not mention a puppy or its life being saved, so there is no clear connection to the statement.
+* The context mentions "reports like this one" but does not specify what kind of reports or what they contain, making it unclear if the statement is related to the context.
+* The context only mentions "good news" in general, but the statement provides a specific example of good news that may or may not be related to the context.
+* There is no clear entailment or contradiction between the context and the statement, making it difficult to determine their relationship.
+* The context does not provide enough information to determine if the statement is a part of the "reports like this one" or not.
+* The statement could be a separate piece of good news unrelated to the context, making it neutral.<|eot_id|>

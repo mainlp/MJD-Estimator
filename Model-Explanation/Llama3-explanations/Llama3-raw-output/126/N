@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The author began with a set of hunches or hypotheses about what can go wrong in agency management, and what would be evidence supporting-or contradicting-these hypotheses. 
+Statement: The hunches provided by the author weren't realistic as it pertains to agency management. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context does not provide enough information to determine the realism of the author's hunches.
+* The context only mentions the author's hunches, but does not provide any evidence or evaluation of their realism.
+* The context focuses on the author's methodology (forming hypotheses and looking for evidence), but does not provide any conclusion or judgment about the hunches themselves.
+* The statement makes a claim about the realism of the hunches, but the context does not provide any information to support or contradict this claim.
+* The context does not define what "realistic" means in the context of agency management, making it impossible to determine whether the hunches are realistic or not.
+* The context does not provide any information about the author's expertise or qualifications in agency management, which could affect the judgment of the realism of their hunches.<|eot_id|>

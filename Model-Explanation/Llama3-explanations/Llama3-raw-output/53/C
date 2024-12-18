@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Expectations that the ANC would oversee land reform--returning land seized during apartheid's forced migrations--and wealth redistribution have not been met. 
+Statement: The ANC would not be in charge of land reform. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context explicitly states that there were "expectations that the ANC would oversee land reform", implying that the ANC was expected to be in charge of land reform.
+* The phrase "the ANC would oversee land reform" in the context contradicts the statement "The ANC would not be in charge of land reform".
+* The context does not provide any information that suggests the ANC would not be responsible for land reform, but rather the opposite.
+* The statement is a direct negation of the expectation mentioned in the context.<|eot_id|>

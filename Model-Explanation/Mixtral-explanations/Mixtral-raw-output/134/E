@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: It has served as a fortress for the Gallo-Romans, the Visigoths, Franks, and medieval French (you can see the layers of their masonry in the ramparts). 
+Statement: The fortress was built by the medieval French in 1173. 
+Answer: [/INST] 1. The medieval French occupied the fortress in the 1173 and modified or added to the existing structure, making it "their" building during that time.
+2. The medieval French rebuilt the fortress in 1173 after it was destroyed, so they can be considered the builders of the new structure.
+3. The statement is not necessarily true, as the phrase "was built" could be interpreted as the fortress being constructed for the first time by the medieval French in 1173, but the context suggests that the fortress had already been built and occupied by other groups before this date.</s>

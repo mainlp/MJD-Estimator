@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: trying to keep grass alive during a summer on a piece of ground that big was expensive 
+Statement: The watering and fertilizer, can cost a lot to keep grass alive in the summer months. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is a repetition of the context, not a contradictory statement.
+* The cost referred to in the context is not limited to watering and fertilizer.
+* The cost is not only for keeping grass alive, but also for the size of the piece of ground.
+* The context implies that the cost is high due to the large size of the ground, but the statement does not mention the size.
+* The statement does not provide any new or contradictory information compared to the context.<|eot_id|>

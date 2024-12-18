@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Larger ski resorts are 90 minutes away. 
+Statement: The largest resort is actually 100 minutes away. 
+Answer: [/INST] 1. The largest resort is a ski resort.
+2. The time it takes to reach the largest resort is 100 minutes.
+3. The "largest resort" is considered in the category of "larger ski resorts".
+4. The "larger ski resorts" category includes the largest resort, which is 100 minutes away.
+5. The statement in the context is not strictly accurate, as the largest resort takes longer to reach than stated.
+6. There are ski resorts that are smaller than the largest resort and are also 90 minutes away.
+7. The context implies that all larger ski resorts are 90 minutes away, but the largest resort is an exception to this generalization.</s>

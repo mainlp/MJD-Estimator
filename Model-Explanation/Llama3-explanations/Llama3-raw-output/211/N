@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: well do you know you have a ten limit a ten minute time limit well that's okay and then they come on and tell you and they tell you got five seconds to say good-bye 
+Statement: You get a ten minute time limit, but sometimes you'll be told to end early. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context mentions a 10-minute time limit, but the statement only partially matches this information, without providing enough details to confirm or deny it.
+* The context implies that the 10-minute time limit is not always enforced, as the speaker is told to end early, but the statement does not explicitly contradict or support this implication.
+* The statement is too general and does not provide specific information about the circumstances under which the time limit is enforced or not.
+* The context mentions a 5-second time frame for saying goodbye, which is not mentioned in the statement, making it unclear how the two time frames relate to each other.
+* The tone and intent of the context are not clearly conveyed in the statement, making it difficult to determine the relationship between the two.
+* The statement does not explicitly confirm or deny the existence of a 10-minute time limit, only mentioning that it exists "but" sometimes you'll be told to end early, leaving the relationship between the two unclear.<|eot_id|>

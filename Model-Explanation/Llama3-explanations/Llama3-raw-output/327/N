@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: They won't be killing off George Clooney's character at ER like they did to Jimmy Smits at NYPD. Instead, Dr. Doug Ross is being forced out over the next two episodes because the maverick heartthrob gives an unauthorized painkiller to a terminally ill boy (Thursday, 10 p.m.). 
+Statement: George Clooney will not be getting fired from his TV show. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement only mentions "fired" while the context mentions "forced out", which might be considered different.
+* The context implies that Dr. Doug Ross is leaving the show, but it doesn't explicitly state that George Clooney is leaving the show, only his character.
+* The context provides a reason for Dr. Doug Ross's departure (giving an unauthorized painkiller), but it doesn't explicitly state that George Clooney won't be fired, only that his character won't be killed off.
+* The statement is about George Clooney's job status, while the context is about the storyline of the TV show.
+* The context doesn't provide enough information to determine whether George Clooney's departure is voluntary or not, which could affect the interpretation of "fired".
+* The statement is about the future (will not be getting fired), while the context is about a past or present event (Dr. Doug Ross being forced out).<|eot_id|>

@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: trying to keep grass alive during a summer on a piece of ground that big was expensive 
+Statement: The watering and fertilizer, can cost a lot to keep grass alive in the summer months. 
+Answer: [/INST] 1. The context doesn't specify if watering and fertilizer were the only costs associated with keeping the grass alive.
+2. The statement doesn't indicate whether the costs of watering and fertilizer were fully covered in the context.
+3. The context doesn't provide information about the scale or scope of the piece of ground.
+4. The statement doesn't mention if the watering and fertilizer costs were exclusive to the summer months.
+5. The context doesn't clarify if there were other factors contributing to the cost of keeping the grass alive.
+6. The statement doesn't specify the type or quality of watering and fertilizer used.
+7. The context doesn't indicate if the costs were solely financial or if there were other resources (time, effort, etc.) considered.</s>

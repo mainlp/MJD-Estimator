@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: SSA is also seeking statutory authority for additional tools to recover current overpayments. 
+Statement: SSA wants the authority to recover overpayments made to insurers. 
+Answer: [/INST] 1. The overpayments were not made to insurers but to other entities or individuals.
+2. SSA is not seeking the authority to recover current overpayments, but rather past or future ones.
+3. The authority SSA seeks is not for overpayments, but for a different type of payment issue.
+4. The authority SSA wants is not for recovering overpayments, but for preventing or detecting them.
+5. The overpayments in question are not made through the SSA, but through another agency or organization.
+6. The statement implies that SSA has never had the authority to recover overpayments, which is not necessarily true.
+7. The statement implies that SSA is only seeking the authority to recover overpayments made to insurers, while in reality, they are seeking the authority for a broader range of cases.</s>

@@ -1,0 +1,17 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: No, monsieur. 
+Statement: The speaker is answering no to a question. 
+Answer: [/INST] 1. The speaker is not responding to a question.
+2. The speaker is answering a statement, not a question.
+3. The speaker is saying "no" but not as an answer to a question.
+4. The speaker is answering a question, but the answer is not "no".
+5. The speaker is answering a question, but the answer is "yes" or any other response besides "no".
+6. The speaker is not saying "no", but something that sounds similar.
+7. The speaker is saying "no" to something other than the question.
+8. The speaker is saying "no" to a different question.
+9. The speaker is saying "no" as a joke or sarcastically.
+10. The speaker is saying "no" to a question that was not asked.
+11. The speaker is saying "no" to a question that was asked, but not to the speaker.
+12. The speaker is saying "no" to a question that was asked in a different language.
+13. The speaker is saying "no" to a question that was asked in a way that was not understood.
+14. The speaker is saying "no"

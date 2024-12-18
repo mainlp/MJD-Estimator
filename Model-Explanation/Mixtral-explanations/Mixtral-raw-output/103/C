@@ -1,0 +1,15 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: There are many such at the present time. 
+Statement: There are over two currently. 
+Answer: [/INST] 1. The number of things being referred to is exaggerated in the statement.
+2. The statement is using a range (two to nine, for example) to describe the number of things.
+3. The statement is referring to a different set of things than the context.
+4. The context is referring to a specific type of thing, and the statement is referring to a different type of thing.
+5. The statement is referring to a future time, while the context is referring to the present.
+6. The context is referring to a local or limited scope, and the statement is referring to a global or general scope.
+7. The statement is using a different unit of measurement than the context.
+8. The context is referring to a hypothetical or imaginary situation, while the statement is referring to a real situation.
+9. The statement is a mistake or false.
+10. The context is referring to a specific criteria or condition, and the statement is not meeting that criteria or condition.
+11. The context is referring to a specific perspective or interpretation, and the statement is not consistent with that perspective or interpretation.
+12. The statement is using a different sense or meaning of the word "such

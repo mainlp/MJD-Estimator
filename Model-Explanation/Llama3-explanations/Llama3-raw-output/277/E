@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: I guess history repeats itself, Jane. 
+Statement: I truly think the prior situation shows history repeats itself. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The speaker is rephrasing their initial statement, making it more assertive.
+* The speaker is providing evidence for their claim that history repeats itself.
+* The prior situation is an example of history repeating itself.
+* The speaker believes the prior situation is a demonstration of the concept that history repeats itself.
+* The speaker is reiterating their opinion that the prior situation is an instance of history repeating itself.
+* The speaker is confident that the prior situation illustrates the idea that history repeats itself.<|eot_id|>

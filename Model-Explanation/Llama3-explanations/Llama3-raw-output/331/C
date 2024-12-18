@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Then he is very sure. 
+Statement: He is very sure of himself. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions "he is very sure" without specifying what he is sure about, whereas the statement assumes he is sure of himself.
+* The context does not provide enough information to conclude that his sureness is about himself.
+* The statement makes an unjustified leap from "he is very sure" to "he is very sure of himself".
+* The context could be referring to his sureness about something else, not himself.
+* The statement adds unnecessary information ("of himself") that is not present in the context.<|eot_id|>

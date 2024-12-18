@@ -1,0 +1,10 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: One wag, J., wrote in to ask, Is there a difference between pests and airlines? 
+Statement: J. thinks there is no difference between pests and airlines. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context states that J. asked if there is a difference, implying that J. is unsure or questioning the existence of a difference, rather than being certain that there is no difference.
+* The question itself suggests that J. thinks there might be a difference, or is at least open to the possibility of a difference, which contradicts the statement that J. thinks there is no difference.
+* The tone of the question, "Is there a difference...", is inquiring and uncertain, implying that J. does not have a definitive opinion that there is no difference.<|eot_id|>

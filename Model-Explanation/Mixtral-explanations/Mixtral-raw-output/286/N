@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: and they just put instructors out there and you you sign up for instruction and they just give you an arm band and if you see an instructor who's not doing anything you just tap him on the shoulder and ask him questions and they'll show you things 
+Statement: The instructors are marked with armbands, and anytime you want to know anything, you just find one of them.  
+Answer: [/INST] 1. The context does not specify that only instructors wear arm bands.
+2. The statement implies that any instructor can be approached, but the context may suggest that only available instructors answer questions.
+3. The context indicates that instructors can be identified by an arm band, but it does not mention if this is the only way to identify them.
+4. The statement suggests that instructors will always be available to answer questions, but the context may imply that they are only available if they are not currently engaged in other activities.
+5. The context does not specify if the arm band is easily visible or if it is obscured by clothing or other factors.
+6. The statement assumes that the instructors are always wearing the arm band, but the context may suggest that this is not always the case.
+7. The context does not specify if there is only one instructor on duty at a time or if there are multiple instructors, some of whom may not be wearing the arm band.
+8. The statement assumes that the instructors are always willing and able to answer questions, but the context may suggest that this is not always the case.
+9. The context does not specify if the instructors are responsible for making sure they

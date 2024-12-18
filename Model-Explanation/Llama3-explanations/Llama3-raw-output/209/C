@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: if it had rained any more in the last two weeks instead of planting Saint Augustine grass in the front yard i think i would have plowed everything under and had a rice field 
+Statement: It has rained enough to flood everything here and make rice pattys. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The speaker would have plowed everything under and had a rice field if it had rained more, implying that it didn't rain enough to flood everything.
+* The speaker is considering planting Saint Augustine grass, which is not suitable for flooded or waterlogged conditions, indicating that the area is not flooded.
+* The speaker is planning to plant grass, which suggests that the area is not currently a rice paddy.
+* The context implies that the speaker is joking or exaggerating about having a rice field, making the statement about flooding and rice patties unlikely to be true.<|eot_id|>

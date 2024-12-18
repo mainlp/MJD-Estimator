@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The conspiracy-minded allege that the chains also leverage their influence to persuade the big publishers to produce more blockbusters at the expense of moderate-selling books. 
+Statement: Big publishers want to produce more high budget films, even if that means badly selling books. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment) given the context:
+
+* The chains' influence persuades big publishers to prioritize blockbusters over moderate-selling books, implying a focus on high-budget productions.
+* The production of more blockbusters at the expense of moderate-selling books suggests a preference for high-budget, high-reward projects, which could extend to films.
+* The alleged manipulation of big publishers by the chains implies a willingness to sacrifice moderate-selling books for more lucrative opportunities, such as high-budget films.
+* The context implies a focus on profit over diversity or quality, which could lead big publishers to prioritize high-budget films over books with lower sales potential.
+* The idea that chains influence publishers to produce more blockbusters suggests a commercial, profit-driven approach, which would naturally extend to high-budget films.<|eot_id|>

@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: In this respect, bringing Steve Jobs back to save Apple is like bringing Gen. 
+Statement: Steve Jobs came back to Apple. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The sentence is in the context of a hypothetical scenario, and Steve Jobs did not actually come back to Apple.
+* Steve Jobs passed away in 2011 and cannot come back to Apple.
+* The sentence is a counterfactual statement, meaning it is describing a situation that is opposite of what actually happened.
+* The comparison to bringing Gen. [someone] implies that Steve Jobs is not currently at Apple, and the idea of bringing him back is fictional.
+* The sentence is a thought experiment or a "what if" scenario, rather than a statement of fact.<|eot_id|>

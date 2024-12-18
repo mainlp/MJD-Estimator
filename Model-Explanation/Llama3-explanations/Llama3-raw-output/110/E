@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Extremely limited exceptions to the authority are established in 31 U.S.C. 
+Statement: They were trying to eliminate all exceptions. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The authority has exceptions, and they were trying to remove all of them.
+* The exceptions established in 31 U.S.C. are not absolute, and they were trying to minimize or abolish them.
+* The context implies that the authority is generally absolute, and they were trying to make it even more absolute by eliminating exceptions.
+* The limited exceptions in 31 U.S.C. are not sufficient, and they were trying to remove all loopholes or special cases.
+* The goal was to make the authority more comprehensive and universal, without any exceptions or exemptions.<|eot_id|>

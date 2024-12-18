@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: If ancient writings give only a romanticized view, they do offer a more precise picture of Indo-Aryan society. 
+Statement: Ancient writings don't show an accurate picture of Indo-Anryan society. 
+Answer: [/INST] 1. The statement is true because "a more precise picture" implies that the picture is not entirely accurate, but rather more detailed or specific than a purely romanticized view.
+2. The statement is true because ancient writings, even if they offer a more precise picture than a purely romanticized view, still do not necessarily provide an accurate portrayal of Indo-Aryan society.
+3. The statement is true because the context suggests that ancient writings only give a "more precise picture" if they also offer a romanticized view, which implies that without this romanticized element, the writings would not be accurate.</s>

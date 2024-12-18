@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: According to a 1995 Financial Executives Research Foundation report,5 transaction processing and other routine accounting activities, such as accounts payable, payroll, and external reporting, consume about 69 percent of costs within finance. 
+Statement: The financial world would be ok it there wasn't any 5 percent processing. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* 69% of costs are consumed by transaction processing and other routine accounting activities, which means 31% of costs are not, so eliminating 5% of processing would still leave 26% of non-processing costs.
+* The remaining 94% of processing (100% - 5% = 94%) would still be sufficient to cover the 69% of costs consumed by transaction processing and other routine accounting activities.
+* The financial world would still have 95% of its current processing capacity, which would likely be enough to maintain its current state.
+* The elimination of 5% of processing would not significantly impact the overall financial system, as it would still be able to perform its essential functions.<|eot_id|>

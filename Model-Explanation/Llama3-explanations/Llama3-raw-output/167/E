@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Each caters to a specific crowd, so hunt around until you find the one right for you. 
+Statement: There are marketers who have argued that there needs to be more effort to broaden appeal. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment) given the context:
+
+* The existence of specific crowds implies that some marketers may not be satisfied with catering to just one crowd, hence the need to broaden appeal.
+* The need to hunt around to find the right fit suggests that some marketers may think that the current options are too niche, leading to a desire to broaden appeal.
+* The fact that each caters to a specific crowd implies that there may be gaps in the market, which some marketers believe can be filled by broadening appeal.
+* The emphasis on finding the right fit for an individual implies that some marketers think that the current offerings are not inclusive enough, hence the need to broaden appeal.
+* The context implies that there are multiple options, which may lead some marketers to believe that they can be more successful by appealing to a wider audience.<|eot_id|>

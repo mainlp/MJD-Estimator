@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: OMB issued the guidance in Memorandum M0010, dated April 25, 2000. 
+Statement: Memorandum M0010 was issued by INS. 
+Answer: [/INST] 1. OMB and INS are different names for the same organization.
+2. OMB is a division of INS and Memorandum M0010 was issued on behalf of INS.
+3. OMB was tasked with creating Memorandum M0010 for INS, who issued it.
+4. There was a change in organization name, and the organization that was once called OMB is now called INS.
+5. The Memorandum was originally drafted by OMB, but INS had the final say and issued the final version.
+6. OMB and INS are different organizations, but OMB created the Memorandum at INS's request and INS issued it.
+7. OMB is a government body that creates guidelines and Memorandum M0010 was a guideline for INS to follow, which INS issued to its own members.
+8. OMB is a parent organization of INS, and Memorandum M0010 was a directive from the parent organization that INS issued to its subordinates.
+9. OMB and INS are different organizations, but O

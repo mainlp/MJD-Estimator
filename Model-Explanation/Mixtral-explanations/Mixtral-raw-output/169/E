@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: But it just might be because he's afraid he'll lose his No. 
+Statement: He's definitely afraid of losing he's No. 
+Answer: [/INST] 1. The statement "he's afraid of losing his No." is a stronger way of saying "it might be because he's afraid he'll lose his No." in the context.
+2. The context implies that there is a fear of losing something, and the statement explicitly identifies that fear.
+3. The statement is a more direct and confident interpretation of the fear implied in the context.
+4. The statement is a paraphrase of the context, emphasizing the fear of losing his No.
+5. The statement is a more precise rendering of the fear implied in the context, specifying the fear of losing his No.
+6. The statement is a more explicit expression of the fear implied in the context, stating that he is definitely afraid of losing his No.
+7. The statement is a more definitive version of the fear implied in the context, confirming that he is afraid of losing his No.
+8. The statement is a more categorical statement of the fear implied in the context, asserting that he is definitely afraid of losing his No.
+9. The statement is a more unambiguous statement of the fear implied in the context, confirming that he is afraid of losing his No

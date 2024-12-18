@@ -1,0 +1,18 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Classic Castilian restaurant. 
+Statement: The restaurant is based off a classic Castilian style. 
+Answer: [/INST] 1. The restaurant is not based on any specific style.
+2. The restaurant is not Castilian but from another region.
+3. The restaurant is not classic but modern in style.
+4. The restaurant is a fast food place, not a sit-down restaurant.
+5. The restaurant is a food truck, not a brick-and-mortar establishment.
+6. The restaurant is a ghost kitchen, with no physical dining space.
+7. The restaurant is a pop-up, not a permanent establishment.
+8. The restaurant is a themed restaurant, but not specifically Castilian.
+9. The restaurant is a chain, with a standardized design that does not reflect any specific style.
+10. The restaurant is a cafeteria or buffet-style establishment, not a sit-down restaurant.
+11. The restaurant is a take-out or delivery-only establishment, with no dining area.
+12. The restaurant is a bar or tavern, not a restaurant.
+13. The restaurant is a bakery or pastry shop, not a restaurant.
+14. The restaurant is a coffee shop, not a restaurant.
+15.

@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The street ends at Taksim Square (Taksim Meydane), the heart of modern Istanbul, lined with luxurious five-star hotels and the glass-fronted Ataturk Cultural Centre (Ataturk Keleter Sarayy), also called the Opera House. 
+Statement: The street is quite a luxurious one. 
+Answer: [/INST] 1. The street is lined with luxurious five-star hotels.
+2. The Ataturk Cultural Centre, also known as the Opera House, is a glass-fronted building, indicating modern architecture and wealth.
+3. Taksim Square, where the street ends, is described as the heart of modern Istanbul, suggesting a high-end, upscale area.</s>

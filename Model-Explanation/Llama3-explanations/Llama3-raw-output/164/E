@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: OMB issued the guidance in Memorandum M0010, dated April 25, 2000. 
+Statement: Memorandum M0010 was issued by INS. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is NOT true (contradiction):
+
+* OMB (Office of Management and Budget) issued the guidance, not INS (Immigration and Naturalization Service).
+* There is no mention of INS in the context, only OMB.
+* The context explicitly states that OMB issued the guidance, ruling out the possibility of INS issuing it.<|eot_id|>

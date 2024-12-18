@@ -1,0 +1,10 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: If you have any questions about this report, please contact Henry R. Wray, Senior Associate General Counsel, at (202) 512-8581. 
+Statement: Henry R. Wray can be reached at (555) 512-8581. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The phone number (555) 512-8581 is different from the phone number (202) 512-8581 mentioned in the context.
+* There is no mention of (555) 512-8581 as a valid contact number for Henry R. Wray in the context.
+* The context explicitly states that Henry R. Wray can be reached at (202) 512-8581, not (555) 512-8581.<|eot_id|>

@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: He threw one of them and shot the other. 
+Statement: He kept his gun holstered. 
+Answer: [/INST] 1. He used an unconventional shooting method not involving a holstered gun.
+2. He had two guns and holstered one after using it.
+3. He was using a bow or some other non-gun weapon.
+4. The shooting was metaphorical or involved a different kind of "shot."
+5. The statement is false because he actually drew his gun from the holster before shooting.</s>

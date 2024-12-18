@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: This having come to his stepmother's ears, she taxed him with it on the afternoon before her death, and a quarrel ensued, part of which was overheard.  
+Statement: A love affair sparked just moments before her death. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context mentions a quarrel, not a love affair.
+* The quarrel was between the stepmother and the person, indicating conflict, not romance.
+* The quarrel was a result of the stepmother taxing him with something, implying accusation or confrontation, not affection.
+* The context does not mention any romantic or affectionate interaction between the two individuals.
+* The timing of the event, "on the afternoon before her death", suggests a tense or dramatic situation, not a romantic encounter.
+* The tone of the context is serious and somber, not suggestive of a romantic or passionate atmosphere.<|eot_id|>

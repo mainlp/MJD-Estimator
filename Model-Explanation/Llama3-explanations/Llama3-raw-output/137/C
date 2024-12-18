@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Bush the elder came of age when New England Republicans led the party, and patrician manners were boons to a Republican. 
+Statement: New England Republicans were weak. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The context states that New England Republicans "led the party", implying they were strong or influential.
+* The phrase "patrician manners were boons to a Republican" suggests that being a New England Republican was an advantage, which contradicts the idea that they were weak.<|eot_id|>

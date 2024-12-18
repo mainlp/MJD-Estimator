@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The standard technology assumptions of scenario A were used by EIA in the development of the AEO2001 reference case projections. 
+Statement: EIA used the standard technology assumptions to eliminate the AEO2001 reference case projections. 
+Answer: [/INST] 1. EIA used the standard technology assumptions to improve, not eliminate, the AEO2001 reference case projections.
+2. The standard technology assumptions were not used by EIA to eliminate but to adjust the AEO2001 reference case projections.
+3. EIA did not use the standard technology assumptions to eliminate the AEO2001 reference case projections, but rather to validate them.
+4. The standard technology assumptions were used by EIA in a way that did not result in the elimination of the AEO2001 reference case projections.
+5. EIA used the standard technology assumptions to create new projections, not to eliminate the AEO2001 reference case projections.</s>

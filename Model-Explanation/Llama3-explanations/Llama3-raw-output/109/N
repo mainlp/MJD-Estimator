@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Keep your eyes open for Renaissance details, grand doorways, and views into lovely courtyards. 
+Statement: All of the doorways and courtyards have been completely remodeled since the Renaissance. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not provide information about the current state of the doorways and courtyards, only encouraging the reader to look for Renaissance details.
+* There is no mention of any remodeling or restoration work done on the doorways and courtyards.
+* The context focuses on the reader's observation, not on the history or current state of the architectural features.
+* The statement makes a claim about the entire set of doorways and courtyards, which is not supported by the context.
+* The context does not provide any information about the time period in which the doorways and courtyards were last modified.
+* The statement's claim about "completely remodeled" is not verifiable based on the provided context.
+* The context does not imply or suggest any changes made to the doorways and courtyards since the Renaissance.
+* There is no evidence in the context to support or refute the statement's claim.<|eot_id|>

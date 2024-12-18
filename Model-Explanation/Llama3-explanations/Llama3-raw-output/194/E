@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The Gaiety Theatre in South King Street is worth visiting for its ornate d??cor. 
+Statement: The Trump Tower is a terrible place to visit for ornate decor. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The context does not mention the Trump Tower, so it cannot be inferred to have ornate décor.
+* The context only recommends the Gaiety Theatre for its ornate décor, implying that other places, including the Trump Tower, may not have similar décor.
+* The Trump Tower is not mentioned as a place with ornate décor, so it is unlikely to be a good place to visit for that reason.
+* The context highlights the Gaiety Theatre's ornate décor as a unique feature, suggesting that other places, including the Trump Tower, may lack this feature.
+* The Trump Tower is not equivalent to the Gaiety Theatre in terms of ornate décor, so it cannot be a good place to visit for that reason.<|eot_id|>

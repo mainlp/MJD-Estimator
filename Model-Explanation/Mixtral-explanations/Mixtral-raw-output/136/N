@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: He touched it and felt his skin swelling and growing hot. 
+Statement: His skin was burning. 
+Answer: [/INST] 1. The context only mentions skin swelling and growing hot, not explicitly stating that it was burning.
+2. There is no direct mention of fire or high temperatures that would cause skin to burn.
+3. The statement could be interpreted as a metaphorical use of the word "burning," which is not addressed in the context.
+4. The context might be referring to a non-thermal sensation that could cause skin to swell and grow hot, but not necessarily burn.
+5. The intensity of the heat is not specified in the context, leaving open the possibility that it was not hot enough to cause burning.
+6. The context does not clarify if any other factors could have contributed to the skin's reaction, such as an allergic reaction or medical condition.</s>

@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Julius nodded gravely. 
+Statement: Julius loves to ask questions. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context implies Julius is serious or solemn (nodding gravely), which contradicts the idea of him loving to ask questions, as asking questions is often associated with curiosity and enthusiasm.
+* Nodding gravely suggests Julius is accepting or agreeing with something, whereas asking questions implies a desire to clarify or challenge information.
+* The grave nod implies a sense of seriousness or solemnity, which is at odds with the lighthearted or inquisitive nature of asking questions.
+* The context does not provide any evidence of Julius's inquisitive nature, and the grave nod suggests he may be more concerned with accepting or acknowledging information than seeking it.
+* The statement implies Julius is proactive and engaged, whereas the context suggests he may be more passive or receptive (nodding gravely).<|eot_id|>

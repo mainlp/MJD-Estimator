@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: It can entail prospective and retrospective designs and it permits synthesis of many individual case studies undertaken at different times and in different sites. 
+Statement: It can entail prospective and retrospective designs for system redesigns. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context does not explicitly mention "system redesigns", so it's unclear if the entailment of prospective and retrospective designs is limited to that specific context.
+* The context mentions "many individual case studies" but does not specify if these case studies are related to system redesigns.
+* The context does not provide enough information to determine if the entailment of prospective and retrospective designs is exclusive to system redesigns or if it can be applied to other areas as well.
+* The statement adds a new concept "system redesigns" that is not present in the context, making it difficult to determine the relationship between the two.
+* The context does not provide a clear definition of what "it" refers to, making it hard to determine if the statement is a correct inference or not.<|eot_id|>

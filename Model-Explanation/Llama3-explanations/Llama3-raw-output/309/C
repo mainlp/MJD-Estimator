@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The activities included in the Unified Agenda are, in general, those expected to have a regulatory action within the next 12 months, although agencies may include activities with an even longer time frame. 
+Statement: Some actions were implemented for being shorter than 12 months. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The context only mentions expected regulatory actions within the next 12 months, but does not mention implementation of actions with a shorter time frame.
+* The context implies that the Unified Agenda only includes activities with a time frame of 12 months or longer, not shorter.
+* There is no mention of actions being implemented, only expected regulatory actions being included in the Unified Agenda.
+* The context does not provide any information about actions being implemented, only about activities being included in the Unified Agenda.<|eot_id|>

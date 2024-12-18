@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Several of the organizations had professional and administrative staffs that provided analytical capabilities and facilitated their members' participation in the organization's activities. 
+Statement: Organizations had mandatory bonding exercises for their members. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions professional and administrative staffs, but not any bonding exercises.
+* There is no mention of mandatory activities for members.
+* The context focuses on analytical capabilities and facilitating participation, not social bonding.
+* The context implies a more formal and professional atmosphere, which contradicts the idea of bonding exercises.
+* The statement is not implied or suggested by the context in any way.
+* The context does not provide any evidence or hint that would suggest the existence of mandatory bonding exercises.<|eot_id|>

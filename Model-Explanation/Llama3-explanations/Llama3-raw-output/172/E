@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: He threw one of them and shot the other. 
+Statement: He shot his gun. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* "shot" in the context implies the use of a gun.
+* The phrase "shot the other" suggests that "the other" is a target, and the action of shooting is performed using a gun.
+* The presence of "threw" in the context, which is an action typically performed with a physical object, implies that "shot" is also an action performed with a physical object, namely a gun.
+* The use of "one of them" and "the other" implies that there are two objects, and the actions of throwing and shooting are performed on these objects, with shooting being performed using a gun.<|eot_id|>

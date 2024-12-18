@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: He watched the river flow. 
+Statement: The river roared by. 
+Answer: [/INST] 1. The context does not specify the speed or volume of the river's flow.
+2. The statement could be true if the river was flowing forcefully, but the context does not provide enough information to confirm this.
+3. The statement could be false if the river was flowing slowly and quietly.
+4. The context is limited to observation, while the statement implies a subjective interpretation of the river's flow.
+5. The statement might not be audible to the person watching the river, making it impossible for them to confirm or deny the truth of the statement.
+6. The context does not indicate the distance between the observer and the river, which could affect the perception of the river's sound.
+7. The context does not provide information about the surrounding environment, which could affect the overall noise level and the ability to hear the river's sound.
+8. The observer's hearing ability could impact their perception of the river's sound, but this is not mentioned in the context.
+9. The time of day or weather conditions could affect the river's sound, but the context does not provide this information.
+10. The context does not specify whether the observer has any prior knowledge or experience

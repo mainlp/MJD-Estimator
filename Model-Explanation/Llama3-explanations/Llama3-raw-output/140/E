@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: We also have found that leading organizations strive to ensure that their core processes efficiently and effectively support mission-related outcomes. 
+Statement: Leading organizations want to be sure their processes are successful. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* "strive to ensure" implies a desire or intention to achieve something, which in this case is that their core processes support mission-related outcomes, and this is equivalent to wanting to be sure their processes are successful.
+* "efficiently and effectively" implies a sense of success or achievement, and the fact that leading organizations want their processes to be efficient and effective means they want them to be successful.
+* The phrase "support mission-related outcomes" implies that the processes are intended to achieve certain goals or outcomes, and wanting to ensure they do so means wanting them to be successful.
+* The context implies that leading organizations are proactive and goal-oriented, and therefore they would naturally want their processes to be successful.<|eot_id|>

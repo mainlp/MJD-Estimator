@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: There's a lot of villas all the way along, but by degrees they seemed to get more and more thinned out, and in the end we got to one that seemed the last of the bunch. 
+Statement: There were only a few villas the whole way along, until we reached a small village that seemed to be the end. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* "thinned out" implies a decrease in number, leading to "only a few villas" towards the end.
+* "seemed to get more and more thinned out" suggests a gradual reduction in the number of villas, resulting in a small number at the end.
+* "the last of the bunch" implies that there were only a few villas remaining, which is equivalent to "only a few villas the whole way along".
+* The phrase "by degrees" indicates a gradual process, which supports the idea that the number of villas decreased gradually, leading to a small number at the end.
+* The context implies a sequence of events, where the number of villas decreases along the way, resulting in a small village at the end.<|eot_id|>

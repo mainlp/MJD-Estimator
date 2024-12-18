@@ -1,0 +1,14 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The door opened and Severn stepped out. 
+Statement: They were waiting for someone to open the door for them. 
+Answer: [/INST] 1. Severn is not part of the "they."
+2. "They" already opened the door for Severn.
+3. "They" are not expecting anyone to open the door for them, as they are not waiting anymore after Severn opened the door.
+4. "They" are waiting for Severn to open the door for them, and Severn did.
+5. "They" are waiting for someone else to open the door, but Severn is not that person.
+6. "They" are waiting for someone else to open the door, and Severn opening the door has no impact on their waiting.
+7. "They" are waiting for someone else to open the door, and Severn opening the door is a separate event.
+8. "They" are waiting for someone else to open the door, and Severn opening the door is a coincidence.
+9. "They" are waiting for someone else to open the door, and Severn opening the door is a surprise.
+10. "They" are waiting for someone else to open the door, and Severn opening the door is unexpected.
+11. "They" are waiting for someone else to open the door,

@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: No, I exclaimed, astonished.  
+Statement: I said no to him several time, utterly surprised by the change of events.  
+Answer: [/INST] 1. The speaker did not say no to the person several times.
+2. The speaker was not astonished or surprised by the change of events.
+3. The exclamation of "no" was not in response to the change of events.
+4. The speaker's exclamation of "no" was not due to surprise.
+5. The change of events was not surprising to the speaker.
+6. The speaker's repeated refusals were not due to surprise.
+7. The speaker's exclamation of "no" and their surprise were not in response to the same event.
+8. The speaker's exclamation of "no" was not a reaction to the change of events.
+9. The speaker's surprise was not expressed through an exclamation of "no".
+10. The speaker's exclamation of "no" was not a genuine expression of surprise.</s>

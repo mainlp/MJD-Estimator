@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Don't take it to heart, lad, he said kindly. 
+Statement: He was trying to console the lad. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The phrase "don't take it to heart" is a common idiomatic expression used to comfort or console someone.
+* The adverb "kindly" suggests a gentle and sympathetic tone, which is consistent with an attempt to console.
+* The use of "lad" as a term of address implies a sense of familiarity and affection, which is often used in a consolatory manner.
+* The overall tone of the sentence, including the words "don't take it to heart" and "kindly", implies a sense of reassurance and comfort, which is a key aspect of consoling someone.<|eot_id|>

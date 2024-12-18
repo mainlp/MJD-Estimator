@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: All were prominent nationally known organizations. 
+Statement: The only identified organizations were well-known. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions that all organizations were nationally known, but it does not specify if they were the only ones identified.
+* The statement implies that there might be other organizations that were not identified, but the context does not provide information about unidentified organizations.
+* The context does not provide a clear relationship between "prominent nationally known organizations" and "well-known organizations", leaving the inference uncertain.
+* The statement's use of "only" suggests exclusivity, but the context does not provide enough information to determine if the identified organizations were the only well-known ones.
+* The context does not rule out the possibility that there were other well-known organizations that were not identified.<|eot_id|>

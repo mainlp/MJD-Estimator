@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: But it just might be because he's afraid he'll lose his No. 
+Statement: He's definitely afraid of losing he's No. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context uses "might be" which implies uncertainty, whereas the statement uses "definitely" which implies certainty.
+* The context implies a possibility, whereas the statement makes a definitive claim.
+* The context suggests a potential reason, whereas the statement makes a categorical assertion.
+* The context is tentative, whereas the statement is absolute.
+* The context leaves room for doubt, whereas the statement eliminates doubt.<|eot_id|>

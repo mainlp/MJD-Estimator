@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Total volume grew 13. 
+Statement: The expected increase was 10. 
+Answer: [/INST] 1. The context does not specify the unit of measurement for the volume growth.
+2. The statement does not indicate whether the expected increase is in the same unit of measurement as the actual growth.
+3. The context does not provide information about the time period covered by the volume growth.
+4. The statement does not specify the time period to which the expected increase applies.
+5. The context and statement do not indicate whether the volume growth and expected increase refer to the same set of data or circumstances.
+6. The statement does not clarify whether the expected increase is a minimum or maximum threshold.
+7. The context does not provide information about any external factors that may have influenced the volume growth beyond the expected increase.
+8. The statement does not indicate whether the expected increase was conditional or unconditional.
+9. The context and statement do not provide information about the level of accuracy or precision associated with the volume growth and expected increase figures.
+10. The context and statement do not indicate whether the volume growth and expected increase are based on the same methodology or assumptions.</s>

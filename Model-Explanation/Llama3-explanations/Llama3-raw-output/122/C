@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The order was founded by James VII (James II of England) and continues today. 
+Statement: Kings frequently founded orders that can still be found today. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement implies that many kings founded orders that still exist, but the context only provides a single example of James VII founding an order that continues today.
+* The context does not provide evidence that kings frequently founded orders, only that one king (James VII) did so.
+* The statement is too general, implying a common practice among kings, whereas the context only provides a specific instance.
+* The context does not support the idea that founding orders that still exist today was a frequent activity among kings.<|eot_id|>

@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Standard screens may not perform as well in these patient subgroups that may represent a considerable part of the ED population. 
+Statement: The subgroups may not perform well in standard screens. 
+Answer: [/INST] 1. The subgroups themselves are not being evaluated in the standard screens.
+2. The standard screens are not being performed on the subgroups.
+3. The standard screens are being performed on the subgroups, but the subgroups' performance is not representative of the entire ED population's performance.
+4. The standard screens are being performed on the subgroups, and the subgroups are not performing well, but this is not a significant issue because the subgroups are a small part of the ED population.
+5. The standard screens are being performed on the subgroups, and the subgroups are not performing well, but this is not a problem because the subgroups have unique characteristics that are not relevant to the screening criteria.
+6. The standard screens are being performed on the subgroups, and the subgroups are not performing well, but this is not a problem because the subgroups have unique characteristics that can be accounted for in the screening process.
+7. The standard screens are being performed on the subgroups, and the subgroups are not performing well, but this is not a problem because the subgroups have unique characteristics that can be addressed through alternative screening methods.
+8. The standard screens are being performed on the subgroups

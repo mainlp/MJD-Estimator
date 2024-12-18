@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: NEH-supported exhibitions were distinguished by their elaborate wall panels--educational maps, photomurals, stenciled treatises--which competed with the objects themselves for space and attention. 
+Statement: The exhibitions seem well-funded due to the elaborate detail of the gallery. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not mention the gallery, but rather the exhibitions.
+* The exhibitions' elaborate wall panels do not necessarily imply a well-funded exhibition, as they might be a result of other factors such as curator's vision or design choice.
+* The fact that the wall panels compete with the objects for space and attention suggests that the exhibition might be cluttered or poorly organized, which contradicts the idea of being well-funded.
+* The context does not provide any information about the exhibition's budget or funding, so it's impossible to infer that it's well-funded based on the provided information.<|eot_id|>

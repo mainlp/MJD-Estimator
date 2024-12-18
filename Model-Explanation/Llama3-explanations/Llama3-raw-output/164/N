@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: OMB issued the guidance in Memorandum M0010, dated April 25, 2000. 
+Statement: Memorandum M0010 was issued by INS. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions OMB as the issuer of the guidance, but does not provide any information about INS.
+* There is no mention of INS in the context, making it impossible to determine its relationship to Memorandum M0010.
+* The context does not provide any contradictory or supporting evidence to determine whether INS issued Memorandum M0010 or not.
+* The issuer of the guidance in the context is OMB, which is different from INS, but it does not necessarily mean INS did not issue it, as there might be other circumstances not mentioned in the context.
+* The context only provides information about the date of the guidance, but not about the issuer's identity or any other relevant details that could help determine the statement's truth value.<|eot_id|>

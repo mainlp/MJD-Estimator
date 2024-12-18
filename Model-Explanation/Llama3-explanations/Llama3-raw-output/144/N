@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: If you have the energy to climb the 387 steps to the top of the south tower, you will be rewarded with a stunning view over the city. 
+Statement: The south tower has the best view in the city. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement only claims the view from the south tower is stunning, but does not compare it to other towers or views in the city.
+* The context does not provide information about the views from other towers or locations in the city.
+* The statement's claim about the south tower having the "best" view is not supported or contradicted by the context.
+* The context only mentions the view from the top of the south tower, but does not provide a comprehensive comparison of views in the city.
+* The statement's superlative language ("best") is not justified by the context, which only describes the view as "stunning".
+* The context does not provide enough information to determine if the view from the south tower is the best, as it does not provide a basis for comparison.<|eot_id|>

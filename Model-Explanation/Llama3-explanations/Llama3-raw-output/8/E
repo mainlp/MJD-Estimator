@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Her state is probably to be attributed to the mental shock consequent on recovering her memory." 
+Statement: It is too bad that she never regained her memory. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* She has regained her memory, which contradicts the statement, so the statement is false, but the context implies that regaining her memory led to a mental shock, which is a bad consequence, making the statement true in a sense.
+* The context implies that she has regained her memory, and the mental shock is a consequence of that, so the statement is false, but the sentiment expressed is that it's bad that she regained her memory because of the mental shock.
+* The statement is sarcastic, and the speaker means the opposite, i.e., it's good that she regained her memory, but the context implies that regaining her memory led to a bad consequence (mental shock).
+* The statement is a counterfactual, implying that if she had never regained her memory, she would have avoided the mental shock, which is a bad consequence.<|eot_id|>

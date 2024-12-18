@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Lincoln glared. 
+Statement: The man was angry. 
+Answer: [/INST] 1. Lincoln is the man in question.
+2. Glaring is a sign of anger.
+3. No other explanation for Lincoln's glaring is provided, implying it's due to anger.</s>

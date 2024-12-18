@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The management of the cafe has established the rules for the use of their facility. 
+Statement: The management of the cafe is strict about how they manage it. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions the establishment of rules, but does not provide information about the management's attitude or behavior towards enforcing those rules.
+* The context does not imply that the management is strict, only that they have established rules, which could be lenient or flexible.
+* The statement assumes a certain level of strictness, which is not supported by the context.
+* The context does not provide enough information to determine the management's level of strictness, leaving the statement's truth value uncertain.
+* The statement is making an inference about the management's behavior, which is not directly supported by the context.
+* The context only provides information about the existence of rules, but not about how they are enforced or the management's attitude towards them.<|eot_id|>

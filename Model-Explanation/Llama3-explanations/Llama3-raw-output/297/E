@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Three more days went by in dreary inaction. 
+Statement: The days passed by slowly. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The use of "dreary" to describe the inaction implies a sense of monotony and lack of excitement, which is consistent with the idea that the days passed by slowly.
+* The phrase "went by" suggests a sense of time passing, and the adjective "dreary" adds a negative connotation, implying that the time passed slowly.
+* The context implies a lack of activity or progress, which can contribute to the feeling that time is moving slowly.
+* The use of "three more days" suggests a sense of duration, and the fact that they were marked by "inaction" implies that they felt long or slow.
+* The tone of the context is melancholic and uneventful, which is consistent with the idea that the days passed by slowly.<|eot_id|>

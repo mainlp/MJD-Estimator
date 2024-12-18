@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The air is warm. 
+Statement: The arid air permeates the surrounding land. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions the temperature of the air (warm) but does not provide information about its humidity or dryness, which is necessary to determine if the air is arid.
+* The term "arid" implies a lack of moisture, but the context does not provide any information about the air's moisture level.
+* The context does not provide any information about the air's ability to permeate the surrounding land, which is necessary to determine the truth of the statement.
+* The statement assumes a causal relationship between the air's properties and its effect on the surrounding land, but the context does not provide enough information to establish this relationship.
+* The context only provides a vague description of the air's temperature, which is not sufficient to infer the air's other properties or its effects on the surrounding land.<|eot_id|>

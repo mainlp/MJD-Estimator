@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Mack Lee, Body Servant of General Robert E. Lee Through the Civil War , published in 1918. 
+Statement: The book was first drafted in early 1915. 
+Answer: [/INST] 1. The book was not drafted at all in 1915.
+2. The first draft of the book was completed after 1915.
+3. The book was not in the drafting stage in 1915.
+4. The initial concept or planning of the book started after 1915.
+5. The book's writing process did not involve a traditional drafting stage in 1915.
+6. The book was not even conceived of in 1915.
+7. The first version of the manuscript was not created until after 1915.
+8. The book's creation did not involve a drafting process starting in 1915.
+9. The initial creation of the book's content did not occur until after 1915.
+10. The first draft of the book was not created or finished in 1915.</s>

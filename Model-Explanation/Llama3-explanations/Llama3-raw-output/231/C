@@ -1,0 +1,9 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Ca'daan closed the door behind them and retied the not. 
+Statement: Ca'daan closed the door as they entered, and bound it shut with rope. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The door was closed behind them, not as they entered.
+* The door was retied with a not, not bound with rope.<|eot_id|>

@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: This confluence of a bad tax, a $1 billion reserve, a botched opposition campaign, and voters willing to call a bluff resulted in the I-695 victory. 
+Statement: The I-695 failed in its campaign to help the people. 
+Answer: [/INST] 1. The statement could refer to a different campaign aspect of I-695 not mentioned in the context.
+2. The term "help the people" is subjective and could mean different things to different people.
+3. The context describes factors that led to I-695's victory, not its failure in a campaign to help people.
+4. The $1 billion reserve mentioned in the context could have been used to help people, but the statement doesn't address this.
+5. The "botched opposition campaign" could have contributed to I-695's perceived failure, but the statement doesn't address this.
+6. The "voters willing to call a bluff" could have interpreted I-695's campaign differently than intended.
+7. The statement doesn't specify whether the campaign itself failed, or if it was the implementation of I-695 that failed to help people.</s>

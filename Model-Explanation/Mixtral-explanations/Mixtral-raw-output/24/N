@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: So is the salt, drying in the huge, square pans at Las Salinas in the south. 
+Statement: Pepper is made wet in Las Salinas. 
+Answer: [/INST] 1. The context only mentions salt being in Las Salinas, not pepper.
+2. The context states that salt is drying in Las Salinas, but it does not specify whether pepper is present or its state.
+3. The context discusses the drying of salt in square pans, but it does not mention any processing or state of pepper.
+4. The context provides no information about pepper being made wet in Las Salinas.
+5. The statement about pepper being made wet could be true or false based on the given context, making it undetermined.</s>

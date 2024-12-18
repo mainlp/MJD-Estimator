@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: and going to school is also always very prohibitive now unless your parents are wealthy 
+Statement: Wealthy parents are necessary for school. 
+Answer: [/INST] 1. The cost of education is high, making it difficult for parents without wealth to afford.
+2. Only parents with wealth can easily support their children's schooling.
+3. Without wealthy parents, going to school is financially challenging.
+4. Wealthy parents can provide the means for their children to attend school.
+5. Schooling is accessible for those with wealthy parents.
+6. A lack of wealth in parents makes school difficult, whereas wealth facilitates it.
+7. Financial means from wealthy parents ensure school attendance.
+8. School is a luxury that requires wealthy parents for access.
+9. School is contingent on having wealthy parents.
+10. Wealthy parents can ensure their children's schooling without financial strain.</s>

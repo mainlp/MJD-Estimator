@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: After the recovery of Jerusalem in 1099, it took four hundred years of sieges and battles, treaties, betrayals, and yet more battles, before Christian kings and warlords succeeded in subduing the Moors. 
+Statement: The Moors were able to subdue the Christian kings after just a decade of war. 
+Answer: [/INST] 1. The Moors were actually subdued by Christian kings, not the other way around.
+2. The conflict lasted for centuries, not just a decade.
+3. The Moors' defeat occurred after the recovery of Jerusalem in 1099, not before.
+4. The Moors did not succeed in subduing the Christian kings at any point.
+5. The subjugation of the Moors was a gradual process involving many sieges and battles, not a quick victory.</s>

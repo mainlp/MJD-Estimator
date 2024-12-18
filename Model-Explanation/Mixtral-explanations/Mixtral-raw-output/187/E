@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Standard screens may not perform as well in these patient subgroups that may represent a considerable part of the ED population. 
+Statement: The subgroups may not perform well in standard screens. 
+Answer: [/INST] 1. The subgroups are part of the ED population where standard screens may not perform well.
+2. Standard screens may not perform well when used for the subgroups.
+3. The subgroups' performance in standard screens may be suboptimal.
+4. Standard screens may not be suitable for the subgroups.
+5. The subgroups' abilities to pass standard screens may be compromised.
+6. Standard screens may not accurately assess the subgroups.
+7. The subgroups may have difficulties in standard screens.
+8. Standard screens may not be effective for the subgroups.
+9. The subgroups may not meet the standards of the screens.
+10. Standard screens may not be reliable for the subgroups.</s>

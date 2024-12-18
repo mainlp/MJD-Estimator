@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: wow who can afford that  my God i can't afford to miss a day let alone six 
+Statement: It's amazing that some people can afford to miss days from work, whereas I can't even afford to miss one. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The speaker can afford to miss a day from work.
+* The speaker can afford to miss six days from work.
+* Some people cannot afford to miss days from work.
+* The speaker can afford to miss one day from work.
+* It's not amazing that some people can afford to miss days from work.<|eot_id|>

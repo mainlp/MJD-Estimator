@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: kind of kind of nothing i won't have anything to do with 
+Statement: I don't want anything to do with it, no doubts about it. 
+Answer: [/INST] 1. The statement could be referring to a different subject than the context.
+2. The strength of conviction in the statement could be similar to the ambiguity in the context.
+3. The statement's "no doubts" could be referring to a different aspect than the "kind of" in the context.
+4. The context might be using "kind of" to express mild interest, while the statement could be rejecting even mild interest.
+5. The context might be using "nothing" to refer to a specific subset of things, while the statement could be rejecting all possibilities.
+6. The context might be expressing uncertainty, while the statement could be expressing certainty about a different aspect.
+7. The context might be expressing reluctance, while the statement could be expressing a firm rejection.
+8. The context might be using "kind of" to hedge or soften the statement, while the statement could be a clear rejection.
+9. The context might be expressing a lack of involvement, while the statement could be rejecting any potential involvement.
+10. The context might be expressing ambiguity about involvement, while the statement could be rejecting any involvement.</s>

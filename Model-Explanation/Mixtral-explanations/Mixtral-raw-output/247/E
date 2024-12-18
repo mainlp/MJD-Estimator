@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: My unborn children will never appear on the Today show. 
+Statement: No direct descendent of mine will ever be a guest of the Today show. 
+Answer: [/INST] 1. The speaker is referring to their unborn children as their direct descendants.
+2. The Today show includes guests who are not biologically related to the host or interviewer.
+3. The speaker's unborn children will never become famous or newsworthy.
+4. The speaker does not plan on having any more children after their unborn children.
+5. The Today show will not be airing new episodes in the future.
+6. The speaker's unborn children will not be alive in the future.
+7. The Today show will cease to exist before the speaker's unborn children are born.
+8. The speaker's unborn children will never be invited as guests on the Today show.
+9. The speaker is certain that their unborn children will not appear on the Today show.
+10. The speaker has the ability to prevent their direct descendants from appearing on the Today show.</s>

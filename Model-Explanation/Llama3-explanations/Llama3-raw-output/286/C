@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: and they just put instructors out there and you you sign up for instruction and they just give you an arm band and if you see an instructor who's not doing anything you just tap him on the shoulder and ask him questions and they'll show you things 
+Statement: The instructors are marked with armbands, and anytime you want to know anything, you just find one of them.  
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The instructors are not marked with armbands, but rather the students are given armbands.
+* You don't just find any instructor, but rather one who is not doing anything.
+* You don't just approach an instructor anytime you want to know anything, but rather when you see one who is not busy.
+* You don't just ask them questions, but rather tap them on the shoulder first.<|eot_id|>

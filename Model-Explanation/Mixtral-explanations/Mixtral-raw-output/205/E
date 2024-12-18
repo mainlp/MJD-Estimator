@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: You wonder whether he could win a general election coming out of the right lane of the Democratic Party. 
+Statement: He will not run in a general election while he is a conservative Democrat. 
+Answer: [/INST] 1. He identifies as a conservative Democrat, which places him in the right lane of the Democratic Party.
+2. He has decided not to run in a general election, possibly due to his political beliefs as a conservative Democrat.
+3. It is impossible for him to run in a general election as a conservative Democrat, as he has stated he will not do so.
+4. His decision to not run in a general election is based on his political stance as a conservative Democrat.
+5. Running in a general election is incompatible with being a conservative Democrat, as he has chosen not to do so.</s>

@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Just like we have hairpins and powder-puffs." Tommy handed over a rather shabby green notebook, and Tuppence began writing busily. 
+Statement: Tommy handed Tuppence an empty shabby green notebook. 
+Answer: [/INST] 1. Tommy handed Tuppence a new shabby green notebook.
+2. Tommy handed Tuppence a notebook with writing in it, not empty.
+3. Tuppence, not Tommy, handed over the shabby green notebook.
+4. The notebook is not shabby but of good quality.
+5. The notebook is not green but of a different color.
+6. Tommy gave Tuppence two items: a hairpin and a shabby green notebook.
+7. The object Tommy handed Tuppence is a book about hairpins and powder-puffs, not a notebook.
+8. The notebook is not shabby but in good condition.
+9. The notebook is not given by Tommy but found by Tuppence.
+10. The notebook is not physically handed over but sent or delivered in another way.</s>

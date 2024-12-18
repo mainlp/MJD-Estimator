@@ -1,0 +1,10 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: oh wow no i just started about well five years ago i think 
+Statement: It had started five years ago. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The speaker started "about" five years ago, implying an approximation rather than an exact time.
+* The speaker says "I just started", implying a recent start, which contradicts the idea of starting five years ago.
+* The speaker uses the phrase "I think", indicating uncertainty about the exact time they started.<|eot_id|>

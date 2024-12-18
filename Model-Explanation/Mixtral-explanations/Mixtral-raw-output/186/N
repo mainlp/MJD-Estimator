@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The door opened and Severn stepped out. 
+Statement: They were waiting for someone to open the door for them. 
+Answer: [/INST] 1. The context does not specify who "they" refers to.
+2. The context does not indicate whether "they" were expecting someone to open the door for them.
+3. It is possible that "they" opened the door themselves.
+4. It is also possible that "they" did not need anyone to open the door for them.
+5. The context does not provide information about the abilities or preferences of "they" regarding opening doors.
+6. The context does not reveal if "they" were even present when the door was opened.
+7. The statement could be true if "they" were waiting for someone else to open a different door.
+8. The statement could be false if "they" were not waiting for someone to open the door for them, but rather for something else.</s>

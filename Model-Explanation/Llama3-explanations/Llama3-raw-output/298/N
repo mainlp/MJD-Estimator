@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The party's broad aims were to support capitalist policies and to continue close ties with Britain and the rest of the Commonwealth. 
+Statement: The party sought to establish ties with the United States. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not mention the party's stance on the United States.
+* There is no information about the party's intentions regarding the United States.
+* The context only mentions close ties with Britain and the rest of the Commonwealth, but not the United States.
+* The statement is not logically entailed or contradicted by the context.
+* The context does not provide enough information to determine whether the party sought to establish ties with the United States or not.
+* The party's broad aims do not necessarily imply a desire to establish ties with the United States.
+* There is no explicit mention of the United States in the context.
+* The context does not provide a clear reason to infer that the party sought to establish ties with the United States.<|eot_id|>

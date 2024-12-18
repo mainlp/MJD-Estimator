@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: It was made up to look as much like an old-fashioned steam train as possible. 
+Statement: It was built in the modern era to look like something built in the past. 
+Answer: [/INST] 1. The object in question is a replica of an old-fashioned steam train.
+2. The design and appearance of the object mimic those of old-fashioned steam trains.
+3. The object was constructed in recent times with the intention of resembling a steam train from the past.
+4. Modern technology was used to create an object that looks like a steam train from the past.
+5. The creator of the object aimed for a retro style, specifically that of an old-fashioned steam train.</s>

@@ -1,0 +1,14 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The road along the coastline to the south travels through busy agricultural towns and fishing villages untouched by tourism. 
+Statement: There are no tourists on the road through the agricultural towns and fishing villages. 
+Answer: [/INST] 1. The coastline road's southern route only attracts local farmers and fishermen, not tourists.
+2. Tourists are uninterested in the agricultural towns and fishing villages, thus they don't travel on that road.
+3. The towns and villages have explicitly restricted tourists, so the road remains tourist-free.
+4. The agricultural and fishing communities are not well-known among tourists, keeping the road free of visitors.
+5. The southern coastal road is not featured in travel guides or tour itineraries, resulting in no tourists.
+6. Local residents prefer to keep the area low-key, deterring potential tourists and maintaining the road's tourist-free status.
+7. The agricultural towns and fishing villages have not developed tourist infrastructure or attractions, so tourists don't visit.
+8. The road is only used by locals for daily activities, leaving no room for tourists.
+9. The southern coastal route is not publicized, so tourists are unaware of its existence.
+10. The road is not designed for tourism purposes, making it unappealing to tourists.
+11. The agricultural towns and fishing villages have a negative reputation among tourists, keeping them away.

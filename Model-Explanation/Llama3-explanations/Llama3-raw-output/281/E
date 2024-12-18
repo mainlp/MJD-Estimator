@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: What the judge really wants are the facts -- he wants to make a good decision, he said. 
+Statement: In the end the judge made a bad decision since he imprisoned someone innocent. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The judge did not get the facts he wanted.
+* The judge did not make a good decision despite wanting to.
+* The judge's decision was based on incorrect or incomplete information.
+* The judge's desire to make a good decision was not enough to ensure a good outcome.
+* The judge's decision was flawed or biased.
+* The judge imprisoned someone innocent, which is a bad decision by definition.<|eot_id|>

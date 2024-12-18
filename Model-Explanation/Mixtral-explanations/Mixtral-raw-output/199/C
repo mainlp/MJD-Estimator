@@ -1,0 +1,19 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Don't forget to take a change of clothing and a towel. 
+Statement: Remember to replace your towel and clothing. 
+Answer: [/INST] 1. The towel and clothing were already replaced.
+2. The original towel and clothing were kept, not changed.
+3. Only some items of clothing need to be replaced.
+4. Only the towel, not the clothing, needs to be replaced.
+5. Only the clothing, not the towel, needs to be replaced.
+6. The towel and clothing belong to someone else.
+7. The towel and clothing are metaphorical, not physical objects.
+8. The statement is meant as a joke or sarcasm.
+9. The speaker is not actually asking the listener to replace the towel and clothing.
+10. The listener is not responsible for bringing or replacing the towel and clothing.
+11. The listener has no extra towel or clothing to replace the original ones.
+12. The listener is not allowed to replace the towel and clothing.
+13. The listener misunderstood the instruction and thought they needed to replace the towel and clothing, when they actually didn't.
+14. The listener forgot to bring the replacement towel and clothing.
+15. The listener decided not to bring the replacement towel and clothing.
+16. The listener is unable to bring the replacement towel and

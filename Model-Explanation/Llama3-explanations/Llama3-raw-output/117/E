@@ -1,0 +1,8 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: All of our many earnest experiments produced results in line with random chance, they conclude. 
+Statement: The experiments proved it was a much better predictor. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* There is no explanation, as the statement is actually false (contradiction) given the context. The context states that the experiments produced results in line with random chance, implying that the experiments did not prove anything conclusively, whereas the statement claims that the experiments proved it was a much better predictor.<|eot_id|>

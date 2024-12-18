@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: 3 It should be noted that the toxicity (LC50) of a sample observed in a range-finding test may be significantly different from the toxicity observed in the follow-up chronic definitive test  (1) the definitive test is longer; and (2) the test may be performed with a sample collected at a different time, and possibly differing significantly in the level of toxicity. 
+Statement: The toxicity of a sample in the range-finding test will be exactly the same as the toxicity in the follow-up test. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context mentions that the toxicity of a sample in the range-finding test may be significantly different from the toxicity in the follow-up test, but it does not provide a definitive statement that the toxicity will always be different.
+* The context provides two possible reasons why the toxicity may differ, but it does not rule out the possibility that the toxicity might be the same in some cases.
+* The context does not provide enough information to determine whether the sample in the range-finding test and the follow-up test are identical or not.
+* The context does not provide enough information to determine whether the test conditions in the range-finding test and the follow-up test are identical or not.
+* The statement is making a claim about the exact sameness of the toxicity, which is not supported by the context, but the context also does not provide enough evidence to contradict this claim.
+* The context is discussing the possibility of differences in toxicity, but it does not provide a definitive statement about the exact relationship between the toxicity in the two tests.<|eot_id|>

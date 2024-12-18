@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: But they also don't seem to mind when the tranquillity of a Zen temple rock garden is shattered by recorded announcements blaring from loudspeakers parroting the information already contained in the leaflets provided at the ticket office; when heavy-metal pop music loudly emanates from the radio of the middle-aged owner of a corner grocery store; and when parks, gardens, and hallowed temples are ringed by garish souvenir shops whose shelves display both the tastefully understated and the hideously kitsch. 
+Statement: A Zen temple rock garden is a a place for lots of people to gather and celebrate. 
+Answer: [/INST] 1. A Zen temple rock garden is not a popular gathering place for large groups of people.
+2. Zen temple rock gardens do not typically host celebrations.
+3. The statement ignores the tranquility typically associated with Zen temple rock gardens.
+4. The statement contradicts the context, which describes the disruption of the peace in a Zen temple rock garden.</s>

@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: or just get out and walk uh or even jog a little although i don't do that regularly but Washington's a great place to do that 
+Statement: "I regularly go for a walk or a jog at Washington's." 
+Answer: [/INST] 1. The context does not indicate the speaker's current habits or routine.
+2. The statement could be true or false, as the context does not provide enough information to confirm.
+3. The statement might be referring to a different Washington (not the one the speaker is referring to).
+4. The speaker in the context might have changed their habits since making the statement.
+5. The statement could be true for the person making it, but false for the speaker in the context.
+6. The context does not specify the frequency of the speaker's walks or jogs, making a direct comparison difficult.
+7. The statement could be true in the present, but was not true when the context was given.
+8. The context does not indicate whether the speaker's walks or jogs are solely in Washington or if they could be in other places as well.</s>

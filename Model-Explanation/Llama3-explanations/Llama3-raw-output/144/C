@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: If you have the energy to climb the 387 steps to the top of the south tower, you will be rewarded with a stunning view over the city. 
+Statement: The south tower has the best view in the city. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement only mentions the view from the top of the south tower, not comparing it to other towers or views in the city.
+* The context only guarantees a "stunning view", not necessarily the "best view".
+* There might be other towers or viewpoints in the city that offer better views.
+* The view from the south tower might be stunning, but not necessarily the best.
+* The context does not provide a comprehensive comparison of all views in the city.
+* The statement makes an absolute claim ("the best view"), which is not supported by the context.<|eot_id|>

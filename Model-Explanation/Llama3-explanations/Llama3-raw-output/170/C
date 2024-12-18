@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: BUDGETARY RESOURCES - The forms of authority given to an agency allowing it to incur obligations. 
+Statement: Administrations generally feel that some agencies should have more budgetary resources than others. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The context only defines what budgetary resources are, but does not provide any information about administrations' feelings or opinions.
+* The context does not mention any comparison between agencies in terms of budgetary resources.
+* The context does not imply that administrations have any role in deciding which agencies should have more budgetary resources.
+* The context does not provide any information about the distribution of budgetary resources among agencies.
+* The statement is making a claim about administrations' feelings, which is not supported by the provided context.<|eot_id|>

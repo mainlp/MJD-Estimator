@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: oh really it wouldn't matter if we plant them when it was starting to get warmer 
+Statement: It is better to plant when it is colder. 
+Answer: [/INST] 1. Planting in warmer conditions is more beneficial.
+2. Cold temperatures hinder plant growth.
+3. Waiting for colder weather to plant is recommended.
+4. Plants thrive in warmth, not cold.
+5. Planting in cold weather is less effective than in warmer conditions.
+6. Warmer temperatures are ideal for planting.
+7. Planting in colder weather goes against the suggested practice.
+8. Planting when it's starting to get warmer is the correct time.
+9. Warm weather enhances plant growth.
+10. Cold weather has a negative impact on planting.</s>

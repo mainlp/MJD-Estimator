@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The logic of analysis in case studies is the same 
+Statement: The logic for the case studies is the same thing as in the data collection. 
+Answer: [/INST] 1. The context doesn't specify that the logic of data collection is the same as the logic of analysis in case studies.
+2. The statement could be undetermined if the logic for data collection is not explicitly defined or explained.
+3. The statement is neutral because the context doesn't provide enough information to confirm or contradict it.
+4. The term "same thing" in the statement can be ambiguous and open to interpretation.
+5. The statement might be assuming that the logic for data collection and analysis in case studies are identical, but the context does not support this assumption.
+6. The statement could be referring to a specific type of logic, but the context does not provide enough information to determine if this is the case.
+7. The statement might be true if the logic for data collection and analysis in case studies are the same, but the context does not provide enough evidence to confirm this.
+8. The statement might be false if the logic for data collection and analysis in case studies are different, but the context does not provide enough evidence to contradict this.
+9. The statement is neutral because it does not provide any evidence or reasoning to support its claim.
+10. The statement is und

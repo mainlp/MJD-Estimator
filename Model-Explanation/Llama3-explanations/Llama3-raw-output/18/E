@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Marriage is an important institution. 
+Statement: Marriage is crucial to society. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* "Important" and "crucial" are synonyms, implying that the statement is a paraphrase of the context.
+* Something that is important is likely to be crucial, as importance often implies a significant impact or role.
+* An institution that is important is likely to be essential or vital (crucial) to the functioning or well-being of society.
+* The context sets a positive tone, implying that marriage has a significant positive impact on society, which is consistent with the idea that it is crucial.
+* The statement is a logical extension of the context, as something that is important is likely to have a significant influence or be necessary for the proper functioning of society.<|eot_id|>

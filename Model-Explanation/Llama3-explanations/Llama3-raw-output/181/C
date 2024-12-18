@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Expenses included in calculating net cost for education and training programs that are intended to increase or maintain national economic productive capacity shall be reported as investments in human capital as required supplementary stewardship information accompanying the financial statements of the Federal Government and its component units. 
+Statement: Net cost for college programs can be calculated as a way to increase productivity. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions "education and training programs" without specifying "college programs" which might have different characteristics or requirements.
+* The context emphasizes "national economic productive capacity" which might not be the primary goal of college programs.
+* The context requires reporting as "investments in human capital" which might not be the primary purpose of calculating net cost for college programs.
+* The context is specific to the Federal Government and its component units, whereas college programs might be offered by private institutions or state governments.
+* The context mentions "required supplementary stewardship information" which might imply a specific reporting requirement that does not apply to college programs.
+* The statement does not mention the reporting requirement as part of the calculation, which is a crucial aspect of the context.<|eot_id|>

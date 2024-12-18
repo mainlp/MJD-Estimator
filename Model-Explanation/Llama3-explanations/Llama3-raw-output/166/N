@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: right oh they've really done uh good job of keeping everybody informed of what's going on sometimes i've wondered if it wasn't almost more than we needed to know 
+Statement: I think I have shared too much information with everyone, so next year I will share less.  
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not mention the speaker's actions or intentions, only their opinion about the job of keeping everybody informed.
+* The context does not provide any information about the speaker's past actions, so it is unclear if they have shared too much information or not.
+* The context does not establish a clear connection between the speaker's opinion about the job of keeping everybody informed and their own actions.
+* The context does not provide any evidence that the speaker has shared too much information, only their opinion about the amount of information provided by others.
+* The context does not imply that the speaker has regret or remorse about sharing information, which is necessary to infer that they will share less next year.
+* The context does not provide any information about the speaker's future plans or intentions, only their opinion about the past.
+* The context does not establish a clear cause-and-effect relationship between the speaker's opinion and their future actions.
+* The context does not provide any information about the speaker's audience or the context in which they will share information next year, which is necessary to infer that they will share less.<|eot_id|>

@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: It has served as a fortress for the Gallo-Romans, the Visigoths, Franks, and medieval French (you can see the layers of their masonry in the ramparts). 
+Statement: The fortress was built by the medieval French in 1173. 
+Answer: [/INST] 1. The statement could be referring to a different fortress than the one mentioned in the context.
+2. The word "built" could be interpreted as "rebuilt" or "added to," rather than constructing the entire structure.
+3. The medieval French could have made significant renovations or expansions to the fortress in 1173, but not necessarily built it from the ground up.
+4. The context only mentions that the medieval French were among the groups that used the fortress, not necessarily that they built it.
+5. The statement does not specify whether the medieval French built the entire fortress or just a part of it.
+6. The context provides no information about the construction date of the fortress, making it possible that it was built before 1173 by a different group.
+7. The statement does not specify whether the fortress was in continuous use from the time of the Gallo-Romans to the medieval French, or if there were periods of disuse or use by other groups in between.</s>

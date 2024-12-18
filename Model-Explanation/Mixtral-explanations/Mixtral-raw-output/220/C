@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Although the accounting and reporting model needs to be updated, in my view, the current attest and assurance model is also out of date. 
+Statement: The accounting model needs to be updated in addition to the acquisition model. 
+Answer: [/INST] 1. The statement implies that the acquisition model is the only model in need of an update along with the accounting model, which contradicts the context that states the attest and assurance model is also out of date.
+2. The statement specifies the acquisition model, while the context mentions the attest and assurance model, indicating a different model in need of an update.
+3. The context indicates that there are two models in need of an update (accounting and attest/assurance), but the statement suggests that there are only updates required for the accounting and acquisition models.</s>

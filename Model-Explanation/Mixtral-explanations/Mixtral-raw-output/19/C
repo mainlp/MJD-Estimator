@@ -1,0 +1,18 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The Women's Haven, which provides shelter and outreach to domestic-violence victims, already has a full-time attorney. 
+Statement: The Haven is a useful resource in the community. 
+Answer: [/INST] 1. The Haven doesn't offer any other resources beyond legal assistance.
+2. The Haven's attorney is not competent or experienced in handling domestic-violence cases.
+3. The Haven's attorney is only available part-time, not full-time.
+4. The Haven's services are not accessible to the community.
+5. The Haven's attorney does not provide adequate assistance to all victims.
+6. The Haven's attorney has a history of mishandling cases.
+7. The Haven's attorney is not culturally competent to serve the diverse needs of the community.
+8. The Haven's attorney provides services that are not relevant to the needs of the community.
+9. The Haven's attorney is not affordable for all victims.
+10. The Haven's attorney is not trustworthy.
+11. The Haven's attorney provides services that are not confidential.
+12. The Haven's attorney provides services that are not timely.
+13. The Haven's attorney provides services that are not comprehensive.
+14. The Haven's attorney provides services that are not victim-centered.
+15. The Haven

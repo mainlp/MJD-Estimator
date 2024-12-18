@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The importer pays duties that are required by law 
+Statement: Imported goods have duties 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions that the importer pays duties, but it does not explicitly state that the duties are a property of the imported goods.
+* The duties might be paid by the importer, but it's unclear if the duties are inherently associated with the goods or if they are a separate entity.
+* The context focuses on the action of paying duties, rather than the existence or characteristics of the duties themselves.
+* The statement is too vague, and it's unclear what kind of duties are being referred to (e.g., customs duties, taxes, etc.).
+* The context does not provide enough information to determine whether the duties are a necessary or inherent feature of imported goods.
+* The statement could be interpreted as making a claim about the existence of duties in general, rather than specifically about imported goods.<|eot_id|>

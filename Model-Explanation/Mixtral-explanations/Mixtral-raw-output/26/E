@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: But I'll take up my stand somewhere near, and when he comes out of the building I'll drop a handkerchief or something, and off you go!" 
+Statement: I want you to follow him, so watch for the signal that I give. 
+Answer: [/INST] 1. The speaker will position themselves close to the building where the person of interest will exit.
+2. The speaker intends to give a signal, such as dropping a handkerchief, to indicate when the person of interest is coming out.
+3. The speaker's signal is meant to be a cue for the listener to follow the person of interest.
+4. The listener is expected to watch for the speaker's signal in order to start following the person of interest.
+5. The speaker's action of giving a signal and the listener's action of following are both necessary for the intended action to take place.
+6. The speaker's statement implies that the listener's following of the person of interest is contingent on the speaker's signal.
+7. The speaker's statement indicates that the listener is to follow the person of interest after the speaker gives the signal.
+8. The speaker's statement implies that the listener is ready and willing to follow the person of interest when prompted.</s>

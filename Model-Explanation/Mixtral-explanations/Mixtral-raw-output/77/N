@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: There should be someone here who knew more of what was going on in this world than he did now. 
+Statement: He knew things, but hoped someone else knew more.  
+Answer: [/INST] 1. The "he" in the statement could refer to a different person than the "he" in the context.
+2. The "someone else" that "he" hoped knew more could be referring to multiple people, making it unclear if any of them are the same as the person mentioned in the context.
+3. The "things" that "he" knew could be unrelated to what is going on in the world, as mentioned in the context.
+4. The "someone" referred to in the context might not overlap with the "someone else" mentioned in the statement.
+5. The statement could be expressing a hypothetical situation, not reflecting the current reality.
+6. The statement could be referring to specific areas of knowledge, while the context is about general knowledge.
+7. The "more" in the statement could be referring to a different kind or amount of knowledge than what is implied in the context.</s>

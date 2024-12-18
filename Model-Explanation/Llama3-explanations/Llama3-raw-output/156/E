@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Recently, however, I have settled down and become decidedly less experimental. 
+Statement: I have lost my experimental nature due to old age. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The phrase "settled down" implies a decrease in adventurous or experimental behavior, which is consistent with losing an experimental nature.
+* The phrase "become decidedly less experimental" directly states a decrease in experimental behavior, which is equivalent to losing an experimental nature.
+* The context implies a correlation between age and a decrease in experimental behavior, suggesting that old age may be a contributing factor to losing an experimental nature.
+* The use of "however" at the beginning of the context sentence implies a contrast with a previous state, which may have been more experimental, and the current state is less so, possibly due to old age.
+* The phrase "Recently, I have settled down" implies a change from a previous state, which may have been more experimental, and this change may be attributed to old age.<|eot_id|>

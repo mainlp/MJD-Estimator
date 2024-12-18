@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Lie back, and DON'T THINK. 
+Statement: Lie back, and do not use your crazy mind. 
+Answer: [/INST] 1. The statement "Lie back, and do not use your crazy mind" implies that the listener should still use some part of their mind, just not the "crazy" part. This is a contradiction with the context, which instructs the listener to not think at all.
+2. The statement uses the phrase "do not use your crazy mind," which suggests that the listener has a mind that is prone to being "crazy" or uncontrollable. This is a contradiction with the context, which implies that the listener is capable of following instructions and not thinking.
+3. The statement implies that the listener has some control over which parts of their mind they use, and which they do not. This is a contradiction with the context, which implies that the listener should not be thinking at all.
+4. The statement uses the word "crazy" to describe the listener's mind, which is a value judgment and implies that certain types of thinking are negative or undesirable. This is a contradiction with the context, which simply instructs the listener to not think.
+5. The statement implies that the listener's mind is a separate entity that can be turned on or off, like a machine

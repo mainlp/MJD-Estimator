@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: if it had rained any more in the last two weeks instead of planting Saint Augustine grass in the front yard i think i would have plowed everything under and had a rice field 
+Statement: It has rained enough to flood everything here and make rice pattys. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context only mentions the hypothetical scenario of having a rice field if it had rained more, but it doesn't provide information about the current rainfall situation.
+* The statement claims that it has rained enough to flood everything, but the context doesn't provide evidence to support or contradict this claim.
+* The context talks about the speaker's hypothetical decision to plow everything under and have a rice field, but it doesn't imply that the current situation is suitable for rice patties.
+* The statement's claim about making rice patties is not explicitly supported or denied by the context, which only mentions the idea of having a rice field.
+* The context's focus is on the speaker's hypothetical decision, rather than providing factual information about the current weather or soil conditions.
+* The statement's language is too strong ("flood everything") and might not be literally true, but the context doesn't provide enough information to determine its accuracy.<|eot_id|>

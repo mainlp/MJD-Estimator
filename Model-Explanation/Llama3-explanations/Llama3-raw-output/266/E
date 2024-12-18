@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Jon twisted the man's wrist. 
+Statement: Jon grabbed the man. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+1. Twisting someone's wrist implies physical contact, which requires grabbing or holding onto the person.
+2. The action of twisting a wrist is a specific type of grabbing or grasping, so grabbing is a more general action that encompasses twisting.
+3. To twist someone's wrist, Jon must have had a firm grip on the man's wrist, which means he was grabbing it.
+4. The context implies a physical altercation, and grabbing is a common action in such situations, making it a plausible inference.
+5. Twisting a wrist often requires a certain degree of force or control, which is typically achieved by grabbing or holding onto the person.<|eot_id|>

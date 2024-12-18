@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: 'But if White has any designs at all on living, he'll be as far from Little as he can possibly get by now.' 
+Statement: White should be afraid to come back to Little. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context implies that White should avoid Little for survival, but it doesn't explicitly state that White should be afraid.
+* The context suggests a causal relationship between White's presence near Little and danger, but it doesn't provide enough information to infer White's emotional state (fear).
+* The statement assumes White's emotional response (fear) which is not explicitly mentioned in the context.
+* The context focuses on White's action (avoiding Little) rather than their emotional state (fear).
+* The statement is making an inference about White's emotional state based on the context, but it's not a direct logical consequence.
+* The context provides a recommendation for White's action, but it doesn't provide enough information to determine White's emotional state.
+* The statement is trying to infer White's emotional state from their expected action, which is not a guaranteed correlation.<|eot_id|>

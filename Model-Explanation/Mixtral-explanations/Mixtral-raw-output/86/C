@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The Chinese calendar was used to calculate the year of Japan's foundation by counting back the 1,260 years of the Chinese cosmological cycle. 
+Statement: The calculation of Japan's year of foundation was very exact. 
+Answer: [/INST] * The Chinese calendar is not an exact system for dating events.
+* The 1,260-year Chinese cosmological cycle is not a precise measurement.
+* Counting back years in a calendar can result in imprecise calculations.
+* The Chinese calendar's use for calculating Japan's foundation year is not necessarily accurate.
+* The method of using the Chinese calendar to calculate Japan's foundation year may not be reliable.
+* The Chinese calendar's use for historical dating is subject to error.
+* The calculation of Japan's foundation year based on the Chinese calendar may not be accepted by all historians.
+* The Chinese calendar's use for calculating historical events may not be universally accepted.
+* The calculation of Japan's foundation year using the Chinese calendar may not be considered definitive.
+* The Chinese calendar's use for calculating historical dates is not always exact.</s>

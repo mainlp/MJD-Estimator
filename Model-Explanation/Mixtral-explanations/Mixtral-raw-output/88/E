@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Don't take it to heart, lad, he said kindly. 
+Statement: He was trying to console the lad. 
+Answer: [/INST] 1. The speaker's use of the phrase "don't take it to heart" is a common way to console someone who is upset or hurt.
+2. The tone of the speaker, described as "kindly," suggests an attempt to comfort or alleviate distress.
+3. The speaker's advice not to take something personally implies a concern for the lad's feelings, which is a form of consolation.
+4. The speaker's words and tone together indicate an intent to soothe or reassure the lad, which is consistent with an effort to console.</s>

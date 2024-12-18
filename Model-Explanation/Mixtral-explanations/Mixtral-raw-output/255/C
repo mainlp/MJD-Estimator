@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Several of the organizations had professional and administrative staffs that provided analytical capabilities and facilitated their members' participation in the organization's activities. 
+Statement: Organizations had mandatory bonding exercises for their members. 
+Answer: [/INST] 1. Organizations did not have any activities that were required for members to participate in.
+2. There were no exercises or events that were designed to promote camaraderie or teamwork among members.
+3. If there were any exercises or activities, they were not mandatory for members to attend.
+4. The staffs of the organizations did not facilitate any bonding exercises or activities.
+5. The analytical capabilities of the staffs did not include organizing bonding exercises or activities.
+6. The organizations' members did not have the opportunity to participate in any bonding exercises or activities.
+7. The statement that organizations had bonding exercises for their members is not true for the specific organizations being referred to in the context.</s>

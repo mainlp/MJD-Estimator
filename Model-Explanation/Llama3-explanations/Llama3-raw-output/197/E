@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The chart to which Reich refers was actually presented during Saxton's opening statement, hours before Reich testified, and did not look as Reich claims it did. 
+Statement: Reich refers to a chart that he misunderstood. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+1. Reich refers to a chart that was presented during Saxton's opening statement.
+2. The chart presented during Saxton's opening statement did not look as Reich claims it did.
+3. Reich's claims about the chart are incorrect.
+4. Reich has a mistaken understanding of the chart.
+5. The chart Reich refers to is not as he described it.<|eot_id|>

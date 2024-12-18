@@ -1,0 +1,19 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: She didn't listen. 
+Statement: She did not listen to the noise. 
+Answer: [/INST] 1. She was the one making the noise.
+2. She was focused on reading, not listening.
+3. She was asleep and didn't hear anything.
+4. She was wearing earplugs and couldn't hear the noise.
+5. She intentionally ignored the noise.
+6. She is deaf and didn't hear the noise.
+7. She was in a different room when the noise occurred.
+8. She was paying attention to something visual, not auditory.
+9. She was in a loud environment, so she didn't notice the specific noise.
+10. She has hearing problems and didn't realize there was a noise.
+11. She was distracted by a conversation or phone call.
+12. She was playing music and didn't hear the noise over the music.
+13. She was busy with a task and didn't have time to listen to the noise.
+14. She was in a meeting and couldn't listen to the noise.
+15. She was watching a movie or TV show and didn't hear the noise.
+16. She was in a trance or meditative state and didn'

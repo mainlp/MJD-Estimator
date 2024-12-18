@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: During his disastrous campaign in Russia, he found time in Moscow to draw up a new statute for the Com??die-Francaise (the national theater), which had been dissolved during the Revolution. 
+Statement: Russia has been successfully invaded hundreds of times. 
+Answer: [/INST] 1. The statement refers to Russia being invaded by external forces, while the context refers to a French internal matter (the Comédie-Française).
+2. The statement implies that Russia is frequently invaded, while the context suggests that Russia was able to maintain a national theater despite the Revolution, indicating some level of stability.
+3. The statement suggests that Russia is vulnerable to invasions, but the context shows that Russia was able to successfully campaign in a foreign country (Moscow), indicating strength.
+4. The statement is about multiple invasions throughout history, while the context is about a specific time period (Napoleon's campaign in Russia).
+5. The statement is about successful invasions, while the context implies that Napoleon's campaign was disastrous.</s>

@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Tuppence rose. 
+Statement: Tuppence stood up. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* "Rose" is a synonym for "stood up", implying that Tuppence changed from a seated to a standing position.
+* The phrase "Tuppence rose" implies a physical action of getting up from a seated or lying down position, which means Tuppence stood up.
+* "Rose" can be interpreted as "got up", which is equivalent to standing up, so Tuppence stood up.
+* The context suggests that Tuppence was previously in a seated or recumbent position and then changed to a standing position, which is described by the statement "Tuppence stood up".
+* The verb "rose" implies upward motion, which in this context means Tuppence moved from a lower to a higher position, resulting in standing up.<|eot_id|>

@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: well they're so close to an undefeated undefeated season they can taste it and they wanna make history so i don't think they're gonna lack for motivation 
+Statement: Unless they suffer any losses, they'll remain motivated. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context implies the team is motivated to achieve an undefeated season, but the statement only talks about remaining motivated unless they suffer losses, without explicitly stating they are motivated to begin with.
+* The context mentions motivation in the context of making history, but the statement only talks about remaining motivated in general, without specifying the reason.
+* The statement is a hypothetical scenario, whereas the context is discussing the team's current situation and their desire to make history.
+* The context implies a positive outcome (remaining undefeated), while the statement is conditional and focuses on the negative scenario (suffering losses).
+* The statement's meaning is not entirely clear, as it could be interpreted as either "if they don't lose, they'll stay motivated" or "if they don't lose, they'll become motivated".
+* The context does not provide enough information to determine whether the team's motivation is solely dependent on not suffering losses or if there are other factors at play.<|eot_id|>

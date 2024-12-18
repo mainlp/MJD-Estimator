@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: apparently apparently the appraisers likes it because our taxes sure is high  isn't it it really is 
+Statement: We wished the taxes were lower. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The speaker is complaining about high taxes, implying they wish they were lower.
+* The phrase "our taxes sure is high" expresses dissatisfaction, which suggests the speaker wishes for lower taxes.
+* The tone of the context, which is informal and conversational, implies a sense of frustration, leading to the inference that the speaker wishes for lower taxes.
+* The use of the phrase "isn't it" is a rhetorical question, implying that the speaker takes it as a given that the taxes are high and undesirable, and therefore wishes they were lower.
+* The context implies that the appraisers' liking something (likely the high valuation of a property) is the cause of the high taxes, and the speaker wishes this were not the case, i.e., they wish the taxes were lower.<|eot_id|>

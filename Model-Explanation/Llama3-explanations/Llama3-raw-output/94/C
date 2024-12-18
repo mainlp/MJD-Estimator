@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The living is not equal to the Ritz, he observed with a sigh. 
+Statement: The living is nothing compared to the glamour of the Ritz, he said sadly. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The verb "observed" does not match the verb "said" in the statement.
+* The adverb "with a sigh" does not match the adverb "sadly" in the statement.
+* The phrase "is not equal to" does not match the phrase "is nothing compared to" in the statement.
+* The word "not equal" has a different connotation than "nothing compared to", implying a difference in degree rather than a complete lack.
+* The tone of the context is more neutral/matter-of-fact, whereas the tone of the statement is more emotional/sad.<|eot_id|>

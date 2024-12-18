@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Expenses included in calculating net cost for education and training programs that are intended to increase or maintain national economic productive capacity shall be reported as investments in human capital as required supplementary stewardship information accompanying the financial statements of the Federal Government and its component units. 
+Statement: Net cost for college programs can be calculated as a way to increase productivity. 
+Answer: [/INST] 1. College programs, as a type of education and training program, can be intended to increase national economic productive capacity.
+2. When calculating the net cost of college programs, expenses related to increasing or maintaining productivity are included.
+3. Reporting the net cost of college programs as investments in human capital is required supplementary stewardship information.
+4. By calculating the net cost of college programs, a way to measure the investment in human capital is obtained, which can be used to increase productivity.</s>

@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Just like we have hairpins and powder-puffs." Tommy handed over a rather shabby green notebook, and Tuppence began writing busily. 
+Statement: Tommy handed Tuppence an empty shabby green notebook. 
+Answer: [/INST] 1. The notebook Tommy handed Tuppence was already empty when he owned it.
+2. Tuppence emptied the notebook herself after receiving it and it was previously filled with writing or other content.
+3. The shabby green notebook, when possessed by Tommy, never contained any writing or other content.
+4. The story's context doesn't provide information about the notebook's content, but it implies that Tommy handed over the notebook in a similar manner as one would hand over a hairpin or a powder-puff, which are both empty items by nature.</s>

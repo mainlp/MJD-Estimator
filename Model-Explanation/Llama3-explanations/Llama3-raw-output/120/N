@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Even if auditors do not follow such other standards and methodologies, they may still serve as a useful source of guidance to auditors in planning their work under GAGAS. 
+Statement: GAGAS requires strict compliance for auditors to follow. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not explicitly state that GAGAS requires strict compliance, but rather mentions that auditors may still find other standards and methodologies useful in planning their work under GAGAS.
+* The context implies that auditors have some flexibility in their approach, as they may choose to follow other standards and methodologies, which suggests that strict compliance may not be required.
+* The context focuses on the usefulness of other standards and methodologies, rather than emphasizing the necessity of strict compliance with GAGAS.
+* The statement is not explicitly contradicted by the context, but it is also not supported or implied by the provided information.
+* The context does not provide enough information to determine whether GAGAS requires strict compliance or not.
+* The statement makes a claim about the requirements of GAGAS, but the context does not provide sufficient evidence to support or refute this claim.<|eot_id|>

@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The great attraction of the church is the splendid exterior, which is crowned by golden onion-shaped cupolas. 
+Statement: The outside of the church isn't much to look at, but the inside is intricately decorated. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement describes the outside as unimpressive, but the context states it's splendid.
+* The context highlights the exterior's golden onion-shaped cupolas, implying it's visually striking, whereas the statement downplays its attractiveness.
+* The statement suggests the inside is the main attraction, but the context emphasizes the exterior as the great attraction.
+* The context focuses on the exterior's beauty, while the statement shifts attention to the interior's decoration.<|eot_id|>

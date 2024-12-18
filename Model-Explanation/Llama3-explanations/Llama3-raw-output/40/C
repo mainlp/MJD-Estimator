@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: yes they would they just wouldn't be able to own the kind of automobiles that they think they deserve to own or the kind of homes that we think we deserve to own we might have to you know just be able to i think if we a generation went without debt then the next generation like if if our our generation my husband and i we're twenty eight if we lived our lives and didn't become you know indebted like you know our generation before us that um the budget would balance and that we became accustomed to living with what we could afford which we wouldn't be destitute i mean we wouldn't be living on the street by any means but just compared to how spoiled we are we would be in our own minds but i feel like the generation after us would oh man it it would be so good it would be so much better it wouldn't be perfect but then they could learn to live with what what they could afford to save to buy and if you want a nicer car than that well you save a little longer 
+Statement: I am glad our generation has no debt. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The speaker is 28 years old and implies that their generation is already in debt.
+* The speaker wishes their generation had no debt, but acknowledges that they do.
+* The speaker is comparing their generation to a hypothetical scenario where they live without debt, implying that their current situation is not debt-free.
+* The speaker is expressing a desire for a debt-free life, which suggests that they do not currently have one.
+* The speaker mentions "if we a generation went without debt", which implies that they do not currently have a debt-free generation.<|eot_id|>

@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The chart to which Reich refers was actually presented during Saxton's opening statement, hours before Reich testified, and did not look as Reich claims it did. 
+Statement: Reich refers to a chart that he misunderstood. 
+Answer: [/INST] 1. Reich incorrectly remembered the appearance of the chart.
+2. Reich was not present when the original chart was shown.
+3. Reich was given a misdescription of the chart before his testimony.
+4. Reich's understanding of the chart was based on a second-hand account.
+5. Reich was confused about the chart he was referring to.
+6. Reich's perception of the chart was different from its actual appearance.
+7. Reich's statement about the chart was not based on his firsthand experience.
+8. Reich's testimony about the chart was not accurate.
+9. Reich misunderstood the content of the chart.
+10. Reich's statement about the chart was not consistent with the chart presented during Saxton's opening statement.</s>

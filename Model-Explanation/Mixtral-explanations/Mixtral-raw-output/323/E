@@ -1,0 +1,15 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: I am glad she wasn't, said Jon. 
+Statement: Jon was sad that she wasn't happy. 
+Answer: [/INST] 1. Jon was expressing relief that she avoided feeling unhappy.
+2. Jon was pleased that she was in a state of non-happiness, but not necessarily sadness.
+3. Jon felt content that she wasn't experiencing happiness.
+4. Jon had a negative emotional response to her lack of happiness.
+5. Jon was not disappointed that she wasn't happy.
+6. Jon experienced a feeling of joy knowing that she wasn't happy.
+7. Jon was satisfied with her non-happy state.
+8. Jon was not upset that she wasn't experiencing happiness.
+9. Jon felt some form of positive emotion because she wasn't happy.
+10. Jon was not distressed that she wasn't happy.
+
+Note: The statement "Jon was sad that she wasn't happy" implies that Jon had a negative emotional reaction to her lack of happiness, but the specific emotion could range from mild disappointment to deep sadness. The context provided does not specify the intensity of Jon's emotion, only that it was not one of happiness or pleasure.</s>

@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Other functional components of the Postal Service are presumed here not to exhibit significant scale economies, although this has not been demonstrated. 
+Statement: The Postal Service only operates very large scale economies. 
+Answer: [/INST] 1. The Postal Service has other functional components that exhibit moderate scale economies.
+2. Some functional components of the Postal Service display small scale economies.
+3. The Postal Service has functional components with no scale economies.
+4. Certain parts of the Postal Service have decreasing returns to scale.
+5. The Postal Service has functional components that exhibit scale economies, but not only large scale economies.</s>

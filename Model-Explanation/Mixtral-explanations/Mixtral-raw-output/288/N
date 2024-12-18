@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: How effectively DOD manages these funds will determine whether it receives a good return on its investment. 
+Statement: These funds are for the purchase of five thousand tons of potatoes. 
+Answer: [/INST] 1. The DOD's return on investment may not be directly tied to the purchase of potatoes.
+2. The context does not specify if the funds' usage aligns with the DOD's goals for a good return.
+3. The potato purchase may be a small portion of the DOD's investments, not indicative of overall management.
+4. The context does not indicate if the potato purchase is a wise investment.
+5. The statement doesn't provide information about the DOD's management effectiveness in potato procurement.
+6. The statement doesn't mention if the potato purchase contributes to the DOD's primary objectives.
+7. The context does not reveal if the potato purchase is consistent with the DOD's investment strategy.
+8. The statement doesn't clarify if the potato purchase is timed appropriately for a good return.
+9. The context does not indicate if the potato purchase is in line with market trends and prices.
+10. The statement doesn't provide information about the quality of the potatoes being purchased.</s>

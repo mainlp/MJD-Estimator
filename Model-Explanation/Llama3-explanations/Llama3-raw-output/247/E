@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: My unborn children will never appear on the Today show. 
+Statement: No direct descendent of mine will ever be a guest of the Today show. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+1. The statement is a direct paraphrase of the context, with "unborn children" being equivalent to "direct descendants".
+2. The context implies that the speaker's unborn children will not appear on the Today show, and since they are the only possible direct descendants, none of them will be a guest.
+3. The context sets a restriction on the speaker's unborn children, and this restriction is inherited by all their direct descendants, making it impossible for them to appear on the Today show.
+4. The statement is a logical extension of the context, as "unborn children" is a subset of "direct descendants", and if the former will never appear on the show, neither will the latter.
+5. The context implies a permanent and universal restriction on the speaker's offspring, which includes all direct descendants, making it impossible for any of them to be a guest on the Today show.<|eot_id|>

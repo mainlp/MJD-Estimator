@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: yeah yeah i i went i went off to school wanting to either be a high school algebra teacher or high school French teacher because my two favorite people in the in high school were my algebra teacher and French teacher and uh and i was going to do that until the end of our sophomore year when we wanted uh we came time to sign up for majors and i had taken chemistry for the first time that year and surprised myself i did well in it 
+Statement: You are required to sign up for a major freshman year. 
+Answer: [/INST] 1. Some schools allow students to sign up for majors later than freshman year.
+2. The person signed up for a major during their sophomore year, not freshman year.
+3. The person had not decided on a major until the end of their sophomore year.
+4. The person's school does not require students to declare a major.
+5. The person changed their mind about their major after freshman year.
+6. The person took chemistry in sophomore year, not freshman year.
+7. The person's school has a different academic schedule or structure.
+8. The person was undecided about their major during freshman year.
+9. The person's school does not offer algebra or French as majors.
+10. The person's school has a different system for declaring a major.</s>

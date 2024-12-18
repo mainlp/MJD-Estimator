@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Today it is possible to buy cheap papyrus printed with gaudy Egyptian scenes in almost every souvenir shop in the country, but some of the most authentic are sold at The Pharaonic Village in Cairo where the papyrus is grown, processed, and hand-painted on site. 
+Statement: The Pharaonic Village in Cairo is the only place where one can buy authentic papyrus. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is not explicitly supported by the context, which only mentions that some of the most authentic papyri are sold at The Pharaonic Village, implying that there may be other places that sell authentic papyri as well.
+* The context does not provide any information that would suggest that The Pharaonic Village has a monopoly on authentic papyrus or that it is the sole supplier of such products.
+* The phrase "some of the most authentic" implies that there are other authentic papyri available elsewhere, which contradicts the statement.
+* The context highlights the unique process of growing, processing, and hand-painting papyrus on site at The Pharaonic Village, but it does not exclude the possibility that other places may also use similar processes to create authentic papyri.<|eot_id|>

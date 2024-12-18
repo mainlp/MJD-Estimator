@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Deborah Pryce said Ohio Legal Services in Columbus will receive a $200,000 federal grant toward an online legal self-help center. 
+Statement: A $200,000 federal grant will be received by Ohio Legal Services, said Deborah Pryce, who could finally say it to the public. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The statement is a paraphrased version of the context, with the same information and entities mentioned.
+* The context states that Deborah Pryce said Ohio Legal Services will receive a $200,000 federal grant, and the statement rephrases this as "A $200,000 federal grant will be received by Ohio Legal Services, said Deborah Pryce".
+* The addition of "who could finally say it to the public" in the statement is an inference based on the context, implying that Deborah Pryce had been waiting to announce the grant publicly.
+* The statement maintains the same meaning and intent as the context, with no contradictory or additional information that would change the entailment.<|eot_id|>

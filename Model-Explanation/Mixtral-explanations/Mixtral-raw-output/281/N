@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: What the judge really wants are the facts -- he wants to make a good decision, he said. 
+Statement: In the end the judge made a bad decision since he imprisoned someone innocent. 
+Answer: [/INST] 1. The context does not specify the outcome of the judge's decision.
+2. The statement could be referring to a different case or decision than the one mentioned in the context.
+3. The statement may be based on subjective evaluations of innocence or guilt.
+4. The context focuses on the judge's desire for facts, not the quality of his decisions.
+5. The statement may not accurately reflect the situation, as the judge may have had reasons for his decision that are not mentioned in the statement.
+6. The context does not provide enough information to evaluate the quality of the judge's decision.
+7. The statement may be assuming that the judge had complete information and control over the situation, which may not be the case.
+8. The statement may be using the term "bad" in a way that is not aligned with the context's use of "good."
+9. The context and statement may be using different criteria for evaluating the judge's decision.
+10. The statement may be based on incomplete or inaccurate information.</s>

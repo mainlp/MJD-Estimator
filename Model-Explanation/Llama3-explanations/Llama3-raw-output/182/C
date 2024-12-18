@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: He watched the river flow. 
+Statement: The river roared by. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The verb "flow" implies a smooth and peaceful movement, whereas "roared" suggests a loud and turbulent sound, which are contradictory descriptions of the river's behavior.
+* The context does not mention any noise or turbulence, implying a calm scene, whereas "roared" implies a loud and intense sound.
+* The phrase "watched the river flow" suggests a serene and quiet atmosphere, which is inconsistent with the idea of the river "roaring by".
+* The verb "flow" implies a gentle movement, whereas "roared" implies a more violent or intense movement, which are mutually exclusive.
+* The context does not provide any evidence of the river making a loud noise, whereas "roared" explicitly states that it did.<|eot_id|>

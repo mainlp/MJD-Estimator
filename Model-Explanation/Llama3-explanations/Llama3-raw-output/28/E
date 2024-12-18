@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: He jumped up, planting one hand on the charging horse, and came at the brute with the axe. 
+Statement: He swung at the brute with his sword. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* There is no mention of a sword in the context, but it's possible that "axe" is being used to refer to a sword.
+* The context only mentions an axe, but it's possible that he had a sword in his other hand.
+* The sentence structure and wording are similar, so it's possible that "axe" and "sword" are being used interchangeably.
+* The context doesn't explicitly state that he didn't have a sword, so it's possible that he did have one and used it.
+* The focus is on the action of swinging at the brute, and the weapon used is not the primary concern, so it's possible that the statement is true even if the weapon is different.<|eot_id|>

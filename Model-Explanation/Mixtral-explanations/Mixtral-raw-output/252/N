@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Catch up on the Indian avant-garde and the bohemian people of Caletta at the Academy of Fine Arts on the southeast corner of the Maidan. 
+Statement: The Academy of Fine Arts is located in Northern Maidan. 
+Answer: [/INST] 1. The context does not provide information about the location or layout of the Maidan, making it unclear whether the southeast corner is also considered northern.
+2. The term "Northern Maidan" could be a colloquial or local term that differs from the official or commonly accepted cardinal directions.
+3. The Academy of Fine Arts could be located on the edge of the Maidan, with the southeast corner in the north part of the Maidan, creating a neutral inference.
+4. The context might be referring to a different Maidan than what the speaker or reader has in mind, leading to a neutral inference.
+5. The context could be outdated, and the location of the Academy of Fine Arts has changed since it was written.
+6. The speaker's or writer's understanding of the cardinal directions could differ, leading to a neutral inference.
+7. The statement could be true if the Maidan is not a perfect square or circle, and the Academy of Fine Arts is located on the northern edge of the Maidan but not on the exact northeast corner.
+8. The statement could be false if the Maidan is

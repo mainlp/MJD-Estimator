@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The logic of analysis in case studies is the same 
+Statement: The logic for the case studies is the same thing as in the data collection. 
+Answer: [/INST] 1. The logic for the case studies is a different process than the one used for data collection.
+2. The data collection process does not involve any logic, it's just about gathering information.
+3. The logic in the case studies is unique to them and does not correspond to the logic of data collection.
+4. The data collection process and the case studies are guided by different principles or methods.
+5. The logic in the case studies is not applicable to the data collection process.
+6. The data collection process has its own specific logic, which is not shared with the case studies.
+7. The logic in the case studies is not used at any stage of the data collection process.
+8. The data collection process and the case studies are based on different logical frameworks.
+9. The logic in the case studies is not transferable to the data collection process.
+10. The data collection process and the case studies are separate entities with distinct logical structures.</s>

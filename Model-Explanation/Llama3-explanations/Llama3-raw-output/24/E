@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: So is the salt, drying in the huge, square pans at Las Salinas in the south. 
+Statement: Pepper is made wet in Las Salinas. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* There is no mention of pepper being made or processed in Las Salinas, so the statement is not supported by the context.
+* The context only talks about salt, not pepper, so it's unlikely that pepper is made wet in Las Salinas.
+* The context describes salt as "drying" in Las Salinas, implying that the environment is dry, which contradicts the idea of pepper being made wet.
+* There is no logical connection between the processing of salt and the processing of pepper in the given context.<|eot_id|>

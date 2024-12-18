@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The cane plantations, increasingly in the hands of American tycoons, found a ready market in the US. 
+Statement: The US market was ready for the cane plantations, according to the economists. 
+Answer: [/INST] 1. American tycoons, who now own the cane plantations, are located in the US and drove the demand for cane products.
+2. The US market's readiness is indicated by the cane plantations' growing market share in the US.
+3. US economists, being familiar with the US market, concluded that the market was ready for cane products.
+4. The US market had a high demand for cane products, which was met by the cane plantations.
+5. The US market's readiness for cane products is supported by the fact that cane plantations were sold to American tycoons.
+6. The US market's demand for cane products was strong enough to attract American tycoons to invest in cane plantations.
+7. The US market's readiness for cane products is evidenced by the cane plantations' increasing sales in the US.
+8. The US market's readiness for cane products is reflected in the cane plantations' growing market share in the US.
+9. The US market's readiness for cane products is indicated by the cane plantations' expansion in the

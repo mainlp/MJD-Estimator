@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Students of human misery can savor its underlying sadness and futility. 
+Statement: Students of human misery will be delighted to see how sad it truly is. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context describes the underlying emotions as "sadness and futility", which are negative, while the statement describes the students' reaction as "delighted", which is positive, creating a contrast that makes the inference uncertain.
+* The context implies a more introspective and melancholic attitude towards human misery, whereas the statement suggests a more enthusiastic and almost voyeuristic response, making it difficult to determine the relationship between the two.
+* The context focuses on the underlying emotions of human misery, while the statement focuses on the students' reaction to it, making it unclear whether the students' delight is a result of understanding the sadness or something else.
+* The tone of the context is more somber and serious, while the tone of the statement is more upbeat and cheerful, creating a tone mismatch that makes the inference uncertain.
+* The context does not explicitly state that students of human misery will enjoy or be delighted by it, only that they can "savor" its underlying sadness, which is a more ambiguous term that does not necessarily imply pleasure or delight.
+* The statement's use of "delighted" is a strong sentiment that is not clearly supported by the context, which only implies a certain level of appreciation or understanding, but not necessarily joy or pleasure.<|eot_id|>

@@ -1,0 +1,15 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: He hadn't seen even pictures of such things since the few silent movies run in some of the little art theaters. 
+Statement: He had recently seen pictures depicting those things. 
+Answer: [/INST] 1. He saw similar images in a museum exhibit.
+2. He viewed the pictures in a book or online.
+3. He was referring to different "things" than in the original statement.
+4. He had a memory of the images, but didn't physically see them recently.
+5. He lied about seeing the pictures recently.
+6. He was joking about having seen the pictures.
+7. He was confused about when he last saw the pictures.
+8. He has some form of mental time travel ability and considers his mental revisiting of the images as "seeing" them recently.
+9. He has a unique memory condition where he can access images from his past as if he saw them recently.
+10. He has a rare form of synesthesia where certain concepts or words trigger the visualization of specific images.
+
+Note: These explanations are based on the assumption that the statement "He had recently seen pictures depicting those things" is indeed a contradiction to the context provided. If the "things" in the statement and context are not the same, then it would not be a contradiction.</s>

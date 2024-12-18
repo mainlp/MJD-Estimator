@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: But it just might be because he's afraid he'll lose his No. 
+Statement: He's definitely afraid of losing he's No. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The context implies that the reason for the subject's behavior is fear, and the statement explicitly states that fear.
+* The phrase "it just might be" in the context suggests a possibility, which is confirmed by the statement as a definite fact.
+* The context mentions "afraid he'll lose his No." which is a more specific and implicit expression of fear, and the statement makes it more general and explicit.
+* The context provides a reason for the subject's behavior, and the statement directly asserts the emotional state (fear) that is driving that behavior.
+* The statement is a more direct and confident expression of the idea presented in the context.<|eot_id|>

@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: approaches to achieving missions vary considerably between agencies. 
+Statement: Approaches to achieving missions might change a lot. 
+Answer: [/INST] 1. The context discusses variation in approaches between agencies, but it does not indicate whether these approaches are static or dynamic.
+2. The statement might refer to changes in approaches within individual agencies or across all agencies.
+3. The context does not provide information about the frequency or magnitude of changes in approaches.
+4. The statement might refer to changes in the future, while the context describes current variations.
+5. The statement might refer to changes in approaches for all missions, while the context focuses on variation between agencies for a specific set of missions.
+6. The statement might refer to changes in approaches for a subset of agencies, while the context describes variation between all agencies.
+7. The statement might refer to changes in approaches for a specific type of mission, while the context describes variation for all types of missions.
+8. The context might not include information about changes in approaches, making it impossible to determine whether the statement is true or false.</s>

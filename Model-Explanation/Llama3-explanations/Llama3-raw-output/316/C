@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: This one ended up being surprisingly easy! 
+Statement: This question was very easy to answer. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions "this one" being easy, but it's unclear if "this one" refers to the question.
+* The context uses the phrase "surprisingly easy", implying that the expectation was that it would be difficult, but the statement doesn't convey the same surprise or contrast.
+* The context is written in the past tense ("ended up"), while the statement is in the present tense ("was").
+* The context doesn't explicitly mention the question, only "this one", which could refer to a different entity or task.
+* The tone of the context is more casual and conversational, while the statement is more formal and straightforward.
+* The context implies a sense of relief or pleasant surprise, while the statement is more neutral and factual.<|eot_id|>

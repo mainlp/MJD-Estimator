@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: You wonder whether he could win a general election coming out of the right lane of the Democratic Party. 
+Statement: He will not run in a general election while he is a conservative Democrat. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* He is a conservative Democrat, which means he is not likely to win a general election coming out of the right lane of the Democratic Party, so he will not run.
+* Running in a general election requires broad appeal, which a conservative Democrat may not have, so he will not run.
+* The right lane of the Democratic Party is not a viable path to winning a general election, so he will not run.
+* He is not electable as a conservative Democrat, so he will not run in a general election.
+* His conservative views will alienate Democratic voters, making it impossible for him to win a general election, so he will not run.<|eot_id|>

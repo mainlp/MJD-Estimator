@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Then Shuman claims that Linux provides no graphical user interface. 
+Statement: They made accusations about the platform. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* Shuman did not make accusations, but rather a claim or a statement.
+* The subject "they" does not refer to Shuman, but to someone else who made accusations.
+* The accusations were not about the platform, but about something else.
+* Shuman did not make any accusations, but rather provided a neutral or factual statement about Linux.<|eot_id|>

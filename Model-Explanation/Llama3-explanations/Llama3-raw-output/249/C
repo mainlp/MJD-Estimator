@@ -1,0 +1,10 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Lie back, and DON'T THINK. 
+Statement: Lie back, and do not use your crazy mind. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* "Think" and "use your crazy mind" are equivalent, so the statement is a paraphrase of the context, but the context uses "don't" while the statement uses "do not", which are equivalent, so there is no contradiction.
+* The context only prohibits thinking, but the statement prohibits using one's crazy mind, which might be a more specific or intense form of thinking, so the statement is not necessarily a contradiction.
+* The context and statement have different wording, but the same meaning, so there is no contradiction.<|eot_id|>

@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: He jumped up, planting one hand on the charging horse, and came at the brute with the axe. 
+Statement: He swung at the brute with his sword. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context states he came at the brute with the axe, not a sword.
+* There is no mention of a sword in the context, only an axe.
+* The context implies he used the axe as the weapon, not a sword.
+* The action described in the context (coming at the brute with the axe) is incompatible with the action described in the statement (swinging at the brute with a sword).
+* The context and statement describe two different weapons being used (axe and sword).<|eot_id|>

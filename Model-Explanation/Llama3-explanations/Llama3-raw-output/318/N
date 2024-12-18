@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Transforming Control of Public Health Programs Raises Concerns ( 
+Statement: Everyone is content with the change of public health programs. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not provide any information about people's sentiments towards the change, only that it raises concerns.
+* The context only mentions "concerns" which implies a negative sentiment, but it does not explicitly state that everyone is unhappy.
+* The statement is too absolute, using "everyone" which is unlikely to be true in a real-world scenario.
+* The context does not provide a clear indication of the opinions of all individuals, only that concerns exist.
+* The statement is overly positive, which contradicts the negative tone of the context.
+* There is no evidence in the context to support the claim that everyone is content.
+* The context focuses on the concerns raised by the change, rather than the opinions of individuals.
+* The statement is too broad, and the context does not provide sufficient information to make a definitive judgment.<|eot_id|>

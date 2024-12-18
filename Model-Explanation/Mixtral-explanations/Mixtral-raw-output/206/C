@@ -1,0 +1,21 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: We always knew it was an outside chance. 
+Statement: We were never assured of it happening in time and we knew this full well. 
+Answer: [/INST] 1. There was certainty it would happen soon.
+2. We were completely confident it would occur on time.
+3. We were guaranteed that it would happen as planned.
+4. We had full assurance of its timely occurrence.
+5. We were fully assured it would happen and would be on time.
+6. It was certain to happen in time, and we were aware of this.
+7. We had no doubts about it happening on schedule.
+8. We were completely certain it would happen as expected.
+9. We had complete confidence that it would occur at the right time.
+10. We had full confidence in its timely completion.
+11. We had complete certainty it would happen as planned.
+12. We had complete assurance of its happening and being on time.
+13. We had complete assurance it would happen and were aware of it.
+14. We had full confidence it would happen and knew it well.
+15. We had full knowledge of its timely occurrence.
+16. We had complete knowledge of its happening.
+17. We had complete understanding of its timely completion.
+18. We had

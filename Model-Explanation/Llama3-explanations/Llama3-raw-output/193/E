@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: He'd gone a long way on what he'd found in one elementary book. 
+Statement: He learned a lot from that elementary book. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+1. The phrase "gone a long way" implies significant progress, which is attributed to the information found in the elementary book, indicating that he learned a lot from it.
+2. The context suggests that the elementary book was the primary source of information, and he was able to make substantial progress with it, implying that he learned a lot from the book.
+3. The fact that he was able to "go a long way" with the knowledge from a single elementary book indicates that the book provided a substantial amount of useful information, which he was able to learn and apply.
+4. The phrase "what he'd found" implies that he discovered or learned something significant from the book, which enabled him to make progress, thus supporting the claim that he learned a lot from it.
+5. The context implies a causal relationship between the information in the elementary book and his progress, suggesting that the book was a valuable source of knowledge that he was able to learn from.<|eot_id|>

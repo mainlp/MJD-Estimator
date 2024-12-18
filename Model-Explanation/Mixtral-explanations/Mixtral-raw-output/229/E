@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: GAO recommends that the Secretary of Defense revise policy and guidance 
+Statement: GAO recommends that you eat 5 fruit/veg per day 
+Answer: [/INST] 1. The statement is not related to the context, as it discusses dietary recommendations rather than Defense policy.
+2. The "you" in the statement does not refer to the Secretary of Defense, but to a general person.
+3. GAO can make recommendations on various topics, not just Defense policy.
+4. GAO's recommendation to revise policy and guidance for the Secretary of Defense is separate from any dietary recommendations.
+5. The truth of the statement "GAO recommends that you eat 5 fruit/veg per day" is not affected by the context.</s>

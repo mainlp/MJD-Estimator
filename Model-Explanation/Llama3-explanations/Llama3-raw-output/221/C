@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: After shuttering the DOE, Clinton could depict himself as a crusader against waste and bureaucracy who succeeded where even Reagan failed. 
+Statement: Reagan had tried to shutter the DOE but was unable to. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* Reagan was able to shutter the DOE.
+* Reagan did not try to shutter the DOE.
+* Reagan's attempt to shutter the DOE was successful.
+* Clinton did not shutter the DOE.
+* Clinton did not depict himself as a crusader against waste and bureaucracy.
+* Clinton did not succeed in shuttering the DOE.<|eot_id|>

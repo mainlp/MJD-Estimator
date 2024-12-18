@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: and the other thing is the cost it's almost prohibitive to bring it to a dealer 
+Statement: The cost of fixing it makes it hard to bring it to a dealer. 
+Answer: [/INST] 1. The cost of fixing the item is not a factor in bringing it to a dealer.
+2. The cost of bringing the item to a dealer is low, but the cost of fixing it is high.
+3. The cost of fixing the item is high, but it does not affect the decision to bring it to a dealer.
+4. The item has been fixed before being brought to the dealer.
+5. The cost of bringing the item to a dealer is already paid, and the high cost of fixing it is unrelated.
+6. The item is not being brought to a dealer for reasons unrelated to its cost of repair.
+7. The statement should be "The cost of bringing it to a dealer makes it hard to fix it," as the original context is about the cost of bringing it to a dealer, not the cost of fixing it.</s>

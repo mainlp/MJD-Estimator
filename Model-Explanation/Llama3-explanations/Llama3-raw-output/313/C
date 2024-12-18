@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: 5 are highly correlated during summer months in some areas. 
+Statement: Six are correlated to winter in certain areas. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The number of items correlated is different (5 vs 6).
+* The season mentioned is different (summer vs winter).
+* There is no information about correlation to winter in the context.<|eot_id|>

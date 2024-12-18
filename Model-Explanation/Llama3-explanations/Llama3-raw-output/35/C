@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The cane plantations, increasingly in the hands of American tycoons, found a ready market in the US. 
+Statement: The US market was ready for the cane plantations, according to the economists. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The context does not mention economists, so it cannot be attributed to them.
+* The context states that the cane plantations "found a ready market" which implies that the market was already ready, whereas the statement says "was ready" which implies a future or potential readiness.
+* The context does not provide any information about the economists' opinions or statements, so it cannot be said that they made any claims about the US market being ready.<|eot_id|>

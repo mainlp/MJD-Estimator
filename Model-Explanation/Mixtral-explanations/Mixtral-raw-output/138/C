@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: In the depths of the Cold War, many Americans suspected Communists had infiltrated Washington and were about to subvert our democracy. 
+Statement: Communists assisted America's government during the Cold War. 
+Answer: [/INST] 1. Communists worked against American interests.
+2. Communists were not part of the American government.
+3. Communists did not support democracy in America.
+4. The infiltration of Communists in the American government was a secretive and subversive act.
+5. The presence of Communists in the American government was seen as a threat to democracy.
+6. The general consensus during the Cold War was that Communists were a harmful force in American politics.
+7. The American public was largely suspicious and mistrustful of Communists in the government.
+8. The suspicion of Communists in the American government was due to fears of subversion and infiltration.
+9. The Cold War was marked by tensions and conflicts between capitalist and communist nations.
+10. The American government during the Cold War was actively working to counteract the spread of communism.</s>

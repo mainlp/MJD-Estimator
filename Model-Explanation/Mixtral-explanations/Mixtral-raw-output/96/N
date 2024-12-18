@@ -1,0 +1,14 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Ca'daan heard the Kal grunt and felt the horse lift. 
+Statement: The Kal heard Ca'daan grunt. 
+Answer: [/INST] 1. The grunt could have come from the horse, not Ca'daan.
+2. The text does not specify that the Kal has the ability to hear.
+3. The Kal may have been facing away from Ca'daan, making it unlikely for the Kal to hear Ca'daan's grunt.
+4. The text does not indicate that Ca'daan made any grunting sound.
+5. The Kal may have been too far away to hear Ca'daan's grunt.
+6. The text does not specify the relative positions of Ca'daan and the Kal.
+7. The Kal may have been distracted by something else and did not hear Ca'daan's grunt.
+8. The text does not indicate the volume or clarity of Ca'daan's grunt.
+9. The Kal may have been wearing hearing protection, preventing it from hearing Ca'daan's grunt.
+10. The text does not specify the ambient noise level, which could have drowned out Ca'daan's grunt.
+11. The Kal may have a hearing impairment, making it difficult for it to hear Ca'

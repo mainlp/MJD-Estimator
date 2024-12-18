@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Likewise, at their production decision reviews, these programs did not capture manufacturing and product reliability knowledge consistent with best practices. 
+Statement: Their production decision reviews located an anomaly in the data. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are possible explanations why the statement is true (entailment):
+
+* The reviews did not capture knowledge, but they did locate an anomaly.
+* The anomaly was not related to manufacturing and product reliability knowledge.
+* The reviews were not effective in capturing knowledge, but they were able to identify an anomaly.
+* The anomaly was not a result of the lack of captured knowledge.
+* The reviews had a different purpose or function beyond capturing knowledge, such as identifying anomalies.
+* The anomaly was an isolated incident and not a result of the programs' inability to capture knowledge.<|eot_id|>

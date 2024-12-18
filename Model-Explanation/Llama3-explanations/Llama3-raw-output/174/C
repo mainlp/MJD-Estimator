@@ -1,0 +1,10 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: No, I exclaimed, astonished.  
+Statement: I said no to him several time, utterly surprised by the change of events.  
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The speaker exclaimed, not said.
+* The speaker was astonished, but not utterly surprised.
+* The speaker did not say "no" several times, but only exclaimed "no" once.<|eot_id|>

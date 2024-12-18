@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Indeed, said San'doro. 
+Statement: They were certain. 
+Answer: [/INST] 1. San'doro did not share the same certainty.
+2. There was uncertainty among the group.
+3. San'doro expressed doubt or skepticism.
+4. The group's certainty was feigned or pretended.
+5. San'doro was not part of the group that was certain.
+6. The group's certainty was about a different topic.
+7. The group's certainty was only temporary.
+8. The group's certainty was not communicated to San'doro.
+9. San'doro later changed his mind and became uncertain.
+10. The group's certainty was refuted or proven wrong.</s>

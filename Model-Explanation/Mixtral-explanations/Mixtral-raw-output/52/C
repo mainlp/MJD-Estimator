@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The village is Sainte-Marie, named by the explorer when he landed on 4 November 1493, attracted by the waterfalls and river he could see flowing down the green inland mountains. 
+Statement: The village is not named after the settling explorer. 
+Answer: [/INST] 1. The village was not named by the settling explorer.
+2. The explorer's landing on 4 November 1493 did not attract him to the waterfalls and river.
+3. The village was not named Sainte-Marie.
+4. The village was named by someone other than the explorer.
+5. The explorer did not name the village.
+6. The village was not named in reference to the waterfalls and river.
+7. The waterfalls and river were not in the green inland mountains.
+8. The explorer was not attracted by the waterfalls and river.
+9. The village was not named directly after the explorer.
+10. The explorer's name was not Sainte-Marie.</s>

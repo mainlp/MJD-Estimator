@@ -1,0 +1,17 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: HCFA published a Notice of Proposed Rulemaking on March 28, 1997 (62 Fed. 
+Statement: HCFA tried to keep everyone informed about the rules they were making. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* HCFA did not publish any notice, contradicting the context.
+* The notice was not about informing everyone about the rules.
+* The notice was not about the rules they were making.
+* HCFA did not intend to keep everyone informed.
+* The notice was not a genuine attempt to inform, but rather a formality.
+* The notice was not accessible or understandable to everyone.
+* HCFA did not provide sufficient information about the rules.
+* The notice was not timely, and people were not informed when they needed to be.<|eot_id|>

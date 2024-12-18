@@ -1,0 +1,16 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Everybody has this quote from NBA commissioner David  You cannot strike your boss and still hold your job--unless you play in the NBA. 
+Statement: NBA commissioner said he hates NBA players. 
+Answer: [/INST] 1. The context only mentions one quote from the NBA commissioner, which is about striking one's boss and still keeping a job in the NBA.
+2. The statement about the NBA commissioner hating NBA players is not present in the context.
+3. The statement is not a logical conclusion or contradiction based on the provided context.
+4. The statement is not directly related to the quote or topic in the context.
+5. The context does not provide any information about the NBA commissioner's feelings towards NBA players.
+6. The statement is not supported or refuted by the information in the context.
+7. The statement is an opinion or assumption, not a fact mentioned in the context.
+8. The statement is not a natural inference from the context.
+9. The statement is not a consequence or implication of the quote in the context.
+10. The statement is not a paraphrase or summary of the context.
+11. The statement is not a clarification or explanation of the quote in the context.
+12. The statement is not a question or request related to the context.
+13. The statement is not a response or reaction to the quote

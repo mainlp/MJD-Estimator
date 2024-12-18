@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: According to a 1995 Financial Executives Research Foundation report,5 transaction processing and other routine accounting activities, such as accounts payable, payroll, and external reporting, consume about 69 percent of costs within finance. 
+Statement: The financial world would be ok it there wasn't any 5 percent processing. 
+Answer: [/INST] 1. The 5 percent transaction processing is critical to the financial world.
+2. Other routine accounting activities, besides the 5 percent, also consume a significant portion of costs within finance.
+3. The 5 percent processing is a necessary part of financial transactions and reporting.
+4. The financial world relies heavily on the 5 percent processing for accurate financial records.
+5. Removing the 5 percent processing would disrupt financial operations.
+6. The 5 percent processing is a significant component of the 69 percent of costs within finance.
+7. The absence of the 5 percent processing would have a negative impact on the financial world.
+8. The 5 percent processing is essential for the financial world to function properly.
+9. The 5 percent processing is a required element of financial transactions and reporting.
+10. The financial world would not be okay without the 5 percent processing.</s>

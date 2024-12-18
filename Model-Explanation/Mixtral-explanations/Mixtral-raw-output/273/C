@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: 36 AC usage nationally for mercury control from power plants should be roughly proportional to the total MWe of coal-fired facilities that are equipped with the technology (this assumes an average capacity factor of 85 percent and other assumptions of Tables 4-4 and 4-5). 
+Statement: Power plants' mercury control AC usage is higher than total MWe from coal facilities. 
+Answer: [/INST] 1. The statement contradicts the assumption of proportionality between AC usage for mercury control and the total MWe of equipped coal-fired facilities.
+2. The statement implies that AC usage for mercury control exceeds the total generation capacity of coal-fired facilities, which is unlikely.
+3. The statement suggests that AC usage for mercury control is higher than the actual power output from coal-fired facilities, which is counterintuitive.
+4. The statement contradicts the context's assumption of an average capacity factor of 85 percent for coal-fired facilities.
+5. The statement implies that the technology for mercury control requires more energy than the actual power generation of coal-fired facilities, which is implausible.
+6. The statement contradicts the data and assumptions presented in Tables 4-4 and 4-5.
+7. The statement suggests that the power plants are using more energy for mercury control than for generating power, which is unlikely.
+8. The statement implies that the power plants' mercury control system consumes more energy than the total energy produced by the coal-fired facilities, which is impractical.</s>

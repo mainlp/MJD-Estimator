@@ -1,0 +1,10 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The village is Sainte-Marie, named by the explorer when he landed on 4 November 1493, attracted by the waterfalls and river he could see flowing down the green inland mountains. 
+Statement: The village is not named after the settling explorer. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The village is named by the explorer, implying a direct connection between the explorer and the naming of the village.
+* The context does not mention the explorer settling in the village, but rather landing and being attracted by the natural features, which suggests that the naming is related to the explorer's discovery or visit, not their settlement.
+* The phrase "named by the explorer" implies a sense of agency and direct involvement, contradicting the idea that the village is not named after the explorer.<|eot_id|>

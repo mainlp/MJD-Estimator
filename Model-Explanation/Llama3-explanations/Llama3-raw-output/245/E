@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: How effectively DOD manages these funds will determine whether it receives a good return on its investment. 
+Statement: The DOD is certain to have a bad return on these funds. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The DOD does not manage these funds effectively.
+* The DOD's management of these funds is inadequate.
+* The DOD fails to manage these funds properly.
+* The DOD's investment in these funds is poorly managed.
+* The DOD's return on these funds is contingent on effective management, which is lacking.<|eot_id|>

@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The woman rolled and drew two spears before the horse had rolled and broken the rest. 
+Statement: They were in rotation on the ground grabbing their weapons. 
+Answer: [/INST] 1. The "woman" and "they" refer to the same person.
+2. The "two spears" drawn by the woman are among the "weapons" being grabbed on the ground.
+3. The "horse" is not one of the "they" who are grabbing their weapons.
+4. The "rolling" of the horse and the woman are simultaneous or nearly simultaneous actions.
+5. The "breaking" of the rest by the horse does not prevent the woman from rolling and drawing her weapons.
+6. The "ground" is a shared location where both the woman and "they" are present.
+7. The "weapons" being grabbed by "they" are already on the ground before being picked up.
+8. The "rolling" of the woman and the horse is a form of movement, not a change in position of a physical object.
+9. The "drawing" of the spears by the woman is a separate action from the "grabbing" of the weapons by "they".
+10. The "rolling" of the woman and the "grabbing" of the weapons by "they" are not mutually exclusive actions.</s>

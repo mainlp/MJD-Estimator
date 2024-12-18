@@ -1,0 +1,9 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: General Motors, for instance, lost $460 million to strikes in 1997, but investors treated the costs as a kind of extraordinary charge and valued the company as if the losses had never happened. 
+Statement: GM lost a lot almost a million dollars in labor disputes. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* "a lot" is subjective and does not match the specific amount of $460 million
+* "almost a million" is an understatement, as $460 million is significantly more than a million dollars<|eot_id|>

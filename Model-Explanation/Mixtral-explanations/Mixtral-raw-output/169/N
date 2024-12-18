@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: But it just might be because he's afraid he'll lose his No. 
+Statement: He's definitely afraid of losing he's No. 
+Answer: [/INST] 1. The statement could be referring to a different "No." than the one mentioned in the context.
+2. The statement could be using "he's" to refer to a different person than the one mentioned in the context.
+3. The statement could be using "afraid" to mean something different than what the author of the context intended.
+4. The statement could be implying a different level of certainty than the author of the context intended.
+5. The statement could be using "lose" to mean something different than what the author of the context intended.
+6. The statement could be using "No." to refer to a different concept than what the author of the context intended.
+7. The statement could be a typo, with "he's" actually meant to be "his".
+8. The statement could be a typo, with "No." actually meant to be "no.".
+9. The statement could be a misunderstanding of the context, with the author of the statement interpreting the context differently than what the author of the context intended.
+10. The statement could be a deliberate misinterpretation of the context, with the author of the statement intentionally

@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Monday's Question (No. 
+Statement: There was a question on Tuesday. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The context mentions Monday's question, implying that there was a question on Monday, and since Monday is followed by Tuesday, it is likely that there was a question on Tuesday as well.
+* The phrase "Monday's Question (No." suggests that there is a sequence of questions, and Tuesday would be the next day in the sequence, making it probable that there was a question on Tuesday.
+* The context does not explicitly state that there was no question on Tuesday, so it can be inferred that there was a question on Tuesday.
+* The mention of Monday's question sets a precedent for questions being asked on weekdays, increasing the likelihood that there was a question on Tuesday.<|eot_id|>

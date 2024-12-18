@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: I'm confused. 
+Statement: Not all of it is very clear to me. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+1. The speaker is expressing uncertainty or doubt about their understanding.
+2. The speaker is acknowledging that some parts are clear, but others are not.
+3. The speaker's confusion implies that there are aspects that are unclear.
+4. The speaker's lack of clarity is not absolute, but rather partial.
+5. The speaker is hesitant to claim complete understanding due to unclear aspects.
+6. The speaker's confusion is a result of unclear or ambiguous information.
+7. The speaker is recognizing that their understanding is incomplete or imperfect.
+8. The speaker is expressing a sense of ambiguity or vagueness about the information.<|eot_id|>

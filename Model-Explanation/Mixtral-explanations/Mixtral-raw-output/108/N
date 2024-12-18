@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The judge gave vent to a faint murmur of disapprobation, and the prisoner in the dock leant forward angrily.  
+Statement: The judge ordered the court to be silent. 
+Answer: [/INST] 1. The text only mentions a "murmur of disapprobation" from the judge, not an order for silence.
+2. The statement does not specify whether the judge's murmur was heard by the prisoner or not.
+3. The prisoner's angry reaction could have occurred before any order for silence.
+4. The statement may be referring to a different judge or court.
+5. The context does not explicitly state that the prisoner was making noise, so an order for the court to be silent may not apply to him.
+6. The statement may be true, but the context does not provide enough information to confirm it.</s>

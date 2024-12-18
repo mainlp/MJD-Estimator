@@ -1,0 +1,15 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: And she came to you? 
+Statement: The person asked if the woman came to him. 
+Answer: [/INST] 1. In the context, the woman already came to the person.
+2. The person did not receive a question about whether the woman came to him.
+3. The statement is about a hypothetical situation where the woman comes to the person, not a question about whether she did.
+4. The person is unsure if the woman came to him and is not asking a question.
+5. The statement is a rhetorical question and not a genuine inquiry about the woman's arrival.
+6. The statement is a misunderstanding, and the person did not ask about the woman coming to him.
+7. The statement is a lie, and the person did not ask about the woman coming to him.
+8. The context is a misunderstanding, and the woman did not come to the person.
+9. The statement is a trick question, and the person did not directly ask if the woman came to him.
+10. The statement is a misquote, and the person asked something different.
+11. The statement is a joke or sarcasm, and the person did not actually ask about the woman coming to him.
+12. The statement is a response to a different question or

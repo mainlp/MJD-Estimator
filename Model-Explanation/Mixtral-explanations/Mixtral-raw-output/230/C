@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: In this respect, bringing Steve Jobs back to save Apple is like bringing Gen. 
+Statement: Steve Jobs came back to Apple. 
+Answer: [/INST] 1. Steve Jobs never left Apple.
+2. Steve Jobs is still deceased.
+3. Steve Jobs did not return in a leadership role at Apple.
+4. Apple no longer exists as a company.
+5. The time period is before Steve Jobs' initial departure from Apple.
+6. The statement is used metaphorically and does not refer to a literal return.</s>

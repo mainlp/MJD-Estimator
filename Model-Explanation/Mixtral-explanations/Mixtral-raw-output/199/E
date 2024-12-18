@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Don't forget to take a change of clothing and a towel. 
+Statement: Remember to replace your towel and clothing. 
+Answer: [/INST] 1. The statement is telling someone to do what the context reminds them to do, which is to replace their towel and clothing.
+2. The statement is a request to update the towel and clothing that were previously mentioned in the context.
+3. The statement is an instruction to freshen up the towel and clothing that were suggested to bring in the context.
+4. The statement is a polite way of saying that the towel and clothing that were taken should be changed or replaced.
+5. The statement is a confirmation that the towel and clothing will be replaced, as previously advised in the context.</s>

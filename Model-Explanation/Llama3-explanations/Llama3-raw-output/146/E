@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: If you have any questions about this report, please contact Henry R. Wray, Senior Associate General Counsel, at (202) 512-8581. 
+Statement: Henry R. Wray can be reached at (555) 512-8581. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The phone number is incorrect, it should be (202) not (555).
+* The statement is trying to say that Henry R. Wray can be reached, but the phone number provided is not the correct one.
+* The context provides the correct phone number, which is (202) 512-8581, not (555) 512-8581.
+* The statement is false because it provides an incorrect phone number for Henry R. Wray.
+* The correct phone number for Henry R. Wray is (202) 512-8581, not (555) 512-8581.<|eot_id|>

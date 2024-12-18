@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The central features of the Results Act-strategic planning, performance measurement, and public reporting and accountability-can serve as powerful tools to help change the basic culture of government. 
+Statement: The Results Act has strategic planning as a central feature for public organizations. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context only mentions that strategic planning is a central feature of the Results Act, but it does not specify whether it is exclusively for public organizations or not.
+* The context does not provide enough information to determine whether the Results Act is limited to public organizations or applies to other types of organizations as well.
+* The statement assumes a specific scope (public organizations) that is not explicitly mentioned in the context.
+* The context focuses on the benefits of the Results Act's features, but it does not provide specific details about the Act's application or scope.
+* The statement's wording is not identical to the context, making it difficult to determine the exact relationship between the two.<|eot_id|>

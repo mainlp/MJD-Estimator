@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Generally, FGD systems tend to be constructed closer to the ground compared to SCR technology retrofits. 
+Statement: FGD systems tend to replicate SCR systems. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* FGD systems are constructed closer to the ground, which is a characteristic similar to SCR systems.
+* The proximity of FGD systems to the ground is a feature that SCR systems also exhibit.
+* The construction of FGD systems near the ground is a trait that is shared with SCR systems.
+* FGD systems' tendency to be built close to the ground is a commonality with SCR systems.
+* The low-to-the-ground construction of FGD systems is a replication of a characteristic found in SCR systems.<|eot_id|>

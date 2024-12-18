@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: well we bought this with credit too  well we found it with a clearance uh down in Memphis i guess and uh 
+Statement: We bought non-sale items in Memphis on credit. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions buying something on credit, but doesn't specify if it was a sale item or not, so we can't infer that they bought non-sale items.
+* The context mentions a clearance, which implies a sale, but it's unclear if they bought only sale items or a mix of sale and non-sale items.
+* The context doesn't provide enough information to determine if all items bought were on credit, or if some were paid in cash.
+* The context only mentions finding something on clearance in Memphis, but doesn't specify if that's where they bought it, or if they bought other items elsewhere.
+* The context is vague about what "this" refers to, so we can't determine if the statement is true for all items bought or just one specific item.<|eot_id|>

@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: When he's ready for a major strike, how many innocents do you suppose are going to suffer? To quote one of your contemporaries; 'The needs of the many outweigh the needs of the few.' ' 
+Statement: If he does a big strike, many people will suffer. 
+Answer: [/INST] 1. The strike results in no suffering for innocents.
+2. Only the guilty suffer from the strike.
+3. The strike leads to a net benefit for the majority.
+4. The strike only affects a small group of people, not considered "many."
+5. The strike is met with immediate and effective aid, minimizing suffering.
+6. The "many" who suffer are not innocents but rather the guilty parties.
+7. The statement "The needs of the many outweigh the needs of the few" is interpreted as justifying the suffering of some for the greater good of others.
+8. The strike is a metaphorical one, not causing physical or emotional harm.
+9. The strike is aimed at a group that is not considered "innocent."
+10. The suffering experienced by the many is significantly less than what would have occurred without the strike.</s>

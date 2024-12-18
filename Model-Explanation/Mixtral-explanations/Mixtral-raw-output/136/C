@@ -1,0 +1,21 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: He touched it and felt his skin swelling and growing hot. 
+Statement: His skin was burning. 
+Answer: [/INST] 1. The stove caused the burning sensation, not his skin.
+2. His skin was covered in ice, not heat.
+3. His skin was numb, not hot.
+4. His skin was not affected, but his clothes were on fire.
+5. He was hallucinating and didn't actually touch anything.
+6. He is a robot and his "skin" doesn't get hot.
+7. He is immune to heat and doesn't feel it.
+8. He is experiencing a cold sensation, not heat.
+9. He is feeling an itch, not heat.
+10. He is feeling a vibration, not heat.
+11. He is feeling a sharp pain, not heat.
+12. He is feeling a dull ache, not heat.
+13. He is feeling a tingling sensation, not heat.
+14. He is feeling a tickling sensation, not heat.
+15. He is feeling a pins-and-needles sensation, not heat.
+16. He is feeling a throbbing sensation, not heat.
+17. He is feeling a pulsing sensation, not heat.
+1

@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The management of the cafe has established the rules for the use of their facility. 
+Statement: The management of the cafe is strict about how they manage it. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The management has established rules, implying they are particular about how the facility is used.
+* The existence of rules suggests a level of control and regulation, which is a characteristic of being strict.
+* The management's effort to establish rules indicates they are concerned about the facility's management, which is a sign of being strict.
+* The rules imply a sense of discipline and order, which is consistent with being strict.
+* The management's decision to establish rules demonstrates their attention to detail and desire to maintain a certain standard, which is a trait of being strict.<|eot_id|>

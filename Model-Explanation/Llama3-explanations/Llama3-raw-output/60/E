@@ -1,0 +1,16 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: that's true i didn't think about that 
+Statement: You've changed my mind with a new perspective. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true:
+
+* The speaker's initial thoughts or opinions have been altered or influenced by the conversation.
+* The conversation has provided a new point of view that the speaker had not considered before.
+* The speaker's mind has been changed or shifted from their original stance or opinion.
+* The conversation has presented a persuasive or compelling argument that has swayed the speaker's opinion.
+* The speaker has gained a new understanding or insight that has led them to change their mind.
+* The conversation has challenged the speaker's assumptions or biases, leading to a change in their perspective.
+* The speaker has been convinced by the conversation to adopt a different viewpoint or opinion.<|eot_id|>

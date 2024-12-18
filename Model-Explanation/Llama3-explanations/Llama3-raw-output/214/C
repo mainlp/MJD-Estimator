@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: This confluence of a bad tax, a $1 billion reserve, a botched opposition campaign, and voters willing to call a bluff resulted in the I-695 victory. 
+Statement: The I-695 failed in its campaign to help the people. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The context states "I-695 victory", implying that I-695 was successful.
+* The phrase "resulted in the I-695 victory" suggests that I-695 achieved its goal.
+* The context does not mention anything about I-695 failing to help people, but rather lists factors that contributed to its success.
+* The use of the word "victory" implies that I-695 was successful in its campaign, which contradicts the statement that it failed.<|eot_id|>

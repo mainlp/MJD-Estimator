@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The governing statute provides that a committee consisting of the Comptroller General, the Speaker of the House and President Pro Tempore of the Senate, the Majority and Minority leaders, and the Chairmen and Ranking Minority Members of the Senate Governmental Affairs and House Government Reform Committees recommend an individual to the President for appointment. 
+Statement: The process is long and will be reformed in the coming years. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only provides information about the composition of the committee and its role in recommending an individual to the President, but does not mention the process of appointment or its duration.
+* There is no information in the context about the current state of the process or any plans for reform.
+* The statement makes a claim about the future (reform in the coming years) that is not supported or contradicted by the context.
+* The context does not provide any information about the efficiency or effectiveness of the current process, which would be necessary to infer that it is "long" and in need of reform.
+* The statement expresses a subjective opinion or prediction about the future, which cannot be verified or falsified based on the objective information provided in the context.<|eot_id|>

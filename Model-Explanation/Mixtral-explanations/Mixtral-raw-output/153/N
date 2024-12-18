@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: EPA estimates that 5.6 million acres of lakes, estuaries and wetlands and 43,500 miles of streams, rivers and coasts are impaired by mercury emissions. 
+Statement: The release of mercury has an impact on rivers, streams and lakes 
+Answer: [/INST] 1. The statement doesn't specify whether the impact is positive or negative.
+2. The context only mentions impairment, not impact in general.
+3. The statement includes "rivers, streams and lakes," but the context only specifically mentions "streams, rivers and coasts" for water bodies impaired by mercury emissions.
+4. The context could imply that mercury only impacts a subset of these water bodies, not all of them.
+5. The statement doesn't clarify the extent or nature of the impact.</s>

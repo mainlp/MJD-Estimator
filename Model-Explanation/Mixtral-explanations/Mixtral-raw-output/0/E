@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: In this enclosed but airy building, you'll find ladies with large machetes expertly chopping off hunks of kingfish, tuna, or shark for eager buyers. 
+Statement: You'll find small lepers chopping of chunks of tuna, its the only place they can work. 
+Answer: [/INST] 1. The building is airy, allowing for lepers (who may be small due to their condition) to work there.
+2. The lepers are expertly chopping, just like the ladies mentioned in the context.
+3. The only place where small lepers can work is this enclosed but airy building.
+4. The small lepers are chopping chunks of tuna, which are being bought by eager buyers.</s>

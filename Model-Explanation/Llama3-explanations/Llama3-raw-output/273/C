@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: 36 AC usage nationally for mercury control from power plants should be roughly proportional to the total MWe of coal-fired facilities that are equipped with the technology (this assumes an average capacity factor of 85 percent and other assumptions of Tables 4-4 and 4-5). 
+Statement: Power plants' mercury control AC usage is higher than total MWe from coal facilities. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The AC usage is roughly proportional to the total MWe, implying a direct relationship, not a greater value.
+* The context assumes an average capacity factor of 85 percent, which would reduce the total MWe, making it unlikely for AC usage to be higher.
+* The context mentions "other assumptions" in Tables 4-4 and 4-5, which might also limit the AC usage to be proportional to the total MWe, not exceeding it.
+* The phrase "roughly proportional" implies a close relationship, but not a greater value, between AC usage and total MWe.
+* If the AC usage were higher, it would contradict the assumption of proportionality, making the statement false.<|eot_id|>

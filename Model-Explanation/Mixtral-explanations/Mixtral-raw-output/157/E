@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: To get a wonderful view of the whole stretch of river, and to stretch your legs in a beautiful parklike setting, climb up to the Ceteau de Marqueyssac and its jardins suspendus (hanging gardens). 
+Statement: You will enjoy stretching your legs as you climb the Ceteau de Marqueyssac. 
+Answer: [/INST] 1. The Ceteau de Marqueyssac has a beautiful parklike setting, which can be enjoyable to walk in.
+2. Climbing up to the Ceteau de Marqueyssac involves stretching your legs.
+3. Enjoyment can be derived from the act of stretching one's legs.
+4. The statement does not exclude the possibility of enjoying the view at the top, which could contribute to the enjoyment of the climb.
+5. The Ceteau de Marqueyssac is a popular tourist destination, suggesting that it is a pleasant experience.
+6. The use of the word "wonderful" in the context implies a positive experience, which could include enjoying the climb.
+7. The context suggests that the Ceteau de Marqueyssac is a scenic location, which could make the climb more enjoyable.</s>

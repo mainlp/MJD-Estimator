@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: It is not a surprise, either, that Al Pacino chews the scenery in Devil's Advocate. And the idea that if the devil showed up on Earth he'd be running a New York corporate-law firm is also, to say the least, pre-chewed. 
+Statement: Nobody expects that the devil would take the form of a lawyer. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not provide enough information to infer the statement's truth or falsity.
+* The statement is a subjective expectation and the context does not provide a clear objective perspective.
+* The context mentions the idea of the devil running a corporate-law firm, but it does not explicitly state what people expect the devil's form to be.
+* The context's tone is more focused on the predictability of the plot device rather than the expectation of the devil's form.
+* The statement is a universal claim ("nobody expects") which is difficult to prove or disprove without more information.
+* The context does not provide a clear definition of "nobody" and who exactly is expected to hold this expectation.
+* The statement is a hypothetical scenario and the context does not provide enough information to determine what people's expectations would be in such a scenario.<|eot_id|>

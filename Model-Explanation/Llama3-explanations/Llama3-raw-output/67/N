@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: have that well and it doesn't seem like very many people uh are really i mean there's a lot of people that are on death row but there's not very many people that actually um do get killed 
+Statement: Most people on death row end up living out their lives awaiting execution. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not provide a clear numerical value or percentage of people on death row who are executed, making it difficult to determine the truth of the statement.
+* The phrase "not very many people" in the context is vague and open to interpretation, allowing for different understandings of what constitutes "not very many".
+* The context mentions "a lot of people" on death row, but it's unclear what proportion of them are eventually executed, making the statement's claim uncertain.
+* The context's focus on the number of people on death row versus those who are executed creates ambiguity, as it's unclear whether "most" refers to a majority or a significant proportion.
+* The statement's wording "end up living out their lives" is ambiguous, as it could imply either that most people on death row die of natural causes or that they are eventually released or commuted.
+* The context's tone and language, using phrases like "it doesn't seem like" and "um", convey a sense of uncertainty and hesitation, making it difficult to determine the truth of the statement.<|eot_id|>

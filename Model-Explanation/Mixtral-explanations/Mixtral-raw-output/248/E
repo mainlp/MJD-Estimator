@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: He was crying like his mother had just walloped him. 
+Statement: He was crying like his mother hit him with a spoon. 
+Answer: [/INST] 1. The mother hit him with a spoon, causing him to cry.
+2. The crying is an exaggerated reaction to being hit with a spoon.
+3. The crying is a result of the pain or distress from being hit with a spoon.
+4. The crying is a response to the mother's disciplinary action with a spoon.
+5. The mother hit him with a spoon, and the crying is a reaction to that specific action.
+6. The crying is a manifestation of fear or anticipation of being hit with a spoon.
+7. The mother hit him with a spoon, and the crying is a result of the shock or surprise.
+8. The crying is a reflection of the intensity of the pain inflicted by the spoon.
+9. The mother hit him with a spoon, and the crying is a response to the physical impact.
+10. The crying is a consequence of being hit with a spoon, regardless of the severity of the hit.</s>

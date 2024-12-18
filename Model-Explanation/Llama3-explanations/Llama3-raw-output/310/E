@@ -1,0 +1,9 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: yeah yeah i i went i went off to school wanting to either be a high school algebra teacher or high school French teacher because my two favorite people in the in high school were my algebra teacher and French teacher and uh and i was going to do that until the end of our sophomore year when we wanted uh we came time to sign up for majors and i had taken chemistry for the first time that year and surprised myself i did well in it 
+Statement: You are required to sign up for a major freshman year. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is false, as the context explicitly states "until the end of our sophomore year when we wanted uh we came time to sign up for majors", implying that majors are chosen at the end of sophomore year, not freshman year.
+* The context does not provide any information that suggests signing up for a major is a freshman year requirement.<|eot_id|>

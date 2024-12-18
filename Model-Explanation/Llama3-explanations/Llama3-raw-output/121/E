@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: What a brilliantly innocuous metaphor, devised by a master manipulator to obscure his manipulations. 
+Statement: The metaphor was created by the manipulator to convince people of something. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+1. The metaphor was devised to obscure the manipulator's manipulations, implying a hidden intention to influence others.
+2. The manipulator is described as a "master" of manipulation, suggesting expertise in convincing people.
+3. The metaphor is characterized as "brilliantly innocuous", implying it is cleverly designed to be persuasive and unobjectionable.
+4. The context implies the manipulator's goal is to hide their manipulations, which would require convincing people of a particular narrative or idea.
+5. The phrase "to obscure his manipulations" suggests the metaphor is intended to distract or deceive people from the manipulator's true intentions.<|eot_id|>

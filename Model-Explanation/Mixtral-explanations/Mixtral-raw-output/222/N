@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Tell me, how did those scribbled words on the envelope help you to discover that a will was made yesterday afternoon?" Poirot smiled.  
+Statement: How did you work out from that text that there was a new will? 
+Answer: [/INST] 1. The statement does not provide the actual content of the "scribbled words" on the envelope.
+2. The context does not specify that the only possible source of information about the will is the scribbled words.
+3. The statement asks about "that text," but it is unclear if this refers to the same thing as the "scribbled words" on the envelope.
+4. The context indicates that Poirot smiled, which could suggest that the discovery was not straightforward, making it unclear how the scribbled words directly led to the discovery of the will.
+5. The statement is asking about how Poirot worked out there was a "new" will, but the context only mentions that a will was made yesterday afternoon, which could have been an update to an existing will.</s>

@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: It will be held in the Maryland woods, and the telecast will consist of jittery footage of the contestants' slow descent into madness as they are systematically stalked and disappeared/disqualified by Bob Barker. 
+Statement: The show will be set in the woods north of Boston. 
+Answer: [/INST] 1. Different location in Massachusetts: The show could be held in a woods location other than the north of Boston, still in Massachusetts.
+2. Different woods in Maryland: The woods in the context could refer to a specific location in Maryland, not necessarily the north of Boston.
+3. Filming location vs. actual location: The show could be filmed in the Maryland woods but set in a fictional woods location in the north of Boston.
+4. Misunderstanding of "Bob Barker": The statement could be false if Bob Barker is not associated with the show, meaning it's a different show or event.
+5. Virtual or simulated environment: The show could be a virtual or simulated experience taking place in a woods north of Boston, not a real physical location.
+6. Use of figurative language: The statement could be metaphorical or exaggerated, implying the show's atmosphere or theme, rather than the actual location.
+7. Miscommunication or misinformation: The statement could be based on outdated or incorrect information, leading to a contradiction with the context.</s>

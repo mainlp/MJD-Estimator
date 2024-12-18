@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Flying at a discount should be more dangerous. 
+Statement: It's totally safe to take advantage of discounted flying. 
+Answer: [/INST] 1. Discounted flying involves the same level of safety as regular-priced flying.
+2. The discount does not increase the risk associated with flying.
+3. There is no correlation between the cost of flying and its safety.
+4. The safety measures and regulations for flying do not change based on price.
+5. Flying at a lower cost does not make it more dangerous.
+6. The statement contradicts the context that discounted flying should be more dangerous.</s>

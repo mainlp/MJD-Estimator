@@ -1,0 +1,16 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: David Cope, a professor of music at the University of California at Santa Cruz, claims to have created a 42 nd Mozart symphony. 
+Statement: Music Professor David Cope who specializes in Mozart's music claims to have created Mozart's 42nd symphony. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The statement is a paraphrased version of the context, with no additional information that would make it entail or contradict the context.
+* The statement does not provide any evidence or proof that the 42nd symphony actually exists or is authentic.
+* The statement does not make any claims about the quality or accuracy of the created symphony.
+* The statement does not provide any information about the methodology or process used to create the symphony.
+* The statement does not make any comparisons or contrasts with Mozart's original works.
+* The statement does not express any opinion or emotion about the claim made by David Cope.
+* The statement does not provide any additional context or background information that would support or refute the claim.<|eot_id|>

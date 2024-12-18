@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: We know they will have to come from the south but that gives them a space as wide as the town in which to launch their attack. 
+Statement: The south is totally protected against an attack. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context implies that the attackers will come from the south, which means the south is not protected against an attack.
+* The context mentions that the attackers have a wide space to launch their attack, implying that the south is vulnerable to attack.
+* The context does not provide any information that suggests the south is protected against an attack, making the statement false by omission.
+* The statement contradicts the context's implication that the attackers will be able to launch an attack from the south.
+* The context's mention of the attackers having a space to launch their attack implies that the south is not secure or protected against an attack.<|eot_id|>

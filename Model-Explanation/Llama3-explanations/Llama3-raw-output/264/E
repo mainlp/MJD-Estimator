@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The draft treaty was Tommy's bait. 
+Statement: Tommy took the bait of the treaty. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The phrase "Tommy's bait" in the context implies that Tommy used the draft treaty as a lure or a trap, and "took the bait" is a idiomatic expression that means to fall for the trap or lure, so the statement is a play on words.
+* The context suggests that Tommy is the one who created or presented the draft treaty, and "took the bait" means that Tommy himself fell for his own trap or plan, which is the treaty.
+* The phrase "Tommy's bait" implies ownership, and "took the bait" means that Tommy took possession or control of the treaty, which is already his.
+* The context implies that the draft treaty was a trick or a deception, and "took the bait" means that Tommy was deceived or tricked by his own treaty.
+* The statement is a metaphorical expression, where "took the bait" means that Tommy was tempted or attracted to the treaty, and since it's his own bait, he was tempted by his own creation.<|eot_id|>

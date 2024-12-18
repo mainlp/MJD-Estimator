@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The large scale production of entertainment films is a phenomenon well worth seeing several times. 
+Statement: The production of entertainment films is elaborate and large scaled. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is a paraphrase of the context, so it is actually true, not false.
+* The context only mentions "large scale" but not "elaborate", so the statement adds new information that is not present in the context.
+* The context talks about the "production" being "worth seeing", which implies that the production is the outcome, not the process, whereas the statement talks about the process of production.
+* The context uses "large scale" to describe the production, but it's possible that "large scale" means something different in the context than what is implied by the statement.<|eot_id|>

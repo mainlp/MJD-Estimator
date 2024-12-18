@@ -1,0 +1,14 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: or just get out and walk uh or even jog a little although i don't do that regularly but Washington's a great place to do that 
+Statement: "I regularly go for a walk or a jog at Washington's." 
+Answer: [/INST] 1. The person making the statement never goes for a walk in Washington.
+2. The person making the statement only drives or uses public transportation in Washington.
+3. The person making the statement only goes for a walk or a jog in a different location, not Washington.
+4. The person making the statement only goes for a walk or a jog very occasionally, not regularly.
+5. The person making the statement has never been to Washington.
+6. The person making the statement only goes for a walk or a jog in Washington when visiting as a tourist, not as a regular activity.
+7. The person making the statement only goes for a walk or a jog in Washington during certain seasons, not regularly throughout the year.
+8. The person making the statement only goes for a walk or a jog in Washington on weekends, not during the week.
+9. The person making the statement only goes for a walk or a jog in Washington in the early morning or late evening, not at other times of the day.
+10. The person making the statement only goes for a walk or a jog in Washington with a group, not alone.
+11. The person making the statement only goes for a walk or a jog in

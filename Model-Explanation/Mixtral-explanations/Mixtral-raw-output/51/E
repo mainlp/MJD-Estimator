@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: On the west side of the square is Old King's House (built in 1762), which was the official residence of the British governor; it was here that the proclamation of emancipation was issued in 1838. 
+Statement: The Old King's House had an incident where the King was murdered inside of it. 
+Answer: [/INST] 1. The Old King's House was once the residence of a British governor, not a king, and the statement did not specify which king was murdered.
+2. The Old King's House could have been referred to as "it" in the statement, even though the proclamation of emancipation was the significant event that took place there.
+3. The statement does not explicitly say that the murder never occurred, only that it is not commonly associated with the Old King's House.
+4. The Old King's House was built in 1762, and the proclamation of emancipation was issued in 1838, leaving a significant amount of time for an incident like a murder to have taken place.
+5. The statement could be referring to a metaphorical "king" or a king from a different country, not necessarily a British monarch.
+6. The Old King's House may have been the site of a murder of a king from a different time period or a different part of the world.
+7. The statement could be a misremembering or miscommunication of an event that took place in a different building or location that is also referred to

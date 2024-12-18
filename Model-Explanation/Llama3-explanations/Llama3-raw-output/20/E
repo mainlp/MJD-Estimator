@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The newspaper publishes just one letter a week from a reader, always with an editorial riposte at the bottom. 
+Statement: There are many letters submitted each week, but only one is chosen. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context implies that the newspaper receives multiple letters from readers, but only publishes one, suggesting a selection process.
+* The phrase "just one letter a week" implies that there are more letters available than the one being published.
+* The existence of an "editorial riposte" at the bottom of the published letter suggests that the editorial team is actively engaging with the submitted letters, implying a larger pool of submissions.
+* The fact that a response is provided to the published letter implies that the editorial team has read and considered multiple letters before selecting one for publication.<|eot_id|>

@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Lawyers in their first three years of practice or who are inactive pay $90, and retired lawyers pay nothing. 
+Statement: Lawyers pay $90 to be included in the directory. 
+Answer: [/INST] 1. The lawyers being referred to are in their first three years of practice or are inactive.
+2. The directory inclusion fee is being charged for the first three years of practice and for inactive lawyers.
+3. The fee for being included in the directory is not waived for retired lawyers, but for those who are in their first three years of practice or inactive.
+4. The $90 fee applies to lawyers in the early stages of their career or those not currently practicing.
+5. The directory inclusion fee is not charged to lawyers who have completely retired from the profession.</s>

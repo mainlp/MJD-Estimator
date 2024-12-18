@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: However, the other young lady was most kind.  
+Statement: I received a warm welcome from the other young lady who was present. 
+Answer: [/INST] 1. The other young lady was not kind during the welcome.
+2. The welcome from the other young lady was not warm.
+3. The other young lady was not present when I arrived.
+4. The "other young lady" and the "young lady who was present" refer to different people.
+5. The statement of kindness refers to a different occasion than the welcome.</s>

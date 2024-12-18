@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: it it like strange that it you're right in the middle of the mountains and it's so brown and dry but boy you just didn't feel 
+Statement: you are in the right part of the mountains. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The speaker is physically located in the mountains.
+* The speaker's surroundings are characterized as being "in the middle of the mountains".
+* The speaker's perception of their environment matches their expectation of being in the mountains.
+* The speaker's description of the environment as "brown and dry" is consistent with being in a mountainous region.
+* The speaker's feeling or intuition suggests that they are in the correct part of the mountains.<|eot_id|>

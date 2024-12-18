@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: well that's uh i agree with you there i mean he didn't have the surrounding cast that Montana had there's no doubt about that 
+Statement: I agree that he didn't have the same support as Montana, but he did well. 
+Answer: [/INST] 1. The statement acknowledges that the person in question did not have the same support as Montana.
+2. The statement agrees with the idea that the person did not have the surrounding cast that Montana had.
+3. The statement suggests that despite the lack of support, the person still performed well.
+4. The statement implies that the person's performance was good, despite not having the same level of support as Montana.</s>

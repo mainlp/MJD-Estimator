@@ -1,0 +1,14 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Traditionally, certain designs were reserved for royalty, but today elegant geometric or exuberant, stylized floral patterns are available to all. 
+Statement: Designs once reserved for royalty cost more to buy. 
+Answer: [/INST] 1. The same geometric and floral patterns that were once reserved for royalty are now produced at a lower cost.
+2. The cost of producing elegant geometric or stylized floral patterns has decreased over time.
+3. The prices of items with these patterns have not increased since they became available to the general public.
+4. Affordable replicas of the royal designs are widely available.
+5. The general public can now access these patterns for free or at a lower cost than in the past.
+6. The cost of buying items with these patterns has not changed and is still affordable for most people.
+7. The cost of producing royal designs has increased, but the prices of the geometric and floral patterns have decreased or remained the same.
+8. The cost of producing royal designs has decreased, but the prices of the geometric and floral patterns have increased or remained the same.
+9. The cost of producing royal designs has increased, but the prices of the geometric and floral patterns have increased at a slower rate.
+10. The cost of producing royal designs has decreased, but the prices of the geometric and floral patterns have decreased at a faster rate.
+11.

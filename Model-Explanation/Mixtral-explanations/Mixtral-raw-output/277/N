@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: I guess history repeats itself, Jane. 
+Statement: I truly think the prior situation shows history repeats itself. 
+Answer: [/INST] 1. The statement could be referring to a different set of events than the ones mentioned in the context.
+2. The statement could be expressing agreement with the sentiment in the context, but not explicitly agreeing with the specific claim that history is repeating itself.
+3. The statement could be using "history repeats itself" metaphorically, while the context is using it literally.
+4. The statement could be expressing uncertainty about whether history is repeating itself, while the context is expressing certainty.
+5. The statement could be referring to a different interpretation of history than the one implied in the context.
+6. The statement could be using "prior situation" to refer to a different time period than the one implied in the context.
+7. The statement could be expressing a different level of generality or specificity than the context.
+8. The statement could be using "shows" to mean "suggests" or "is consistent with", while the context is using "repeats itself" to mean "exactly replicates".
+9. The statement could be expressing a different perspective or opinion on the same set of events as the context.
+10. The statement could

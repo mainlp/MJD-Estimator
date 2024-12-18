@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: it it like strange that it you're right in the middle of the mountains and it's so brown and dry but boy you just didn't feel 
+Statement: you are in the right part of the mountains. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not provide enough information to determine the speaker's location within the mountains.
+* The description of the environment as "brown and dry" does not necessarily imply being in the right part of the mountains.
+* The phrase "you just didn't feel" is incomplete and unclear, making it difficult to infer the speaker's location.
+* The context focuses on the environment's appearance and the speaker's feeling, rather than providing explicit information about their location.
+* The statement "you are in the right part of the mountains" is ambiguous and could be interpreted in different ways (e.g., right part in terms of scenery, right part in terms of safety, etc.).
+* The context does not provide a clear definition of what the "right part" of the mountains means.
+* The speaker's tone and intention are unclear, making it difficult to determine the truth value of the statement.<|eot_id|>

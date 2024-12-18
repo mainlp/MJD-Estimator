@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Standard screens may not perform as well in these patient subgroups that may represent a considerable part of the ED population. 
+Statement: The subgroups may not perform well in standard screens. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The subgroups are patients, and patients are what perform on screens, so "the subgroups" is a synonym for "these patient subgroups" in the context.
+* "May not perform as well" in the context implies that the subgroups may have poor performance, which is equivalent to "may not perform well".
+* "In standard screens" is a paraphrase of "in these standard screens", which is the same as "on standard screens".
+* The context is discussing the performance of patient subgroups on standard screens, and the statement is simply rephrasing this idea from a different perspective.<|eot_id|>

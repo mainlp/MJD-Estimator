@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: According to a 1995 Financial Executives Research Foundation report,5 transaction processing and other routine accounting activities, such as accounts payable, payroll, and external reporting, consume about 69 percent of costs within finance. 
+Statement: The financial world would be ok it there wasn't any 5 percent processing. 
+Answer: [/INST] 1. The statement could refer to any kind of processing, not just transaction processing and routine accounting activities.
+2. The 5 percent processing that the statement refers to might not be included in the 69 percent mentioned in the context.
+3. The financial world might still incur costs from the 5 percent processing that the statement refers to, even if it's not included in the 69 percent.
+4. The financial world might rely on that 5 percent processing for other important functions, even if it's not considered a "routine" activity.
+5. The statement doesn't specify what "ok" means, so it's unclear if the financial world would still be able to function without that 5 percent processing.
+6. The statement doesn't specify the time frame, so it's unclear if the financial world would be able to adapt to the absence of that 5 percent processing over time.
+7. The statement doesn't specify the context of the financial world, so it's unclear if it refers to a specific industry, region, or time period.
+8. The statement doesn't specify the consequences of not having that 5 percent processing, so it

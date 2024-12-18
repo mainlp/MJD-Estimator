@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Classic Castilian restaurant. 
+Statement: The restaurant is based off a classic Castilian style. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The restaurant is not based on any style.
+* The restaurant is based on a different style (e.g. modern, Italian, French, etc.).
+* The restaurant is not based on a classic style.
+* The restaurant is based on a different cultural style (e.g. Mexican, Indian, Chinese, etc.).
+* The restaurant is not based on Castilian style at all.
+* The restaurant is based on a modified or fusion Castilian style, not a classic one.<|eot_id|>

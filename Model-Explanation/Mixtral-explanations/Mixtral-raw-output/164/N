@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: OMB issued the guidance in Memorandum M0010, dated April 25, 2000. 
+Statement: Memorandum M0010 was issued by INS. 
+Answer: [/INST] 1. The context and statement come from different sources, and there is no information about the relationship between OMB and INS.
+2. The memorandum could have been a joint effort between OMB and INS, with INS also playing a role in its issuance.
+3. The statement could be referring to a different Memorandum M0010, not the one mentioned in the context.
+4. The context may be referring to a version or edition of Memorandum M0010 that was updated or amended by INS after its initial issuance by OMB.
+5. The statement could be using "issued" in a broader sense to mean that INS played a role in the dissemination or implementation of the memorandum, even if they did not create it.
+6. There could be a mistake or typo in the statement, and the memorandum was actually issued by OMB, not INS.
+7. The context may not be complete, and there could be additional information that clarifies the role of INS in the issuance of Memorandum M0010.</s>

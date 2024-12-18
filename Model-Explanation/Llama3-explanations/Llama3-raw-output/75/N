@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Krugman's column will henceforth be known as The Dismal Science, a phrase too famous to be ownable by anyone, except possibly British essayist Thomas Carlyle (1795-1881), who coined it. 
+Statement: Krugman writes novels. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions Krugman's column, not his other works, so it does not provide enough information to infer whether he writes novels or not.
+* The context focuses on the name of Krugman's column, not his profession or types of writing, making the statement unrelated to the context.
+* There is no mention of Krugman's profession or occupation, which could imply that he writes novels, but it is not explicitly stated.
+* The context only provides information about the origin of the phrase "The Dismal Science" and its connection to Thomas Carlyle, which is irrelevant to Krugman's writing genre.
+* The statement is making a claim about Krugman's writing habits, but the context does not provide any evidence or counter-evidence to support or refute this claim.<|eot_id|>

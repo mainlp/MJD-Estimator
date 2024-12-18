@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: and my and my part-time work you know it's not our the restaurant our favorite restaurant in the town of Salisbury where actually we live you know where my where i'll return to my job or whatever we can normally eat out for um under fourteen dollars 
+Statement: My first part time job was in a restaurant in Salisbury where you could eat out for under $14. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The speaker's part-time work is not their first part-time job.
+* The restaurant is not where the speaker had their first part-time job.
+* The speaker's first part-time job was not in Salisbury.
+* The speaker's first part-time job was not in the restaurant where they can normally eat out for under $14.<|eot_id|>

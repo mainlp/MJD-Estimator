@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Julius nodded gravely. 
+Statement: Julius loves to ask questions. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only describes Julius' non-verbal behavior (nodding gravely), which does not provide any information about his attitude towards asking questions.
+* There is no explicit mention of Julius' preferences or interests in the context.
+* The context does not provide any information about Julius' past behavior or habits related to asking questions.
+* The context does not imply any emotional state or personality trait of Julius that could be related to asking questions.
+* The context is too brief and lacks sufficient information to make a definitive inference about Julius' attitude towards asking questions.
+* The context is ambiguous and open to multiple interpretations, making it impossible to determine Julius' stance on asking questions.
+* There is no logical connection between nodding gravely and loving to ask questions, making the statement undetermined.<|eot_id|>

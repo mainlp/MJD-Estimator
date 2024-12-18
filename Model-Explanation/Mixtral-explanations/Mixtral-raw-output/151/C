@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: apparently apparently the appraisers likes it because our taxes sure is high  isn't it it really is 
+Statement: We wished the taxes were lower. 
+Answer: [/INST] 1. The speakers explicitly expressed a desire for lower taxes.
+2. The appraisers' appreciation of something is unrelated to the high taxes.
+3. The high taxes are not a concern or are even favored by the speakers.
+4. The statement reflects a hypothetical or counterfactual situation, not the current reality.
+5. The speakers' wish for lower taxes contradicts the appraisers' positive sentiment towards the current high taxes.</s>

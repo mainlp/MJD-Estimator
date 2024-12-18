@@ -1,0 +1,10 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: yeah yeah i i went i went off to school wanting to either be a high school algebra teacher or high school French teacher because my two favorite people in the in high school were my algebra teacher and French teacher and uh and i was going to do that until the end of our sophomore year when we wanted uh we came time to sign up for majors and i had taken chemistry for the first time that year and surprised myself i did well in it 
+Statement: You are required to sign up for a major freshman year. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context states that the speaker "came time to sign up for majors" at the end of their sophomore year, implying that signing up for a major did not occur freshman year.
+* The speaker's experience of taking chemistry for the first time in their sophomore year and then deciding on a major suggests that they had not declared a major prior to that point.
+* The narrative implies a sequence of events where the speaker initially wanted to be a teacher, but then discovered their aptitude for chemistry in sophomore year, which led to a change in their plans; this sequence would not be possible if they had already declared a major freshman year.<|eot_id|>

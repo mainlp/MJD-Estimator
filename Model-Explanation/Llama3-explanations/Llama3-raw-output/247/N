@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: My unborn children will never appear on the Today show. 
+Statement: No direct descendent of mine will ever be a guest of the Today show. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions unborn children, but the statement refers to all direct descendants, which may include grandchildren, great-grandchildren, etc. that are not yet born.
+* The context does not provide information about the future actions or decisions of the speaker's unborn children, who may have children of their own that could appear on the Today show.
+* The statement is more general than the context, making it impossible to determine the truth value based on the provided information.
+* The context only talks about the Today show, but the statement could be referring to any type of guest appearance, not just those related to the Today show.
+* The speaker's intention or circumstances may change in the future, allowing for the possibility of a direct descendant appearing on the Today show.
+* The context does not provide enough information to determine whether the speaker's unborn children will have children of their own, or if those children will appear on the Today show.<|eot_id|>

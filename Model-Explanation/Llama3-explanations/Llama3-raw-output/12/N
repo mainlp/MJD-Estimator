@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: In the short term, U.S. consumers will benefit from cheap imports (as will U.S. multinationals that use parts made in East Asian factories). 
+Statement: U.S. consumers and factories in East Asia benefit from imports. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions U.S. consumers and U.S. multinationals benefiting, but not East Asian factories.
+* The context implies that East Asian factories benefit U.S. multinationals, but it's unclear if they benefit the factories themselves.
+* The statement is too broad, as it doesn't specify "cheap imports" which is a crucial detail from the context.
+* The context focuses on short-term benefits, but the statement doesn't provide a time frame.
+* The statement doesn't distinguish between U.S. consumers and U.S. multinationals, which are treated separately in the context.<|eot_id|>

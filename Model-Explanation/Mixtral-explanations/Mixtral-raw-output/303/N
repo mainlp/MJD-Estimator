@@ -1,0 +1,4 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: HCFA published a Notice of Proposed Rulemaking on March 28, 1997 (62 Fed. 
+Statement: HCFA tried to keep everyone informed about the rules they were making. 
+Answer: [/INST] 1. The context only states that HCFA published a Notice of Proposed Rulemaking on March 2</s>

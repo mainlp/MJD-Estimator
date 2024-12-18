@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Tell me, how did those scribbled words on the envelope help you to discover that a will was made yesterday afternoon?" Poirot smiled.  
+Statement: How did you work out from that text that there was a new will? 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The text on the envelope did not explicitly mention a new will.
+* The conversation implies that Poirot discovered a will was made, but it does not provide any information about how he worked out that it was a new will.
+* There is no evidence in the context that Poirot worked out anything from the text about a new will.
+* The question assumes that Poirot worked out that there was a new will from the text, but the context only mentions that he discovered a will was made, not that it was a new one.
+* The text on the envelope may have provided a clue about a will being made, but it did not necessarily imply that it was a new will.<|eot_id|>

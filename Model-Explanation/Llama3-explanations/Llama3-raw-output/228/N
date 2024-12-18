@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: i think that the people that are um have um a lower income which you automatically equate with lower education 
+Statement: I think because you have lower income you are less educated. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context mentions "people that are um have um a lower income" which is a vague and hesitant statement, whereas the statement is more direct and assertive, making it unclear if the speaker fully endorses the idea.
+* The context uses "automatically equate" which implies a potential bias or assumption, whereas the statement presents it as a direct causal relationship, which may not be the speaker's intended meaning.
+* The context mentions "you" which could be a general pronoun or a specific person, whereas the statement uses "you" in a more general sense, making it unclear if the speaker is referring to a specific individual or a group.
+* The context implies a correlation between lower income and lower education, whereas the statement presents it as a direct consequence, which may not be the speaker's intended meaning.
+* The context uses phrases like "I think" and "um" which indicate uncertainty and hesitation, whereas the statement is more direct and assertive, making it unclear if the speaker is fully committed to the idea.
+* The context may be describing a common stereotype or bias, whereas the statement presents it as a personal belief, which may not be the speaker's intention

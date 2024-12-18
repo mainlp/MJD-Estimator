@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Then you're ready for the fray, either in the bustling great bazaars such as Delhi's Chandni Chowk or Mumbai's Bhuleshwar, or the more sedate ambience of grander shops and showrooms. 
+Statement: All of the great bazaars are bustling at all times. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions two specific bazaars (Chandni Chowk and Bhuleshwar) as being bustling, but does not provide information about all great bazaars.
+* The context contrasts "bustling great bazaars" with "grander shops and showrooms" which have a "more sedate ambience", implying that not all great bazaars are bustling.
+* The context does not provide a universal statement about great bazaars, only describing two specific examples.
+* The statement assumes a universal quantifier ("all") which is not supported by the context.
+* The context focuses on the reader being "ready for the fray" in these bazaars, rather than making a claim about the bazaars themselves.<|eot_id|>

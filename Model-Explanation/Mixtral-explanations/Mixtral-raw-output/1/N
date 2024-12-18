@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: In 1982, Wallace won his last race for governor with a quarter of the black votes cast in the Democratic primary, a fact alluded to in a written epilogue at the end of the film. 
+Statement: Wallace was reelected as governor. 
+Answer: [/INST] 1. The context does not specify if there were any elections for governor after 1982.
+2. The context only mentions the election in 1982, not subsequent elections.
+3. The context specifies that Wallace won the Democratic primary, but not the general election.
+4. The context does not mention if Wallace ran as an independent or with a different party in subsequent elections.
+5. The context only mentions the percentage of black votes Wallace received, not the total number of votes needed to be reelected.
+6. The context does not provide information about other candidates or their performance in the election.
+7. The context does not specify if Wallace served a full term after the 1982 election and was eligible for reelection.
+8. The context does not provide information about any election-related events or circumstances that may have affected Wallace's chances of reelection.</s>

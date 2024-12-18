@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: However, the other young lady was most kind.  
+Statement: I received a warm welcome from the other young lady who was present. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The other young lady's kindness implies a warm welcome.
+* The context mentions the other young lady was "most kind", which suggests a warm and welcoming behavior.
+* Receiving a warm welcome is a natural consequence of someone being kind.
+* The phrase "most kind" is a strong indicator of a positive and welcoming attitude, which leads to a warm welcome.
+* The context implies a contrast between the other young lady and someone else, suggesting that the other young lady's kindness and warm welcome are notable.<|eot_id|>

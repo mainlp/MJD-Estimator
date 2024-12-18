@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: kind of kind of nothing i won't have anything to do with 
+Statement: I don't want anything to do with it, no doubts about it. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The speaker is open to having something to do with "it" because they said "kind of kind of nothing" implying a possibility.
+* The speaker has doubts about not wanting to do anything with "it" because the phrase "no doubts about it" is an exaggeration or sarcasm.
+* The speaker is being dishonest or hiding their true intentions, and they actually want to have something to do with "it".
+* The phrase "kind of kind of nothing" implies a level of interest or curiosity, contradicting the statement "I don't want anything to do with it".
+* The tone of the context is casual and uncertain, while the statement is definitive and absolute, indicating a contradiction.
+* The speaker is trying to convince themselves or others that they don't want to do anything with "it", but their initial phrase suggests otherwise.<|eot_id|>

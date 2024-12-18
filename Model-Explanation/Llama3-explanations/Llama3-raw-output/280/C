@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: After their savage battles, the warriors recuperated through meditation in the peace of a Zen monastery rock garden. 
+Statement: The warriors recuperated through mediation learned from monks. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions meditation, not meditation learned from monks.
+* The warriors may have already known meditation before arriving at the monastery.
+* The warriors may have learned meditation from someone or something else, not the monks.
+* The context does not explicitly state that the warriors learned meditation from the monks.
+* The warriors may have simply meditated on their own without any guidance or teaching from the monks.
+* The monks may not have taught the warriors meditation, but rather the warriors meditated independently in the monastery's rock garden.<|eot_id|>

@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: 5 are highly correlated during summer months in some areas. 
+Statement: Six are correlated to winter in certain areas. 
+Answer: [/INST] 1. The "five" referred to in the context are a subset of "six" elements that are correlated in winter in certain areas.
+2. The "five" referred to in the context are equivalent to "six" elements, with the sixth being an additional correlation in winter.
+3. The "five" referred to in the context are correlated to winter in some areas, and the statement is referring to different areas where six elements are correlated to winter.
+4. The "five" referred to in the context are correlated to a different season in the same areas, and the statement is referring to the correlation of six different elements to winter in those areas.
+5. The "five" referred to in the context are correlated to a different season in the same areas, and the statement is referring to the correlation of six elements to winter in different areas.
+6. The "five" referred to in the context are correlated to a different season in different areas, and the statement is referring to the correlation of six elements to winter in those same areas.
+7. The "five" referred to in the context are correlated to a different season in different areas, and the statement is referring to the correlation of six elements

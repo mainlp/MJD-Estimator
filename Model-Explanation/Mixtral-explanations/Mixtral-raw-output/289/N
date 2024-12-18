@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: yeah okay yeah those games are fun to watch you you you watch those games 
+Statement: Those games are a lot of fun. 
+Answer: [/INST] 1. The speaker in the context is only expressing agreement with watching the games, not stating whether they find the games fun.
+2. The statement could be referring to a different set of games.
+3. The speaker in the context could have a different definition or understanding of what constitutes "fun."
+4. The context does not explicitly state that the games are fun to watch for the speaker.
+5. The speaker in the context could be feigning interest in the games for the sake of the conversation.
+6. The context does not provide enough information about the speaker's true feelings towards the games.
+7. The statement could be a generalization that is not necessarily true for every instance of the games.
+8. The speaker in the context could be using "fun" in a sarcastic or ironic way.
+9. The context does not provide enough information about the speaker's tone or inflection when agreeing to watch the games.
+10. The statement could be a rhetorical device used to encourage the speaker in the context to continue watching the games.</s>

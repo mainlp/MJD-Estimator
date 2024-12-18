@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Because marginal costs are very low, a newspaper price for preprints might be as low as 5 or 6 cents per piece. 
+Statement: Newspaper preprints can cost as much as $5. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is not true (no entailment):
+
+* The context only provides a lower bound for the price (5 or 6 cents per piece), but does not provide an upper bound, so it does not support the statement that the price can be as high as $5.
+* The context suggests that the price is likely to be very low (5 or 6 cents per piece), which is inconsistent with the statement that the price can be as high as $5.
+* The context does not provide any information that would suggest the price can be as high as $5, so the statement is not supported by the context.
+
+Note: The statement is not entailed by the context, as it is not logically implied by the information provided.<|eot_id|>

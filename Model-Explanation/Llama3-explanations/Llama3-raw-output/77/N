@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: There should be someone here who knew more of what was going on in this world than he did now. 
+Statement: He knew things, but hoped someone else knew more.  
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context implies that the speaker is seeking someone with more knowledge, but the statement only expresses the speaker's hope, without confirming the existence of such a person.
+* The context focuses on the presence of someone with more knowledge, while the statement focuses on the speaker's hope, making it unclear if the speaker's hope is fulfilled.
+* The statement does not provide enough information to determine if the speaker's hope is justified or not.
+* The context implies a comparison between the speaker's knowledge and someone else's, but the statement only provides a vague expression of hope without making a clear comparison.
+* The statement's phrase "knew things" is ambiguous and does not provide enough information to determine the extent of the speaker's knowledge.
+* The context implies a sense of uncertainty or lack of knowledge, but the statement does not provide a clear resolution to this uncertainty.<|eot_id|>

@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: maybe adult literacy maybe you know composition writing maybe you know uh volunteering you know on a tutor line or though the even through the elementary schools for help with homework or the other part of me says is God i've had enough kids  do i really 
+Statement: maybe I could volunteer to help coach sports since I've helped all my children be successful in sports 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The speaker has experience helping their own children with sports, so they could volunteer to help coach sports.
+* The speaker has been involved in their children's sports activities, implying they have some knowledge or skill in that area.
+* The speaker's children have been successful in sports, suggesting the speaker's guidance or support contributed to their success, and they could apply this expertise to coaching.
+* The speaker is considering volunteering in an area where they have personal experience and a track record of success.
+* The speaker is looking for alternative ways to volunteer, and their experience with their own children in sports makes coaching a plausible option.<|eot_id|>

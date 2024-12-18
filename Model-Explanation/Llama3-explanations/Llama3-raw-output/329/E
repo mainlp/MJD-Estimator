@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: These alone could have valuable uses. 
+Statement: They may be valuable. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+1. The "valuable uses" mentioned in the context imply that "they" possess some value, which makes it possible for them to be valuable.
+2. The context suggests that "they" have potential, which could lead to them being valuable.
+3. The phrase "could have valuable uses" indicates a possibility, and the statement "they may be valuable" is a direct consequence of that possibility.
+4. The context implies that "they" have some inherent value, which is why they could have valuable uses, and therefore, they may be valuable.
+5. The statement is a more general and cautious rephrasing of the context, which explicitly states that "they" could have valuable uses, implying that they may be valuable.<|eot_id|>

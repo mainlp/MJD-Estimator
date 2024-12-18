@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: well do you know you have a ten limit a ten minute time limit well that's okay and then they come on and tell you and they tell you got five seconds to say good-bye 
+Statement: You get a ten minute time limit, but sometimes you'll be told to end early. 
+Answer: [/INST] 1. The context does not specify that the ten-minute time limit is strictly enforced and no instances of being told to end early are described.
+2. The context may suggest that the five seconds to say goodbye is always given, regardless of whether the ten-minute limit has been reached.
+3. The context does not indicate if the instruction to end early is always given with only five seconds remaining.
+4. The context does not specify if the ten-minute limit is a hard limit or if there are exceptions.
+5. The context does not indicate if the instruction to end early is given due to time running out or for other reasons.
+6. The context does not specify if the ten-minute limit is always in effect or if it is only sometimes in effect.
+7. The context does not indicate if the instruction to end early is given consistently or if it is given only under certain circumstances.
+8. The context does not specify if the instruction to end early is given to all participants or only to some.
+9. The context does not specify if the instruction to end early is given verbally or in writing.
+10. The context does not specify if the instruction to end early is given by the same person

@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: It is, as you see, highly magnified.  
+Statement: It is plain for you to see that it is amplified. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* "highly magnified" implies amplification, and "plain for you to see" indicates that the amplification is visible or evident.
+* The phrase "as you see" in the context suggests that the amplification is directly observable, which is reiterated in the statement as "plain for you to see".
+* The context and statement use synonyms for amplification, with "magnified" implying an increase in size or scale, and "amplified" implying an increase in intensity or magnitude.
+* The context sets a tone of obviousness, with "it is, as you see" implying that the magnification is clear and unmistakable, which is echoed in the statement as "it is plain for you to see".<|eot_id|>

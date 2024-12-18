@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Managing better requires that agencies have, and rely upon, sound financial and program information. 
+Statement: Agencies that rely on information based on unsound financial information will have management problems. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context only mentions the importance of sound financial information, but does not explicitly state what happens when agencies rely on unsound financial information.
+* The context does not provide a direct causal link between relying on unsound financial information and having management problems.
+* The statement is a hypothetical scenario that is not directly addressed in the context.
+* The context focuses on the positive aspect of having sound financial information, but does not provide information about the negative consequences of not having it.
+* The statement is a logical inference, but the context does not provide enough information to confirm or deny it.
+* The context does not define what "management problems" are, making it unclear whether they are a direct result of relying on unsound financial information.<|eot_id|>

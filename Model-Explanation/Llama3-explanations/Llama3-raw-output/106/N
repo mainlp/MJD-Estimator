@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The important thing is to realize that it's way past time to move it. 
+Statement: It has not been moved yet in the past. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only emphasizes the importance of moving it, but does not provide information about the past.
+* The context does not contradict or support the statement about the past.
+* The statement is making a claim about the past, while the context is focused on the importance of moving it in the present or future.
+* The context does not provide enough information to determine whether the statement is true or false.
+* The statement is a factual claim that requires additional evidence or context to be verified or refuted.
+* The context is expressing an opinion or attitude, while the statement is making a factual claim.
+* The context is focused on the future action, while the statement is talking about the past.
+* The statement is not logically entailed or contradicted by the context.<|eot_id|>

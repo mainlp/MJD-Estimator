@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The park was established in 1935 and was given Corbett's name after India became independent. 
+Statement: The park changed names due to the independence. 
+Answer: [/INST] 1. The original name of the park is not specified, so it's unclear if it was changed or not.
+2. The name Corbett could have been added, not replaced, at independence.
+3. The context does not indicate if name changes only related to independence are being considered.
+4. The context does not clarify if the park's name was officially tied to Corbett's name before independence.
+5. The possibility of the name change due to other factors coinciding with India's independence cannot be ruled out.</s>

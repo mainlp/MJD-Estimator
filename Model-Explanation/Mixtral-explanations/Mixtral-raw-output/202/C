@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: 'I don't know what happened, exactly.' I said. 
+Statement: You aren't making sense. 
+Answer: [/INST] 1. The person speaking does know what happened, but is being coy or evasive.
+2. The person speaking is deliberately speaking in a confusing or misleading way, but still making sense overall.
+3. The listener misunderstood the speaker, and the speaker does in fact make sense.
+4. The speaker's statement was taken out of context, and in the full context, they do make sense.
+5. The speaker's statement was unclear due to factors such as accent, pronunciation, or speech impediment, but they do make sense.
+6. The listener is not familiar with the topic or context, leading them to believe the speaker doesn't make sense.
+7. The speaker's statement is logically consistent, but the listener is unable to follow their train of thought.
+8. The speaker's statement is clear, but the listener is unable to understand it due to lack of knowledge or expertise.
+9. The speaker's statement is a metaphor, idiom, or joke that the listener does not understand.
+10. The speaker's statement is grammatically correct and semantically clear, but the listener still perceives it as not making sense

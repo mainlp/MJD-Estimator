@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: We also have found that leading organizations strive to ensure that their core processes efficiently and effectively support mission-related outcomes. 
+Statement: Leading organizations want to be sure their processes are successful. 
+Answer: [/INST] 1. The term "successful" in the statement is subjective and could have different meanings in different contexts.
+2. The statement does not specify whether "successful" refers to financial success, mission-related outcomes, or some other type of success.
+3. The context does not explicitly mention that leading organizations aim for their processes to be successful, only that they support mission-related outcomes.
+4. The context does not provide information on the relationship between the efficiency and effectiveness of core processes and the success of those processes.
+5. The statement does not specify which processes of leading organizations are being referred to, and the context only mentions core processes.
+6. The context does not provide information on the motivations or goals of leading organizations beyond ensuring that their core processes support mission-related outcomes.
+7. The statement is too vague and does not provide enough specific information to determine its relation to the context.</s>

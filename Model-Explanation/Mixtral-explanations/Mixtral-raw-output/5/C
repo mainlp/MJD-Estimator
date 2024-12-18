@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The political cleansing that did not happen through the impeachment process leaves Clinton with a great and serious burden. 
+Statement: There was no such instance of political cleansing. 
+Answer: [/INST] 1. The statement contradicts the context by denying the existence of political cleansing, while the context asserts that it occurred but did not happen through the impeachment process.
+2. The statement is false because the context implies that political cleansing did take place, albeit outside of impeachment.
+3. The statement directly contradicts the context, which clearly states that a form of political cleansing did not occur through impeachment, thereby implying that it happened in another context.
+4. The statement is incorrect as the context indicates that there was political cleansing, just not through impeachment, which the statement denies entirely.
+5. The statement is inaccurate because the context implies that political cleansing did happen, and the statement categorically denies its occurrence.
+6. The statement is not true because the context indicates that political cleansing occurred outside of impeachment, which the statement fails to acknowledge.
+7. The statement is at odds with the context, which implies that political cleansing took place, and the statement denies its existence altogether.
+8. The statement is in conflict with the context, which implies that political cleansing occurred in a

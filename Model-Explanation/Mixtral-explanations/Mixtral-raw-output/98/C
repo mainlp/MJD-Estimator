@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Sphinxes were guardian deitiesinEgyptianmythologyandthis was monumentalprotection,standing73 m (240 ft)longand20 m (66 feet) high. 
+Statement: Sphinxes were put in the tombs to protect the dead. 
+Answer: [/INST] 1. Different function: Sphinxes served as guardian deities for monumental protection, not for protecting the dead in tombs.
+2. Different location: Sphinxes were placed at significant sites associated with Egyptian mythology, not in tombs.
+3. Physical attributes: Sphinxes were massive, standing 73 m long and 20 m high, which contradicts the idea of them being placed in tombs.
+4. No mention of tombs: The context does not mention anything about Sphinxes being associated with tombs, making the statement false.</s>

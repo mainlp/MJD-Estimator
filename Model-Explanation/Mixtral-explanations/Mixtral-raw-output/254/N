@@ -1,0 +1,14 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: She didn't listen. 
+Statement: She did not listen to the noise. 
+Answer: [/INST] 1. The context does not specify what "she" should have been listening to, making it possible that there were no noises for her to listen to.
+2. The statement could be referring to a different time than the context.
+3. The statement could be referring to a different subject than the context (e.g., a different "she").
+4. The "noise" in the statement could refer to something other than what the speaker of the context had in mind when they said "listen."
+5. The context could be metaphorical or figurative, while the statement is literal.
+6. The statement could be metaphorical or figurative, while the context is literal.
+7. The context could be ambiguous about what "listen" means, while the statement is unambiguous.
+8. The statement could be ambiguous about what "noise" means, while the context is unambiguous.
+9. The context could be referring to an active process of listening, while the statement is referring to a passive process of hearing.
+10. The context could be referring to a specific type of noise, while the statement is referring to any type of noise.
+11. The

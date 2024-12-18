@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: However, co-requesters cannot approve additional co-requesters or restrict the timing of the release of the product after it is issued. 
+Statement: They will restrict timing of the release of the product. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* Co-requesters cannot restrict the timing of the release of the product.
+* The statement implies that co-requesters have the ability to restrict the timing of the release, which is not the case.
+* The context explicitly states that co-requesters cannot restrict the timing of the release, making the statement false.
+* The statement contradicts the context, which denies co-requesters the power to restrict the timing of the release.
+* The context implies that the timing of the release is not under the control of co-requesters, making the statement incorrect.<|eot_id|>

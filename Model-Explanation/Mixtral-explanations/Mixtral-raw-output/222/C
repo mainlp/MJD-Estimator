@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Tell me, how did those scribbled words on the envelope help you to discover that a will was made yesterday afternoon?" Poirot smiled.  
+Statement: How did you work out from that text that there was a new will? 
+Answer: [/INST] 1. The scribbled words were not related to a will.
+2. The scribbled words were about an old will, not a new one.
+3. The scribbled words did not indicate the creation of a will, but rather its modification.
+4. The scribbled words were ambiguous and did not clearly refer to a will.
+5. The scribbled words were a decoy, and the will was discovered through another means.
+6. The scribbled words were a joke or a prank, not a serious indication of a will.
+7. The scribbled words were not written by the testator, but by someone else.
+8. The scribbled words were found on a different document, not an envelope.
+9. The scribbled words were found yesterday, but the will was made at a different time.
+10. Poirot did not work out the new will from the scribbled words, but was already aware of it.</s>

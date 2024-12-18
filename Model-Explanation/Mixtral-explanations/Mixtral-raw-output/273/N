@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: 36 AC usage nationally for mercury control from power plants should be roughly proportional to the total MWe of coal-fired facilities that are equipped with the technology (this assumes an average capacity factor of 85 percent and other assumptions of Tables 4-4 and 4-5). 
+Statement: Power plants' mercury control AC usage is higher than total MWe from coal facilities. 
+Answer: [/INST] 1. The context does not specify the time period being considered.
+2. The statement could be true if some coal-fired facilities without the technology are included in the total MWe.
+3. The context assumes an average capacity factor of 85 percent, but the actual capacity factor might be different.
+4. The statement could be true if some of the AC usage is for purposes other than mercury control.
+5. The context is based on Tables 4-4 and 4-5, but the statement's truthfulness could depend on other factors not mentioned in the tables.
+6. The statement does not specify whether it is referring to a specific region or nationally, which could affect the comparison.
+7. The statement could be true if the power plants have increased in efficiency since the data in the context was collected.
+8. The context does not specify if the AC usage includes only coal-fired facilities or also other types of power plants.
+9. The statement could be true if there are errors or inaccuracies in the data used in the context.
+10. The statement could be true if there are differences in the types of mercury control technology used in the power plants.</s>

@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The centralization dear to Richelieu and Louis XIV was becoming a reality. 
+Statement: Louis XIV cared a lot about centralization of his country and people. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context only mentions that centralization was becoming a reality, but it does not explicitly state Louis XIV's feelings or opinions about it.
+* The phrase "dear to" in the context implies that Richelieu liked centralization, but it does not provide direct evidence about Louis XIV's views.
+* The context does not provide enough information to determine the extent to which Louis XIV cared about centralization, only that it was happening during his reign.
+* The statement assumes a level of emotional investment ("cared a lot") that is not supported by the context, which only describes a factual situation.
+* The context does not rule out the possibility that Louis XIV was indifferent or even opposed to centralization, but was unable to prevent it.<|eot_id|>

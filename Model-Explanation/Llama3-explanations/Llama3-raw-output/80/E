@@ -1,0 +1,8 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The word itself, tapa, is translated as  lid  and derives from the old custom of offering a bite of food along with a drink, the food being served on a saucer sitting on top of the glass like a lid. 
+Statement: Tapas are large portions and are a very filling meal. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* None. The statement is actually false.<|eot_id|>

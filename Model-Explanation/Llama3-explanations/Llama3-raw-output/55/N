@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: kind of kind of nothing i won't have anything to do with 
+Statement: I don't want anything to do with it, no doubts about it. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context is vague and open-ended, lacking specific information about what "it" refers to, making it difficult to determine the relationship between the context and the statement.
+* The phrase "kind of kind of nothing" is ambiguous and unclear, which hinders the ability to infer a clear meaning or connection to the statement.
+* The context does not provide enough information to determine the speaker's attitude or stance towards the subject, making it hard to determine if the statement is entailed or contradicted.
+* The statement is strong and assertive, but the context does not provide sufficient evidence to support or refute its claim, leading to a neutral classification.
+* The context and statement may be related, but the connection is not explicit, and the relationship between the two is unclear, resulting in a neutral classification.
+* The context lacks specific details or examples that would help to determine the relationship between the context and the statement, leading to a neutral classification.
+* The tone and language used in the context and statement are informal and conversational, which can make it difficult to determine a clear meaning or relationship between the two.<|eot_id|>

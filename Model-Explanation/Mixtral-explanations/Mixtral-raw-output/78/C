@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: He's chosen Meg Ryan. 
+Statement: A possible selection would be Meg Ryan or Jon Doe. 
+Answer: [/INST] 1. The statement implies that Meg Ryan is not the only possible selection, but one option among others, including Jon Doe.
+2. The context, however, indicates that Meg Ryan has already been chosen, making Jon Doe an impossible selection.
+3. Therefore, the statement is false because it suggests that Jon Doe is still a possible choice when he is not.</s>

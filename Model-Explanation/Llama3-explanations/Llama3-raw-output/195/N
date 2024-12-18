@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: If ancient writings give only a romanticized view, they do offer a more precise picture of Indo-Aryan society. 
+Statement: Ancient writings  show an accurate picture of Indo-Anryan society. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions that ancient writings offer a "more precise picture", but does not imply that the picture is entirely accurate.
+* The context contrasts "romanticized view" with "more precise picture", suggesting that the writings may still be biased or incomplete.
+* The statement makes a stronger claim ("accurate picture") than the context ("more precise picture"), which is not necessarily supported by the context.
+* The context does not provide enough information to determine the level of accuracy of the picture presented by ancient writings.
+* The statement's claim of "accuracy" is not explicitly supported or denied by the context, leaving it undetermined.<|eot_id|>

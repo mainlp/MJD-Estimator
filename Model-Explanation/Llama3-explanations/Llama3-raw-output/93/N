@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: isn't it i can remember i've only been here eight years but i can remember coming to work from i used to live in Wylie and i could see downtown Dallas 
+Statement: Downtown Dallas was a short drive from where I lived in Wylie. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions the speaker could see downtown Dallas, but doesn't explicitly state the distance or driving time.
+* The context doesn't provide a clear definition of what constitutes a "short drive".
+* The statement is a paraphrased version of the context, but the context doesn't explicitly confirm the distance.
+* The context only mentions the speaker's ability to see downtown Dallas, but doesn't provide information about the driving route or traffic conditions.
+* The statement assumes a specific interpretation of "short drive" which might not be universally agreed upon.
+* The context doesn't provide enough information to determine the exact location of the speaker's residence in Wylie.
+* The statement is a subjective claim and the context doesn't provide objective evidence to support or refute it.<|eot_id|>

@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Answer? said Julius. 
+Statement: Julius already knew the answer. 
+Answer: [/INST] 1. Julius had never known the answer before.
+2. Julius forgot the answer.
+3. Someone misinformed Julius about not knowing the answer.
+4. Julius was joking or pretending not to know the answer.
+5. Julius's memory of knowing the answer was erased or suppressed.
+6. Julius was referring to a different answer than what was being discussed.
+7. Julius was asking a rhetorical question and already knew the answer was no.
+8. Julius was asking for confirmation of an answer he thought he knew.
+9. Julius was asking someone else, not himself, the answer.
+10. Julius was asking about the answer to a different question.</s>

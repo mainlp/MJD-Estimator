@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: I found her leaning against the bannisters, deadly pale.  
+Statement: She couldn't stand on her own so she leaned against the bannisters until I found her. 
+Answer: [/INST] 1. The person was feeling weak and needed support.
+2. She was unable to stand without assistance.
+3. The bannisters provided the necessary support for her to remain upright.
+4. The finder's arrival gave her the ability to be found.
+5. Her paleness indicated an illness or distress.
+6. The action of leaning against the bannisters was a continuous one until the finder came.
+7. The person didn't notice or care about being seen in a vulnerable state.
+8. The bannisters were the closest support available to her.
+9. The person was conscious and aware of her surroundings.
+10. The statement infers that the finder's discovery of the person was unexpected or surprising.</s>

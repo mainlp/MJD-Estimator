@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: If you have the energy to climb the 387 steps to the top of the south tower, you will be rewarded with a stunning view over the city. 
+Statement: The south tower has the best view in the city. 
+Answer: [/INST] 1. The south tower may not have any view at all.
+2. The view from the south tower could be obstructed or not as stunning as claimed.
+3. There might be other taller structures in the city that offer a better view.
+4. The statement could be subjective, and not everyone may agree that the south tower has the best view.
+5. The statement could be outdated, and a newer tower has since been built with a better view.
+6. The statement could be a generalization, and certain areas of the city might offer a better view.
+7. The statement could be false advertising or an exaggeration to entice people to climb the tower.</s>

@@ -1,0 +1,15 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The good news, however, can be found in reports like this one. 
+Statement: The good news is that the puppy's life was able to be saved. 
+Answer: [/INST] 1. The reports indicate that the puppy's life was saved.
+2. The "reports like this one" mentioned in the context refer to the situation where the puppy's life was saved.
+3. The good news is that a puppy's life was saved, as stated in the report being referred to.
+4. The report being referred to contains positive news about a puppy's life being saved.
+5. The context implies that there is good news, and the statement provides the content of that good news.
+6. The statement is a summary of the good news found in the report being referred to.
+7. The report being referred to contains information about a situation that led to the puppy being saved.
+8. The statement is a direct quote from the report being referred to.
+9. The report being referred to is about a puppy that was in danger, and the statement indicates that the puppy is now safe.
+10. The statement is a paraphrase of the good news found in the report being referred to.
+11. The report being referred to is a positive report about a puppy's life being saved.
+12. The statement

@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: yeah well that's my uh i mean every time i've tried to go you know it's always there's there's always a league bowling 
+Statement: Every time I try to go bowling there are leagues only and I can't bowl. 
+Answer: [/INST] 1. The speaker was untruthful about their experience with bowling alleys being occupied by leagues.
+2. The speaker has never tried to go bowling during non-league hours.
+3. The speaker has only been to bowling alleys with permanently booked leagues.
+4. The speaker has been to a different bowling alley where there were no leagues.
+5. The speaker has been able to bowl despite the presence of leagues, perhaps by joining one or reserving a lane in advance.
+6. The statement "every time I try to go bowling" is an exaggeration, and there have been instances where the speaker was able to bowl during non-league hours.
+7. The speaker's attempts to go bowling have been limited to times when leagues are typically held, such as weekday evenings.
+8. The bowling alley has recently stopped hosting leagues, but the speaker is unaware of this change.
+9. The speaker has been misinformed about the bowling alley's league schedule.
+10. The speaker is intentionally misrepresenting their experience with bowling alleys and leagues.</s>

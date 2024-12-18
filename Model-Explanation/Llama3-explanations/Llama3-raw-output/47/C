@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The idea that Clinton's approval represents something new and immoral in the country is historically shortsighted. 
+Statement: It's accurate to conclude that Clinton's approvals signify the start of a new form of immorality in the country. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement implies a new form of immorality, but the context suggests that the idea is historically shortsighted, implying that the phenomenon is not new.
+* The context denies that Clinton's approval represents something new, but the statement claims it signifies the start of something new.
+* The statement concludes that Clinton's approvals signify a new form of immorality, but the context argues that this idea is inaccurate.
+* The context emphasizes the historical nature of the phenomenon, while the statement suggests it is a new development.
+* The statement's conclusion about a new form of immorality contradicts the context's assertion that the idea is historically shortsighted.<|eot_id|>

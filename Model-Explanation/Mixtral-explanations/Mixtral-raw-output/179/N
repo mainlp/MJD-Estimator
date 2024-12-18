@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: maybe adult literacy maybe you know composition writing maybe you know uh volunteering you know on a tutor line or though the even through the elementary schools for help with homework or the other part of me says is God i've had enough kids  do i really 
+Statement: maybe I could volunteer to help coach sports since I've helped all my children be successful in sports 
+Answer: [/INST] 1. The context does not indicate the speaker's interest or experience in coaching sports.
+2. The speaker's statement could imply they are physically unable to coach sports.
+3. The speaker's level of sports knowledge and expertise is not mentioned in the context.
+4. The speaker's availability and schedule are not discussed in the context.
+5. The context does not mention the location or resources for coaching sports.
+6. The speaker's motivation for volunteering to coach sports is not specified.
+7. The context does not reveal if the speaker has any prior commitments that could interfere with coaching.
+8. The speaker's emotional state towards working with children again is ambiguous.
+9. The context does not provide information about the demand for sports coaches in the community.
+10. The speaker's prior experience in volunteering may not have been positive, making them hesitant to commit to more volunteering.</s>

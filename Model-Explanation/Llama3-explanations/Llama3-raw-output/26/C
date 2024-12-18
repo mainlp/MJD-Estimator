@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: But I'll take up my stand somewhere near, and when he comes out of the building I'll drop a handkerchief or something, and off you go!" 
+Statement: I want you to follow him, so watch for the signal that I give. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The speaker does not want the listener to follow him.
+* The listener is not supposed to watch for a signal.
+* There is no signal to be given.
+* The speaker does not intend to give a signal.
+* The listener is not supposed to take any action after seeing the signal.
+* The signal is not meant to initiate the action of following him.<|eot_id|>

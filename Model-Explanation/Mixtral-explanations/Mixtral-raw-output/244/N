@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: 1 Now that each unit is fully staffed, the LSC Office of Program Performance and its state planning team contain over 260 years of experience in LSC-funded programs. 
+Statement: The LSC has over 260 years of experience with their lawyers. 
+Answer: [/INST] 1. The context does not specify the type of experience in the LSC Office of Program Performance and its state planning team. It could be managerial, administrative, or other types of experience, not necessarily experience working directly as lawyers.
+2. The statement mentions "their lawyers," but the context does not make it clear if the lawyers mentioned in the statement are part of the LSC Office of Program Performance and its state planning team.
+3. The context refers to experience in "LSC-funded programs," while the statement refers to experience with "LSC lawyers." It is unclear if these two groups overlap or if they are distinct.
+4. The context mentions the number of years of experience for the entire office, while the statement refers to the number of years of experience for the LSC as a whole. It is unclear if the experience of the LSC office represents the total experience of the LSC.
+5. The context does not provide information about the distribution of experience among the staff in the LSC Office of Program Performance and its state planning team. It is possible that a small number of individuals have a large portion of the 260 years of experience, and the remaining staff have little or no experience

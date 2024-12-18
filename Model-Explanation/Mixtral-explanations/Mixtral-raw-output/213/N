@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Generally, FGD systems tend to be constructed closer to the ground compared to SCR technology retrofits. 
+Statement: FGD systems tend to replicate SCR systems. 
+Answer: [/INST] 1. The context only discusses the location of construction for FGD systems and SCR technology retrofits, but does not mention anything about how similar or dissimilar the systems are in terms of their functionality or design.
+2. The term "tend to" in the statement could imply a general trend, but it does not necessarily mean that FGD systems always replicate SCR systems.
+3. The context focuses on the comparison between FGD systems and SCR technology retrofits in terms of their construction location, but it does not provide enough information to determine whether FGD systems replicate SCR systems in terms of their technical specifications or performance.
+4. The statement could be referring to a specific type of FGD system that replicates SCR systems, but the context does not provide enough information to confirm or deny this.
+5. The term "replicate" could have different meanings in different contexts, and it is not clear whether it is being used to refer to physical replication, functional replication, or some other type of replication.
+6. The context does not provide any information about the reasons why FGD systems might be constructed closer to the ground, and it is not clear whether this

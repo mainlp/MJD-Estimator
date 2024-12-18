@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: In this respect, bringing Steve Jobs back to save Apple is like bringing Gen. 
+Statement: Steve Jobs came back to Apple. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context is discussing a hypothetical scenario, and the statement is a real event that occurred in the past, making it unclear whether the statement is referring to the hypothetical scenario or the real event.
+* The context is using an analogy to make a point, and the statement is a literal interpretation of the analogy, which may not be the intended meaning.
+* The context is discussing the idea of bringing someone back, implying a sense of urgency or necessity, whereas the statement is a simple declaration of a past event without conveying any sense of urgency or necessity.
+* The context is using a comparison to make a point, and the statement is not providing enough information to determine whether the comparison is valid or not.
+* The context is discussing a hypothetical scenario in the present tense, whereas the statement is in the past tense, making it unclear whether the statement is relevant to the context.
+* The context is using a metaphorical expression ("bringing back") to convey a sense of revival or rescue, whereas the statement is a literal interpretation of Steve Jobs returning to Apple, which may not convey the same sense of revival or rescue.<|eot_id|>

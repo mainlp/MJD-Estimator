@@ -1,0 +1,17 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: we were lucky in that in one respect in that after she had her stroke she wasn't really you know really much aware of what was going on 
+Statement: She had a very serious stroke. 
+Answer: [/INST] 1. She did not have a stroke at all.
+2. The stroke she had was minor and did not cause serious consequences.
+3. She was fully aware of what was going on after her stroke.
+4. The stroke she had did not affect her consciousness or awareness.
+5. She had a stroke, but it was not recent (implies that the lack of awareness is due to something else).
+6. She was only aware of what was going on to some extent, but not fully.
+7. She was aware of what was going on in some situations, but not in others.
+8. She was aware of some aspects of what was going on, but not others.
+9. She was aware of what was going on, but only intermittently.
+10. She was aware of what was going on, but only at a superficial level.
+11. She was aware of what was going on, but only with great effort.
+12. She was aware of what was going on, but her awareness was impaired in some way.
+13. She was aware of what was going on, but her awareness was inconsistent.
+14. She was aware of what

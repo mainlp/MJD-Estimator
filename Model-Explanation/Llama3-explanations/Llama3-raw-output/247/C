@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: My unborn children will never appear on the Today show. 
+Statement: No direct descendent of mine will ever be a guest of the Today show. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The unborn children may not be direct descendants (e.g., they may be adopted).
+* The Today show may have a different definition of "guest" that excludes unborn children but includes other direct descendants.
+* The statement only mentions "guest" while the context mentions "appear", which could have different meanings.
+* The context only mentions the Today show, but the statement is more general, implying that other shows or programs are possible.
+* The unborn children may appear on the Today show in a different capacity (e.g., as part of a news story, not as guests).
+* The statement is too broad, as it excludes the possibility of direct descendants appearing on the Today show in a hypothetical future scenario where they are not unborn children anymore.<|eot_id|>

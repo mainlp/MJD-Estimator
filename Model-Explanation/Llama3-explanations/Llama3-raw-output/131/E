@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: And far, far away- lying still on the tracks- was the back of the train. 
+Statement: The train wasn't moving but then it started up. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The phrase "lying still on the tracks" implies that the train was initially not moving.
+* The use of "but" in the statement indicates a contrast, suggesting that the initial state of the train (not moving) changed to a new state (started moving).
+* The phrase "started up" implies a transition from a stationary state to a moving state, which is only possible if the train was initially not moving.<|eot_id|>

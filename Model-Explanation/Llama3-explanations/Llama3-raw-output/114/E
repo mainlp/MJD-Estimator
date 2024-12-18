@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: In the 19th century, when Kashmir was the most exotic hill-station of them all, the maharaja forbade the British to buy land there, so they then hit on the brilliant alternative of building luxuriously appointed houseboats moored on the lakes near Srinagar. 
+Statement: The maharaja allowed the British to build houseboats on the lakes. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context explicitly states that the maharaja forbade the British to buy land, but they built houseboats as an alternative, implying that the maharaja allowed or tolerated the construction of houseboats.
+* The maharaja's prohibition on buying land did not extend to building on water, allowing the British to build houseboats on the lakes.
+* The British would not have been able to build houseboats without the maharaja's implicit or explicit permission, suggesting that the maharaja allowed them to do so.
+* The fact that the British built houseboats as a response to the maharaja's prohibition on buying land implies that the maharaja was aware of and permitted their construction.<|eot_id|>

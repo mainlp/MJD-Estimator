@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Ca'daan closed the door behind them and retied the not. 
+Statement: Ca'daan closed the door as they entered, and bound it shut with rope. 
+Answer: [/INST] 1. "Retied" in the context means Ca'daan tied the knot again, which implies that the door was already bound with rope before and Ca'daan untied it to enter and retied it after closing the door.
+2. The word "not" in the context could be a misspelling of "knot," which would mean Ca'daan tied the door shut with rope after closing it.
+3. The context and statement both describe the action of securing the door with rope, with the only difference being the use of "retied" versus "bound." It's possible that "retied" is being used in a non-standard way to mean "bound" or "tied again."
+4. It's possible that Ca'daan initially untied the rope to enter the room and then tied it again after closing the door, in which case both the context and statement would be accurate.
+
+In all of these scenarios, the statement "Ca'daan closed the door as they entered, and bound it shut with rope" is an accurate description of the events in the context "Ca'daan closed the door behind them and retied the not."</s>

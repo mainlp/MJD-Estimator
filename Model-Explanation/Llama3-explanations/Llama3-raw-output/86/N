@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The Chinese calendar was used to calculate the year of Japan's foundation by counting back the 1,260 years of the Chinese cosmological cycle. 
+Statement: The calculation of Japan's year of foundation was very exact. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not provide information about the accuracy of the calculation method used.
+* The context does not mention any evidence or validation of the calculated year of Japan's foundation.
+* The context only describes the method used for calculation, but does not imply anything about the precision or exactness of the result.
+* The context does not provide a basis for comparison to determine the level of exactness.
+* The statement makes a subjective claim about the calculation being "very exact", which cannot be verified or refuted based on the provided context.
+* The context does not provide any information about the margin of error or uncertainty associated with the calculation.
+* The context does not mention any expert opinion or consensus about the accuracy of the calculated year of Japan's foundation.<|eot_id|>

@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: I'm confused. 
+Statement: Not all of it is very clear to me. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only expresses confusion, but does not provide specific information about what is clear or unclear, making it impossible to infer the truth of the statement.
+* The statement is a vague expression of uncertainty, which does not provide enough information to determine its truth value.
+* The context and statement are too ambiguous to determine whether "it" refers to the same thing in both sentences.
+* The statement is a paraphrase of the context, and does not add any new information that would allow us to determine its truth value.
+* The context and statement are both expressions of uncertainty, and do not provide enough information to determine whether the statement is true or false.
+* The statement is too general, and without more specific information, it is impossible to determine whether all of "it" is clear or unclear.<|eot_id|>

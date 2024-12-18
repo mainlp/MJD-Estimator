@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The students' reaction was swift and contentious, as if their feelings had been hurt. 
+Statement: The students reacted with horror. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The students' reaction was described as "swift and contentious", which implies a strong emotional response, but not necessarily horror.
+* The context mentions "as if their feelings had been hurt", which suggests the students were upset or offended, but not horrified.
+* The tone of the context is more suggestive of annoyance or indignation, rather than horror.
+* Horror typically implies a strong fear or shock response, which is not explicitly mentioned in the context.
+* The context does not provide any information that would suggest the students were frightened or terrified, which is typically associated with horror.<|eot_id|>

@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: By coordinating policy development and awareness activities in this manner, she helps ensure that new risks and policies are communicated promptly and that employees are periodically reminded of existing policies through means such as monthly bulletins, an intranet web site, and presentations to new employees. 
+Statement: There new employees are a risk. 
+Answer: [/INST] 1. The statement could mean that new employees themselves pose a risk, but the context does not provide information about the nature of this risk.
+2. The statement could also mean that new employees might be a risk because they are not yet familiar with existing policies, but the context only mentions that existing policies are communicated to new employees, not whether this communication is effective or whether new employees understand the policies.
+3. The statement could also be ambiguous because the word "there" is used, which could refer to a location or to the existence of new employees as a risk, but the context does not provide information about a location or explicitly state that new employees are a risk.
+4. The statement could also be undetermined because the context does not provide information about whether the policy development and awareness activities are effective in mitigating any risks posed by new employees.</s>

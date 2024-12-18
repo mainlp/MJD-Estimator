@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Tommy realized perfectly that in his own wits lay the only chance of escape, and behind his casual manner he was racking his brains furiously. 
+Statement: He'd been stuck for hours, starting to feel doubt crawl into his mind. 
+Answer: [/INST] 1. Tommy's situation of being stuck for hours indicates that he has been trying to escape for a long time, leading to his feeling of doubt.
+2. The fact that Tommy is racking his brains furiously suggests that he is experiencing a mental struggle, which could result in feelings of doubt.
+3. The context implies that Tommy is relying on his own abilities to escape, and the statement indicates that he is starting to feel doubt, which fits with the entailment relationship.</s>

@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: You see, he said sadly, "you have no instincts." 
+Statement: He said that I had no willpower. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The quote "you have no instincts" does not mention willpower, so it cannot be inferred that he said that about willpower.
+* The context implies that he said something negative about the speaker, but the topic is instincts, not willpower.
+* The words "instincts" and "willpower" have different meanings, and there is no logical connection between the two.
+* The quote is a direct speech, and it explicitly says "instincts", not "willpower".
+* The tone of the context is sad, which suggests that the speaker is being criticized, but the criticism is about lacking instincts, not willpower.<|eot_id|>

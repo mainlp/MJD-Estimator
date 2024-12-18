@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: No, I exclaimed, astonished.  
+Statement: I said no to him several time, utterly surprised by the change of events.  
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The speaker previously uttered the word "no" to someone, which is evident from the context "No, I exclaimed".
+* The speaker was astonished, which implies being utterly surprised, as mentioned in the statement.
+* The use of "exclaimed" in the context suggests a strong emotional response, which aligns with the idea of being "utterly surprised" in the statement.
+* The context implies a conversation or interaction with someone ("him" in the statement), which is supported by the quote "No, I exclaimed".
+* The statement's phrase "said no to him several times" can be inferred from the context's "No, I exclaimed", assuming the speaker repeated their refusal or disbelief.<|eot_id|>

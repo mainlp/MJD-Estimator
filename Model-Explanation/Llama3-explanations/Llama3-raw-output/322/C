@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The pope, suggesting that Gen. 
+Statement: Gen is being suggested by the Pope. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The subject performing the action of suggesting is the Pope, not Gen.
+* The Pope is the one doing the suggesting, not being suggested.
+* Gen is the recipient of the suggestion, not the one being suggested.
+* The sentence structure implies that the Pope is the agent, and Gen is the theme or topic being suggested, not the other way around.<|eot_id|>

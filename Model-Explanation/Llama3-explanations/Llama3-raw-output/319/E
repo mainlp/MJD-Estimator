@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Changes in technology and its application to electronic commerce and expanding Internet applications will change the specific control activities that may be employed and how they are implemented, but the basic requirements of control will not have changed. 
+Statement: Technology will make it so we have less control of activities. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The changes in technology will lead to a reduction in the specific control activities employed.
+* The implementation of new technology will make it difficult to maintain control over certain activities.
+* The expanding Internet applications will create new vulnerabilities that will reduce control over activities.
+* The shift to electronic commerce will lead to a loss of control over certain aspects of business operations.
+* The increased reliance on technology will create dependencies that will erode control over activities.<|eot_id|>

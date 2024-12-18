@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Kutchins and Kirk cite a particularly amusing example of such  Robert Spitzer, the man in charge of DSM-III, was sitting down with a committee that included his wife, in the process of composing a criteria-set for Masochistic Personality Disorder--a disease that was suggested for, but never made it into, the DSM-III-R (a revised edition). 
+Statement: DSM-III-R is a book of personality disorders. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context only mentions that DSM-III-R is a revised edition of DSM-III, but it does not provide information about its content or scope.
+* The context only mentions that Masochistic Personality Disorder was suggested for, but never made it into, the DSM-III-R, but it does not provide information about what is actually included in the DSM-III-R.
+* The context does not explicitly state that DSM-III-R is a book of personality disorders, nor does it provide enough information to infer that it is not.
+* The context focuses on the process of composing a criteria-set for a specific disorder, but it does not provide a general description of the DSM-III-R.
+* The context does not provide enough information to determine whether DSM-III-R is exclusively a book of personality disorders or if it includes other types of disorders as well.<|eot_id|>

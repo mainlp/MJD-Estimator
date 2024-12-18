@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: 5 are highly correlated during summer months in some areas. 
+Statement: Six are correlated to winter in certain areas. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are possible explanations why the statement is true (entailment):
+
+* The number 6 is likely to be adjacent to 5, and if 5 are highly correlated during summer months, it's possible that 6 are correlated to winter in certain areas.
+* The phrase "in some areas" in the context implies that the correlation of 5 is not universal, leaving room for the possibility that 6 are correlated to winter in other areas.
+* The correlation of 5 during summer months does not preclude the possibility of a different number (6) being correlated to winter in certain areas.
+* The context only provides information about the correlation of 5 during summer months, but it does not provide any information about the correlation of 6 or any other number during winter months, making it possible for 6 to be correlated to winter in certain areas.
+* The use of "some areas" in the context and "certain areas" in the statement suggests that the areas in question might be different, allowing for the possibility that 6 are correlated to winter in areas where 5 are not correlated during summer months.<|eot_id|>

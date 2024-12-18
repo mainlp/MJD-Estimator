@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The great attraction of the church is the splendid exterior, which is crowned by golden onion-shaped cupolas. 
+Statement: The outside of the church isn't much to look at, but the inside is intricately decorated. 
+Answer: [/INST] 1. The "splendid exterior" mentioned in the context refers only to the outside appearance of the church, which could be visually impressive without the need for internal decoration.
+2. The "golden onion-shaped cupolas" are likely to be a significant part of the "splendid exterior," contributing to its impressive nature without necessarily implying that the interior is also decorated.
+3. The statement "the outside of the church isn't much to look at" is a subjective opinion, which could be contradicted by another person's viewpoint, and the context provided does not explicitly refute this claim.
+4. The context does not provide any information about the interior of the church, making it possible that the statement about the intricate interior decoration is true even if the exterior is splendid.
+5. The term "great attraction" in the context could refer to the church's historical or architectural significance, which may not necessarily be linked to the visual appeal of the exterior or interior design.</s>

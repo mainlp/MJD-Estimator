@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: You will remember my saying that it was wise to beware of people who were not telling you the truth." 
+Statement: There might be dishonest people around here. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not explicitly state that there are dishonest people around, only that it is wise to beware of them.
+* The context does not provide enough information to confirm or deny the presence of dishonest people.
+* The statement is a possibility or a warning, rather than a definitive claim.
+* The context is advising caution, but does not make a concrete assertion about the presence of dishonest people.
+* The statement is a vague and general warning, rather than a specific claim that can be verified or falsified.
+* The context is focused on the importance of being cautious, rather than making a claim about the current situation.
+* The statement is a hypothetical scenario, rather than a statement of fact.<|eot_id|>

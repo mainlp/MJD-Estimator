@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: and going to school is also always very prohibitive now unless your parents are wealthy 
+Statement: Wealthy parents are necessary for school. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement implies that wealthy parents are the only ones who can send their children to school, but the context suggests that it's possible to go to school even if your parents are not wealthy, albeit with difficulty.
+* The context uses "unless" which implies an exception, meaning there are cases where going to school is not prohibitive even if parents are not wealthy.
+* The statement is too absolute, using "necessary" to imply a strict requirement, whereas the context suggests that wealth is not a strict requirement, but rather a facilitating factor.
+* The context implies that there are other factors that can make going to school possible, even if parents are not wealthy, whereas the statement rules out such possibilities.<|eot_id|>

@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Kutchins and Kirk cite a particularly amusing example of such  Robert Spitzer, the man in charge of DSM-III, was sitting down with a committee that included his wife, in the process of composing a criteria-set for Masochistic Personality Disorder--a disease that was suggested for, but never made it into, the DSM-III-R (a revised edition). 
+Statement: DSM-III-R is a book of personality disorders. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* DSM-III-R is a revised edition, not a book specifically focused on personality disorders.
+* DSM-III-R is not a book that includes Masochistic Personality Disorder, which was suggested but not included.
+* DSM-III-R is a broader psychiatric manual, not limited to personality disorders.
+* The context implies that DSM-III-R is a revised edition of DSM-III, which suggests it covers a range of psychiatric disorders, not just personality disorders.<|eot_id|>

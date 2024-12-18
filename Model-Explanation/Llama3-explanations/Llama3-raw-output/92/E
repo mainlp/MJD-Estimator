@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: trying to keep grass alive during a summer on a piece of ground that big was expensive 
+Statement: The watering and fertilizer, can cost a lot to keep grass alive in the summer months. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* Watering and fertilizer are necessary to keep grass alive during summer.
+* The cost of watering and fertilizer increases with the size of the ground.
+* The summer months require more frequent or intense watering and fertilizer application.
+* The cost of keeping grass alive is directly proportional to the size of the ground.
+* The context implies that the piece of ground is large, making the cost of watering and fertilizer higher.
+* The cost of watering and fertilizer is a significant contributor to the overall expense of keeping grass alive during summer.<|eot_id|>

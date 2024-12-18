@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: And she came to you? 
+Statement: The person asked if the woman came to him. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The subject of the sentence is "she", implying a female, but the statement refers to "the person", which is ambiguous and could be male or female.
+* The original sentence says "came to you", implying the speaker is the recipient, but the statement says "came to him", implying a different recipient.
+* The original sentence is a question, but the statement is a declarative sentence.
+* The original sentence does not contain the phrase "asked if", which is present in the statement.<|eot_id|>

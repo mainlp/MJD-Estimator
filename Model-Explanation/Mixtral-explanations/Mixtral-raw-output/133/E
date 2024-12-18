@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: It will be held in the Maryland woods, and the telecast will consist of jittery footage of the contestants' slow descent into madness as they are systematically stalked and disappeared/disqualified by Bob Barker. 
+Statement: The show will be set in the woods north of Boston. 
+Answer: [/INST] 1. The Maryland woods are located in the woods north of Boston.
+2. The show's setting is specifically in the Maryland woods, which are located in the general vicinity of north Boston.
+3. The term "Maryland woods" in the context is being used as a metonym for a specific location that is north of Boston.
+4. The show's setting is in a location that is both in the Maryland woods and north of Boston.
+5. The telecast footage of the contestants' descent into madness is taking place in the Maryland woods, which are located north of Boston.
+6. The organizer of the show, Bob Barker, is stalking and disqualifying contestants in the Maryland woods, which are located north of Boston.</s>

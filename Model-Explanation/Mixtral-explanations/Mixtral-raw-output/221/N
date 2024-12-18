@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: After shuttering the DOE, Clinton could depict himself as a crusader against waste and bureaucracy who succeeded where even Reagan failed. 
+Statement: Reagan had tried to shutter the DOE but was unable to. 
+Answer: [/INST] 1. The text does not provide information on whether Clinton was aware of Reagan's attempt to shutter the DOE.
+2. The text does not specify if Clinton's methods or reasons for trying to shutter the DOE were similar to Reagan's.
+3. The context does not indicate whether Clinton's success was due to factors unrelated to his crusade against waste and bureaucracy.
+4. The text does not provide information on the timeline of events, so it's unclear if Clinton's actions occurred after Reagan's attempt.
+5. The statement doesn't mention if Clinton ever publicly acknowledged or credited Reagan's attempt in his own efforts.
+6. The context doesn't reveal if Clinton's success was influenced by changes in the political climate or other external factors since Reagan's time.
+7. The statement doesn't clarify if Clinton's success was complete, meaning the DOE was permanently closed, or partial, such as a reduction in size or budget.</s>

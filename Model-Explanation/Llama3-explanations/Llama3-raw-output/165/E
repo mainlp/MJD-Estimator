@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Credibility is a vital factor, and Jim Lehrer does, indeed, have it. 
+Statement: Everyone would believe whatever Jim Lehrer said. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* Having credibility implies that people trust Jim Lehrer, so they would believe what he says.
+* Credibility is a vital factor, and since Jim Lehrer has it, his words carry weight, making people more likely to believe him.
+* The presence of credibility in Jim Lehrer suggests that he is a trustworthy source, leading people to accept his statements as true.
+* Jim Lehrer's credibility implies that he is a reliable and authoritative figure, so people would naturally believe what he says.
+* With credibility, Jim Lehrer's statements are more persuasive, making it likely that people would believe him.
+* The fact that Jim Lehrer has credibility means that people perceive him as honest and truthful, leading them to believe his words.<|eot_id|>

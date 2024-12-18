@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: And she came to you? 
+Statement: The person asked if the woman came to him. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions "you" but does not specify the gender, so it's unclear if "you" refers to a male or female, making it uncertain if the woman came to "him" specifically.
+* The context does not explicitly state that the person asking the question is the same person referred to by "you", so it's unclear if the question is about the woman coming to the person asking the question or someone else.
+* The context does not provide enough information to determine if the woman came to the person asking the question, only that she came to "you", which could be someone else entirely.
+* The pronoun "him" in the statement is ambiguous and could refer to someone other than the person referred to by "you" in the context.
+* The context does not provide a clear temporal relationship between the woman coming to "you" and the person asking the question, making it unclear if the question is about a past event or a hypothetical scenario.<|eot_id|>

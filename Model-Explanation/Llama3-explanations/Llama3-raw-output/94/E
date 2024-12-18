@@ -1,0 +1,16 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The living is not equal to the Ritz, he observed with a sigh. 
+Statement: The living is nothing compared to the glamour of the Ritz, he said sadly. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The phrase "not equal to" implies a comparison, and the tone of the sentence suggests that the living falls short of the Ritz, which is a luxurious hotel.
+* The use of "sigh" implies a sense of disappointment or longing, which is consistent with the idea that the living is inferior to the Ritz.
+* The word "not" negates the idea of equality, implying that the living is somehow lesser than the Ritz.
+* The phrase "he observed" suggests a subjective judgment, and the tone of the sentence implies that the speaker is unimpressed with the living compared to the Ritz.
+* The word "sigh" implies a sense of sadness or regret, which is consistent with the idea that the living is "nothing compared to the glamour of the Ritz".
+* The comparison between the living and the Ritz implies a contrast between something ordinary and something luxurious, which supports the idea that the living is inferior.
+* The use of "he said sadly" in the statement suggests that the speaker is expressing a negative emotion, which is consistent with the idea that the living is disappointing compared to the Ritz.<|eot_id|>

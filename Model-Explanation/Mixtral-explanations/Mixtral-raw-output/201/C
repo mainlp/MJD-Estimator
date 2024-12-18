@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: On the northwestern Alpine frontier, a new state had appeared on the scene, destined to lead the movement to a united Italy. 
+Statement: The alpine frontier was separated from Italy by glaciers. 
+Answer: [/INST] 1. The new state is located in the northwestern Alpine frontier and is part of Italy.
+2. The new state is leading the movement to a united Italy, which already includes the Alpine frontier.
+3. The Alpine frontier where the new state is located is not covered in glaciers.
+4. The new state is not separated from the rest of Italy by glaciers.
+5. The new state is in a region that was previously considered part of Italy, but is now being recognized as a separate entity.
+6. The new state is a mountainous region, but it is not covered in glaciers.
+7. The new state is leading the movement to a united Italy, which does not include the Alpine frontier.
+8. The Alpine frontier is not a physical barrier, but a political or administrative boundary.
+9. The new state is not a state in the traditional sense, but a movement or organization.
+10. The statement is not referring to the same Alpine frontier as the context.</s>

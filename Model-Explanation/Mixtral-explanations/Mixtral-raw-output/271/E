@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Part of the reason for the difference in pieces per possible delivery may be due to the fact that five percent of possible residential deliveries are businesses, and it is thought, but not known, that a lesser percentage of possible deliveries on rural routes are businesses. 
+Statement: We all know that the reason for a lesser percentage of possible deliveries on rural routes being businesses, is because of the fact that people prefer living in cities rather than rural areas. 
+Answer: [/INST] 1. Businesses tend to locate in urban areas where there is a larger customer base and access to resources, resulting in fewer businesses on rural routes.
+2. The preference for city living leads to a higher concentration of residential addresses in urban areas, which are more likely to be the target of deliveries.
+3. Rural areas have fewer businesses due to a lower population density, leading to a lower percentage of possible deliveries being businesses.
+4. The attraction of cities for residents and businesses results in a higher number of residential deliveries in urban areas, compared to a lower number of residential deliveries in rural areas, which includes businesses.
+5. The statement is assuming a causal relationship between people's preference for city living and the lower percentage of possible deliveries on rural routes being businesses.</s>

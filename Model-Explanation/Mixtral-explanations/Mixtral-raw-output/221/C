@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: After shuttering the DOE, Clinton could depict himself as a crusader against waste and bureaucracy who succeeded where even Reagan failed. 
+Statement: Reagan had tried to shutter the DOE but was unable to. 
+Answer: [/INST] 1. Clinton was the one who closed the DOE, not Reagan.
+2. The DOE was still operational during Reagan's time, so he didn't try to shutter it.
+3. Reagan succeeded in closing the DOE, contrary to the statement.
+4. Clinton took credit for shuttering the DOE, but Reagan had no involvement in the process.
+5. The DOE was already closed when Reagan was in office, so he didn't attempt to close it.
+6. Reagan never expressed an interest in closing the DOE.
+7. The DOE remained open during and after Reagan's presidency.
+8. Clinton's efforts to shutter the DOE were unrelated to Reagan's.
+9. Reagan did not fail in his attempt to close the DOE.
+10. The statement is a false narrative meant to discredit Reagan's legacy.</s>

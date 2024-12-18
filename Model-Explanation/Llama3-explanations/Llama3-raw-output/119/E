@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: yes well yeah i am um actually actually i think that i at the higher level education i don't think there's so much of a problem there it's pretty much funded well there are small colleges that i'm sure are struggling 
+Statement: Small colleges usually have trouble with funding and resources. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The speaker mentions "small colleges that I'm sure are struggling", implying that these colleges face difficulties, which likely include funding and resources.
+* The contrast between "higher level education" being "pretty much funded well" and "small colleges" suggests that the latter group may not have the same level of funding.
+* The speaker's hesitation and use of phrases like "I'm sure" and "um" may indicate that they are being cautious in their statement, but still believe that small colleges tend to have trouble with funding and resources.
+* The speaker's focus on "higher level education" implies that they are comparing it to other types of education, such as smaller colleges, which may not have the same advantages.
+* The use of "struggling" to describe small colleges implies that they are facing challenges, which could include funding and resources.<|eot_id|>

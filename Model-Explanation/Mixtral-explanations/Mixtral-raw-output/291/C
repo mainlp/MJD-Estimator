@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Wear a nicely ventilated hat and keep to the shade in the street. 
+Statement: The buildings are so low that there is no shade in the streets. 
+Answer: [/INST] 1. The street has artificially created shade, such as from tall trees or canopies.
+2. The sun is directly overhead, eliminating shadows from buildings.
+3. The hat is not being worn, despite the recommendation.
+4. The statement is about a different street or location.
+5. The buildings have been demolished or are not continuous, leaving gaps for sunlight.
+6. The time is after sunset or before sunrise, making shadows impossible.
+7. The buildings are made of translucent or reflective materials, allowing sunlight to pass through or scatter.
+8. The street is indoors or in a covered area, preventing shadows from buildings.
+9. The buildings are significantly far apart, not providing enough coverage for shade.
+10. The sun is very weak or dim, such as during twilight or overcast conditions, reducing or eliminating shadows.</s>

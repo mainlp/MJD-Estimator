@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The remaining parts of the north, although enticing, are difficult to explore. 
+Statement: The rest of the north presents a steep challenge. 
+Answer: [/INST] 1. The rest of the north is easy to explore.
+2. The remaining parts of the north are not challenging.
+3. Exploring the rest of the north is not difficult.
+4. The rest of the north is not a steep challenge.
+5. The remaining parts of the north are easy to navigate.
+6. The rest of the north is not challenging to traverse.
+7. Exploring the rest of the north requires no special effort.
+8. The rest of the north is easily accessible.
+9. The remaining parts of the north are not hazardous.
+10. The rest of the north is not physically demanding.</s>

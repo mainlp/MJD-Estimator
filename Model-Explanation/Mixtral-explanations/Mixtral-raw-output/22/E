@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Monday's Question (No. 
+Statement: There was a question on Tuesday. 
+Answer: [/INST] 1. The context refers to "Monday's Question," implying that there was a question on Monday. Therefore, it is likely that questions are asked daily.
+2. The statement "There was a question on Tuesday" is a general fact, unrelated to the context, but still true.
+3. The context might be part of a series of questions asked on consecutive days, and Tuesday's question follows Monday's pattern.
+4. The statement could be a response to a question asking if a question was asked on Tuesday.
+5. The statement could be a confirmation of a correct guess that a question was asked on Tuesday.
+6. The statement could be a repetition of previously known information that a question was scheduled to be asked on Tuesday.
+7. The statement could be a summary of events, including the fact that a question was asked on Tuesday.
+8. The statement could be a reminder of an upcoming question, which was asked on Tuesday as planned.
+9. The statement could be a part of a conversation where the speaker is recapping the events of the week, starting with Monday's question and continuing to Tuesday's question.
+10. The statement could be a response to a question

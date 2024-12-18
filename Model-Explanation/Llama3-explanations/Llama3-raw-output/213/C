@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Generally, FGD systems tend to be constructed closer to the ground compared to SCR technology retrofits. 
+Statement: FGD systems tend to replicate SCR systems. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* FGD systems tend to be constructed closer to the ground, whereas SCR systems are retrofits, implying a difference in construction or installation.
+* The context implies a distinction between FGD systems and SCR technology retrofits, suggesting they are not replicated.
+* The phrase "tend to be constructed" in the context implies a difference in design or architecture between FGD systems and SCR technology retrofits, contradicting the idea of replication.
+* The context highlights a difference in location (closer to the ground) between FGD systems and SCR technology retrofits, implying they are not identical or replicated.
+* The use of "compared to" in the context suggests a contrast between FGD systems and SCR technology retrofits, contradicting the idea of replication.<|eot_id|>

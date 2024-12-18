@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: How effectively DOD manages these funds will determine whether it receives a good return on its investment. 
+Statement: These funds are for the purchase of five thousand tons of potatoes. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not mention potatoes or any specific commodity, implying that the funds are for a more general or abstract purpose.
+* The context mentions "investment" which is not typically associated with purchasing commodities like potatoes.
+* The context implies that the funds are for a long-term goal or project, whereas purchasing potatoes is a short-term or immediate expense.
+* The context does not provide any information about the DOD's need or requirement for potatoes.
+* The context suggests that the funds are for a strategic or operational purpose, whereas purchasing potatoes is a logistical or administrative task.
+* The context implies that the funds are for a significant or substantial expenditure, whereas purchasing five thousand tons of potatoes may not be a significant investment for the DOD.<|eot_id|>

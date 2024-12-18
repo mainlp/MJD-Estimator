@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Bauerstein had been at Styles on the fatal night, and added: "He said twice: 'That alters everything.' And I've been thinking.  
+Statement: The fact that Styles was at Bauerstein changes everything. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The subject of the sentence "The fact that Styles was at Bauerstein" is incorrect, it should be "The fact that Bauerstein was at Styles".
+* The phrase "changes everything" is a quote from someone else, and it's not clear what "everything" refers to in the context of the statement.
+* The statement is making an assumption about the meaning of "that alters everything" without clear evidence.
+* The context only mentions Bauerstein was at Styles, but it doesn't provide any information about what "that" refers to in the quote.
+* The statement is trying to infer a causal relationship between Bauerstein being at Styles and "everything" changing, but the context doesn't provide enough information to support this claim.
+* The quote "that alters everything" could be referring to a different fact or event, not necessarily related to Bauerstein being at Styles.
+* The context is ambiguous about what "everything" refers to, it could be related to the investigation, the murder, or something else entirely.<|eot_id|>

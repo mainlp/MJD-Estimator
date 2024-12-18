@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The students' reaction was swift and contentious, as if their feelings had been hurt. 
+Statement: The students reacted with horror. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are possible explanations why the statement is true (entailment):
+
+* "Swift" implies a strong and immediate reaction, which is consistent with reacting with horror.
+* "Contentious" suggests a strong negative emotional response, which is compatible with horror.
+* "As if their feelings had been hurt" implies a strong emotional response, which could be characterized as horror.
+* The context implies a strong negative reaction, and horror is a plausible interpretation of that reaction.<|eot_id|>

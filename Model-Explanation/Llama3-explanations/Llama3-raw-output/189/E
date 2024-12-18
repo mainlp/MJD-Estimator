@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: In a six-year study, scientists fed dogs and other animals irradiated chicken and found no evidence of increased cancer or other toxic effects. 
+Statement: Scientists gave animals irradiated chicken and they all lived as long as the rest of them. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The study found no evidence of increased cancer, which implies that the animals did not die prematurely from cancer.
+* The study found no evidence of other toxic effects, which implies that the animals did not die prematurely from other causes.
+* The study's duration was six years, which suggests that the animals lived a normal lifespan.
+* The absence of evidence of increased cancer or toxic effects implies that the animals' lifespan was not affected by the irradiated chicken.
+* The comparison "as long as the rest of them" implies that the animals in the study lived as long as animals that did not receive irradiated chicken, which suggests that their lifespan was normal.<|eot_id|>

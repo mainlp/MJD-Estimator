@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: General Motors, for instance, lost $460 million to strikes in 1997, but investors treated the costs as a kind of extraordinary charge and valued the company as if the losses had never happened. 
+Statement: GM lost a lot almost a million dollars in labor disputes. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is vague about the specific year of the loss, and the context only provides information about 1997.
+* The statement uses the phrase "almost a million dollars", which is ambiguous and could refer to a range of values, including $460 million.
+* The context mentions "strikes" while the statement refers to "labor disputes", which are related but not exactly the same.
+* The statement does not specify whether the loss is considered an "extraordinary charge" or not, which might affect how investors valued the company.
+* The statement does not provide enough information to determine if the loss is being referred to as if it "had never happened" or not.<|eot_id|>

@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: ooh it's kind of tough to think of some of the others although i do watch some of some of those frivolous things uh like on Thursday nights at nine o'clock when i get home from aerobics i will watch uh Knots Landing 
+Statement: I only watch frivolous things on Thursday nights. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement only mentions Thursday nights, but the context mentions watching Knots Landing on Thursday nights at 9 o'clock, which is a specific time, leaving open the possibility of watching other things at other times on Thursday nights.
+* The context mentions watching "some of those frivolous things", which implies that Knots Landing is not the only frivolous thing watched, but it's unclear if all frivolous things are only watched on Thursday nights.
+* The context does not provide information about the person's viewing habits on other days of the week, so it's possible that they only watch frivolous things on Thursday nights, but it's also possible that they watch them on other days as well.
+* The statement is too specific, as it only mentions Thursday nights, whereas the context provides more general information about the person's viewing habits.
+* The context mentions watching Knots Landing after aerobics, which implies that the person's viewing habits might be influenced by their schedule or routine, but it's unclear if this routine only applies to Thursday nights.
+* The statement does not take into account the possibility of watching non-frivolous things on Thursday nights, which is not ruled out by the context.<|eot_id|>

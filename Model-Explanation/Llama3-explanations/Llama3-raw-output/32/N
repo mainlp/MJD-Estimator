@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: It's thought he used the same architect who worked on the Taj Mahal. 
+Statement: In reality, he did not use the Taj Mahal's architect. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only provides a thought or speculation, but not a confirmed fact, so it's uncertain whether the architect was actually used or not.
+* The context and statement are contradictory, but neither provides conclusive evidence, leaving the truth uncertain.
+* The context is a rumor or hearsay, while the statement is a factual claim, but without further evidence, it's unclear which one is true.
+* The context is an opinion or belief, while the statement is a contradictory opinion or belief, and without more information, it's impossible to determine which one is correct.
+* The context is a hypothesis or speculation, while the statement is a contradictory hypothesis or speculation, and without further investigation, it's unclear which one is true.
+* The context and statement are based on different sources or assumptions, and without reconciling these differences, it's impossible to determine the truth.<|eot_id|>

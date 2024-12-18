@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Changes in technology and its application to electronic commerce and expanding Internet applications will change the specific control activities that may be employed and how they are implemented, but the basic requirements of control will not have changed. 
+Statement: Technology will make it so we have less control of activities. 
+Answer: [/INST] 1. Technology will increase the number of control activities.
+2. Technology will not affect the specific control activities.
+3. Technology will not change how control activities are implemented.
+4. The basic requirements of control will be altered by technology.
+5. Technology will not impact electronic commerce and Internet applications control.
+6. Technology will not introduce new control activities.
+7. Technology will not improve the way control activities are implemented.</s>

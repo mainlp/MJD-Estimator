@@ -1,0 +1,16 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: have that well and it doesn't seem like very many people uh are really i mean there's a lot of people that are on death row but there's not very many people that actually um do get killed 
+Statement: Most people on death row end up living out their lives awaiting execution. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true:
+
+* There are a lot of people on death row, but not many are actually executed.
+* The number of people on death row is high, but the number of executions is low.
+* Many people on death row do not ultimately get killed.
+* The majority of people on death row do not receive the death penalty.
+* The number of people awaiting execution is higher than the number of people who are actually executed.
+* The process of execution is slow, allowing most people on death row to live out their lives while awaiting execution.
+* The statement implies that the majority of people on death row will not be executed, but will instead live out their lives in prison.<|eot_id|>

@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Lawyers in their first three years of practice or who are inactive pay $90, and retired lawyers pay nothing. 
+Statement: Lawyers pay $90 to be included in the directory. 
+Answer: [/INST] 1. The context only mentions lawyers in their first three years of practice or who are inactive, not all lawyers.
+2. The statement does not specify whether the $90 is for inclusion in a specific type of directory.
+3. The context does not mention if retired lawyers are also required to pay $90 for inclusion in the directory.
+4. The statement does not clarify if the $90 is an one-time payment or an annual fee.
+5. The context does not indicate if there are any other conditions or exceptions for paying the $90 fee.</s>

@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: maybe adult literacy maybe you know composition writing maybe you know uh volunteering you know on a tutor line or though the even through the elementary schools for help with homework or the other part of me says is God i've had enough kids  do i really 
+Statement: maybe I could volunteer to help coach sports since I've helped all my children be successful in sports 
+Answer: [/INST] 1. The person doesn't have any experience coaching sports.
+2. The person doesn't have sufficient knowledge about the sports they'd be coaching.
+3. The person may not have the physical ability or stamina required for coaching sports.
+4. There might not be a need for sports coaches at the time.
+5. The person may not have the necessary certifications or qualifications to coach sports.
+6. The person may not have the time to commit to coaching sports.
+7. The person may not have access to the necessary facilities or equipment for coaching sports.
+8. The person may not have the interpersonal skills required to effectively coach sports.
+9. The person may not be interested in coaching sports.
+10. The person's children may not want them to coach their sports teams.</s>

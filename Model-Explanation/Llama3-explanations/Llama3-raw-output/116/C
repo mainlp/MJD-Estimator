@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: but i don't know you know  maybe you could do that for a certain period of time but i mean how long does that kind of a thing take you know to to um say to question the person or to get into their head 
+Statement: It might take a long time to do that because getting inside a person's head takes time. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The speaker is unsure if it takes a long time to get into someone's head.
+* The speaker is questioning the feasibility of getting into someone's head at all.
+* The speaker thinks it might not be possible to get into someone's head, regardless of time.
+* The speaker is asking a rhetorical question, implying it's not possible to get into someone's head.
+* The speaker is expressing skepticism about the idea of getting into someone's head.
+* The speaker is highlighting the uncertainty of the time it takes to get into someone's head, rather than assuming it takes a long time.<|eot_id|>

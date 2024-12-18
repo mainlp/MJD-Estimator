@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: If you have any questions about this report, please contact Henry R. Wray, Senior Associate General Counsel, at (202) 512-8581. 
+Statement: Henry R. Wray can be reached at (555) 512-8581. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The phone number in the statement does not match the phone number in the context.
+* The context does not provide enough information to confirm or deny the statement.
+* The statement is making a claim about Henry R. Wray's contact information that is not supported or refuted by the context.
+* The context only provides one phone number for Henry R. Wray, but the statement provides a different phone number.
+* The statement is not explicitly confirmed or denied by the context, leaving the truth value uncertain.
+* The context does not provide a comprehensive list of Henry R. Wray's contact information, so the statement cannot be verified or falsified.
+* The statement is making an assertion about Henry R. Wray's reachability that is not directly addressed by the context.<|eot_id|>

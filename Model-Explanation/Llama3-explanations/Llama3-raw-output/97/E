@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Then Shuman claims that Linux provides no graphical user interface. 
+Statement: They made accusations about the platform. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* Shuman's claim is an accusation about Linux.
+* The claim that Linux provides no graphical user interface is a negative statement about the platform.
+* Shuman's statement is a criticism of Linux, which is a form of accusation.
+* The context implies that Shuman is disapproving of Linux, which is an accusation.
+* Shuman's claim is a statement that attacks or disparages Linux, which is an accusation.<|eot_id|>

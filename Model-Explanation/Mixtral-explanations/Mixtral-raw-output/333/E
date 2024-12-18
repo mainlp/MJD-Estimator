@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Julius nodded gravely. 
+Statement: Julius loves to ask questions. 
+Answer: [/INST] 1. Julius's nod indicates agreement to someone else's questions, not his own questioning nature.
+2. Julius's grave demeanor is unrelated to his questioning habits.
+3. The statement about Julius loving to ask questions is unrelated to the context.
+4. Julius could be nodding in response to a statement about someone else asking questions.
+5. The nodding action could be a gesture of understanding or acknowledgment, not related to questioning.
+6. Julius could be affirming a statement that is not a question.
+7. The context describes Julius's current state, not his overall behavior or preferences.
+8. Julius could be nodding to signal a transition in the conversation, unrelated to questioning.
+9. The statement about Julius loving to ask questions could be sarcastic or ironic, given the grave nod.
+10. The statement about Julius loving to ask questions could be a general statement, not reflecting his current behavior.</s>

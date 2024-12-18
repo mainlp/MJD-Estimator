@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: California is high 
+Statement: California is hyped up! 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* "High" and "hyped up" have different meanings, making it unclear if the statement is entailed or contradicted.
+* "High" could refer to California's geographical elevation, while "hyped up" implies excitement or enthusiasm, making the relationship between the two unclear.
+* The context only provides a vague description of California, without specifying what aspect of California is "high", making it difficult to determine the relationship with the statement.
+* "Hyped up" is a colloquialism that can have different connotations depending on the context, and without more information, it's unclear if it's being used positively or negatively.
+* The context doesn't provide enough information to determine if "high" is being used as a literal or figurative description, which affects the interpretation of the statement.
+* The statement could be interpreted as a play on words, using "hyped up" to make a pun on "high", but without more context, it's unclear if that's the intended meaning.<|eot_id|>

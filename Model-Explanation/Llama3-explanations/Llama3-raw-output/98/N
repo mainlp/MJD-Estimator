@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Sphinxes were guardian deitiesinEgyptianmythologyandthis was monumentalprotection,standing73 m (240 ft)longand20 m (66 feet) high. 
+Statement: Sphinxes were put in the tombs to protect the dead. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions Sphinxes as guardian deities in Egyptian mythology, but does not specify their purpose or location.
+* There is no mention of tombs or the dead in the context, making it unclear if Sphinxes were associated with them.
+* The description of the Sphinxes as monumental protection does not necessarily imply they were used to protect the dead.
+* The context focuses on the physical characteristics of the Sphinxes (length and height), but does not provide information about their function or purpose.
+* The statement makes a specific claim about the purpose of Sphinxes, but the context does not provide enough information to confirm or deny it.
+* The context only provides general information about Sphinxes, but does not provide specific details about their role in ancient Egyptian funerary practices.<|eot_id|>

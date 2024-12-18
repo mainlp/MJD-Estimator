@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: 'But if White has any designs at all on living, he'll be as far from Little as he can possibly get by now.' 
+Statement: White should be afraid to come back to Little. 
+Answer: [/INST] 1. The context does not specify White's current location or his intentions.
+2. It is unclear if White is aware of the threat implied in the context.
+3. The context does not indicate if White has the ability to stay away from Little.
+4. The statement assumes that White is afraid, which is not confirmed in the context.
+5. The context implies that White should leave, but it does not explicitly state that he should be afraid to return.
+6. The context does not provide information about the reason why White should stay away from Little.
+7. The statement is not necessarily true if White is not afraid of the implied threat.
+8. The context does not reveal if Little is a person, place, or thing, so the statement's interpretation may vary.
+9. The context uses the phrase "if White has any designs at all on living," which may imply a threat, but it does not explicitly state that White's life would be in danger if he returns to Little.
+10. The context does not provide information about any potential consequences White may face if he returns to Little.</s>

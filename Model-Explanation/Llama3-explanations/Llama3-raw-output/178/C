@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Since the rules were issued as interim rules and not as general notices of proposed rulemaking, they are not subject to the Unfunded Mandates Reform Act of 1995. 
+Statement: The rules were  not issued as interim rules but rather general notices of proposed rulemaking. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The rules were issued as interim rules.
+* The rules were not issued as general notices of proposed rulemaking.
+* The issuance of the rules as interim rules is a fact that contradicts the statement.
+* The context explicitly states that the rules were issued as interim rules, which is the opposite of what the statement claims.
+* The statement is a direct negation of the context, making it a contradictory statement.<|eot_id|>

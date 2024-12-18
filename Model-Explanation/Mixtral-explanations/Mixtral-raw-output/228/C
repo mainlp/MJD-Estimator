@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: i think that the people that are um have um a lower income which you automatically equate with lower education 
+Statement: I think because you have lower income you are less educated. 
+Answer: [/INST] 1. Higher income does not necessarily mean higher education.
+2. Some people with lower income are highly educated.
+3. Income and education are not always directly proportional.
+4. Lower income can be due to various factors other than education level.
+5. A person with lower income might have acquired education later in life.
+6. Education level does not automatically decrease with a decrease in income.</s>

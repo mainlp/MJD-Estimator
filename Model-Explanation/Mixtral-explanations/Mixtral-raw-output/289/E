@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: yeah okay yeah those games are fun to watch you you you watch those games 
+Statement: Those games are a lot of fun. 
+Answer: [/INST] 1. The speaker explicitly stated that the games are fun to watch.
+2. The enjoyment expressed by the speaker while talking about watching the games implies that they find the games fun.
+3. The repetition of "you" when referring to the person watching the games suggests that the speaker is emphasizing the fun aspect of the games for that individual.
+4. The positive tone and lack of negative comments about the games suggest that the speaker finds them enjoyable.
+5. The absence of any qualifiers or exceptions mentioned by the speaker implies that the fun aspect applies to the games in general.</s>

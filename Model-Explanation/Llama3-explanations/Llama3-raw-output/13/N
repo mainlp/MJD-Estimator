@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: yeah it's a U S territory and it's just we own it or 
+Statement: I used to be great at remembering this type of thing, but now I don't. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement does not provide any information about the US territory.
+* The statement is a personal reflection and does not relate to the context.
+* The topic of the statement (memory) is unrelated to the topic of the context (US territory).
+* There is no logical connection between the statement and the context.
+* The statement does not contradict or support the context.
+* The statement is a personal anecdote and does not provide any factual information about the US territory.
+* The context does not provide any information that can be used to infer the truth of the statement.
+* The statement is a subjective experience and does not relate to the objective fact stated in the context.<|eot_id|>

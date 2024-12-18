@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The woman rolled and drew two spears before the horse had rolled and broken the rest. 
+Statement: They were in rotation on the ground grabbing their weapons. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context only mentions the woman and the horse, but the statement refers to "they", which is ambiguous and could refer to the woman and the horse, or some other entities not mentioned in the context.
+* The context describes the woman and the horse performing separate actions, but the statement implies a simultaneous action of grabbing weapons, which is not supported by the context.
+* The context does not mention the woman and the horse being in rotation on the ground, which is a crucial detail in the statement.
+* The context only mentions the woman drawing two spears, but the statement implies that multiple entities are grabbing their weapons, which is not consistent with the context.
+* The context does not provide enough information to determine whether the woman and the horse are in a position to grab their weapons, or whether they even have weapons to grab.
+* The statement implies a sense of coordination or cooperation between the entities, which is not evident in the context.<|eot_id|>

@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: In manual systems, attestations, verifications, and approvals are usually shown by a signature or initial of an individual on a hard copy document. 
+Statement: The only things that signatures in manual systems show are attestations, verifications, or approvals. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is too strong, as the context only provides examples of what signatures can show, but does not exclude other possibilities.
+* The context does not provide an exhaustive list of what signatures can show, leaving room for other possibilities.
+* The word "usually" in the context implies that there may be exceptions or additional uses of signatures beyond attestations, verifications, and approvals.
+* The context does not define what is meant by "show", leaving open the possibility that signatures may imply or indicate other things beyond attestations, verifications, and approvals.
+* The statement is making a universal claim ("the only things"), which is not supported by the context, which only provides a partial description of the role of signatures.<|eot_id|>

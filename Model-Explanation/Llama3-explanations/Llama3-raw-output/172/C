@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: He threw one of them and shot the other. 
+Statement: He shot his gun. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The subject "he" threw an object, not shot a gun.
+* The phrase "shot the other" implies that "the other" is not a gun, but rather one of "them" (the objects).
+* The context suggests that "he" used two different actions (threw and shot) on two different objects, making it unlikely that a gun was involved in both actions.
+* The statement "He shot his gun" implies that the gun was the object being shot, which contradicts the context where "he" shot one of the objects.
+* The context does not mention a gun being possessed by "he", making it unlikely that "he" shot his own gun.<|eot_id|>

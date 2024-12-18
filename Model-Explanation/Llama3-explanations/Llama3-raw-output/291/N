@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Wear a nicely ventilated hat and keep to the shade in the street. 
+Statement: The buildings are so low that there is no shade in the streets. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not provide enough information about the height of the buildings.
+* The context only provides advice on how to stay cool, but does not describe the environment.
+* The statement contradicts the assumption in the context that there is shade in the streets.
+* The context does not explicitly state the height of the buildings or the amount of shade in the streets.
+* The statement is making a claim about the environment that is not supported or denied by the context.
+* The context is providing general advice, while the statement is making a specific claim about the environment.
+* There is not enough information to determine the truth value of the statement based on the context.<|eot_id|>

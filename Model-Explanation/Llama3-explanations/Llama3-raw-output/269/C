@@ -1,0 +1,9 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: In his effort to build nationalism across Turkey in the 1920s, Ataterk instituted a campaign to suppress Kurdish identity that continues today. 
+Statement: In 1942, Ataterk tried to build nationalism in Turkey. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* Ataterk died in 1938, so he couldn't have tried to build nationalism in 1942.
+* The context states that Ataterk's effort to build nationalism was in the 1920s, not in 1942.<|eot_id|>

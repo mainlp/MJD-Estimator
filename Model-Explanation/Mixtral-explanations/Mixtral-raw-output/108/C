@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The judge gave vent to a faint murmur of disapprobation, and the prisoner in the dock leant forward angrily.  
+Statement: The judge ordered the court to be silent. 
+Answer: [/INST] 1. The judge expressed disapproval, but it was quiet and did not amount to an order for silence in the court.
+2. The prisoner's angry reaction may have been due to something other than the judge's murmur, so the judge did not need to establish silence.
+3. The murmur of disapproval from the judge could have been mistaken for something else, and the judge did not actually intend to order the court to be silent.
+4. The judge may have made a comment under his breath that was not intended to be an order for the court to be silent.
+5. The judge's murmur of disapproval was not loud enough to be heard by the entire court, so an order for silence was not necessary.
+6. The judge may have made the murmur of disapproval after ordering the court to be silent, indicating that the murmur was not part of an order for silence.
+7. The judge could have been expressing disapproval of something that happened outside the court, and not related to the behavior of the people in the court, so an order for silence was not required.</s>

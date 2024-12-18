@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Traditionally, certain designs were reserved for royalty, but today elegant geometric or exuberant, stylized floral patterns are available to all. 
+Statement: Designs once reserved for royalty cost more to buy. 
+Answer: [/INST] 1. The traditional designs reserved for royalty are now widely available, but they may still carry a higher price due to their historical significance and craftsmanship.
+2. The high demand for these once royal designs, now that they are available to everyone, has driven up their cost.
+3. The materials and techniques used to create these traditional designs may be expensive, keeping their prices high.
+4. The prestige and status associated with these designs may contribute to their higher cost.
+5. The production cost of these intricate and detailed designs may be higher than simpler patterns, resulting in a higher price.
+6. The market for these traditional designs may be smaller, with fewer producers, leading to less competition and higher prices.</s>

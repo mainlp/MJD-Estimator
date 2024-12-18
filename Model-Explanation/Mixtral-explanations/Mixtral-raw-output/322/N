@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The pope, suggesting that Gen. 
+Statement: Gen is being suggested by the Pope. 
+Answer: [/INST] 1. The context does not specify who or what "Gen" refers to.
+2. The context may be using "suggesting" in a different sense than the statement.
+3. The Pope could be suggesting something about Gen in the context, but it may not be about Gen as a person or entity.
+4. The Pope might be quoting someone else's suggestion about Gen.
+5. The Pope could be suggesting something indirectly related to Gen.
+6. The Pope's suggestion about Gen could be ambiguous and open to interpretation.
+7. The Pope might be suggesting something about Gen in the past or future, but the statement does not specify the time frame.
+8. The Pope's suggestion about Gen could be implicit or subtle, and not explicitly stated in the context.
+9. The Pope could be suggesting something about Gen in a figurative or metaphorical sense.
+10. The Pope's suggestion about Gen could be conditional or dependent on other factors, which are not mentioned in the context.</s>

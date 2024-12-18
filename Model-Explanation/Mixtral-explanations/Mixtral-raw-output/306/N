@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Agencies may perform the analyses required by sections 603 and 604 in conjunction with or as part of any other agenda or analysis required by other law if such other analysis satisfies the provisions of these sections. 
+Statement: There are many times when the agencies have gotten in trouble. 
+Answer: [/INST] 1. The statement does not specify if the "trouble" is related to the analyses required by sections 603 and 604 or any other analysis required by other laws.
+2. It's unclear if the "trouble" occurred while the agencies were performing the analyses required by sections 603 and 604.
+3. The statement doesn't indicate whether the "trouble" was a result of not satisfying the provisions of sections 603 and 604.
+4. The context does not provide information about the nature of the "trouble".
+5. The statement doesn't mention any particular agency, so it's unclear if the "trouble" was experienced by the same agency responsible for the analyses.
+6. The "trouble" could have been due to factors unrelated to the analyses, making it neutral with respect to the context.</s>

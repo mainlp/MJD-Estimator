@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: yeah it's a U S territory and it's just we own it or 
+Statement: I used to be great at remembering this type of thing, but now I don't. 
+Answer: [/INST] 1. The statement contradicts the idea of having current knowledge about US territories.
+2. The statement implies a loss of memory, which is unrelated to the context.
+3. The statement suggests a personal experience, while the context is about a factual matter.
+4. The statement does not address ownership or territory mentioned in the context.
+5. The statement is about the past, while the context implies a present state of ownership.</s>

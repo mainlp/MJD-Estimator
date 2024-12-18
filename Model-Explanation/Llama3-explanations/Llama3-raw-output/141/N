@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: well that's uh i agree with you there i mean he didn't have the surrounding cast that Montana had there's no doubt about that 
+Statement: I agree that he didn't have the same support as Montana, but he did well. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The statement does not explicitly confirm or deny the speaker's agreement with the original point, only rephrasing it.
+* The statement adds a new clause "but he did well" which introduces a new idea that is not directly related to the original point, making it hard to determine the speaker's stance.
+* The statement does not provide enough information to determine whether the speaker thinks the lack of surrounding cast was the main reason for the difference or not.
+* The statement does not explicitly compare the two individuals (he and Montana), making it difficult to determine if the speaker is making a value judgment.
+* The statement is too vague and does not provide enough context to determine the speaker's tone or attitude towards the topic.
+* The statement can be interpreted as both supporting and contradicting the original point, depending on the emphasis on "but he did well".<|eot_id|>

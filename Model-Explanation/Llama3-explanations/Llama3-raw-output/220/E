@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Although the accounting and reporting model needs to be updated, in my view, the current attest and assurance model is also out of date. 
+Statement: The accounting model needs to be updated in addition to the acquisition model. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The accounting model is part of the accounting and reporting model, which needs to be updated.
+* The context mentions the accounting and reporting model needs to be updated, and the statement is a more specific instance of this update, focusing on the accounting model.
+* The context sets a tone of updating outdated models, and the statement is a natural extension of this idea, applying it to the accounting model.
+* The phrase "in addition to" implies that the accounting model is not the only model that needs to be updated, which is consistent with the context mentioning the attest and assurance model also being out of date.<|eot_id|>

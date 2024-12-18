@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: well do you know you have a ten limit a ten minute time limit well that's okay and then they come on and tell you and they tell you got five seconds to say good-bye 
+Statement: You get a ten minute time limit, but sometimes you'll be told to end early. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context explicitly states a 10-minute time limit, and then mentions being told to end with only 5 seconds to say goodbye, implying that the time limit can be cut short.
+* The phrase "well that's okay" suggests that the speaker is acknowledging the initial 10-minute time limit, but also accepting that it may not always be the case.
+* The contrast between the initial 10-minute time limit and the sudden instruction to end with only 5 seconds implies that the time limit is not always fixed.
+* The context implies that there is an external entity (e.g. "they") that can interrupt and change the time limit, leading to an early end.
+* The statement is a paraphrased version of the context, condensing the information into a concise sentence that accurately captures the essence of the situation.<|eot_id|>

@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Jon twisted the man's wrist. 
+Statement: Jon grabbed the man. 
+Answer: [/INST] 1. Jon applied force to the man's wrist by grabbing it before twisting.
+2. The twisting action by Jon involved first grabbing the man's wrist.
+3. As part of the process of twisting the man's wrist, Jon had to grab it initially.
+4. Jon's twisting of the man's wrist was preceded by a grabbing motion.
+5. In order to twist the man's wrist, Jon must have first grabbed it.
+6. The act of twisting the man's wrist implies an initial grabbing by Jon.
+7. It is necessary for Jon to grab the man's wrist in order to twist it.
+8. Jon's twisting of the man's wrist is a continuation of his initial grab.</s>

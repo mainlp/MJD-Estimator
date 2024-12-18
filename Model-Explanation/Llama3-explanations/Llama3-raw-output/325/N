@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: According to a 1995 Financial Executives Research Foundation report,5 transaction processing and other routine accounting activities, such as accounts payable, payroll, and external reporting, consume about 69 percent of costs within finance. 
+Statement: The financial world would be ok it there wasn't any 5 percent processing. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only provides information about the percentage of costs consumed by transaction processing and other routine accounting activities, but does not provide any information about the importance or necessity of 5 percent processing in the financial world.
+* The statement mentions "5 percent processing" which is not explicitly mentioned in the context, making it unclear what specific aspect of transaction processing is being referred to.
+* The context does not provide any information about the consequences of not having 5 percent processing, making it impossible to determine whether the financial world would be "ok" or not.
+* The statement is vague and open-ended, with "ok" being a subjective term that can be interpreted in different ways, making it difficult to determine the truth value of the statement.
+* The context only provides information about the costs consumed by certain activities, but does not provide any information about the benefits or outcomes of these activities, making it unclear whether the absence of 5 percent processing would have a positive or negative impact.<|eot_id|>

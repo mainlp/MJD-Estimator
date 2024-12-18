@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: i think we have too thank you very much you too bye-bye 
+Statement: I don't think we can thank you enough for your help. 
+Answer: [/INST] 1. The speaker in the context expressed excessive gratitude, contradicting the statement that they cannot thank the person enough.
+2. The context indicates the speaker has already thanked the person, while the statement implies that the speaker has not yet thanked them enough.
+3. The statement suggests that there is a limit to how much the speaker can thank the person, while the context shows that the speaker has already thanked them multiple times.
+4. The context implies that the speaker has expressed sufficient gratitude, whereas the statement asserts that they cannot express enough gratitude.</s>

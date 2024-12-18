@@ -1,0 +1,10 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: EPA estimates that 5.6 million acres of lakes, estuaries and wetlands and 43,500 miles of streams, rivers and coasts are impaired by mercury emissions. 
+Statement: The release of mercury has an impact on rivers, streams and lakes 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false (contradiction):
+
+* None (the statement is actually true according to the context)<|eot_id|>

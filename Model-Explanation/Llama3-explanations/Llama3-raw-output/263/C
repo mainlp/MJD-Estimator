@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The almost midtown Massabielle quarter (faubourg de Massabielle), is sometimes described as the most picturesque in the city. 
+Statement: The Massabielle quarter is a very touristy place. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context describes the Massabielle quarter as "picturesque", implying a more laid-back or charming atmosphere, which is inconsistent with a "very touristy" place.
+* The use of "almost midtown" suggests a more local or residential area, rather than a tourist hotspot.
+* The term "faubourg" (French for "suburb" or "outskirts") implies a more peripheral or less central location, which may not be as touristy as a central area.
+* The context's focus on the quarter's aesthetic appeal ("most picturesque") rather than its tourist attractions or amenities suggests it may not be a touristy area.<|eot_id|>

@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: In manual systems, attestations, verifications, and approvals are usually shown by a signature or initial of an individual on a hard copy document. 
+Statement: The only things that signatures in manual systems show are attestations, verifications, or approvals. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true:
+
+* The context explicitly states that attestations, verifications, and approvals are shown by a signature or initial, implying that these are the only things shown by signatures.
+* The use of "usually" in the context suggests that there may be exceptions, but in general, signatures are only used to show attestations, verifications, or approvals.
+* The context does not mention any other purpose or function of signatures in manual systems, implying that these are the only purposes they serve.
+* The phrase "on a hard copy document" suggests that the signature is being used to authenticate or validate the document, which is consistent with the idea that signatures show attestations, verifications, or approvals.<|eot_id|>

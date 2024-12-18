@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The almost midtown Massabielle quarter (faubourg de Massabielle), is sometimes described as the most picturesque in the city. 
+Statement: The Massabielle quarter is a very touristy place. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true:
+
+* The description "most picturesque" often attracts tourists, making the quarter a touristy place.
+* The fact that it's "almost midtown" suggests a central location, which is often a hub for tourist activity.
+* The use of "faubourg" (a French term for "suburb" or "outskirts") implies that the quarter is a distinct area that might be of interest to visitors.
+* The quarter's picturesque nature might lead to an influx of tourists taking photos, shopping, or dining, making it a touristy place.
+* The context implies that the quarter is notable or famous, which could attract tourists seeking out popular destinations.<|eot_id|>

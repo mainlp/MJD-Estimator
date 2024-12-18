@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Still, I guess that can be got over. 
+Statement: There are some things that you need to ignore. 
+Answer: [/INST] 1. The statement "there are some things that you need to ignore" cannot be "got over."
+2. Ignoring things is not equivalent to "getting over" them.
+3. The statement suggests a permanent attitude towards certain things, while "getting over" implies overcoming a temporary situation.
+4. The context refers to something that can be "got over," but the statement does not refer to anything that can be "got over."
+5. The statement is unrelated to the context, as it does not address the same subject matter.</s>

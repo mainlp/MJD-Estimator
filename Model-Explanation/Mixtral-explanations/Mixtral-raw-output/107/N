@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: We know they will have to come from the south but that gives them a space as wide as the town in which to launch their attack. 
+Statement: The south is totally protected against an attack. 
+Answer: [/INST] 1. The term "they" in the context could refer to a group that is not located in the south.
+2. The "space" mentioned in the context could be referring to a physical distance that the group can use to plan and prepare for an attack, not necessarily that it is unprotected.
+3. The context only states that the group will have to come from the south, not that they will be attacking from the south.
+4. The "south" in the statement could refer to a different south than the one mentioned in the context.
+5. The "protected" in the statement could mean protected in a way that doesn't apply to the context, for example, protected by alliances or technology.
+6. The context does not mention anything about the current situation of the south, it could be under attack already.
+7. The context does not mention about the defenses of the south, it could be well defended.
+8. The context does not mention about the size of the town, the south could be much larger and have more resources to protect it.
+9. The context does not mention about the number of attackers, there could be too many to be fully protected against.
+10

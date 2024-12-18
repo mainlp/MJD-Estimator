@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Credibility is a vital factor, and Jim Lehrer does, indeed, have it. 
+Statement: Everyone would believe whatever Jim Lehrer said. 
+Answer: [/INST] 1. The context only mentions Jim Lehrer's credibility, not his influence on everyone's beliefs.
+2. The context doesn't provide information about the audience's attitude towards Jim Lehrer.
+3. The context doesn't reveal if Jim Lehrer speaks on issues that are widely believed or disputed.
+4. The statement is too absolute, assuming that everyone would believe Jim Lehrer regardless of the topic or situation.
+5. The context doesn't indicate if there are any external factors that might affect people's willingness to believe Jim Lehrer.
+6. The statement doesn't specify whether people would believe Jim Lehrer's opinions or factual statements.
+7. The context doesn't provide information about the potential subjects Jim Lehrer might address, which could impact his credibility on those topics.
+8. The statement doesn't consider the possibility of people fact-checking or verifying Jim Lehrer's statements independently.
+9. The context doesn't reveal if there are any biases or preconceived notions that might prevent some people from believing Jim Lehrer.
+10. The statement doesn't account

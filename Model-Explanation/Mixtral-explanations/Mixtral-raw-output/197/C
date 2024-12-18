@@ -1,0 +1,15 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The chart to which Reich refers was actually presented during Saxton's opening statement, hours before Reich testified, and did not look as Reich claims it did. 
+Statement: Reich refers to a chart that he misunderstood. 
+Answer: [/INST] 1. Reich is referring to a chart that he has not misunderstood.
+2. Reich's statement about the chart's appearance is accurate.
+3. Reich is not discussing a chart presented during his testimony.
+4. The chart in question was presented after Reich's testimony.
+5. Reich's description of the chart's content is correct.
+6. Reich is not referring to the same chart presented during Saxton's opening statement.
+7. Reich's memory of the chart's appearance is accurate, but he is misremembering when it was presented.
+8. Reich is intentionally misrepresenting when the chart was presented.
+9. Reich is intentionally misrepresenting the chart's appearance.
+10. Reich is unaware that the chart was presented during Saxton's opening statement.
+11. Reich is unaware that the chart did not look as he claims it did.
+12. Reich is lying about referring to a chart that he misunderstood.</s>

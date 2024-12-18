@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: News berates computer users for picking obvious, easily cracked passwords and chastises system administrators for ignoring basic security precautions. 
+Statement: Users and system administrators both do not prioritize security. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* Users prioritize security, but system administrators do not.
+* System administrators prioritize security, but users do not.
+* Both users and system administrators prioritize security, but the news berates them for not doing enough.<|eot_id|>

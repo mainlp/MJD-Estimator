@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: well they're so close to an undefeated undefeated season they can taste it and they wanna make history so i don't think they're gonna lack for motivation 
+Statement: Unless they suffer any losses, they'll remain motivated. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement implies that motivation is dependent on not suffering losses, but the context suggests that the team is already motivated to make history and have an undefeated season.
+* The context states that the team wants to make history, implying that they are motivated regardless of whether they suffer losses or not.
+* The team's motivation is driven by their desire to make history, not by their win-loss record.
+* The statement suggests a conditional relationship between motivation and losses, but the context presents motivation as an inherent desire to achieve a historic feat.<|eot_id|>

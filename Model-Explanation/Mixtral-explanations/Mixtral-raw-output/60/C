@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: that's true i didn't think about that 
+Statement: You've changed my mind with a new perspective. 
+Answer: [/INST] 1. The speaker's mind was not changed.
+2. The speaker had already considered the new perspective before.
+3. The new perspective did not come from the person who pointed it out.
+4. The statement was insincere or sarcastic.
+5. The new perspective did not lead to a change in opinion.
+6. The change in mind was unrelated to the new perspective.
+7. The new perspective was not convincing or compelling.
+8. The speaker was coerced into changing their mind.
+9. The speaker's mind was changed by someone else.
+10. The speaker was joking or being facetious.</s>

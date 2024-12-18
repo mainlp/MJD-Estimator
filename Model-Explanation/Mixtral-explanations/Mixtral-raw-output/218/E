@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The tomb guardian will unlock the gate to the tunnel and give you a candle to explore the small circular catacomb, but for what little you can see, it is hardly worth the effort. 
+Statement: The tomb garden can give you a thorough tour of the catacombs. 
+Answer: [/INST] 1. The "catacomb" mentioned in the context is a small circular one, implying that there are likely not many areas to explore.
+2. The statement suggests a tour, which does not necessarily mean visiting every single corner of the catacombs, but rather giving an overview of what it contains.
+3. The "thorough" in the statement could mean providing a detailed explanation or history of the catacombs, which the tomb guardian may be able to do.
+4. The tomb guardian may have additional information about the catacombs that is not immediately visible during the exploration.
+5. The guardian's statement about it not being worth the effort might refer to the physical exploration of the catacombs, while a guided tour could still be informative and interesting.</s>

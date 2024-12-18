@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: substitute my my yeah my kid'll do uh four or five hours this week for me no problem 
+Statement: I just can't make the time because of my job. 
+Answer: [/INST] 1. The person has arranged for their child to cover some hours for them.
+2. The person has enough time, as they have delegated tasks to their child.
+3. The job is not the only reason for not having time.
+4. The person's job may be flexible or allow for time off.
+5. The person may have personal time available outside of their job.
+6. The person may have overestimated the time commitment required.
+7. The person may have other responsibilities or commitments besides their job.
+8. The person's job may not be as time-consuming as they claim.
+9. The person may have underestimated their ability to manage time effectively.
+10. The person may have chosen to prioritize other activities over their job.</s>

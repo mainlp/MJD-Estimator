@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: 36 AC usage nationally for mercury control from power plants should be roughly proportional to the total MWe of coal-fired facilities that are equipped with the technology (this assumes an average capacity factor of 85 percent and other assumptions of Tables 4-4 and 4-5). 
+Statement: Power plants' mercury control AC usage is higher than total MWe from coal facilities. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context only provides a proportionality relationship between AC usage and total MWe, but does not provide a direct comparison or inequality.
+* The statement makes a claim about a specific inequality (AC usage being higher), which is not supported or refuted by the context.
+* The context assumes an average capacity factor of 85 percent, but it is unclear how this assumption affects the comparison between AC usage and total MWe.
+* The context references Tables 4-4 and 4-5, but their contents are not provided, and it is unclear if they contain information that would support or refute the statement.
+* The statement is making a claim about a specific relationship (AC usage being higher), but the context only provides a general proportionality relationship, without specifying the exact nature of the relationship.
+* The context does not provide enough information to determine the scale or magnitude of the AC usage and total MWe, making it impossible to determine if one is higher than the other.<|eot_id|>

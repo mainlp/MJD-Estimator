@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The conspiracy-minded allege that the chains also leverage their influence to persuade the big publishers to produce more blockbusters at the expense of moderate-selling books. 
+Statement: Big publishers want to produce more high budget films, even if that means badly selling books. 
+Answer: [/INST] 1. The conspiracy-minded claim is incorrect about chains influencing big publishers to focus on blockbusters over moderate-selling books.
+2. Big publishers have no interest in producing more high budget films.
+3. Big publishers do not sacrifice moderate-selling books for blockbusters.
+4. The claim that chains influence big publishers is unrelated to the production of high budget films.
+5. High budget films and big publisher books are separate entities, unaffected by chain store influence.
+6. Big publishers aim to maintain a balance between blockbusters and moderate-selling books, not favoring high budget films.
+7. The conspiracy-minded perspective is based on misinformation, and big publishers do not prioritize high budget films over books.
+8. There is no evidence supporting the claim that big publishers are influenced to shift their focus towards high budget films.
+9. The conspiracy-minded perspective is not applicable to the decision-making process of big publishers regarding film production.
+10. The claim is a mischaracterization, and big publishers do not neglect moderate-selling books in favor of high budget films.</s>

@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Flying at a discount should be more dangerous. 
+Statement: It's totally safe to take advantage of discounted flying. 
+Answer: [/INST] 1. The context refers to discounted flying being more dangerous in general, but the statement could be referring to a specific instance of discounted flying that is safe.
+2. The context may be based on outdated or inaccurate information about the safety of discounted flying.
+3. The statement could be based on the assumption that the discounted flying in question has undergone the same safety checks and regulations as non-discounted flying.
+4. The context may be referring to a specific type of discounted flying (e.g. last-minute deals) that is more dangerous, but the statement does not specify what type of discounted flying it is referring to.
+5. The statement could be referring to the financial safety of taking advantage of discounted flying, rather than physical safety.
+6. The context may be assuming that discounted flying is inherently less safe, but the statement could be made by someone who believes that the safety of flying is not affected by the price.
+7. The context and statement may be using the term "discounted flying" in different ways, leading to a neutral inference.
+8. The context may be based on a correlation between discounted flying and danger, but the

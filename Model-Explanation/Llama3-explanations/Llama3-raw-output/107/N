@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: We know they will have to come from the south but that gives them a space as wide as the town in which to launch their attack. 
+Statement: The south is totally protected against an attack. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions the direction of the attack, not the defensive capabilities of the south.
+* The context implies the attackers have a wide space to launch their attack, which does not necessarily mean the south is protected.
+* The statement makes a claim about the south being "totally protected", which is not supported by the context.
+* The context does not provide any information about the defensive measures in place in the south.
+* The statement's claim of "total protection" is absolute, whereas the context only provides partial information about the attack.
+* The context focuses on the attackers' possibilities, not the defenders' capabilities.
+* There is no explicit contradiction between the context and the statement, but also no explicit support for the statement's claim.<|eot_id|>

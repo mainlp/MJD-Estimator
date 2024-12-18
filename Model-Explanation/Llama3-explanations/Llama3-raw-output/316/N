@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: This one ended up being surprisingly easy! 
+Statement: This question was very easy to answer. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions "this one" without specifying what "one" refers to, making it unclear if it's the same as "this question".
+* The context expresses surprise, but the statement doesn't, so it's unclear if the ease of the question is the source of the surprise.
+* The context uses "surprisingly easy" which is a subjective evaluation, whereas the statement uses "very easy to answer" which is more objective, making it hard to determine the relationship between the two.
+* The context doesn't provide enough information to determine if the ease of the question is the reason for the surprise, or if there's another factor at play.
+* The statement could be referring to a different question than the one mentioned in the context.
+* The tone of the context is positive (expressing surprise at ease), but the statement is neutral, making it hard to determine the relationship between the two.<|eot_id|>

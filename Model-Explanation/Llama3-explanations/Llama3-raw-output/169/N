@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: But it just might be because he's afraid he'll lose his No. 
+Statement: He's definitely afraid of losing he's No. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only suggests a possibility, whereas the statement makes a definitive claim.
+* The context provides a reason for the fear (losing his No.), but the statement doesn't provide enough evidence to confirm the fear.
+* The context is speculative (using "might be"), whereas the statement is assertive (using "definitely").
+* The context implies uncertainty, whereas the statement implies certainty.
+* The context provides a hypothetical scenario, whereas the statement makes a categorical claim.
+* The context is tentative, whereas the statement is conclusive.
+* The context suggests a potential motivation, whereas the statement makes a definitive attribution of fear.<|eot_id|>

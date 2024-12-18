@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Her state is probably to be attributed to the mental shock consequent on recovering her memory." 
+Statement: It is too bad that she never regained her memory. 
+Answer: [/INST] 1. She regained her memory, but the mental shock did not occur.
+2. She regained her memory, but it was not the cause of her current state.
+3. She is currently in a good state, not a bad one.
+4. The mental shock was not consequent on recovering her memory.
+5. Some other factor, not her memory or the mental shock from recovering it, caused her state.
+6. The statement is about a different person with a different state and a different memory.
+7. The statement is not about memory regain at all, but about something else entirely.
+8. The statement is false because she did regain her memory, even if it caused a mental shock.</s>

@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The Women's Haven, which provides shelter and outreach to domestic-violence victims, already has a full-time attorney. 
+Statement: The Haven is a useful resource in the community. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions the Women's Haven, not "The Haven", so it's unclear if they refer to the same entity.
+* The context only mentions the Women's Haven provides shelter and outreach to domestic-violence victims, but it doesn't imply that it's a useful resource in the community.
+* The presence of a full-time attorney doesn't necessarily make the Women's Haven a useful resource in the community.
+* The Women's Haven might be a useless or ineffective resource in the community despite having a full-time attorney.
+* The Women's Haven might only cater to a specific demographic (domestic-violence victims) and not be a useful resource for the broader community.<|eot_id|>

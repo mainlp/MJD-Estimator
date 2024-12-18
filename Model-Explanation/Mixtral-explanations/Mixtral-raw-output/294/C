@@ -1,0 +1,16 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The street ends at Taksim Square (Taksim Meydane), the heart of modern Istanbul, lined with luxurious five-star hotels and the glass-fronted Ataturk Cultural Centre (Ataturk Keleter Sarayy), also called the Opera House. 
+Statement: The street is quite a luxurious one. 
+Answer: [/INST] 1. The street has run-down buildings and is not luxurious.
+2. There are no five-star hotels on the street, only small, modest ones.
+3. The street is not lined with any buildings, it is surrounded by empty lots.
+4. The Ataturk Cultural Centre is not glass-fronted, it has a traditional stone facade.
+5. Taksim Square is not at the end of the street.
+6. The street does not lead to Taksim Square, it leads to another location.
+7. Taksim Square is not in modern Istanbul, but in an older, less developed part of the city.
+8. Taksim Square is not known as the heart of modern Istanbul.
+9. The statement is a subjective opinion and the speaker does not find the street to be luxurious.
+10. The street used to be luxurious but has since declined.
+11. The street is only luxurious in certain sections, not in its entirety.
+12. The street is under construction and does not currently appear luxurious.
+13. The street is not well-maintained and appears run-down despite its luxurious buildings

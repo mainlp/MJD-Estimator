@@ -1,0 +1,22 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: What the judge really wants are the facts -- he wants to make a good decision, he said. 
+Statement: In the end the judge made a bad decision since he imprisoned someone innocent. 
+Answer: [/INST] 1. The judge did not have all the facts.
+2. The judge ignored the facts presented to him.
+3. The judge misinterpreted the facts.
+4. The judge was influenced by external factors, not related to the facts.
+5. The judge was biased, affecting his decision-making process.
+6. The judge made a mistake in his interpretation of the law.
+7. The judge was having a bad day, affecting his decision.
+8. The judge was coerced or threatened to make a certain decision.
+9. The judge was not qualified to make the decision.
+10. The judge was negligent in his duties.
+11. The judge did not understand the implications of his decision.
+12. The judge was not impartial.
+13. The judge was influenced by personal feelings or relationships.
+14. The judge was not aware of the consequences of his decision.
+15. The judge was not given the correct facts.
+16. The facts presented were fabricated or false.
+17. The facts were misrepresented or taken out of context.
+18. The facts were incomplete or insufficient.
+19

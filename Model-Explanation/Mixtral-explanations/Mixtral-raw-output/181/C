@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Expenses included in calculating net cost for education and training programs that are intended to increase or maintain national economic productive capacity shall be reported as investments in human capital as required supplementary stewardship information accompanying the financial statements of the Federal Government and its component units. 
+Statement: Net cost for college programs can be calculated as a way to increase productivity. 
+Answer: [/INST] 1. Net cost for college programs excludes expenses required for calculating human capital investments.
+2. College programs' net cost does not include expenses for increasing national economic productive capacity.
+3. Increasing productivity is not a factor in calculating the net cost of education and training programs.
+4. Human capital investments are not reported as required supplementary stewardship information for the net cost of college programs.
+5. The Federal Government and its component units do not include net cost of college programs in their financial statements' required supplementary stewardship information.</s>

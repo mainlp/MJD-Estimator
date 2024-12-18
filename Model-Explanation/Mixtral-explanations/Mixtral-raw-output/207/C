@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Perhaps a further password would be required, or, at any rate, some proof of identity. 
+Statement: Identity should be a minimum requirement. 
+Answer: [/INST] 1. Identity is not required at all.
+2. Only a password is needed, not proof of identity.
+3. More than just identity is required, such as a password and additional verification.
+4. Proof of identity is not considered as part of someone's identity.
+5. The context refers to a specific situation where a password is required in addition to identity, not identity as a minimum requirement.</s>

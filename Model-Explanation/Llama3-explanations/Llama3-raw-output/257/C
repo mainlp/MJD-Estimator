@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: When he's ready for a major strike, how many innocents do you suppose are going to suffer? To quote one of your contemporaries; 'The needs of the many outweigh the needs of the few.''
+Statement: If he does a big strike, many people will suffer. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false (contradiction):
+
+* The context does not imply that "he" will definitely do a big strike.
+* The quote "The needs of the many outweigh the needs of the few" suggests that the strike might be justified if it benefits the majority, even if some innocents suffer.
+* The context only asks a rhetorical question about the number of innocents who will suffer, but does not confirm that many people will indeed suffer.
+* The context is discussing the potential consequences of a big strike, but does not provide enough information to conclude that many people will suffer.
+* The statement is too absolute, whereas the context only presents a hypothetical scenario.<|eot_id|>

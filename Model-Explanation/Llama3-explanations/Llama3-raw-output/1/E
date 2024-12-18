@@ -1,0 +1,10 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: In 1982, Wallace won his last race for governor with a quarter of the black votes cast in the Democratic primary, a fact alluded to in a written epilogue at the end of the film. 
+Statement: Wallace was reelected as governor. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The phrase "won his last race for governor" implies that Wallace was reelected as governor.
+* The context mentions "the Democratic primary", which suggests that Wallace was a candidate in the primary election and won, leading to his reelection as governor.
+* The fact that Wallace received "a quarter of the black votes cast" implies that he had significant support, which contributed to his reelection as governor.<|eot_id|>

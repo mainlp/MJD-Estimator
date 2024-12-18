@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: He walked out into the street and I followed. 
+Statement: I followed him down the street. 
+Answer: [/INST] * You didn't follow him, you followed independently down the street.
+* You followed in the same direction but not directly behind him.
+* You followed him for a short distance and then turned down a different street.
+* You followed him, but only because you were both headed to the same location.
+* You followed him, but you were in a car while he was on foot.
+* You followed him, but he was unaware of your presence.
+* You followed a different person whom you mistook for him.
+* You didn't follow him down the street, but rather up the street.
+* You followed him, but not immediately after he walked out into the street.
+* You followed him, but only after he had already turned a corner or was out of sight.</s>

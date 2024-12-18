@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: If necessary to meeting the restrictions imposed in the preceding sentence, the Administrator shall reduce, pro rata, the basic Phase II allowance allocations for each unit subject to the requirements of section 414. 
+Statement: Section 414 helps balance allowance allocations for units. 
+Answer: [/INST] 1. Section 414 imposes restrictions that lead to reduced allowance allocations.
+2. The Administrator decreases, in equal proportion, the basic Phase II allowance allocations for units subject to section 414.
+3. The implementation of section 414 results in less balanced allowance allocations for units.
+4. Section 414 does not contribute to fairer or more balanced allowance allocations for units.
+5. Adhering to the requirements of section 414 necessitates reductions in allowance allocations for units.
+6. The Administrator's actions under section 414 disrupt the balance of allowance allocations for units.
+7. Section 414's restrictions result in unfair allowance allocations for units.
+8. The primary function of section 414 is to reduce, rather than balance, allowance allocations for units.
+9. Compliance with section 414 requires the Administrator to make pro rata reductions in basic Phase II allowance allocations for units.
+10. Section 414 negatively impacts the balance of allowance allocations for units.</s>

@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: After shuttering the DOE, Clinton could depict himself as a crusader against waste and bureaucracy who succeeded where even Reagan failed. 
+Statement: Clinton shuttered the DOE to move against waste. 
+Answer: [/INST] 1. The context does not explicitly state that Clinton shuttered the DOE to move against waste.
+2. The context may imply that Clinton shuttered the DOE for reasons other than moving against waste.
+3. The statement could be assuming a causal relationship that is not present in the context.
+4. The context may be using "where even Reagan failed" as a rhetorical device, rather than a literal comparison.
+5. The statement could be making a generalization that is not supported by the specific action of shuttering the DOE.
+6. The context may be using "could depict" to indicate a possible interpretation, rather than a factual statement.
+7. The statement could be ignoring other factors that may have contributed to the shuttering of the DOE.
+8. The context may be using "waste" to refer to something other than what the statement assumes.
+9. The statement could be oversimplifying the motivations and actions of Clinton in shuttering the DOE.
+10. The context may be providing an incomplete picture of the situation, making it difficult to determine the accuracy of the statement.</s>

@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The Palace of Jahangir is built around a square court with arches. 
+Statement: The Palace of Jahangir houses a wonderful square court, complete with arches. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is a paraphrase of the context, but the added adjective "wonderful" cannot be inferred from the context.
+* The context only provides a factual description of the palace's architecture, without expressing a subjective opinion or evaluation.
+* The statement's tone is more enthusiastic and evaluative than the neutral context.
+* The context does not provide enough information to determine whether the square court is "wonderful" or not.
+* The statement's language is more vivid and emotive than the context, which is more formal and descriptive.
+* The context only describes the physical structure of the palace, while the statement implies a positive aesthetic judgment.<|eot_id|>

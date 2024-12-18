@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Ca'daan heard the Kal grunt and felt the horse lift. 
+Statement: The Kal heard Ca'daan grunt. 
+Answer: [/INST] 1. Ca'daan, not the Kal, was the one who made the grunting sound.
+2. The Kal is not capable of hearing, only responding physically to stimuli.
+3. The sound made by the Kal was not a grunt, but another type of noise.
+4. The horse's movement of lifting was misinterpreted as the Kal grunting.
+5. The Kal's grunt was not a response to Ca'daan, but rather a coincidence.
+6. The statement is false because the context specifies that Ca'daan heard the Kal grunt, not the other way around.</s>

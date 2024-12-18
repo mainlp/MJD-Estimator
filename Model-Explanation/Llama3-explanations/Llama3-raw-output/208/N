@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: It's come back? cried Julius excitedly. 
+Statement: They were excited to hear it will come back. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions Julius's excitement, but not the excitement of "they" (who "they" refers to is also unclear).
+* The context does not explicitly state that "they" heard the news, only Julius's reaction is described.
+* The context does not provide information about the relationship between Julius and "they", making it unclear if Julius's excitement is representative of "they".
+* The statement implies that "they" were excited to hear about a future event ("it will come back"), but the context only describes Julius's reaction to a past event ("It's come back").
+* The tone of the context (excitement) does not necessarily imply that "they" were also excited, as Julius's reaction could be an isolated one.<|eot_id|>

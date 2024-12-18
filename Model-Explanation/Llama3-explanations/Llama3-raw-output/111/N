@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: On the northern slopes of this rocky outcropping is the site of the ancient capital of the island, also called Thira, which dates from the third century b.c. (when the Aegean was under Ptolemaic rule). 
+Statement: Is the site of the ancient asteroid impact, also called Thira. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not mention an asteroid impact, only an ancient capital.
+* There is no connection established between the ancient capital and an asteroid impact.
+* The name "Thira" is shared, but it is not uncommon for different locations or entities to share the same name.
+* The context provides information about the ancient capital, but not about an asteroid impact.
+* The statement is making a claim about an asteroid impact, which is not supported by the context.
+* The context does not provide enough information to determine whether the site is an asteroid impact or not.
+* There is no mention of an asteroid impact in the context, making it impossible to infer a connection.
+* The statement is introducing new information not present in the context, making it impossible to determine its truth value.<|eot_id|>

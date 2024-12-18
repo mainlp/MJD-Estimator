@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: He watched the river flow. 
+Statement: The river roared by. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions the river flowing, but does not provide information about its sound or volume, making it impossible to infer whether it roared or not.
+* The verb "flow" has a connotation of a smooth and peaceful movement, which might not be compatible with the idea of roaring, but it's not a definitive contradiction.
+* The context does not provide enough information to determine the speed, depth, or other characteristics of the river that could influence its sound.
+* The statement "The river roared by" implies a certain level of noise or turbulence, which is not explicitly supported or denied by the context.
+* The context focuses on the person's action of watching, rather than describing the river's behavior or properties.
+* There is no clear logical connection between the act of watching the river flow and the river roaring by.<|eot_id|>

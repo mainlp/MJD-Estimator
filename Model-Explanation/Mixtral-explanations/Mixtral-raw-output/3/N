@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Even analysts who had argued for loosening the old standards, by which the market was clearly overvalued, now think it has maxed out for a while. 
+Statement: Some analysts wanted to make the old standards less restrictive for investors. 
+Answer: [/INST] 1. The context does not specify which analysts have changed their minds.
+2. The context does not indicate whether all analysts who previously wanted to loosen the standards now think the market has maxed out.
+3. The statement does not specify which old standards the analysts wanted to make less restrictive.
+4. The context does not provide information about the current status of the old standards.
+5. The statement does not provide information about the analysts' current views on the market's valuation.
+6. The context does not indicate if there are any analysts who still want to loosen the old standards.
+7. The statement does not provide information about the reasons why the analysts wanted to make the old standards less restrictive.
+8. The context does not provide information about the timing of the analysts' change of mind.
+9. The statement does not provide information about the extent to which the old standards were previously restrictive.
+10. The context does not provide information about the specific market conditions that led the analysts to think the market has maxed out.</s>

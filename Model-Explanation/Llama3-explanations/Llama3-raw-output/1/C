@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: In 1982, Wallace won his last race for governor with a quarter of the black votes cast in the Democratic primary, a fact alluded to in a written epilogue at the end of the film. 
+Statement: Wallace was reelected as governor. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement does not specify the year of reelection, but the context only mentions Wallace winning his last race for governor in 1982, implying that he did not win any subsequent races.
+* The phrase "his last race" in the context implies that Wallace did not run or win any elections after 1982.
+* The context does not mention Wallace being reelected, only that he won his last race for governor in 1982.
+* The statement implies that Wallace was elected multiple times, but the context only mentions one specific election in 1982.
+* The context focuses on Wallace's performance among black voters in the Democratic primary, which does not necessarily imply that he was reelected.<|eot_id|>

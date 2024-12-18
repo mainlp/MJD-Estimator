@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: What a brilliantly innocuous metaphor, devised by a master manipulator to obscure his manipulations. 
+Statement: The metaphor was created by the manipulator to convince people of something. 
+Answer: [/INST] 1. The metaphor could have been used to both obscure and convince, but it's unclear what the specific message being conveyed is.
+2. The metaphor might not have been directly related to the manipulation, but instead served as a general smokescreen.
+3. The statement doesn't specify whether the metaphor was successful in convincing people.
+4. The metaphor could have been used to confuse or distract, rather than to convince.
+5. The context suggests that the metaphor was intended to obscure manipulations, but it doesn't explicitly state that convincing was the goal.
+6. The metaphor might have been used to convey a message that is not related to the manipulation, making it neutral in this context.
+7. The statement doesn't specify if the metaphor was used to convince people of a falsehood or a truth, leaving it undetermined.
+8. The context implies that the metaphor was created by a manipulator, but it doesn't necessarily mean that every action or creation of the person is for manipulation purposes.
+9. The metaphor could have been used to introduce a topic or idea, rather than to convince people of

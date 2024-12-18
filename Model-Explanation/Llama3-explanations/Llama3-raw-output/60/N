@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: that's true i didn't think about that 
+Statement: You've changed my mind with a new perspective. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only acknowledges the truth of an unspecified statement, but does not provide enough information to infer whether the speaker's mind has been changed or not.
+* The phrase "that's true" could be referring to a specific point or fact, but it's unclear whether this truth has led to a change in the speaker's mind.
+* The speaker's admission of not thinking about something doesn't necessarily imply that their mind has been changed, only that they've gained new insight.
+* The context lacks explicit language indicating a change of mind, such as "I was wrong" or "I've reconsidered".
+* The statement "You've changed my mind" is too strong to be inferred from the context, which only expresses mild surprise or acknowledgement.
+* The context is too vague to determine the extent to which the speaker's perspective has shifted, if at all.<|eot_id|>

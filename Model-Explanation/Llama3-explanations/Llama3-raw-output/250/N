@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: By coordinating policy development and awareness activities in this manner, she helps ensure that new risks and policies are communicated promptly and that employees are periodically reminded of existing policies through means such as monthly bulletins, an intranet web site, and presentations to new employees. 
+Statement: She can find new risks with the awareness campaign. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not explicitly state that she can find new risks with the awareness campaign, it only mentions that she helps ensure new risks are communicated promptly.
+* The context focuses on communication and awareness of policies, not on identifying new risks.
+* The awareness campaign is not explicitly mentioned as a means to find new risks.
+* The context does not provide enough information to determine whether she can find new risks or not.
+* The statement is making an inference about the awareness campaign that is not supported by the context.
+* The context only talks about communicating and reminding employees of existing policies, not about finding new risks.
+* There is no clear causal link between the awareness campaign and finding new risks.
+* The context does not provide enough information about the awareness campaign to determine its effectiveness in finding new risks.<|eot_id|>

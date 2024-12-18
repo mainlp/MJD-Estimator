@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: It was made up to look as much like an old-fashioned steam train as possible. 
+Statement: It was built in the modern era to look like something built in the past. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+1. The phrase "made up" implies a deliberate design choice, which suggests a modern construction.
+2. The context mentions "as possible", implying an attempt to replicate an old-fashioned steam train, which is only possible in a modern era.
+3. The use of "old-fashioned" to describe the steam train implies a contrast with modern times, suggesting the statement was built in the modern era.
+4. The phrase "to look as much like" implies an intentional design to mimic the past, which is a characteristic of modern construction.
+5. The context does not mention any historical events or time periods, suggesting the statement is about a modern construction.
+6. The use of "as possible" implies a level of artificiality, which is more likely in a modern construction than an original old-fashioned steam train.<|eot_id|>

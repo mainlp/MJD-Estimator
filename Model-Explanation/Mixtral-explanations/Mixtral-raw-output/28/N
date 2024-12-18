@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: He jumped up, planting one hand on the charging horse, and came at the brute with the axe. 
+Statement: He swung at the brute with his sword. 
+Answer: [/INST] 1. The text does not specify the type of weapon the person is carrying, only that it's an axe.
+2. The word "brute" in the context could refer to a person or an animal, and the statement assumes it's an animal.
+3. The statement implies that the person switched weapons, but the context does not provide information to confirm this.
+4. The context describes a specific action ("came at the brute with the axe"), but the statement describes a different action.
+5. The statement could be true if the person had both an axe and a sword, but the context does not provide information to confirm this.</s>

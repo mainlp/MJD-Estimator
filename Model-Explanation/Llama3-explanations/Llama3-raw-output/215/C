@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Everybody has this quote from NBA commissioner David  You cannot strike your boss and still hold your job--unless you play in the NBA. 
+Statement: NBA commissioner said he hates NBA players. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The context does not mention the commissioner hating NBA players.
+* The quote provided suggests the commissioner is making a humorous comment about the unique nature of NBA players' jobs, implying a level of tolerance or understanding, not hatred.
+* The tone of the quote is lighthearted and playful, which contradicts the negative sentiment of "hates".
+* There is no evidence in the context to support the claim that the commissioner hates NBA players.
+* The commissioner's quote is focused on the exceptionality of NBA players' jobs, not expressing a personal opinion about them.<|eot_id|>

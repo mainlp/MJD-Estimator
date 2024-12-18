@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: After shuttering the DOE, Clinton could depict himself as a crusader against waste and bureaucracy who succeeded where even Reagan failed. 
+Statement: Reagan had tried to shutter the DOE but was unable to. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context does not explicitly state that Reagan tried to shutter the DOE, but it can be inferred.
+* The context implies that Clinton succeeded where Reagan failed, but it does not provide direct evidence that Reagan's failure was due to trying to shutter the DOE.
+* The context focuses on Clinton's actions and their potential depiction, rather than providing factual information about Reagan's actions.
+* The statement assumes a specific reason for Reagan's failure (trying to shutter the DOE), but the context does not provide enough information to confirm or deny this assumption.
+* The context does not provide a clear timeline of events, making it unclear whether Reagan's attempts (if any) to shutter the DOE occurred before or after Clinton's actions.<|eot_id|>

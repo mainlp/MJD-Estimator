@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: He dismounted and Ca'daan saw he was smaller than the rest. 
+Statement: He was shorter than the others. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* "Smaller" can refer to weight or build, not just height.
+* "Smaller" is a vague term that doesn't necessarily imply a specific difference in height.
+* The context only provides a relative comparison to "the rest", but doesn't provide enough information to determine if "he" is shorter than all of "the others" or just some of them.
+* The statement assumes "the others" refers to the same group as "the rest", but this is not explicitly stated.
+* The context doesn't provide enough information to determine if "he" is shorter than the others by a significant amount or just slightly.<|eot_id|>

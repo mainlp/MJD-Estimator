@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: On the west side of the square is Old King's House (built in 1762), which was the official residence of the British governor; it was here that the proclamation of emancipation was issued in 1838. 
+Statement: The Old King's House had an incident where the King was murdered inside of it. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* There is no mention of a king being murdered in the context.
+* The context only mentions the Old King's House as the official residence of the British governor, not a king.
+* The context highlights a historical event (proclamation of emancipation) that occurred in the house, but does not mention any incident of a king being murdered.
+* The name "Old King's House" might be misleading, but it does not imply that a king lived or was murdered there.
+* The context provides a specific date (1762) for the building of the house, but does not mention any incident of a king being murdered.
+* The context focuses on the historical significance of the house as a residence of the British governor, not as a place where a king was murdered.<|eot_id|>

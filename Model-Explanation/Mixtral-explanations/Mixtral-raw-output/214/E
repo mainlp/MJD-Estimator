@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: This confluence of a bad tax, a $1 billion reserve, a botched opposition campaign, and voters willing to call a bluff resulted in the I-695 victory. 
+Statement: The I-695 failed in its campaign to help the people. 
+Answer: [/INST] 1. The statement could be true if "help the people" is interpreted as "prevents tax burdens," but I-695's victory led to a bad tax.
+2. The statement could be true if "help the people" is interpreted as "has the support of the opposition campaign," but the opposition campaign was botched.
+3. The statement could be true if "help the people" is interpreted as "prevents voters from calling a bluff," but voters were willing to call a bluff, which resulted in I-695's victory.</s>

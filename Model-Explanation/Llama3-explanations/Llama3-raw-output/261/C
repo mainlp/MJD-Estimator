@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: If ancient writings give only a romanticized view, they do offer a more precise picture of Indo-Aryan society. 
+Statement: Ancient writings don't show an accurate picture of Indo-Anryan society. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context states that ancient writings offer a more precise picture, implying accuracy.
+* The statement contradicts the context by claiming ancient writings don't show an accurate picture.
+* The context mentions a romanticized view, but still asserts a more precise picture, which is not reflected in the statement.
+* The statement's negation of accuracy is not supported by the context, which suggests some level of accuracy.
+* The context's emphasis on precision implies a level of accuracy, which the statement denies.<|eot_id|>

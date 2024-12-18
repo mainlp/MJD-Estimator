@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The park was established in 1935 and was given Corbett's name after India became independent. 
+Statement: The park changed names due to the independence. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true:
+
+* The park was given Corbett's name after India became independent, implying that it had a different name before independence.
+* The renaming of the park was a direct consequence of India gaining independence.
+* The park's original name was replaced with Corbett's name as a result of India becoming independent.
+* The independence of India triggered the renaming of the park to Corbett's name.
+* The park's name was changed to honor Corbett only after India gained independence, suggesting a causal link between the two events.<|eot_id|>

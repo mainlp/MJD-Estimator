@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Kutchins and Kirk cite a particularly amusing example of such  Robert Spitzer, the man in charge of DSM-III, was sitting down with a committee that included his wife, in the process of composing a criteria-set for Masochistic Personality Disorder--a disease that was suggested for, but never made it into, the DSM-III-R (a revised edition). 
+Statement: DSM-III-R is a book of personality disorders. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true:
+
+* DSM-III-R is a revised edition of DSM-III, which was being worked on by Robert Spitzer, who was in charge of composing a criteria-set for Masochistic Personality Disorder.
+* The committee, which included Spitzer's wife, was working on composing a criteria-set for Masochistic Personality Disorder, implying that DSM-III-R contains information about personality disorders.
+* The context mentions that Masochistic Personality Disorder was suggested for, but never made it into, the DSM-III-R, implying that DSM-III-R does contain information about other personality disorders.<|eot_id|>

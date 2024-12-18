@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: well they're so close to an undefeated undefeated season they can taste it and they wanna make history so i don't think they're gonna lack for motivation 
+Statement: Unless they suffer any losses, they'll remain motivated. 
+Answer: [/INST] 1. The team is currently on an undefeated streak, and they are determined to continue this trend.
+2. The team's desire to make history and achieve an undefeated season will keep them motivated.
+3. There are no losses sustained by the team, which means they can remain motivated.
+4. The team's motivation is contingent on their undefeated status, and they will not lose motivation as long as they don't suffer any losses.</s>

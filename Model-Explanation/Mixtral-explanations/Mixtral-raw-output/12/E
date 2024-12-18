@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: In the short term, U.S. consumers will benefit from cheap imports (as will U.S. multinationals that use parts made in East Asian factories). 
+Statement: U.S. consumers and factories in East Asia benefit from imports. 
+Answer: [/INST] 1. U.S. consumers directly benefit from cheap imports.
+2. U.S. multinationals, which use parts made in East Asian factories, benefit from cheap imports.
+3. East Asian factories, from where imports originate, indirectly benefit from U.S. consumers' demand for cheap imports.
+4. The statement can be inferred as imports are mutually beneficial for both U.S. consumers and East Asian factories.</s>

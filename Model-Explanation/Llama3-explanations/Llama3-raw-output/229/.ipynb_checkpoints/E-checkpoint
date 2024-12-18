@@ -1,0 +1,8 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: GAO recommends that the Secretary of Defense revise policy and guidance 
+Statement: GAO recommends that you eat 5 fruit/veg per day 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+There are no possible explanations why the statement is true (entailment) given the context. The context talks about the Secretary of Defense and policy/guidance revision, while the statement is about eating fruit/veg per day, which are unrelated topics.<|eot_id|>

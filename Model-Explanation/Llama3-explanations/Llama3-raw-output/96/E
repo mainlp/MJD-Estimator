@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Ca'daan heard the Kal grunt and felt the horse lift. 
+Statement: The Kal heard Ca'daan grunt. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not mention Ca'daan grunting, it mentions the Kal grunting, so the statement is not supported by the context.
+* The context only mentions Ca'daan hearing the Kal grunt, it does not imply that the Kal heard Ca'daan grunt.
+* There is no information in the context about the Kal's auditory perception or its ability to hear Ca'daan.
+* The context focuses on Ca'daan's actions and perceptions, not the Kal's.
+* The statement is a reversal of the original context, swapping the roles of Ca'daan and the Kal, which is not justified by the context.<|eot_id|>

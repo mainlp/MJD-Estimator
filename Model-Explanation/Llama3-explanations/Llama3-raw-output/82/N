@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: One wag, J., wrote in to ask, Is there a difference between pests and airlines? 
+Statement: J. thinks there is no difference between pests and airlines. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions that J. asked a question, but does not provide J.'s opinion or stance on the matter.
+* The question "Is there a difference between pests and airlines?" is neutral and does not imply a positive or negative answer.
+* The context does not provide enough information to determine J.'s belief or opinion on the difference between pests and airlines.
+* The question asked by J. could be rhetorical, or J. might be genuinely curious, but the context does not provide a clear indication of J.'s thoughts.
+* The tone of the context is informal and humorous, which might suggest that J. is being facetious or playful, but this is not enough to determine J.'s actual opinion.
+* The context does not provide any additional information about J.'s background, expertise, or previous statements that could help infer their opinion.<|eot_id|>

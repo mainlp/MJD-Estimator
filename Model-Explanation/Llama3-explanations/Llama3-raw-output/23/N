@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The students' reaction was swift and contentious, as if their feelings had been hurt. 
+Statement: The students reacted with horror. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions the reaction was swift and contentious, but does not provide enough information to determine the specific emotion (horror) expressed by the students.
+* The phrase "as if their feelings had been hurt" suggests the students may have been upset or offended, but it does not necessarily imply horror.
+* The context describes the reaction as "contentious", which could imply anger or disagreement, rather than horror.
+* The word "horror" is a strong emotion that may not be directly implied by the context, which only describes the reaction as "swift and contentious".
+* The context does not provide enough information to determine the intensity or nature of the students' emotions, making it impossible to determine if they reacted with horror.
+* The phrase "as if their feelings had been hurt" could suggest a range of emotions, including sadness, anger, or frustration, but not necessarily horror.<|eot_id|>

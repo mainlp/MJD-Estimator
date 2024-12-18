@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The park was established in 1935 and was given Corbett's name after India became independent. 
+Statement: The park changed names due to the independence. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions that the park was given Corbett's name after India became independent, but it does not explicitly state that the park changed names due to independence.
+* It is possible that the park was previously unnamed and was given Corbett's name after independence, rather than changing from a previous name.
+* The context does not provide information about the park's name before independence, making it impossible to determine if the name was changed.
+* The phrase "was given Corbett's name" is ambiguous and could imply either a renaming or a initial naming.
+* The context only provides a temporal relationship between the independence and the naming, but it does not establish a causal relationship between the two events.<|eot_id|>

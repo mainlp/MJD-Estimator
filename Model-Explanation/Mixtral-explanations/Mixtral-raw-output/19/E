@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The Women's Haven, which provides shelter and outreach to domestic-violence victims, already has a full-time attorney. 
+Statement: The Haven is a useful resource in the community. 
+Answer: [/INST] 1. The Haven offers shelter and outreach services to domestic-violence victims.
+2. The Haven's full-time attorney provides legal assistance to those victims.
+3. Having a full-time attorney allows the Haven to offer comprehensive support to victims.
+4. The presence of a full-time attorney at the Haven helps victims with legal needs.
+5. The Haven's services, including legal assistance, benefit the community.
+6. The Haven's full-time attorney contributes to the community by supporting domestic-violence victims.
+7. The Haven's resources extend beyond shelter and outreach, as they have a full-time attorney.
+8. The Haven's full-time attorney ensures that victims receive proper legal representation.
+9. The Haven's comprehensive approach, including legal assistance, makes it a valuable resource.
+10. The Haven's full-time attorney strengthens the community by addressing legal issues related to domestic violence.</s>

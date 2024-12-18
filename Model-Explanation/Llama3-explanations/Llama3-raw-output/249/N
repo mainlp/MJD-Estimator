@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Lie back, and DON'T THINK. 
+Statement: Lie back, and do not use your crazy mind. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only prohibits thinking, but the statement prohibits using a "crazy mind", which might be a more specific or intense form of thinking.
+* The context does not specify what kind of thinking is prohibited, so it's unclear if "using your crazy mind" is included in or excluded from the prohibition.
+* The statement adds the adjective "crazy" to "mind", which changes the connotation and might imply a different kind of mental activity than what the context prohibits.
+* The context and statement have similar but not identical wording, making it difficult to determine if they are equivalent or not.
+* The context is more general and open-ended, while the statement is more specific and prescriptive, making it hard to determine if they are compatible or not.<|eot_id|>

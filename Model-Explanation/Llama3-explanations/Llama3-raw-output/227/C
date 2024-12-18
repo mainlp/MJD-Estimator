@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: and the other thing is the cost it's almost prohibitive to bring it to a dealer 
+Statement: The cost of fixing it makes it hard to bring it to a dealer. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The cost of fixing it is not the reason it's hard to bring it to a dealer.
+* The cost of fixing it is not hard to bring to a dealer.
+* It's not the cost of fixing it that makes it hard to bring it to a dealer.
+* The cost of fixing it is not almost prohibitive.
+* It's not hard to bring it to a dealer because of the cost of fixing it.
+* The cost of fixing it does not make it hard to bring it to a dealer.<|eot_id|>

@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: ooh it's kind of tough to think of some of the others although i do watch some of some of those frivolous things uh like on Thursday nights at nine o'clock when i get home from aerobics i will watch uh Knots Landing 
+Statement: I only watch frivolous things on Thursday nights. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The speaker mentions watching "some of those frivolous things" implying they watch other frivolous things beyond Thursday nights.
+* The speaker says "some of the others" which suggests they watch other types of shows beyond frivolous ones.
+* The speaker mentions watching Knots Landing specifically on Thursday nights at 9 o'clock, implying they may watch other shows at different times.
+* The use of "although" in the context suggests that the speaker's watching habits are not limited to Thursday nights or frivolous things.
+* The speaker mentions getting home from aerobics, which may imply they have other activities or watching habits outside of Thursday nights.<|eot_id|>

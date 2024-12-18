@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: This is one of the reasons we're growing too weak to fight the Satheri.  "What's wrong with a ceremony of worship, if you must worship your eggshell?" Dave asked. 
+Statement: Eggshell worship is the reason we're growing too weak to fight the Satheri, yet Dave asked about it. 
+Answer: [/INST] 1. The ceremony of worship being referred to is eggshell worship.
+2. The weakness is a result of performing eggshell worship.
+3. Dave questioned the concern with eggshell worship.
+4. Despite Dave's question about eggshell worship, it is still a reason for their growing weakness.
+5. The group is growing too weak to fight the Satheri, and this is directly caused by eggshell worship.
+6. Dave is aware of the eggshell worship and inquired about it.
+7. The group's preoccupation with eggshell worship is weakening them, making it difficult to fight the Satheri.
+8. Eggshell worship is one of the reasons for their growing weakness, and Dave questioned this fact.</s>

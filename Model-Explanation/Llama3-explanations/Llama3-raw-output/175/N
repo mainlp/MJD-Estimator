@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: A button on the Chatterbox page will make this easy, so please do join in. 
+Statement: They wanted to make the site very user friendly. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions a button on the Chatterbox page, but it doesn't explicitly state that the button's purpose is to make the site user-friendly.
+* The context implies that the button is intended to facilitate user participation, but it doesn't provide direct evidence that the site's overall goal is to be user-friendly.
+* The statement "They wanted to make the site very user friendly" is too general and doesn't specifically relate to the context, which only talks about a button on the Chatterbox page.
+* The context doesn't provide enough information about the intentions or goals of the site's creators, so it's impossible to determine if they wanted to make the site user-friendly.
+* The statement is too vague and open-ended, and the context doesn't provide enough specific details to support or contradict it.<|eot_id|>

@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: It can entail prospective and retrospective designs and it permits synthesis of many individual case studies undertaken at different times and in different sites. 
+Statement: It can entail prospective and retrospective designs for system redesigns. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The context does not mention system redesigns.
+* The context does not limit the designs to system redesigns.
+* The context implies a broader scope of designs, not just for system redesigns.
+* The statement adds a specific purpose (system redesigns) not present in the context.
+* The context does not provide enough information to infer that the designs are for system redesigns.<|eot_id|>

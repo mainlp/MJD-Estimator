@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: As legal scholar Randall Kennedy wrote in his book Race, Crime, and the Law, Even if race is only one of several factors behind a decision, tolerating it at all means tolerating it as potentially the decisive factor. 
+Statement: Race is one of several factors in some judicial decisions 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context does not provide enough information to determine the extent to which race influences judicial decisions.
+* The statement only claims that race is one of several factors, but does not specify its relative importance or impact.
+* The context highlights the potential for race to be a decisive factor, but the statement does not confirm or deny this possibility.
+* The statement is too vague, and it is unclear what "some judicial decisions" refers to, making it difficult to determine the truth of the statement.
+* The context presents an opinion or argument (Randall Kennedy's writing), but the statement is a factual claim that may or may not be supported by evidence.
+* The statement does not provide enough context to determine whether the presence of race as a factor is acceptable or not, which is the main concern of the original text.<|eot_id|>

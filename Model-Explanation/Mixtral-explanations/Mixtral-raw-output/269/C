@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: In his effort to build nationalism across Turkey in the 1920s, Ataterk instituted a campaign to suppress Kurdish identity that continues today. 
+Statement: In 1942, Ataterk tried to build nationalism in Turkey. 
+Answer: [/INST] 1. Ataturk passed away in 1938, so he could not have taken action in 1942.
+2. Ataturk's efforts to build nationalism did not extend beyond the 1920s.
+3. Ataturk's campaign to suppress Kurdish identity was separate from his efforts to build nationalism.
+4. The campaign to suppress Kurdish identity was not an attempt to build nationalism.
+5. Any attempts to build nationalism after Ataturk's death would not be attributable to him.
+6. The statement is incorrect because it lacks specific information about what actions Ataturk took in 1942 to build nationalism.
+7. The statement is false because Ataturk's policies towards Kurdish identity were actually aimed at weakening, not strengthening, nationalism.</s>

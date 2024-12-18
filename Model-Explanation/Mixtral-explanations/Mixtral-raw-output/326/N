@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: He's a bad lot. 
+Statement: He's a dishonest person 
+Answer: [/INST] 1. The context implies that the person is disreputable or troublesome, but it does not explicitly state that they are dishonest.
+2. The statement could be true, as dishonesty is a characteristic of being a "bad lot," but it could also be false if the person has other negative qualities.
+3. The context may be referring to the person's behavior in general, while the statement is specifically about their honesty.
+4. The statement could be true, but the context may be referring to a different aspect of the person's character or actions.
+5. The statement could be making a stronger claim than the context, as "bad lot" is a more general term than "dishonest person."
+6. The context may be using "bad lot" in a figurative sense, while the statement is taking it literally.
+7. The statement could be true, but the context may be using "bad lot" in a hyperbolic or exaggerated way.
+8. The statement could be true, but the context may be referring to a specific instance of the person's behavior, while the statement is about their character in general.
+9. The statement could be true

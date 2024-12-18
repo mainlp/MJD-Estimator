@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: You wonder whether he could win a general election coming out of the right lane of the Democratic Party. 
+Statement: He will not run in a general election while he is a conservative Democrat. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not specify the subject's current political stance, so it is unclear if he is a conservative Democrat.
+* The context does not specify if the subject will run in a general election, only that it is wondered about.
+* The statement assumes the subject is a conservative Democrat, but this is not confirmed in the context.
+* The context does not provide information about the subject's future actions or plans.
+* The statement's condition (being a conservative Democrat) might not be applicable to the context's scenario (running in a general election).
+* The context does not define what a "conservative Democrat" is, leaving room for interpretation.
+* The statement's negation ("will not run") is not supported or contradicted by the context.<|eot_id|>

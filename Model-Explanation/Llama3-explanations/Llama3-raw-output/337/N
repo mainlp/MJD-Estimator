@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: So far, however, the number of mail pieces lost to alternative bill-paying methods is too small to have any material impact on First-Class volume. 
+Statement: Occasionally mail is lost but not often 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement does not provide a specific frequency or percentage of mail being lost, making it difficult to determine if it has a material impact on First-Class volume.
+* The context only mentions the impact of alternative bill-paying methods on First-Class volume, but the statement talks about mail being lost in general, without specifying the reason.
+* The statement's phrase "not often" is subjective and lacks a clear definition, making it hard to determine if it aligns with the context's "too small" impact.
+* The context focuses on the impact on First-Class volume, while the statement focuses on the frequency of mail being lost, making it difficult to establish a clear connection between the two.
+* The statement does not provide enough information to determine if the occasional loss of mail is due to alternative bill-paying methods or other factors.<|eot_id|>

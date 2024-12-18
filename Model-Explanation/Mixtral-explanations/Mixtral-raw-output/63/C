@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The long-sought, the mysterious, the elusive Jane Finn!  
+Statement: Jane Finn is as beautiful as she is mysterious. 
+Answer: [/INST] 1. Jane Finn is not beautiful.
+2. Jane Finn is not mysterious.
+3. Jane Finn is not both beautiful and mysterious.
+4. There is another quality that overshadows Jane Finn's beauty and mystery.
+5. Jane Finn's beauty and mystery are being questioned or dismissed.
+6. The statement is sarcastic, implying the opposite of what is stated.
+7. The speaker has different standards or perceptions of beauty and mystery.
+8. New information has come to light that contradicts the statement.
+9. The statement is based on a misunderstanding or misinterpretation of Jane Finn's identity.
+10. The statement is a generalization that does not apply to every aspect or instance of Jane Finn's character.</s>

@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: In his effort to build nationalism across Turkey in the 1920s, Ataterk instituted a campaign to suppress Kurdish identity that continues today. 
+Statement: In 1942, Ataterk tried to build nationalism in Turkey. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions Ataterk's efforts in the 1920s, but the statement refers to 1942, which is outside the mentioned time frame.
+* The context describes Ataterk's efforts as focused on suppressing Kurdish identity, but the statement only mentions building nationalism, without specifying the means or target.
+* Ataterk's death occurred in 1938, so it is unclear if he was still active in 1942.
+* The statement does not provide enough information to determine if Ataterk's efforts in 1942 were part of the same campaign mentioned in the context or a separate initiative.
+* The context does not provide a comprehensive timeline of Ataterk's activities, so it is unclear if he was still trying to build nationalism in 1942.<|eot_id|>

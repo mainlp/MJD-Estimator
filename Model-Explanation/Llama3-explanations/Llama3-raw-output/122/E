@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The order was founded by James VII (James II of England) and continues today. 
+Statement: Kings frequently founded orders that can still be found today. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* James VII, a king, founded an order that continues today.
+* The order founded by James VII still exists today, implying that kings (like James VII) have founded orders that can still be found today.
+* The existence of an order founded by a king (James VII) that continues today is evidence that kings frequently founded orders that can still be found today.
+* The fact that James VII, a king, founded an order that still exists today suggests that it is common for kings to found orders that can still be found today.
+* The order's continued existence today implies that its founder, a king (James VII), is an example of a king who founded an order that can still be found today, supporting the claim that kings frequently do so.<|eot_id|>

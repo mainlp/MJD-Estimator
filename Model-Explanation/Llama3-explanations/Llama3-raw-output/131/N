@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: And far, far away- lying still on the tracks- was the back of the train. 
+Statement: The train wasn't moving but then it started up. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only describes the back of the train, not its current state of motion.
+* The context does not provide any information about the train's motion before or after the described scene.
+* The statement implies a change in the train's motion, but the context does not provide enough information to confirm or deny this change.
+* The context does not contradict the statement, but it also does not provide sufficient evidence to support it.
+* The statement's timeframe is unclear, and it is unknown whether "but then" refers to a time before, during, or after the scene described in the context.
+* The context focuses on the train's location, not its motion or state of operation.<|eot_id|>

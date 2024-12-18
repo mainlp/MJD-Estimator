@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: if it had rained any more in the last two weeks instead of planting Saint Augustine grass in the front yard i think i would have plowed everything under and had a rice field 
+Statement: It has rained enough to flood everything here and make rice pattys. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The amount of rain in the last two weeks is sufficient to flood the area.
+* The rain has created conditions suitable for growing rice.
+* The speaker's yard is currently flooded due to the heavy rain.
+* The rain has made it possible to create rice patties in the area.
+* The speaker's initial plan to plant Saint Augustine grass was not feasible due to the excessive rain.
+* The rain has transformed the yard into a rice-friendly environment.<|eot_id|>

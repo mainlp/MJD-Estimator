@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The second half of the book dealt with the use of the true name. 
+Statement: The first part dealt with the use of false names. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only provides information about the second half of the book, but not the first half.
+* There is no explicit mention of the first part of the book or its content.
+* The use of "true name" in the context does not necessarily imply the use of "false names" in the first part.
+* The context does not provide enough information to infer a direct contrast between the two halves of the book.
+* The statement is making an assumption about the first part of the book that is not supported by the context.
+* The context is silent about the content of the first part of the book, making it impossible to determine the truth of the statement.<|eot_id|>

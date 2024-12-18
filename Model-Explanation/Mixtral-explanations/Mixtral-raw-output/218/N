@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The tomb guardian will unlock the gate to the tunnel and give you a candle to explore the small circular catacomb, but for what little you can see, it is hardly worth the effort. 
+Statement: The tomb garden can give you a thorough tour of the catacombs. 
+Answer: [/INST] 1. The context only mentions a small circular catacomb, while the statement refers to catacombs in general, which may include additional areas not covered by the guardian's candlelit tunnel.
+2. The statement could be referring to a different set of catacombs, not the one mentioned in the context.
+3. The guardian may not have permission or authority to allow access to other parts of the tomb, such as the garden, which may contain separate catacombs.
+4. The "thorough tour" mentioned in the statement might not necessarily involve physical access, but rather detailed information or a virtual representation of the catacombs.
+5. The context suggests that the catacomb is not well-lit and may be difficult to explore, while the statement implies a more organized and well-lit tour experience.
+6. The term "tomb garden" in the statement is ambiguous and could refer to a variety of spaces, not necessarily an area containing catacombs.</s>

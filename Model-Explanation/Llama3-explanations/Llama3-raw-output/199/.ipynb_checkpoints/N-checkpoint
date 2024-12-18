@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Don't forget to take a change of clothing and a towel. 
+Statement: Remember to replace your towel and clothing. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context asks to take a change of clothing, but the statement asks to replace clothing, implying that the original clothing should be removed or exchanged, which is not the case.
+* The context mentions taking a towel, but the statement asks to replace the towel, which is unnecessary since a new towel is already being taken.
+* The context implies that the speaker wants the listener to have a spare set of clothing and a towel, whereas the statement suggests that the original items should be replaced, which is not the intended meaning.
+* The context is about packing or bringing items, whereas the statement is about replacing items, which is a different action.
+* The statement uses "replace" which implies that something is already present, but in the context, the items are being taken for the first time, so there is nothing to replace.<|eot_id|>

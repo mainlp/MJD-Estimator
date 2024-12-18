@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: and my and my part-time work you know it's not our the restaurant our favorite restaurant in the town of Salisbury where actually we live you know where my where i'll return to my job or whatever we can normally eat out for um under fourteen dollars 
+Statement: My first part time job was in a restaurant in Salisbury where you could eat out for under $14. 
+Answer: [/INST] 1. The job was not part-time.
+2. The job was not the first part-time job.
+3. The job was not in a restaurant.
+4. The restaurant is not located in Salisbury.
+5. The speaker and their friend do not normally eat out for under $14 at the restaurant where the speaker works.</s>

@@ -1,0 +1,19 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: it's like but the time we went to Florida and needed to rent a car you know he believed in it 
+Statement: We rented a car while we were in Florida. 
+Answer: [/INST] 1. He did not believe in renting a car.
+2. We rented a car before going to Florida.
+3. We did not rent a car at all during our Florida trip.
+4. He only believed in using public transportation in Florida.
+5. The car we used in Florida was not rented.
+6. The car was rented, but not by us.
+7. The car was rented after we left Florida.
+8. The car was rented, but it was not needed.
+9. The car was rented, but it broke down and we didn't use it.
+10. The car was rented, but it was not used for our transportation.
+11. The car was rented, but it was used only for a short period of time.
+12. The car was rented, but it was not used for the entire duration of our stay in Florida.
+13. The car was rented, but it was used only by one person.
+14. The car was rented, but it was not used by us.
+15. The car was rented, but it was used by someone else.
+16

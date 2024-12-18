@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: You have to walk through it). 
+Statement: Walking is the best way to get through it. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The context implies that "it" is a physical space or obstacle that needs to be traversed, and walking is the most suitable or only way to do so.
+* The phrase "you have to walk through it" suggests that walking is a necessary or required action to get through "it", making it the best way by default.
+* The context may imply that other modes of transportation or methods of traversal are not possible or feasible, making walking the best option by process of elimination.
+* The statement assumes that "it" is a relatively short distance or a confined space, making walking a more practical and efficient choice.
+* The context may suggest that "it" is a challenging or difficult terrain, and walking is the best way to navigate through it safely or successfully.<|eot_id|>

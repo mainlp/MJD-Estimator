@@ -1,0 +1,16 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: You have to walk through it). 
+Statement: Walking is the best way to get through it. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* "it" is not a physical space that can be traversed by walking.
+* There are other better ways to get through "it", such as running, swimming, or using a vehicle.
+* "it" is an abstract concept or a metaphor, and walking is not applicable.
+* "it" is a problem or a challenge, and walking is not a viable solution.
+* "it" is a emotional or psychological state, and walking is not an effective way to overcome it.
+* "it" is a specific obstacle or barrier that cannot be traversed by walking, such as a wall or a body of water.
+* The context implies that walking is not the best way, but rather a necessary or only way to get through "it".<|eot_id|>

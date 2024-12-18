@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Traditionally, certain designs were reserved for royalty, but today elegant geometric or exuberant, stylized floral patterns are available to all. 
+Statement: Designs once reserved for royalty cost more to buy. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context states that elegant geometric or exuberant, stylized floral patterns are available to all, implying equal accessibility and no price difference.
+* The context does not mention any price difference or restriction on purchasing designs once reserved for royalty.
+* The availability of designs to all suggests that they are no longer exclusive or limited, which would drive up their cost.
+* The context focuses on the democratization of designs, contradicting the idea that they are more expensive.
+* The phrase "available to all" implies that the designs are affordable and accessible, not costly or exclusive.<|eot_id|>

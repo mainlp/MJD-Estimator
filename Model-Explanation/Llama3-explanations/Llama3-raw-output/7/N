@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The city was founded in the third millennium b.c. on the north shore of the bay, and reached a peak during the tenth century b.c., when it was one of the most important cities in the Ionian Federation the poet Homer was born in S myrna during this period. 
+Statement: The city was founded in the third millennium 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is a direct quote from the context, making it impossible to infer a true or false label.
+* The context does not provide any contradictory information to the statement.
+* The statement is a historical fact, and the context is providing background information, rather than making a claim that can be verified or refuted.
+* The statement is a neutral, factual claim, and the context does not provide any emotional or evaluative language to influence the label.
+* The context is providing a timeline of events, and the statement is a part of that timeline, making it a neutral, chronological claim.
+* There is no ambiguity or vagueness in the statement that would require further interpretation or inference.
+* The context does not provide any alternative or conflicting information that would make the statement uncertain or undetermined.<|eot_id|>

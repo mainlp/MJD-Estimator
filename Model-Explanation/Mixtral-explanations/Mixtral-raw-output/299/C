@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: That's why we tried to kill you. 
+Statement: That's one of the reasons we wanted to kill you. 
+Answer: [/INST] The statement is a softer version of the context, indicating that there is only one reason among many for wanting to kill the person, while the context implies that the only reason is the one given. Therefore, the statement is false because it contradicts the context in the following ways:
+
+1. The statement implies that there are other reasons for wanting to kill the person, while the context suggests that there is only one reason.
+2. The statement suggests that the stated reason is not the sole or primary motivation for the action, while the context implies that it is.
+3. The statement downplays the gravity of the situation by implying that there are other reasons that are equally or more important, while the context suggests that the stated reason is the most important.
+4. The statement may be an attempt to deceive or mislead by implying that the situation is less serious than it actually is.
+5. The statement may be an expression of a less intense emotion or intent than the context suggests.
+6. The statement may be an attempt to minimize the responsibility or blame for the action.
+7. The statement may be an attempt to shift the focus away from the stated reason and onto other, less significant factors.
+8.

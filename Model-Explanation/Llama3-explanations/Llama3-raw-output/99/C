@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The original wax models of the river gods are on display in the Civic Museum. 
+Statement: They have models made out of clay. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement explicitly mentions "clay" as the material, but the context states that the models are made of "wax".
+* The context does not mention "clay" as a material used for the models.
+* The context specifically highlights the material "wax", implying that it is the only material used or the most relevant one.
+* The statement contradicts the context by introducing an alternative material ("clay") that is not supported by the context.
+* The context does not provide any information that would suggest the presence of models made of clay.<|eot_id|>

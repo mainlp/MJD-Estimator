@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: yes well yeah i am um actually actually i think that i at the higher level education i don't think there's so much of a problem there it's pretty much funded well there are small colleges that i'm sure are struggling 
+Statement: Small colleges usually have trouble with funding and resources. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The speaker mentions "small colleges that I'm sure are struggling", implying that not all small colleges have trouble with funding and resources.
+* The speaker contrasts "higher level education" with "small colleges", suggesting that the former is "pretty much funded well", implying that small colleges might not be representative of the general trend in higher education.
+* The speaker's tone and language ("I'm sure are struggling") convey a sense of uncertainty or exception, rather than a general rule.
+* The phrase "I don't think there's so much of a problem there" suggests that the speaker does not believe funding is a widespread issue in higher education, which contradicts the idea that small colleges usually have trouble with funding and resources.<|eot_id|>

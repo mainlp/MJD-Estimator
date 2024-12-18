@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: In manual systems, attestations, verifications, and approvals are usually shown by a signature or initial of an individual on a hard copy document. 
+Statement: The only things that signatures in manual systems show are attestations, verifications, or approvals. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement implies exclusivity, but the context only mentions that attestations, verifications, and approvals are "usually shown" by a signature, leaving room for other possibilities.
+* The context does not rule out the possibility that signatures in manual systems can show other things beyond attestations, verifications, and approvals.
+* The word "usually" in the context implies that there may be exceptions or additional uses of signatures in manual systems.
+* Signatures in manual systems may also serve as proof of identity, authorization, or authentication, which are not mentioned in the context.
+* Signatures may be used to indicate receipt, acknowledgement, or understanding, which are not limited to attestations, verifications, or approvals.<|eot_id|>

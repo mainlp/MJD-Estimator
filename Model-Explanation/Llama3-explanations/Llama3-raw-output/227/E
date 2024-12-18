@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: and the other thing is the cost it's almost prohibitive to bring it to a dealer 
+Statement: The cost of fixing it makes it hard to bring it to a dealer. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+1. The cost is high, making it difficult to bring it to a dealer.
+2. The cost is a significant factor in deciding whether to bring it to a dealer.
+3. The cost is a major obstacle to bringing it to a dealer.
+4. The cost is almost too high to justify bringing it to a dealer.
+5. The cost makes it impractical to bring it to a dealer.
+6. The cost is a deterrent to bringing it to a dealer.
+7. The cost outweighs the benefits of bringing it to a dealer.
+8. The cost is a significant burden that prevents bringing it to a dealer.<|eot_id|>

@@ -1,0 +1,10 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The park was established in 1935 and was given Corbett's name after India became independent. 
+Statement: The park changed names due to the independence. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The park was given Corbett's name, not changed to a new name.
+* The park was established in 1935, and the name change occurred after India became independent, implying that the park already existed before the independence.
+* The name change was not a result of the independence, but rather a consequence of it (i.e., it was given Corbett's name after independence, not because of independence).<|eot_id|>

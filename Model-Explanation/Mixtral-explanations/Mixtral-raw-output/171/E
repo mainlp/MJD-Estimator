@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: well we bought this with credit too  well we found it with a clearance uh down in Memphis i guess and uh 
+Statement: We bought non-sale items in Memphis on credit. 
+Answer: [/INST] 1. The items purchased in Memphis were non-sale items.
+2. The purchase in Memphis was made using credit.
+3. The clearance items referred to were not purchased.
+4. The location of the purchase was in Memphis.
+5. The credit purchase and clearance find are two separate events.
+6. The clearance items were not what was bought on credit.
+7. The credit transaction did not involve clearance items.
+8. The speakers bought non-sale items and found clearance items in Memphis.
+9. The credit purchase and the Memphis location apply to the same non-sale items.</s>

@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: In the depths of the Cold War, many Americans suspected Communists had infiltrated Washington and were about to subvert our democracy. 
+Statement: Communists assisted America's government during the Cold War. 
+Answer: [/INST] 1. The Communists who infiltrated Washington were loyal to America and aided the government.
+2. The suspected Communists in the government were actually working to strengthen democracy.
+3. The alleged Communist infiltration involved individuals who supported both communism and American democracy.
+4. Some Communists, believed to be threats to democracy, were in fact helping the American government during the Cold War.
+5. The Communist infiltrators were covertly assisting the U.S. government while maintaining their communist ideologies.</s>

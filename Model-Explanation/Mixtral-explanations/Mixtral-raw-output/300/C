@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Endorphins were flowing. 
+Statement: My endorphins were flowing. 
+Answer: [/INST] 1. The statement is made by a person who is not capable of producing endorphins.
+2. The statement refers to a time before endorphins were produced in the body.
+3. The statement refers to a different body than the one where endorphins were flowing.
+4. The statement is false, and the person did not produce endorphins.
+5. The statement is figurative, while the context is literal.
+6. The context is figurative, while the statement is literal.
+7. The statement is made in a different context, where endorphins were not flowing.
+8. The statement is made in a different sense of the word "endorphins".
+9. The statement is made in a different sense of the phrase "flowing".
+10. The statement is made in a different language, where the word for "endorphins" or "flowing" has a different meaning.</s>

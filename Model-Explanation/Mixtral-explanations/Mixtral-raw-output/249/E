@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Lie back, and DON'T THINK. 
+Statement: Lie back, and do not use your crazy mind. 
+Answer: [/INST] 1. The statement "Lie back, and do not use your crazy mind" implies that the person should not think or use their imagination, which is in line with the context's command to "DON'T THINK."
+2. The phrase "do not use your crazy mind" in the statement can be interpreted as a more colloquial and emphatic way of saying "don't think," which is consistent with the context's instruction.
+3. Both the context and the statement are telling the person to adopt a passive, relaxed state, which is achieved by lying back and clearing one's mind of thoughts.
+4. The statement's command to "do not use your crazy mind" can be seen as a specific instance of the more general command in the context to "DON'T THINK," as not thinking would naturally involve not using one's mind.
+5. The statement's use of the word "crazy" to describe the mind is a rhetorical device that adds emphasis to the command to not use it, but it does not change the meaning of the statement in a way that conflicts with the context.</s>

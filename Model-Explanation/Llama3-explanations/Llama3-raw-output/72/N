@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: News'cover says the proliferation of small computer devices and the ascendance of Web-based applications are eroding Microsoft's dominance. 
+Statement: Microsoft is a more profitable company than Apple. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not provide information about the profitability of Microsoft and Apple.
+* The context only discusses the erosion of Microsoft's dominance, not its profitability.
+* The statement compares Microsoft's profitability to Apple's, but Apple is not mentioned in the context.
+* The context does not provide a basis for comparing the profitability of Microsoft and Apple.
+* The statement makes a claim about profitability, which is not addressed in the context.
+* The context focuses on the impact of small computer devices and Web-based applications on Microsoft's dominance, not its profitability relative to Apple.<|eot_id|>

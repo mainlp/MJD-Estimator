@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: In this respect, bringing Steve Jobs back to save Apple is like bringing Gen. 
+Statement: Steve Jobs came back to Apple. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The context explicitly states that bringing Steve Jobs back to save Apple is comparable to bringing Gen. [someone], implying that Steve Jobs did come back to Apple.
+* The analogy would not make sense if Steve Jobs had not come back to Apple, as there would be no basis for comparison.
+* The phrase "bringing Steve Jobs back" suggests that Steve Jobs had previously left Apple and then returned, which is a historical fact.
+* The context assumes a shared knowledge of Steve Jobs' history with Apple, including his departure and subsequent return.<|eot_id|>

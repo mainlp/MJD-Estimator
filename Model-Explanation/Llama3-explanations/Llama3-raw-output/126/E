@@ -1,0 +1,17 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The author began with a set of hunches or hypotheses about what can go wrong in agency management, and what would be evidence supporting-or contradicting-these hypotheses. 
+Statement: The hunches provided by the author weren't realistic as it pertains to agency management. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are possible explanations why the statement is true (entailment):
+
+* The evidence contradicting the author's hunches was found.
+* The author's hypotheses were not supported by the evidence.
+* The author's hunches were later proven to be incorrect.
+* The author's initial assumptions were flawed.
+* The data collected did not align with the author's initial suspicions.
+* The research revealed that the author's hunches were unfounded.
+* The author's hypotheses were not grounded in reality.
+* The investigation showed that the author's hunches were unrealistic.<|eot_id|>

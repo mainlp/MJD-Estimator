@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: oh really it wouldn't matter if we plant them when it was starting to get warmer 
+Statement: It is better to plant when it is colder. 
+Answer: [/INST] 1. The context implies that planting at the beginning of warmer weather has no negative impact.
+2. This suggests that planting at a later time, when it is colder, could also be viable.
+3. The statement directly contradicts the context, stating that it is actually better to plant when it is colder.
+4. The context may be referring to a specific type of plant that does not require cold weather for planting.
+5. The statement, however, is a generalization that colder weather is better for planting all types of plants.</s>

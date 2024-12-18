@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: That's why we tried to kill you. 
+Statement: That's one of the reasons we wanted to kill you. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context and statement have different wording, making it difficult to determine the exact relationship between the two.
+* The context mentions "that's why" implying a specific reason, while the statement mentions "one of the reasons" suggesting multiple reasons, which may or may not include the reason mentioned in the context.
+* The context does not provide enough information to determine if the reason mentioned is the same as or different from the reason mentioned in the statement.
+* The statement's use of "one of the reasons" implies that there may be other reasons not mentioned in the context, making it unclear if the statement is entirely supported or contradicted by the context.
+* The context and statement have different scopes, with the context focusing on a specific reason and the statement mentioning multiple reasons, making it difficult to determine their relationship.
+* The statement's wording is more general than the context, making it unclear if it is entirely supported or contradicted by the context.<|eot_id|>

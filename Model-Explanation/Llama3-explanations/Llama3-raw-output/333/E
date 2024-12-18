@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Julius nodded gravely. 
+Statement: Julius loves to ask questions. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are possible explanations why the statement is true (entailment):
+
+* The context does not provide enough information to infer the statement, so the entailment is uncertain.
+* Julius's grave nod might imply he is thoughtful or introspective, which could lead to asking questions, but this connection is weak.
+* There is no logical connection between nodding gravely and loving to ask questions, so the statement is likely false.<|eot_id|>

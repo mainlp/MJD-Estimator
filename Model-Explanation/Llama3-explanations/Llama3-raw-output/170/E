@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: BUDGETARY RESOURCES - The forms of authority given to an agency allowing it to incur obligations. 
+Statement: Administrations generally feel that some agencies should have more budgetary resources than others. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment) given the context:
+
+* The forms of authority given to an agency imply that some agencies have more freedom to incur obligations than others.
+* The concept of budgetary resources implies that there is a limited amount to be distributed among agencies, leading to a natural hierarchy of allocation.
+* The authority to incur obligations is not uniform across all agencies, resulting in some having more resources than others.
+* The purpose of budgetary resources is to enable agencies to fulfill their specific goals, and some agencies may require more resources to achieve their objectives.
+* The allocation of budgetary resources is often based on the agency's importance, size, or scope, which can lead to some agencies receiving more resources than others.
+* The forms of authority given to an agency may be influenced by factors such as the agency's performance, efficiency, or strategic importance, resulting in some agencies receiving more resources.<|eot_id|>

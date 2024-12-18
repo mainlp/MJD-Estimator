@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Changes in technology and its application to electronic commerce and expanding Internet applications will change the specific control activities that may be employed and how they are implemented, but the basic requirements of control will not have changed. 
+Statement: Technology will make it so we have less control of activities. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context mentions that technology will change the specific control activities, but it does not specify if it will increase or decrease control.
+* The statement implies a loss of control, but the context only mentions a change in control activities, not a reduction.
+* The context emphasizes that the basic requirements of control will not change, which contradicts the idea that technology will lead to less control.
+* The statement is too broad and does not specify which activities or what kind of control is being referred to, making it difficult to determine its truth value.
+* The context focuses on the impact of technology on control activities, but the statement makes a more general claim about the overall level of control, which is not directly addressed in the context.<|eot_id|>

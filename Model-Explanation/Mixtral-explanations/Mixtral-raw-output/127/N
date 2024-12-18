@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: David Cope, a professor of music at the University of California at Santa Cruz, claims to have created a 42 nd Mozart symphony. 
+Statement: Music Professor David Cope who specializes in Mozart's music claims to have created Mozart's 42nd symphony. 
+Answer: [/INST] 1. The statement could be referring to a different David Cope, not the professor from the University of California at Santa Cruz.
+2. The statement doesn't specify if the 42nd symphony is in the same style as Mozart's or if it is actually written by Mozart himself.
+3. The context doesn't mention if Professor David Cope has the ability to create music in the style of Mozart that is indistinguishable from Mozart's own compositions.
+4. The statement doesn't clarify if the 42nd symphony was created in collaboration with other musicians or composers.
+5. The context doesn't indicate if the 42nd symphony has been reviewed and accepted by music experts as an authentic Mozart composition.
+6. The statement doesn't specify if the 42nd symphony was created using artificial intelligence or other technological means.
+7. The context doesn't mention if Professor David Cope has the legal right to claim authorship of the 42nd symphony.
+8. The statement doesn't clarify if the 42nd symphony is a completed work or just a work in progress.

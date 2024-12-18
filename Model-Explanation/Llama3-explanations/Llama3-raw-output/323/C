@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: I am glad she wasn't, said Jon. 
+Statement: Jon was sad that she wasn't happy. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* Jon was glad, not sad, about the situation.
+* The context implies Jon is happy about something, but the statement says he's sad.
+* The statement reverses the emotional tone of the context, which is positive (glad) to negative (sad).
+* The context doesn't mention Jon being sad or unhappy, contradicting the statement.
+* The statement adds an unnecessary and contradictory emotional state (sad) to Jon's original statement (glad).
+* The context focuses on Jon's relief or happiness, while the statement implies disappointment or sadness.<|eot_id|>

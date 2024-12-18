@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: yeah well that's my uh i mean every time i've tried to go you know it's always there's there's always a league bowling 
+Statement: Every time I try to go bowling there are leagues only and I can't bowl. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The speaker has consistently encountered leagues whenever they attempt to go bowling.
+* The presence of leagues prevents the speaker from bowling.
+* The speaker's experiences with bowling have always been during times when leagues are scheduled.
+* Leagues occupy the entire bowling facility, leaving no lanes available for casual bowling.
+* The speaker is unable to bowl due to the priority given to league bowlers.
+* The speaker's desired bowling time coincides with league schedules, making it impossible for them to bowl.<|eot_id|>

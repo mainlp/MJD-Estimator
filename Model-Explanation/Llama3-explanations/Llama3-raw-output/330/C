@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Well, we will come in and interview the brave Dorcas." Dorcas was standing in the boudoir, her hands folded in front of her, and her grey hair rose in stiff waves under her white cap.  
+Statement: Dorcas is well known for her bravery. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is an inference, but the context only mentions "brave Dorcas" as a phrase used to address or introduce her, not as a description of her character.
+* The context does not provide any evidence or examples of Dorcas' bravery.
+* The context focuses on Dorcas' physical appearance, not her personality or actions.
+* The phrase "brave Dorcas" might be ironic, sarcastic, or used in a humorous tone, rather than a genuine description of her character.
+* Dorcas' behavior, such as standing with her hands folded, does not necessarily convey bravery.
+* The context does not provide enough information to make a general claim about Dorcas' bravery.<|eot_id|>

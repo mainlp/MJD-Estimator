@@ -1,0 +1,17 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: I can FEEL him." 
+Statement: I can sense his presence. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The speaker is unable to sense his presence.
+* The speaker is unsure if he is present or not.
+* The speaker is not perceiving him in any way.
+* The speaker's feeling is not related to sensing his presence.
+* The speaker is feeling something else, not his presence.
+* The speaker's feeling is not a result of sensing his presence.
+* The speaker is not aware of his presence.
+* The speaker's feeling is not indicative of his presence.<|eot_id|>

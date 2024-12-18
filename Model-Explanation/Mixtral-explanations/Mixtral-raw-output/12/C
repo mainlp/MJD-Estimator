@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: In the short term, U.S. consumers will benefit from cheap imports (as will U.S. multinationals that use parts made in East Asian factories). 
+Statement: U.S. consumers and factories in East Asia benefit from imports. 
+Answer: [/INST] 1. East Asian factories do not benefit from exports to the U.S.
+2. U.S. consumers benefit, but factories in East Asia do not.
+3. Only U.S. consumers benefit, not factories in East Asia.
+4. The statement doesn't mention U.S. consumers and East Asian factories benefiting from the same imports.
+5. The context speaks about cheap imports, while the statement does not necessarily imply cheap imports.
+6. The statement is too vague, it doesn't specify the time frame (short term) as mentioned in the context.</s>

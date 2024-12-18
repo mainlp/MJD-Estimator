@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: This one ended up being surprisingly easy! 
+Statement: This question was very easy to answer. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The speaker's experience of the task being "surprisingly easy" implies that they found it easy to answer.
+* The use of "this one" in the context suggests that the speaker is referring to the same question, which they found easy to answer.
+* The tone of the context, which is positive and surprised, indicates that the speaker had a pleasant experience answering the question, which is consistent with it being easy to answer.
+* The context implies that the speaker's expectation was that the task would be difficult, but it turned out to be easy, which strengthens the inference that the question was very easy to answer.<|eot_id|>

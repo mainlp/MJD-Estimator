@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: When he's ready for a major strike, how many innocents do you suppose are going to suffer? To quote one of your contemporaries; 'The needs of the many outweigh the needs of the few.' ' 
+Statement: He won't care how many innocent people will suffer. 
+Answer: [/INST] 1. The person in question prioritizes the overall goal (the "many") over the individual victims (the "few").
+2. The person is willing to inflict harm on innocent people for the sake of achieving their objective.
+3. The person is ruthless and unsympathetic towards the suffering of others.
+4. The person values the success of the mission more than the well-being of innocent bystanders.
+5. The person is not deterred by the potential harm to innocents, as they believe it is justified for the greater good.
+6. The person is not concerned about the consequences of their actions on innocent people.
+7. The person is willing to make sacrifices, even if it means innocent people will suffer.
+8. The person is unswayed by the emotional impact of causing suffering to innocents.
+9. The person is focused on their objective and is indifferent to the collateral damage.
+10. The person is convinced that the end justifies the means, even if it results in innocent casualties.</s>

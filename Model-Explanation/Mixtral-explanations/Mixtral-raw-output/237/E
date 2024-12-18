@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: This having come to his stepmother's ears, she taxed him with it on the afternoon before her death, and a quarrel ensued, part of which was overheard.  
+Statement: A love affair sparked just moments before her death. 
+Answer: [/INST] 1. The stepmother discovered the affair shortly before she died.
+2. The argument between the stepmother and the person being taxed was about a love affair.
+3. The quarrel was caused by the revelation of a love affair.
+4. The love affair was the reason for the stepmother's anger before her death.
+5. The love affair was a recent development, leading to the stepmother's discovery and subsequent argument.
+6. The argument was a direct result of the love affair becoming known to the stepmother.
+7. The love affair was taking place between the person being taxed and someone else, and the stepmother found out about it.
+8. The stepmother confronted the person about the love affair, which led to the quarrel.
+9. The love affair was a significant event that occurred prior to the stepmother's death.
+10. The quarrel was a consequence of the love affair, and it happened on the day preceding the stepmother's death.</s>

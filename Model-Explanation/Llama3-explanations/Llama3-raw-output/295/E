@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Still, I guess that can be got over. 
+Statement: There are some things that you need to ignore. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment) given the context:
+
+* The speaker is implying that some issues can be overcome or tolerated, which means there are things that need to be ignored.
+* The phrase "got over" suggests that some obstacles or problems can be surpassed, which requires ignoring certain aspects.
+* The tone of the context is one of resignation or acceptance, implying that some things are unavoidable and need to be ignored.
+* The speaker is acknowledging that some things are not worth focusing on, and therefore, they need to be ignored.
+* The context implies that the speaker has encountered or will encounter difficulties, and ignoring certain things is necessary to move forward.<|eot_id|>

@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The percent of total cost for each function included in the model and cost elasticity (with respect to volume) are shown in Table 1. 
+Statement: Table 1 also shows a picture diagram for each function. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions the percent of total cost and cost elasticity, but not a picture diagram.
+* There is no information about the content of Table 1 beyond the two mentioned aspects.
+* The statement makes a claim about the presence of a picture diagram, which is not supported or denied by the context.
+* The context does not provide enough information to infer the presence or absence of a picture diagram in Table 1.
+* The statement is not logically entailed or contradicted by the context, leaving its truth value uncertain.<|eot_id|>

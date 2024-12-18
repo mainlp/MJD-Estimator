@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: There should be someone here who knew more of what was going on in this world than he did now. 
+Statement: He knew things, but hoped someone else knew more.  
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement implies he knew some things, but the context suggests he didn't know much.
+* The statement implies he hoped someone else knew more, but the context suggests he was certain someone else knew more.
+* The context implies a sense of inadequacy or lack of knowledge, but the statement implies a sense of partial knowledge.
+* The statement implies he had some knowledge, but the context implies he felt ignorant.
+* The context implies a desire for someone with more knowledge, but the statement implies he already had some knowledge.<|eot_id|>

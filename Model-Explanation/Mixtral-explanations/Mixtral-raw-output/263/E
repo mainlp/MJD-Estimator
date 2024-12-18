@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The almost midtown Massabielle quarter (faubourg de Massabielle), is sometimes described as the most picturesque in the city. 
+Statement: The Massabielle quarter is a very touristy place. 
+Answer: [/INST] 1. The Massabielle quarter's picturesque quality attracts many tourists.
+2. The Massabielle quarter's charm is well-known, drawing high levels of tourism.
+3. The Massabielle quarter's scenic allure has led to its popularity among tourists.
+4. Tourists frequently visit the Massabielle quarter due to its picturesque nature.
+5. The Massabielle quarter is a hotspot for tourism because of its beauty.
+6. The Massabielle quarter's scenic appeal has made it a top tourist destination.
+7. The Massabielle quarter's picturesque character has resulted in a high volume of tourists.
+8. The Massabielle quarter is known for its beauty, making it a tourist attraction.
+9. The Massabielle quarter's attractiveness to tourists is due to its picturesque setting.
+10. The Massabielle quarter's scenic qualities have made it a popular place for tourists, making it a very touristy place.</s>

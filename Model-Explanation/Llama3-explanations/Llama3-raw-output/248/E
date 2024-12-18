@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: He was crying like his mother had just walloped him. 
+Statement: He was crying like his mother hit him with a spoon. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* "Wallop" and "hit" are synonyms, implying a similar action.
+* "Wallop" is a more general term that encompasses hitting with a spoon as a specific instance.
+* The phrase "like his mother had just" sets a scenario where the mother's action caused the crying, and hitting with a spoon is a plausible action that could cause crying.
+* The use of "like" in both sentences indicates a similarity in the crying behavior, implying that the cause of the crying (hitting or walloping) is not the focus, but rather the intensity or manner of the crying.<|eot_id|>

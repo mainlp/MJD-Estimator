@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: California is high 
+Statement: California is hyped up! 
+Answer: [/INST] 1. "High" in the context could mean popular or in-demand, which is synonymous with "hyped up."
+2. The statement interprets "high" in the context as excited or enthusiastic, which is similar to being "hyped up."
+3. The context might be referring to California's high elevation or geographical features, and the statement is using "hyped up" in a figurative sense to mean that California is a popular and exciting place.</s>

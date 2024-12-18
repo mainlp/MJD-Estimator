@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: General Motors, for instance, lost $460 million to strikes in 1997, but investors treated the costs as a kind of extraordinary charge and valued the company as if the losses had never happened. 
+Statement: GM lost a lot almost a million dollars in labor disputes. 
+Answer: [/INST] 1. The statement "GM lost a lot almost a million dollars in labor disputes" is true because the context mentions that General Motors (GM) lost $460 million to strikes in 1997.
+2. Even though the exact phrase "almost a million dollars" is not used in the context, it can be inferred that this amount is close to $460 million, which is significantly greater than one million dollars.
+3. The context indicates that investors treated the costs of these losses as an "extraordinary charge," but it does not change the fact that GM still incurred the losses due to labor disputes.
+4. The statement is true because the context refers to the losses as happening due to "strikes," which is a type of labor dispute.
+5. The statement is true because the context mentions that the losses were incurred in 1997, which is within the range of time being discussed.</s>

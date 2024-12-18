@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Even analysts who had argued for loosening the old standards, by which the market was clearly overvalued, now think it has maxed out for a while. 
+Statement: Some analysts wanted to make the old standards less restrictive for investors. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The analysts who argued for loosening the old standards wanted to make the old standards less restrictive for investors.
+* Loosening the old standards implies making them less restrictive, and some analysts argued for this.
+* The old standards being "loosened" means they would be less restrictive, and some analysts supported this change.<|eot_id|>

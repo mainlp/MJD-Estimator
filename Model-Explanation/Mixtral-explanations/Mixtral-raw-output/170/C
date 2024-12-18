@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: BUDGETARY RESOURCES - The forms of authority given to an agency allowing it to incur obligations. 
+Statement: Administrations generally feel that some agencies should have more budgetary resources than others. 
+Answer: [/INST] 1. Administrations do not believe that any agency should have more budgetary resources.
+2. Administrations think all agencies should have the same budgetary resources.
+3. Administrations do not have an opinion about the amount of budgetary resources agencies should have.
+4. Administrations believe that all agencies should have fewer budgetary resources.
+5. Administrations believe that no agency should have budgetary resources.
+6. The sentiment of administrations towards budgetary resources of agencies is neutral.
+7. The opinion of administrations about budgetary resources of agencies is unknown.
+8. The statement could be true for some administrations but not all.
+9. Administrations may not have the power to determine budgetary resources.
+10. The statement is not universally applicable, as some administrations may not have this view.</s>

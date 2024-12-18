@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: You wonder whether he could win a general election coming out of the right lane of the Democratic Party. 
+Statement: He will not run in a general election while he is a conservative Democrat. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context implies he is from the right lane of the Democratic Party, which means he is a conservative Democrat, but the statement says he won't run as one.
+* The context is discussing his potential in a general election, implying he will run, but the statement says he won't.
+* The statement assumes being a conservative Democrat is a barrier to running in a general election, which is not necessarily true.
+* The context does not provide any information that would prevent him from running in a general election as a conservative Democrat.<|eot_id|>

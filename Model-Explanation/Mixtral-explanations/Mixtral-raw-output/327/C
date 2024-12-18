@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: They won't be killing off George Clooney's character at ER like they did to Jimmy Smits at NYPD . Instead, Dr. Doug Ross is being forced out over the next two episodes because the maverick heartthrob gives an unauthorized painkiller to a terminally ill boy (Thursday, 10 p.m.). 
+Statement: George Clooney will not be getting fired from his TV show. 
+Answer: [/INST] 1. George Clooney's character, Dr. Doug Ross, is being forced off the TV show "ER," which can be interpreted as getting fired.
+2. The reason for his character's departure is related to an unauthorized action (giving an unauthorized painkiller to a terminally ill boy), which could be considered a firing offense.
+3. The statement ignores the fact that Dr. Doug Ross's character is being written out of the show, implying that Clooney will still be part of the show.
+4. The statement fails to consider that being forced off a TV show due to misconduct is a form of getting fired.
+5. The statement is false because George Clooney's character is not leaving the show voluntarily but is being forced out, which can be considered a form of firing.</s>

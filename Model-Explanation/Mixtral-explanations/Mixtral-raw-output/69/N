@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: He hadn't seen even pictures of such things since the few silent movies run in some of the little art theaters. 
+Statement: He had recently seen pictures depicting those things. 
+Answer: [/INST] 1. The "recently" in the statement could mean different things to different people.
+2. The "pictures" in the statement might not be the same as the "silent movies" in the context.
+3. The "things" in the statement might not be the same as the "such things" in the context.
+4. The "art theaters" in the context might not be included in the scope of "recently" in the statement.
+5. The "he" in the statement and the context might not be the same person.
+6. The "he" in the statement might have seen the pictures in a digital format, which is not specified in the context.
+7. The "he" in the statement might have seen the pictures in a private setting, which is not excluded by the context.
+8. The "he" in the statement might have seen the pictures a long time ago, but still within the scope of "recently" for him.
+9. The "he" in the statement might have seen the pictures in a different format, such as a book or a magazine, which is not specified in the context.
+10. The "he

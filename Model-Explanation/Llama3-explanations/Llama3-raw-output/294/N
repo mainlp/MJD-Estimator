@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The street ends at Taksim Square (Taksim Meydane), the heart of modern Istanbul, lined with luxurious five-star hotels and the glass-fronted Ataturk Cultural Centre (Ataturk Keleter Sarayy), also called the Opera House. 
+Statement: The street is quite a luxurious one. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only describes the surroundings of the street (Taksim Square, hotels, and cultural centre), but not the street itself.
+* The luxurious description is only applied to the hotels, not the street.
+* The context does not provide any information about the street's physical appearance or characteristics.
+* The statement's claim of the street being "quite luxurious" is subjective and not verifiable based on the provided context.
+* The context focuses on the cultural and tourist attractions, rather than the street's features or ambiance.
+* There is no explicit connection between the luxurious surroundings and the street itself.
+* The statement's meaning of "luxurious" is ambiguous and could be interpreted in different ways (e.g., cleanliness, width, pavement, etc.).<|eot_id|>

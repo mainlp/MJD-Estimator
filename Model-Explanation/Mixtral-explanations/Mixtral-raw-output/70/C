@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: It was made up to look as much like an old-fashioned steam train as possible. 
+Statement: It was built in the modern era to look like something built in the past. 
+Answer: [/INST] 1. It was built in the past, not the modern era.
+2. It was not built to resemble an old-fashioned steam train.
+3. It was modified to function like a modern train, not just to look like the past.
+4. The creator did not intend for it to mimic the appearance of a steam train.
+5. The train is not designed to look like an old-fashioned steam train, but rather a different type of train from the past.
+6. The train is a genuine antique, not a modern replica.
+7. The train was not built at all, but is a natural formation or an illusion.
+8. The train was altered to look like a modern train, not something from the past.
+9. The train is a work of art or a sculpture, not an actual train.
+10. The train is a digital creation, not a physical object.</s>

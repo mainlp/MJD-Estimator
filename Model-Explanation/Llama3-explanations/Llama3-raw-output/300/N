@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Endorphins were flowing. 
+Statement: My endorphins were flowing. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions "endorphins" without specifying whose endorphins, leaving open the possibility that the endorphins belong to someone else.
+* The pronoun "my" in the statement introduces a new entity (the speaker) that is not explicitly mentioned in the context.
+* The context does not provide enough information to determine whether the endorphins belong to the speaker or someone/something else.
+* The statement is making a claim about the speaker's endorphins, but the context only provides a general statement about endorphins without linking them to the speaker.
+* The context and statement are using different linguistic forms (plural "endorphins" vs. possessive "my endorphins"), making it difficult to determine the relationship between the two.<|eot_id|>

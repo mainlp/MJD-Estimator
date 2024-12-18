@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Wear a nicely ventilated hat and keep to the shade in the street. 
+Statement: The buildings are so low that there is no shade in the streets. 
+Answer: [/INST] 1. The presence of low buildings does not necessarily mean that there is no shade in the streets, as shade can also come from trees or other structures.
+2. The statement does not specify whether the hat is being worn in the streets or not, so it is unclear if the advice about ventilation and shade is being followed.
+3. The context does not indicate the time of day or the weather, which could affect the amount of shade available in the streets.
+4. The context only mentions the streets, but the statement refers to the buildings and streets, so it is unclear if the buildings being low would affect the amount of shade in the streets.
+5. The context is not specific about the location, so it is possible that there are other sources of shade in the streets, such as trees or awnings.
+6. The context is not specific about the type of hat being worn, it could be a hat that does not have good ventilation.
+7. The context is not specific about the size of the streets, if the streets are very wide, the low buildings may not provide enough shade.
+8. The context is not specific about the height of the person wearing the hat, if the person is very

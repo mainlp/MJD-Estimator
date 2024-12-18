@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: In the depths of the Cold War, many Americans suspected Communists had infiltrated Washington and were about to subvert our democracy. 
+Statement: Communists assisted America's government during the Cold War. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is NOT true (contradiction):
+
+* The context implies that Americans suspected Communists of infiltrating and subverting the government, not assisting it.
+* The phrase "about to subvert our democracy" suggests that Communists were perceived as a threat, not as helpers.
+* The Cold War was a period of intense ideological rivalry between the US and the Soviet Union, making it unlikely that Communists would assist the American government.
+* The context does not provide any evidence or hint that Communists were working with the US government during the Cold War.
+
+Note: The statement is actually a contradiction, not an entailment, given the provided context.<|eot_id|>

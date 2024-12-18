@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: True devotees talk shop at even more specialized groups, such as one on Northeastern weather (ne.weather), whose recent conversation topics included the great blizzard of 1978 and the freak snowstorm of May 1977. 
+Statement: Ne.weather is a general discussion group, not only about weather.  
+Answer: [/INST] 1. The group never discusses anything outside of weather-related topics.
+2. There are no subtopics within the group that are not related to weather.
+3. The group has never discussed any non-weather related events or phenomena.
+4. The name "ne.weather" specifically refers to a group dedicated solely to weather discussion.
+5. The group's description clearly states that it is only about weather.
+6. The members have confirmed that they only use the group to talk about weather.
+7. The group's rules prohibit discussions not related to weather.
+8. The group's history shows a consistent focus on weather-related topics.
+9. The administrators of the group ensure that all conversations stay on topic and related to weather.
+10. The group's purpose is explicitly stated to be about Northeastern weather, with no mention of any other topics.</s>

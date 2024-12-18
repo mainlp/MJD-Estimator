@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Standard screens may not perform as well in these patient subgroups that may represent a considerable part of the ED population. 
+Statement: The subgroups may not perform well in standard screens. 
+Answer: [/INST] 1. The statement is referring to the patients in the subgroups, while the context is referring to the standard screens' performance on the subgroups.
+2. The term "perform" in the statement could mean something different than in the context, such as "follow instructions" versus "accurately measure a characteristic."
+3. The subgroups in the statement may not be the same as the subgroups referred to in the context.
+4. The standard screens mentioned in the statement could be different from the standard screens mentioned in the context.
+5. The statement is neutral because it doesn't specify whether the subgroups' inability to perform well is due to the screens or some other factor.
+6. The context does not provide enough information about the extent to which the subgroups may represent a considerable part of the ED population.
+7. The statement does not provide information about the direction or magnitude of the potential impact of the subgroups on the performance of the standard screens.</s>

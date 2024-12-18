@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Kom Ombo is an unusual temple in that it is dedicated to two gods. 
+Statement: Rarely visited, Kom Ombo is a strange temple devoted to two gods. 
+Answer: [/INST] 1. The rarity of visitors to Kom Ombo is due to its unusual nature.
+2. Kom Ombo's strangeness is a result of it being dedicated to two gods.
+3. The temple's dual dedication contributes to its limited visitation.
+4. Kom Ombo's uniqueness (being dedicated to two gods) makes it a less frequented temple.
+5. The fact that Kom Ombo is not commonly visited is because of its unique dual dedication.
+6. Kom Ombo's characteristic of being devoted to two gods makes it an infrequently visited temple.
+7. The rarity of people visiting Kom Ombo can be attributed to its dedication to two gods.
+8. Being dedicated to two gods is the reason for Kom Ombo's unusual status and limited visitors.</s>

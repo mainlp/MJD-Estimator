@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: You will remember my saying that it was wise to beware of people who were not telling you the truth." 
+Statement: There might be dishonest people around here. 
+Answer: [/INST] 1. The statement could be false if there are no people present in the vicinity.
+2. The statement could be false if all the people present have been truthful.
+3. The statement could be false if the speaker is unaware of any dishonest people, despite their presence.
+4. The statement could be false if the speaker is intentionally misleading about the presence of dishonest people.
+5. The statement could be false if the people present are not aware that they are being dishonest.
+6. The statement could be false if the people being referred to as "dishonest" are merely mistaken or misinformed.
+7. The statement could be false if the people being referred to as "dishonest" are not relevant to the situation at hand.
+8. The statement could be false if the people being referred to as "dishonest" are not being deceptive in a way that is relevant to the warning about beingware of people who are not telling the truth.</s>

@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: apparently apparently the appraisers likes it because our taxes sure is high  isn't it it really is 
+Statement: We wished the taxes were lower. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context expresses a neutral/accepting tone towards high taxes, whereas the statement expresses a desire for lower taxes, creating a contrast that makes the relationship between the context and statement unclear.
+* The context focuses on the appraiser's liking and the fact that taxes are high, without explicitly expressing a positive or negative sentiment, whereas the statement expresses a clear negative sentiment towards high taxes.
+* The context uses phrases like "apparently" and "isn't it" which convey a sense of resignation or acceptance, whereas the statement expresses a desire for change, making the relationship between the two unclear.
+* The context does not provide a clear opinion or stance on taxes, whereas the statement takes a clear stance, making it difficult to determine the relationship between the two.
+* The context is more focused on the fact that taxes are high, whereas the statement is focused on the desire for lower taxes, creating a shift in focus that makes the relationship between the two unclear.<|eot_id|>

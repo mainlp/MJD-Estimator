@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: She had the pathetic aggression of a wife or mother--to Bunt there was no difference. 
+Statement: Bunt was raised motherless in an orphanage. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The context implies that Bunt does not distinguish between a wife and a mother, suggesting that he may not have had a mother figure in his life.
+* The phrase "no difference" implies that Bunt's experience with wives and mothers is limited or nonexistent, which could be due to being raised in an orphanage without a mother.
+* The description of the woman's aggression as "pathetic" may imply that Bunt is not familiar with normal maternal behavior, which could be because he was raised without a mother.
+* The context's focus on Bunt's perception of women may indicate that his upbringing was unusual or lacking in maternal influence, which is consistent with being raised in an orphanage.<|eot_id|>

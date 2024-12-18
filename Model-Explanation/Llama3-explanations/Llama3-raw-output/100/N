@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: When he's ready for a major strike, how many innocents do you suppose are going to suffer? To quote one of your contemporaries; 'The needs of the many outweigh the needs of the few.''
+Statement: He won't care how many innocent people will suffer. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context does not explicitly state the subject's (he) feelings or attitude towards innocent people suffering.
+* The quote "The needs of the many outweigh the needs of the few" suggests a utilitarian perspective, but it does not necessarily imply a lack of care for innocent people.
+* The context only implies that the subject is willing to take a major strike, but it does not provide direct evidence about his emotional response to potential suffering.
+* The statement assumes a specific emotional response (not caring) that is not explicitly supported by the context.
+* The context focuses on the consequences of the subject's action, rather than his emotional state or personal feelings.
+* The quote is a philosophical statement that may not reflect the subject's personal beliefs or values.<|eot_id|>

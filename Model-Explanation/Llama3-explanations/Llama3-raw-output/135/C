@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Tommy realized perfectly that in his own wits lay the only chance of escape, and behind his casual manner he was racking his brains furiously. 
+Statement: He'd been stuck for hours, starting to feel doubt crawl into his mind. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* There is no mention of hours, so the time frame is unknown.
+* The context suggests Tommy is thinking intensely, but there is no indication of doubt.
+* The context implies Tommy is confident in his own abilities, which contradicts feeling doubt.
+* The statement implies a sense of desperation, but the context portrays Tommy as calm and casual.<|eot_id|>

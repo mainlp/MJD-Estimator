@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: If necessary to meeting the restrictions imposed in the preceding sentence, the Administrator shall reduce, pro rata, the basic Phase II allowance allocations for each unit subject to the requirements of section 414. 
+Statement: Section 414 helps balance allowance allocations for units. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+1. The Administrator reduces basic Phase II allowance allocations for each unit subject to the requirements of section 414, which implies that section 414 has an impact on the allocation of allowances.
+2. The requirements of section 414 influence the pro rata reduction of basic Phase II allowance allocations, thereby contributing to a balanced allocation.
+3. The mention of section 414 in the context of reducing allowance allocations suggests that it plays a role in ensuring fairness or balance in the allocation process.
+4. The fact that the Administrator takes into account the requirements of section 414 when reducing allocations implies that section 414 provides guidelines or criteria for achieving a balanced allocation.
+5. The reduction of allocations is done to meet the restrictions imposed, and section 414 is part of the process, which ultimately leads to a balanced allocation.<|eot_id|>

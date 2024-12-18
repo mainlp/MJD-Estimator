@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: maybe adult literacy maybe you know composition writing maybe you know uh volunteering you know on a tutor line or though the even through the elementary schools for help with homework or the other part of me says is God i've had enough kids  do i really 
+Statement: maybe I could volunteer to help coach sports since I've helped all my children be successful in sports 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context discusses volunteering for literacy, composition writing, and homework help, but the statement shifts to volunteering for sports coaching, which is a different domain.
+* The context expresses ambivalence about volunteering due to having "had enough kids", but the statement suggests a willingness to volunteer for sports coaching, which contradicts the previous sentiment.
+* The context does not provide enough information about the speaker's experience or qualifications in sports coaching, making it unclear whether they are capable of helping with sports.
+* The statement is speculative, using "maybe", which indicates uncertainty and hesitation.
+* The context focuses on academic support, while the statement proposes a non-academic activity, making it unclear how it relates to the previous discussion.
+* The speaker's tone in the context is hesitant and uncertain, but the statement is more affirmative, which creates a contrast that makes the statement's meaning unclear.<|eot_id|>

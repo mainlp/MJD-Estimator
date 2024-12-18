@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Bauerstein had been at Styles on the fatal night, and added: "He said twice: 'That alters everything.' And I've been thinking.  
+Statement: The fact that Styles was at Bauerstein changes everything. 
+Answer: [/INST] 1. The context does not specify who "Styles" refers to, so it's unclear if this person is the same individual mentioned in the statement.
+2. The context does not provide information on what "that" refers to in Bauerstein's statement, making it unclear what specifically has allegedly altered everything.
+3. The context does not clarify the relationship between Bauerstein and Styles, so it's unclear if their statements can be taken at face value or if there are underlying motivations or biases.
+4. The context does not indicate the time frame of Bauerstein's reflections, so it's unclear if the alleged change is a recent development or if it has been in effect for some time.
+5. The context does not provide enough information about the situation or the individuals involved to make a definitive judgement about the validity of the statement.</s>

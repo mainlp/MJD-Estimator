@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: During his disastrous campaign in Russia, he found time in Moscow to draw up a new statute for the Com??die-Francaise (the national theater), which had been dissolved during the Revolution. 
+Statement: Russia has been successfully invaded hundreds of times. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is not true (no entailment):
+
+* The context only mentions one instance of a disastrous campaign in Russia, not hundreds of successful invasions.
+* The context does not provide any information about Russia being successfully invaded at all, let alone hundreds of times.
+* The context focuses on a specific event during the campaign, which is the drawing up of a new statute for the Comédie-Francaise, and does not provide any information about the outcome of the campaign or the history of Russia's invasions.
+* The phrase "disastrous campaign" implies that the campaign was not successful, which contradicts the idea of Russia being successfully invaded.<|eot_id|>

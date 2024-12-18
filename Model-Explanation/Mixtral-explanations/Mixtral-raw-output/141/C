@@ -1,0 +1,16 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: well that's uh i agree with you there i mean he didn't have the surrounding cast that Montana had there's no doubt about that 
+Statement: I agree that he didn't have the same support as Montana, but he did well. 
+Answer: [/INST] 1. The individual did not do well.
+2. The individual had the same level of support as Montana.
+3. The individual had even more support than Montana.
+4. The person speaking did not agree that the individual did not have the same support as Montana.
+5. The person speaking did not agree that the individual did well.
+6. The person speaking was being insincere in their agreement.
+7. The individual's "support" is being measured in a way that is different from Montana's.
+8. The individual's "doing well" is being measured in a way that is different from how Montana did well.
+9. The individual's "doing well" is not considered to be "doing well" in the context of the conversation.
+10. The individual's lack of support is not considered to be a significant factor in their performance.
+11. The individual's lack of support is not being compared to Montana's support in a direct way.
+12. The individual's lack of support is not being compared to Montana's support in a fair way.
+13. The individual's lack

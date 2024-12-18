@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: life in prison then he's available for parole if it's if it's life and a day then he's not eligible for parole so what you know let's quit BSing with the system 
+Statement: The system is corrupt because he won't be able to get parole if it's life and a day. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement assumes a causal relationship between the system being corrupt and the parole eligibility rule, which is not explicitly stated in the context.
+* The context only provides information about the parole rules, but does not imply that the system is corrupt.
+* The statement's conclusion about the system being corrupt is not logically entailed by the context.
+* The context does not provide enough information to determine the motivations or intentions behind the parole rules, which are necessary to infer corruption.
+* The statement's language is emotive and persuasive, but lacks objective evidence to support the claim of corruption.
+* The context presents a factual description of the parole rules, whereas the statement makes a value judgment about the system.
+* The statement's conclusion is not a necessary consequence of the context, and alternative explanations for the parole rules are possible.
+* The context does not provide any information about the system's intentions, biases, or unfair practices that would support the claim of corruption.<|eot_id|>

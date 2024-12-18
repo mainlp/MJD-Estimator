@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: We have done that spectacularly. 
+Statement: Spectacular results was the only way to describe the impact of our past work. 
+Answer: [/INST] 1. The past work and the current "that" refer to the same thing, and the results were indeed spectacular.
+2. The past work led to spectacular results, which is the only way to describe its impact.
+3. The past work was described as having spectacular results, and the team was able to achieve this description spectacularly.
+4. The past work was described as having spectacular results, and the team exceeded expectations, achieving even more impressive results.
+5. The past work was described as spectacular, and the team was able to deliver on that description in an impressive way.
+6. The past work was described as spectacular, and the team was able to surpass expectations and deliver even more impressive results.
+7. The past work was described as spectacular, and the team was able to achieve those spectacular results in a remarkable way.
+8. The past work was described as spectacular, and the team was able to deliver those spectacular results in a way that exceeded expectations.
+9. The past work was described as spectacular, and the team was able to achieve results that were beyond spectacular.
+10. The past work was described as spectacular, and the team was able to deliver those spectacular results in a way that was

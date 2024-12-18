@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Larger ski resorts are 90 minutes away. 
+Statement: The largest resort is actually 100 minutes away. 
+Answer: [/INST] 1. The term "larger" in the context may not necessarily refer to the very largest resort.
+2. The context may be referring to driving time under ideal conditions, while the statement could be referring to driving time under normal or heavy traffic conditions.
+3. The context may be outdated or inaccurate, while the statement could be correct.
+4. The context could be referring to driving time from a different location than the statement.
+5. The statement could be referring to driving time during a specific season or time of day, while the context is not.
+6. The context may be referring to driving time on a specific route or mode of transportation, while the statement could be referring to a different route or mode.
+7. The statement could be referring to a resort that is larger in terms of skiable terrain, but not in terms of other factors such as amenities or popularity, which could affect driving time.
+8. The context may be referring to driving time to the base of the resort, while the statement could be referring to driving time to the summit or a specific point within the resort.</s>

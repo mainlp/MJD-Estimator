@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: and not only that it it opens you to phone solicitations 
+Statement: It also opens the door to move marketing calls. 
+Answer: [/INST] 1. The statement is factually incorrect.
+2. The statement is a repetition of the context.
+3. The statement refers to a different type of marketing calls.
+4. The statement refers to a different method of opening up to calls.
+5. The statement is grammatically incorrect and unclear.
+6. The statement is too vague and does not provide specific information.
+7. The statement is a false assumption based on the context.
+8. The statement is misleading and implies a different meaning.
+9. The statement is an exaggeration of the context.
+10. The statement is a paraphrase that changes the original meaning.</s>

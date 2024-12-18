@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: If you have any questions about this report, please contact Henry R. Wray, Senior Associate General Counsel, at (202) 512-8581. 
+Statement: Henry R. Wray can be reached at (555) 512-8581. 
+Answer: [/INST] 1. The statement could be referring to Henry R. Wray's direct line, which is different from his work number provided in the context.
+2. There could be a transcription error in the context, and the phone number provided is actually Henry R. Wray's correct number.
+3. The statement could be referring to a future situation where Henry R. Wray's number has changed.
+4. The statement could be referring to a secondary number or extension for Henry R. Wray.
+5. The statement could be intentionally misleading, implying that (555) 512-8581 is Henry R. Wray's number when it is not.
+
+Note: It's important to mention that the statement is not entailed by the context, as the phone numbers are different. However, I listed possible explanations that could make the statement true, although they are unlikely or implausible.</s>

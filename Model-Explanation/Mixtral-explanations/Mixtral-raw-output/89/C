@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: It started with The Wild Bunch : We sexualized violence, we made it beautiful. 
+Statement: Violence is now look at in the positive due to The Wild Bunch. 
+Answer: [/INST] 1. The Wild Bunch did not glorify violence.
+2. Violence is not seen as positive by most people after The Wild Bunch.
+3. The Wild Bunch's portrayal of violence did not impact societal views on violence.
+4. Violence was already sexualized and made beautiful before The Wild Bunch.
+5. The Wild Bunch's depiction of violence was criticized and not well-received.
+6. The Wild Bunch's portrayal of violence did not change the way it is viewed.
+7. Violence is still widely considered negative despite The Wild Bunch.
+8. The Wild Bunch's influence on societal views of violence is minimal or non-existent.
+9. The Wild Bunch's portrayal of violence was not taken seriously or seen as a positive aspect.
+10. The Wild Bunch's impact on societal views of violence is exaggerated or misinterpreted.</s>

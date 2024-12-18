@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Earlier this week, the Pakistani paper Dawn ran an editorial about reports that Pakistani poppy growers are planning to recultivate opium on a bigger scale because they haven't received promised compensation for switching to other crops. 
+Statement: It is illegal to grow opium in Pakistan. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true:
+
+* The Pakistani government had promised compensation to poppy growers for switching to other crops, implying that growing opium is not allowed.
+* The editorial in Dawn reports on the plans of Pakistani poppy growers to recultivate opium, suggesting that it is not a legal activity.
+* The need for compensation for switching to other crops implies that growing opium is not a permitted activity in Pakistan.
+* The fact that the growers are planning to recultivate opium on a bigger scale suggests that they are trying to circumvent the law or take advantage of a loophole, implying that growing opium is illegal.
+* The context implies that the Pakistani government has discouraged or banned opium cultivation, which is why the growers are seeking compensation for switching to other crops.<|eot_id|>

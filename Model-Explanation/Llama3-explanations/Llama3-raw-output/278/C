@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Their supplies scarce, their harvest meager, and their spirit broken, they abandoned the fort in 1858. 
+Statement: Their supplies remained very low and hard to maintain. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is a paraphrase of the context, which means it is not a contradiction.
+* The context states "supplies scarce" and the statement says "supplies remained very low", which are equivalent.
+* The context does not provide any information that suggests the supplies were not low or hard to maintain.
+* There is no indication in the context that the supplies were replenished or improved.
+* The context and statement are describing the same situation, and the statement is a accurate summary of the context.<|eot_id|>

@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: You wonder whether he could win a general election coming out of the right lane of the Democratic Party. 
+Statement: He will not run in a general election while he is a conservative Democrat. 
+Answer: [/INST] 1. He will run in a general election as a conservative Democrat.
+2. He will switch to the Republican Party and run in a general election.
+3. He will run in a primary election for the Democratic Party as a conservative.
+4. He will run as an independent in a general election.
+5. He will not run in any election but will endorse another conservative Democrat.
+6. He will leave politics before the general election.
+7. He will run in a general election but not as a candidate, such as in a write-in campaign.
+8. He will run in a general election in a different district or state.
+9. He will run in a general election after leaving the Democratic Party.
+10. He will run in a general election while being a conservative Democrat, but not coming out of the right lane of the Democratic Party.</s>

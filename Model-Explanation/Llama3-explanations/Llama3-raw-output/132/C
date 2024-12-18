@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: It lacked intelligence, introspection, and humor--it was crass, worthy of Cosmopolitan or Star. I do have a sense of humor, but can only appreciate a joke when it starts with a grain of truth. 
+Statement: The article won a Pulitzer Prize. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The article is described as "crass" and comparable to Cosmopolitan or Star, which are not typically associated with Pulitzer Prize-winning content.
+* The article lacks intelligence, introspection, and humor, which are qualities often valued in Pulitzer Prize-winning work.
+* The speaker's sense of humor requires a joke to start with a grain of truth, implying that the article is not truthful or well-grounded, which is inconsistent with Pulitzer Prize standards.
+* The tone of the context is overwhelmingly negative, suggesting that the article is not of high quality or deserving of a prestigious award like the Pulitzer Prize.<|eot_id|>

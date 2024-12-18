@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: will never be doused (Brit Hume, Fox News Sunday ; Tony Blankley, Late Edition ; Robert Novak, Capital Gang ; Tucker Carlson, The McLaughlin Group ). The middle way is best expressed by Howard Kurtz (NBC's Meet the Press )--he scolds Brill for undisclosed campaign contributions and for overstretching his legal case against Kenneth Starr but applauds him for casting light on the media. 
+Statement: They wanted the public to know where the funds came from. 
+Answer: [/INST] 1. The use of "they" refers to the individuals who are in favor of disclosed campaign contributions, which is a criticism made by Howard Kurtz towards Brill.
+2. The statement "will never be doused" implies that the issue of undisclosed campaign contributions will continue to be discussed, hence the desire for transparency.
+3. The overall context highlights the importance of media accountability, which includes transparency in funding sources.
+4. The mention of Howard Kurtz, who scolds Brill for undisclosed campaign contributions, suggests a critical stance towards hidden funding sources.
+5. The statement "he applauds him for casting light on the media" implies a positive view of transparency and revealing previously unknown information.
+6. The absence of any contradictory opinions or statements in the context supports the idea that the statement is true.</s>

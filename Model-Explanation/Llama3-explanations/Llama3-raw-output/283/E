@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The Palace of Jahangir is built around a square court with arches. 
+Statement: The Palace of Jahangir houses a wonderful square court, complete with arches. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+1. The statement is a paraphrased version of the context, using synonyms and rephrasing to convey the same meaning.
+2. The context explicitly mentions a "square court with arches", which is equivalent to a "wonderful square court, complete with arches".
+3. The word "houses" is a synonym for "is built around", implying that the palace contains or features the described square court.
+4. The context does not provide any contradictory information, making the statement a logical inference.
+5. The statement is a more descriptive and embellished version of the context, but it does not add any new or conflicting information.
+6. The use of the word "wonderful" is an subjective evaluation, but it does not change the factual content of the statement, which is still supported by the context.<|eot_id|>

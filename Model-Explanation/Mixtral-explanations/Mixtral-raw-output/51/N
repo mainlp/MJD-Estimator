@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: On the west side of the square is Old King's House (built in 1762), which was the official residence of the British governor; it was here that the proclamation of emancipation was issued in 1838. 
+Statement: The Old King's House had an incident where the King was murdered inside of it. 
+Answer: [/INST] 1. The text does not specify whether any king was ever resident in the Old King's House.
+2. The statement does not indicate which king was allegedly murdered.
+3. The context does not provide information about any potential incidents of a king being murdered in the Old King's House.
+4. The Old King's House could have been renamed or its name could have changed over time, making it unclear if the statement refers to the same building.
+5. The context only mentions the Old King's House as an official residence of the British governor, not as a residence of any king.
+6. The statement could be referring to a different time period than the one mentioned in the context.
+7. The statement could be referring to a different Old King's House in a different location.
+8. The context does not provide information about any incidents of murder that occurred in the Old King's House.
+9. The statement could be completely unrelated to the context and could be referring to a different building or structure with the same name.
+10. The statement could be a false or inaccurate statement, unrelated to the history or facts about the Old King's House.</s>

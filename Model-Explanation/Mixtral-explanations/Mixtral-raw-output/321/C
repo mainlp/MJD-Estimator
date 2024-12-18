@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: okay and and i think we just hang up i don't think we have to do anything else 
+Statement: We need to wait until they tell us what to do. 
+Answer: [/INST] 1. The speakers have already completed all necessary tasks.
+2. The speakers have been given explicit instructions to hang up.
+3. The speakers have decided to proceed without further instructions.
+4. The speakers are not expecting any further tasks.
+5. The speakers have been told that they do not need to wait for further instructions.</s>

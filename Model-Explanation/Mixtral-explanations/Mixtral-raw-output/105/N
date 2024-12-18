@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Answer? said Julius. 
+Statement: Julius already knew the answer. 
+Answer: [/INST] 1. The context does not specify what answer Julius is referring to.
+2. It is unclear whether Julius learned the answer before or after asking the question.
+3. The context does not indicate if Julius is asking a question or making a statement.
+4. The context does not provide information about Julius's state of mind or knowledge before asking the question.
+5. The statement does not provide information about who else might know the answer.
+6. The context does not indicate if Julius is seeking confirmation or clarification of the answer.
+7. The statement does not specify whether Julius is capable of forgetting the answer.
+8. The context does not provide information about the complexity or difficulty of the answer.
+9. The statement does not indicate if Julius is testing someone else by asking the question.
+10. The context does not provide information about the source of Julius's knowledge of the answer.</s>

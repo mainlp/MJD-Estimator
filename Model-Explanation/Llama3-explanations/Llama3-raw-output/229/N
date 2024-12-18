@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: GAO recommends that the Secretary of Defense revise policy and guidance 
+Statement: GAO recommends that you eat 5 fruit/veg per day 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The subject of the statement ("you") is not the same as the subject in the context ("the Secretary of Defense").
+* The action recommended in the statement ("eat 5 fruit/veg per day") is unrelated to the action in the context ("revise policy and guidance").
+* The topic of the statement (dietary recommendations) is unrelated to the topic in the context (defense policy).
+* The statement does not provide any information about the Secretary of Defense or defense policy.
+* The statement appears to be a generic health recommendation, rather than a specific recommendation related to the context.
+* There is no logical connection between the context and the statement.
+* The statement does not contradict or support the context in any way.<|eot_id|>

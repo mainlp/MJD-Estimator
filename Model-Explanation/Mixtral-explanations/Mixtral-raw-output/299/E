@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: That's why we tried to kill you. 
+Statement: That's one of the reasons we wanted to kill you. 
+Answer: [/INST] 1. The speakers attempted to kill the person for multiple reasons, and the statement is referring to one of those reasons.
+2. The statement is a more polite or indirect way of expressing the same reason that was stated in the context.
+3. The statement is a summary of the context, emphasizing that the reason for wanting to kill the person is significant.
+4. The statement is a clarification of the context, specifying that there is only one reason mentioned among many possible reasons.
+5. The statement is a restatement of the context, using different words to convey the same meaning.
+6. The statement is a paraphrase of the context, expressing the same idea in a slightly different way.
+7. The statement is a reflection of the speakers' perspective, emphasizing the importance of the reason for wanting to kill the person.
+8. The statement is a rhetorical device, emphasizing the gravity of the situation by repeating the same idea in a slightly different way.
+9. The statement is a way of acknowledging the reason for wanting to kill the person, without necessarily endorsing or justifying it.
+10. The statement is a way of expressing the speakers'

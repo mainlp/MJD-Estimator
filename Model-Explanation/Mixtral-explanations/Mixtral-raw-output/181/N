@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Expenses included in calculating net cost for education and training programs that are intended to increase or maintain national economic productive capacity shall be reported as investments in human capital as required supplementary stewardship information accompanying the financial statements of the Federal Government and its component units. 
+Statement: Net cost for college programs can be calculated as a way to increase productivity. 
+Answer: [/INST] 1. The context specifically mentions "education and training programs" that increase or maintain national economic productive capacity, but it does not specify whether "college programs" fall under this category.
+2. The statement refers to "net cost for college programs" in general, while the context refers to the specific method of calculating net cost for programs that are intended to increase or maintain national economic productive capacity.
+3. The context states that expenses for programs that increase national economic productive capacity should be reported as investments in human capital, but it does not mention whether this applies to the calculation of net cost.
+4. The statement does not specify whether the method of calculating net cost for college programs is the same as the method required for programs that increase national economic productive capacity.
+5. The context is about the financial statements of the Federal Government and its component units, it does not specify if it applies to all college programs in general.</s>

@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Specifically, by defining mission improvement objectives, senior executives determine whether their organization needs a CIO who is a networking/marketing specialist, business change agent, operations specialist, policy/oversight manager, or any combination thereof. 
+Statement: A CIO must be an operations specialist. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The organization needs a CIO who is an operations specialist.
+* The senior executives determine that the organization requires a CIO with operations specialist skills.
+* The mission improvement objectives defined by senior executives necessitate a CIO with operations specialist expertise.
+* The organization's needs, as determined by senior executives, are best met by a CIO who is an operations specialist.
+* The senior executives decide that an operations specialist is the most suitable type of CIO for the organization.<|eot_id|>

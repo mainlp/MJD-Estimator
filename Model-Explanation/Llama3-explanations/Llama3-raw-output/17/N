@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: yeah but uh do you have small kids 
+Statement: It matters not if children are involved. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context mentions "small kids" but the statement uses the more general term "children", leaving ambiguity about whether they refer to the same age group.
+* The context is a question, whereas the statement is a declarative sentence, making it unclear how they relate to each other.
+* The statement's phrase "it matters not" is a negation, but it's unclear what specific aspect of the context it's negating or what the implications are.
+* The context implies a concern or question about the involvement of small kids, but the statement doesn't clearly address or resolve that concern.
+* The statement's tone is somewhat formal and abstract, which may not match the informal and conversational tone of the context, making it hard to determine their relationship.
+* The statement doesn't provide enough information to determine its relevance or implications in the context of the conversation about small kids.<|eot_id|>

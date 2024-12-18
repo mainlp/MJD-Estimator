@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The judge gave vent to a faint murmur of disapprobation, and the prisoner in the dock leant forward angrily.  
+Statement: The judge ordered the court to be silent. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are possible explanations why the statement is true (entailment):
+
+* The judge's murmur of disapprobation implies a reprimand, which is often followed by an order to be silent.
+* The prisoner's angry reaction suggests that the judge had to intervene to restore order, which would involve ordering the court to be silent.
+* The judge's disapprobation and the prisoner's anger create a tense atmosphere, which the judge would need to calm by ordering silence.
+* The judge's murmur of disapprobation is a warning, and the next logical step would be to order the court to be silent to maintain decorum.
+* The prisoner's leaning forward angrily may have been accompanied by an outburst, which the judge would need to quell by ordering silence.<|eot_id|>

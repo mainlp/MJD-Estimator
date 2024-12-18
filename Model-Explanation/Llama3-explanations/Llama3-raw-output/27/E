@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: It is not a surprise, either, that Al Pacino chews the scenery in Devil's Advocate. And the idea that if the devil showed up on Earth he'd be running a New York corporate-law firm is also, to say the least, pre-chewed. 
+Statement: Nobody expects that the devil would take the form of a lawyer. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The idea of the devil showing up on Earth and running a New York corporate-law firm is "pre-chewed", implying that it's an overused or clichéd concept, which suggests that people don't expect the devil to take the form of a lawyer.
+* The fact that Al Pacino "chews the scenery" in Devil's Advocate implies that the movie is over-the-top or melodramatic, which could suggest that the idea of the devil as a lawyer is not a surprising or expected twist.
+* The context implies that the concept of the devil as a lawyer is not original or unexpected, which supports the idea that nobody expects the devil to take the form of a lawyer.<|eot_id|>

@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: There are many such at the present time. 
+Statement: There are over two currently. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* "Many" implies a larger number than two, so "over two" is a lower bound that contradicts the context.
+* The context implies a plural number, but "over two" could be satisfied with exactly two, which contradicts the implication of "many".
+* The context suggests a larger quantity, but "over two" is a relatively small quantity that contradicts the context.
+* The word "many" typically implies a number greater than three or four, so "over two" is a lower bound that contradicts the context.<|eot_id|>

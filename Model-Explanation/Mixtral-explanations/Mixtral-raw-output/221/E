@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: After shuttering the DOE, Clinton could depict himself as a crusader against waste and bureaucracy who succeeded where even Reagan failed. 
+Statement: Reagan had tried to shutter the DOE but was unable to. 
+Answer: [/INST] 1. Clinton closing the DOE is direct evidence that Reagan failed to do so.
+2. Clinton's success in shuttering the DOE highlights Reagan's previous unsuccessful attempt.
+3. The context implies that Clinton was able to accomplish what Reagan could not, which includes closing the DOE.
+4. Reagan's failure to close the DOE is contrasted with Clinton's success, as depicted in the context.
+5. The statement is true because Clinton's actions support the idea that Reagan was unsuccessful in his attempt to shutter the DOE.
+6. The fact that Clinton could depict himself as a crusader against waste and bureaucracy by closing the DOE implies that Reagan was not able to do so.
+7. The context suggests that Clinton's closure of the DOE is significant because it is an area where Reagan was unsuccessful.
+8. The statement is true because the context establishes that Clinton's closure of the DOE is an example of his success in an area where Reagan had previously failed.</s>

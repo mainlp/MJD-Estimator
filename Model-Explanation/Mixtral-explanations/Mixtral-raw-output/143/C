@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: No, Dave Hanson, you were too important to us for that. 
+Statement: No, Dave Hanson, we couldn't risk your life becaus you are too important to us. 
+Answer: [/INST] 1. Dave Hanson's life was not at risk.
+2. The speaker was not concerned about Dave Hanson's importance.
+3. Dave Hanson's life was not valued.
+4. The speaker put Dave Hanson in danger despite his importance.
+5. Dave Hanson's importance was not a factor in the decision-making process.
+6. The speaker's statement is insincere, and Dave Hanson's importance was not recognized.
+7. The speaker's statement is contradictory, as they first say Dave Hanson was too important to be treated in a certain way, but then say they couldn't risk his life, implying they were willing to put him in danger.</s>

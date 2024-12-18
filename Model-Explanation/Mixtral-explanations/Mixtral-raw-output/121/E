@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: What a brilliantly innocuous metaphor, devised by a master manipulator to obscure his manipulations. 
+Statement: The metaphor was created by the manipulator to convince people of something. 
+Answer: [/INST] 1. The metaphor's innocuous nature was intentionally designed by the manipulator to deceive people.
+2. The metaphor was crafted by a skilled manipulator to hide his true intentions.
+3. The metaphor's creation was a strategic move by the manipulator to influence people.
+4. The metaphor was devised by the manipulator as a tool to control people's beliefs.
+5. The metaphor was invented by the manipulator to facilitate his manipulations.
+6. The metaphor's simplicity was a deliberate attempt by the manipulator to obscure his manipulations.
+7. The metaphor was created by the manipulator to persuade people without revealing his true intentions.</s>

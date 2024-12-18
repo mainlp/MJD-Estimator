@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: We have done that spectacularly. 
+Statement: Spectacular results was the only way to describe the impact of our past work. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions "that" without specifying what "that" refers to, making it unclear if "that" is the same as "our past work".
+* The context uses the adverb "spectacularly" to describe the manner in which "that" was done, but it's unclear if this implies the results were also spectacular.
+* The statement uses the phrase "the only way to describe" which implies a strong claim, but the context doesn't provide enough information to confirm or deny this claim.
+* The context and statement use different words to describe the outcome ("spectacularly" vs "spectacular results"), making it difficult to determine if they are referring to the same thing.
+* The context doesn't provide enough information about the nature of "our past work" to determine if the statement's description of the impact is accurate.
+* The statement's use of "was" implies a past tense, but the context's use of "have done" implies a present perfect tense, making it unclear if they are referring to the same time period.<|eot_id|>

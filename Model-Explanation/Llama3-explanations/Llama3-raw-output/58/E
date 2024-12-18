@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: A martini should be gin and vermouth and a twist. 
+Statement: A martini must be composed by gin and vermouth. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context explicitly states that a martini should have gin and vermouth, implying that their presence is necessary.
+* The use of "should" in the context implies a recommendation or a standard, which in this case, is a requirement for a martini to be composed of gin and vermouth.
+* The phrase "a martini" in the statement refers to a traditional or standard martini, which according to the context, must have gin and vermouth.
+* The context does not mention any alternative ingredients or variations, suggesting that gin and vermouth are essential components of a martini.
+* The statement rephrases the context in a more assertive tone, using "must" instead of "should", which reinforces the idea that gin and vermouth are required ingredients.<|eot_id|>

@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: They won't be killing off George Clooney's character at ER like they did to Jimmy Smits at NYPD . Instead, Dr. Doug Ross is being forced out over the next two episodes because the maverick heartthrob gives an unauthorized painkiller to a terminally ill boy (Thursday, 10 p.m.). 
+Statement: George Clooney will not be getting fired from his TV show. 
+Answer: [/INST] 1. George Clooney's character, Dr. Doug Ross, is not being killed off in the show "ER."
+2. Dr. Doug Ross is being forced out of "ER," but not fired.
+3. The reason for Dr. Doug Ross's departure from "ER" is not because of being fired.
+4. George Clooney's character is leaving "ER," but it is not due to being fired from the show.
+5. The show "ER" is not terminating George Clooney's character from the series.
+6. George Clooney's character is not being removed from "ER" as a result of being fired.
+7. The circumstances surrounding George Clooney's character's departure from "ER" do not include being fired.
+8. George Clooney's character is not being let go from "ER" due to disciplinary actions.
+9. The show "ER" is not firing George Clooney's character from the series.
+10. George Clooney's character is not being dismissed from "ER" as a form of punishment.</s>

@@ -1,0 +1,16 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Monday's Question (No. 
+Statement: There was a question on Tuesday. 
+Answer: [/INST] * The context does not specify whether Monday's question and the question on Tuesday are the same.
+* The context does not provide information about the source of the question on Tuesday.
+* The context does not indicate if the question on Tuesday is related to the content of Monday's question.
+* The context does not provide enough information about the frequency or consistency of questions to determine if a question on Tuesday is unusual or expected after Monday.
+* The context does not specify if the question on Tuesday is a continuation or a new question.
+* The context does not provide information about the topic or nature of the question on Tuesday.
+* The context does not provide information about who asked the question on Tuesday.
+* The context does not provide information about the medium or format of the question on Tuesday.
+* The context does not provide information about the time of day or location of the question on Tuesday.
+* The context does not provide information about the audience or intended recipients of the question on Tuesday.
+* The context does not provide information about the purpose or intent of the question on Tuesday.
+* The context does not provide information about the expected or actual response to the question on Tuesday.
+* The context does not provide information about the

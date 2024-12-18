@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: and not only that it it opens you to phone solicitations 
+Statement: It also opens the door to move marketing calls. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* "Phone solicitations" and "marketing calls" are synonymous, and the statement is redundant.
+* The context only mentions phone solicitations, but not marketing calls specifically.
+* The statement implies that marketing calls are a separate entity from phone solicitations, which is not supported by the context.
+* The context does not provide enough information to infer that marketing calls are a consequence of the action mentioned.
+* The phrase "opens the door" is an idiomatic expression that is not supported by the context, which only mentions "opens you to".<|eot_id|>

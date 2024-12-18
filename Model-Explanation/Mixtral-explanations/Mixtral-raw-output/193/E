@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: He'd gone a long way on what he'd found in one elementary book. 
+Statement: He learned a lot from that elementary book. 
+Answer: [/INST] 1. The book provided him with extensive knowledge.
+2. He acquired significant information from the book.
+3. The book was a major source of learning for him.
+4. He gained a lot of insights from the elementary book.
+5. The book was instrumental in his education.
+6. He benefited greatly from the knowledge in the book.
+7. The book was a rich source of learning for him.
+8. He had a substantial amount of learning from the book.
+9. The book was a valuable resource for his education.
+10. He obtained a considerable amount of knowledge from the book.</s>

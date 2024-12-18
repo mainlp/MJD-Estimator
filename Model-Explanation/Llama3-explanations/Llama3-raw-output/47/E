@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The idea that Clinton's approval represents something new and immoral in the country is historically shortsighted. 
+Statement: It's accurate to conclude that Clinton's approvals signify the start of a new form of immorality in the country. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The context explicitly denies that Clinton's approval represents something new and immoral, implying that the statement is a misinterpretation or exaggeration.
+* The context's tone suggests that the idea of Clinton's approval being a new form of immorality is an overreaction, making the statement an unwarranted conclusion.
+* The phrase "historically shortsighted" implies that the context is providing a more nuanced and informed perspective, which contradicts the statement's simplistic or superficial conclusion.
+* The context's focus on the historical context implies that Clinton's approval is not a unique or unprecedented event, making the statement's claim of a "new form of immorality" unfounded.
+* The statement's language is more sensational and dramatic than the context's, suggesting that it is an embellishment or distortion of the context's more measured tone.<|eot_id|>

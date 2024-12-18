@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: You will remember my saying that it was wise to beware of people who were not telling you the truth." 
+Statement: There might be dishonest people around here. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The speaker previously mentioned being cautious around people who don't tell the truth, implying that such people exist.
+* The warning to beware of people who were not telling the truth suggests that dishonest individuals might be present.
+* The context implies that the speaker has reason to believe that not everyone is truthful, which increases the likelihood of dishonest people being around.
+* The speaker's advice to be cautious implies that there is a possibility of encountering dishonest people.
+* The statement is a logical consequence of the speaker's previous warning, as it is a reasonable inference to make based on the context.<|eot_id|>

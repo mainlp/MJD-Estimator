@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Expenses included in calculating net cost for education and training programs that are intended to increase or maintain national economic productive capacity shall be reported as investments in human capital as required supplementary stewardship information accompanying the financial statements of the Federal Government and its component units. 
+Statement: Net cost for college programs can be calculated as a way to increase productivity. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The context mentions "education and training programs" which include college programs.
+* The context states that these programs are "intended to increase... national economic productive capacity".
+* The context mentions "calculating net cost" which is the same as "can be calculated".
+* The phrase "as a way to" is a paraphrase of "intended to".
+* The context implies that calculating net cost is a means to achieve the goal of increasing productivity.<|eot_id|>

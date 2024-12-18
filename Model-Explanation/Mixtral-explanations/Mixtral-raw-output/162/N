@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The large scale production of entertainment films is a phenomenon well worth seeing several times. 
+Statement: The production of entertainment films is elaborate and large scaled. 
+Answer: [/INST] 1. The statement could be referring to the past, while the context is referring to the present.
+2. The statement could be referring to a specific genre of films, while the context is referring to a different genre.
+3. The statement could be referring to the production process, while the context is referring to the final product.
+4. The statement could be referring to the resources used in production, while the context is referring to the scale of production.
+5. The statement could be referring to the production of independent films, while the context is referring to mainstream films.
+6. The statement could be referring to the production of films in a specific location, while the context is referring to a different location.
+7. The statement could be referring to the production of films by a specific company, while the context is referring to a different company.
+8. The statement could be referring to the production of films for a specific audience, while the context is referring to a different audience.
+9. The statement could be referring to the production of films for a specific purpose, while the context is referring to a different purpose.
+10. The statement could be referring to the production of films in a specific way, while the context is referring to

@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: 5 are highly correlated during summer months in some areas. 
+Statement: Six are correlated to winter in certain areas. 
+Answer: [/INST] 1. The context refers to a different number than six.
+2. The context refers to different variables or features than those mentioned in the statement.
+3. The correlation in the statement is of a different nature or strength than the one mentioned in the context.
+4. The correlation in the statement occurs in different areas than those mentioned in the context.
+5. The correlation in the statement occurs during a different season than winter.
+6. The statement does not specify whether the correlation is positive or negative.
+7. The statement does not specify whether the correlation is causal or coincidental.
+8. The statement does not provide enough information to determine whether it is true or false based on the context.</s>

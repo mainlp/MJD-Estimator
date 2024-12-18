@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Indeed, said San'doro. 
+Statement: They were certain. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The speaker, San'doro, is expressing uncertainty or doubt.
+* San'doro is contradicting someone else's statement that they were certain.
+* The context implies that San'doro is disagreeing with a previous statement or opinion.
+* San'doro is indicating that they themselves were not certain.
+* The tone of San'doro's statement implies a sense of uncertainty or hesitation.
+* San'doro is correcting a misconception or mistaken assumption.
+* San'doro is providing a contrasting viewpoint or alternative perspective.
+* The use of "Indeed" by San'doro is ironic or sarcastic, implying the opposite of what was said.<|eot_id|>

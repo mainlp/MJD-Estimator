@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The cane plantations, increasingly in the hands of American tycoons, found a ready market in the US. 
+Statement: The US market was ready for the cane plantations, according to the economists. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The context states that the cane plantations "found a ready market in the US", which implies that the US market was ready for the cane plantations.
+* The phrase "found a ready market" suggests that the market was already prepared and willing to accept the cane plantations, which aligns with the statement that the US market was ready.
+* The context does not mention any obstacles or difficulties in selling the cane plantations in the US, implying that the market was receptive to them.
+* The fact that American tycoons were involved in the cane plantations suggests that they saw an opportunity in the US market, which further supports the idea that the market was ready.
+* The statement is a paraphrased version of the context, using different wording to convey the same meaning, which makes it a logical entailment.<|eot_id|>

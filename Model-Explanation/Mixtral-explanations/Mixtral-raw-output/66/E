@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: i think we have too thank you very much you too bye-bye 
+Statement: I don't think we can thank you enough for your help. 
+Answer: [/INST] 1. The context includes "thank you very much," indicating gratitude.
+2. The statement expresses a similar sentiment of not being able to thank someone enough.
+3. The context includes "you too," suggesting the thanks are being returned.
+4. The statement does not negate the thanks being returned in the context.
+5. The statement's sentiment of gratitude is consistent with the context.
+6. The statement's use of "can't" does not contradict the context's use of "thank you very much."
+7. The statement's use of "enough" implies a high level of gratitude, consistent with the context.
+8. The statement's use of "we" suggests a shared sentiment of gratitude with the speaker in the context.
+9. The statement's "think" implies a level of certainty, consistent with the context's expression of gratitude.
+10. The statement's "too" mirrors the context's "too," reinforcing the connection between the two.</s>

@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Unless the report is restricted by law or regulation, auditors should ensure that copies be made available for public inspection. 
+Statement: This report is most likely restricted by law or regulation and should not be ensured. 
+Answer: [/INST] 1. Insufficient information to confirm legality of report: The statement assumes the report is restricted by law or regulation, but the context does not provide information about the report's status.
+2. No knowledge of specific report: The statement may not apply to the report being audited, making it undetermined.
+3. Public interest not addressed: The statement does not consider the potential public interest in accessing the report, which is a factor in the context.
+4. Ambiguity in 'copies be made available': The context does not clarify if 'copies' refers to the original report or additional copies, leaving room for interpretation.
+5. Lack of context on enforcement: The context does not mention consequences for not following the guideline, making it unclear if the statement is accurate.
+6. No information on auditor's actions: The statement assumes the auditor should not ensure availability, but there is no information on what the auditor has done.
+7. No indication of legal review: The context does not mention if the report has been reviewed for legal restrictions, leaving the statement's validity uncertain.</s>

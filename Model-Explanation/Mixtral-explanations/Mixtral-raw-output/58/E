@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: A martini should be gin and vermouth and a twist. 
+Statement: A martini must be composed by gin and vermouth. 
+Answer: [/INST] 1. The definition of a martini includes both gin and vermouth.
+2. A martini cannot be made without gin and vermouth.
+3. Gin and vermouth are necessary ingredients for a martini.
+4. The statement is true because the context stipulates that a martini is made of gin, vermouth, and a twist. Therefore, gin and vermouth are essential components.</s>

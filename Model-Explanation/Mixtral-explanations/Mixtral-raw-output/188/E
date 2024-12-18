@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: uh somewhat they're not my favorite team i am uh somewhat familiar with them 
+Statement: They are the best team in the league, by they are not my favorite. 
+Answer: [/INST] 1. The speaker's personal preference for a team doesn't affect the team's objective performance.
+2. The team's league dominance doesn't necessarily mean the speaker enjoys watching them.
+3. The team's success doesn't make them the speaker's favorite due to other factors like personal bias or rivalry.
+4. The team's superiority in the league doesn't mean the speaker can't be more fond of another team.
+5. The team's standing as the best doesn't impact the speaker's familiarity with them.</s>

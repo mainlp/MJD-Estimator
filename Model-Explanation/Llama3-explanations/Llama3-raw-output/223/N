@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Time's cover package considers what makes a good school. 
+Statement: Time's cover package is about how most college students have to deal with insane student loans. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions "what makes a good school" without specifying the level of education (e.g., high school, college, university), so it's unclear if the statement's focus on college students is relevant.
+* The context doesn't mention student loans at all, making it difficult to determine if the statement is true or false based on the provided information.
+* The context is too vague, only providing a general topic ("what makes a good school"), without giving enough details to support or contradict the statement.
+* The statement changes the topic from "what makes a good school" to "how most college students have to deal with insane student loans", which might not be directly related.
+* There is no clear connection between the concept of a "good school" and the issue of student loans, making it hard to determine the statement's truth value.
+* The context doesn't provide enough information to determine if the cover package is focused on the challenges faced by college students, including student loans, or if it's more focused on the characteristics of a good school.<|eot_id|>

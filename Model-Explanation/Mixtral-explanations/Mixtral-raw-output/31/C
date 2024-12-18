@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The air is warm. 
+Statement: The arid air permeates the surrounding land. 
+Answer: [/INST] 1. The air is not arid.
+2. The arid air is not permeating the surrounding land.
+3. The air's warmth and aridity are not related.
+4. The arid air is not affecting the temperature.
+5. The arid air is not in the surrounding land.
+6. The air is not warm in the surrounding land.
+7. The arid air is not warm.
+8. The statement is true in a different context.
+9. The statement is a misunderstanding of the situation.
+10. The statement is not relevant to the context.</s>

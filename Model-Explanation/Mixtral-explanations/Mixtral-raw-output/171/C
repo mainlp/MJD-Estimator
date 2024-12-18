@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: well we bought this with credit too  well we found it with a clearance uh down in Memphis i guess and uh 
+Statement: We bought non-sale items in Memphis on credit. 
+Answer: [/INST] 1. The items were not purchased on credit in Memphis.
+2. The items were not bought on credit, but found on clearance in Memphis.
+3. The items were not purchased in Memphis.
+4. The items were not bought during a clearance event.
+5. The items were not non-sale items.
+6. The items were not bought, only found in Memphis.
+7. The purchase was not made with credit.
+8. The clearance items were not bought in Memphis on credit.
+9. The non-sale items were not bought in Memphis on credit.
+10. The items were not bought on credit, but were given as a gift or traded for in Memphis.</s>

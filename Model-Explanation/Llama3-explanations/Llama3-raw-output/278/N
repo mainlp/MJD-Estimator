@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Their supplies scarce, their harvest meager, and their spirit broken, they abandoned the fort in 1858. 
+Statement: Their supplies remained very low and hard to maintain. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is a paraphrase of the context, but it doesn't add new information, so it's undetermined.
+* The context mentions "supplies scarce" which is similar to "supplies remained very low", but it's not clear if "hard to maintain" is implied or not.
+* The context focuses on the consequences of the scarce supplies (abandoning the fort), while the statement focuses on the supplies themselves, making it unclear if they are equivalent.
+* The statement uses more intense language ("very low and hard to maintain") than the context ("scarce"), which might imply a stronger claim, but it's not clear if it's justified.
+* The context is about a specific point in time (1858), while the statement is more general, making it unclear if they are referring to the same time period.
+* The statement could be seen as a clarification or elaboration of the context, but it's not clear if it's a necessary or obvious inference.<|eot_id|>

@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: On the northern slopes of this rocky outcropping is the site of the ancient capital of the island, also called Thira, which dates from the third century b.c. (when the Aegean was under Ptolemaic rule). 
+Statement: Is the site of the ancient asteroid impact, also called Thira. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context mentions a "rocky outcropping" but does not imply an asteroid impact.
+* The site is described as the "ancient capital of the island" which contradicts the idea of an asteroid impact.
+* The context provides a specific date ("third century b.c.") and a historical context ("under Ptolemaic rule"), which is unrelated to an asteroid impact.
+* The term "Thira" is used to refer to the ancient capital, not an asteroid impact.
+* There is no mention of an asteroid or any catastrophic event in the context.<|eot_id|>

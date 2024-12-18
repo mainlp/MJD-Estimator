@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: It is, as you see, highly magnified.  
+Statement: It is plain for you to see that it is amplified. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* "amplified" and "magnified" are not exactly synonymous, although they are related; "amplified" typically implies an increase in intensity or power, whereas "magnified" implies an increase in size or scale.
+* The context states "highly magnified", but the statement says "plain for you to see that it is amplified", which implies a lack of magnification or a normal state, contradicting the context.
+* The context uses "magnified" to describe the object's state, but the statement uses "amplified", which could imply a different aspect or property of the object, leading to a contradiction.
+* The tone of the context is more objective and descriptive, whereas the statement is more assertive and emphatic, which could indicate a contradiction in the intended meaning.<|eot_id|>

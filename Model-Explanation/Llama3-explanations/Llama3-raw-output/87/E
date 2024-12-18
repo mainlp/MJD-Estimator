@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Text Box 2.1: Gross Domestic Product and Gross National Product 48Text Box 4.1: How do the NIPA and federal unified budget concepts of 
+Statement: This text displays how GDP and GNP is calculated. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true:
+
+* The text explicitly mentions "Gross Domestic Product" and "Gross National Product" in the context, indicating that it discusses their calculation.
+* The presence of "Text Box 2.1" and "Text Box 4.1" suggests that the text is organized into sections or boxes that focus on specific topics, including GDP and GNP calculation.
+* The mention of "NIPA" (National Income and Product Accounts) and "federal unified budget concepts" implies that the text is discussing economic concepts related to GDP and GNP, which are typically calculated using NIPA.
+* The text likely provides a step-by-step explanation or formula for calculating GDP and GNP, making it a display of their calculation.
+* The context suggests that the text is educational or informative in nature, aiming to teach readers how to calculate GDP and GNP.<|eot_id|>

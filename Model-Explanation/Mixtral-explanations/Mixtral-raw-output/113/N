@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: yeah well that's my uh i mean every time i've tried to go you know it's always there's there's always a league bowling 
+Statement: Every time I try to go bowling there are leagues only and I can't bowl. 
+Answer: [/INST] 1. The context doesn't specify if the speaker has tried going bowling at the same place mentioned in the statement.
+2. The context doesn't indicate the frequency or the timeframe of the speaker's attempts to go bowling.
+3. The statement doesn't mention whether the leagues are open to the public or if they are closed events.
+4. The context doesn't clarify if the speaker is aware of any public bowling times outside of the league schedule.
+5. The statement doesn't specify if the leagues occupy all lanes, leaving no space for casual bowlers.
+6. The context doesn't reveal if the speaker has tried visiting at different times or days of the week to bowl.
+7. The statement doesn't mention if the leagues are recurring events or if they are one-time tournaments.
+8. The context doesn't inform us if the speaker has inquired about bowling during league hours.
+9. The statement doesn't provide information about the location of the bowling alley mentioned in the context and the one in the statement.
+10. The context doesn't indicate if the speaker has any restrictions or limitations that

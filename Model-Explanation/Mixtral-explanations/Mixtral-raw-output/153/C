@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: EPA estimates that 5.6 million acres of lakes, estuaries and wetlands and 43,500 miles of streams, rivers and coasts are impaired by mercury emissions. 
+Statement: The release of mercury has an impact on rivers, streams and lakes 
+Answer: [/INST] 1. Mercury emissions do not affect the quality of rivers, streams, and coasts.
+2. Mercury emissions have no impact on any bodies of water.
+3. The EPA's estimate of impaired waterways is inaccurate.
+4. Mercury emissions only impact the air, not water bodies.
+5. The release of mercury does not affect the quantity of impaired waterways.
+6. Mercury emissions have no role in the impairment of 5.6 million acres of lakes, estuaries and wetlands and 43,500 miles of streams, rivers and coasts.
+7. The EPA's assessment of mercury-impacted waterways is incorrect.
+8. Mercury emissions do not cause harm to any waterways.
+9. The impact of mercury emissions on water bodies is negligible and not worth mentioning.
+10. The EPA's estimate of impaired waterways due to mercury emissions is an exaggeration.</s>

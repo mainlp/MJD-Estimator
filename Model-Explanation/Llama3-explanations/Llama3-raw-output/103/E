@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: There are many such at the present time. 
+Statement: There are over two currently. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* "many" implies a quantity greater than two, so "over two" is a subset of "many".
+* The context mentions "many" without specifying an exact number, and "over two" is a vague quantity that can be inferred from the existence of "many".
+* The phrase "at the present time" suggests a snapshot of the current situation, and if there are "many" currently, it is likely that there are at least "over two".
+* The context does not provide an upper bound for the quantity, so it is possible that there are more than two, which satisfies the condition of "over two".
+* The statement "there are over two currently" is a weaker claim than "there are many", and the context supports the stronger claim, so it must also support the weaker claim.<|eot_id|>

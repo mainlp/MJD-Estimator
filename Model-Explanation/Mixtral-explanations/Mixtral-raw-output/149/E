@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: SSA is also seeking statutory authority for additional tools to recover current overpayments. 
+Statement: SSA wants the authority to recover overpayments made to insurers. 
+Answer: [/INST] 1. "Insurers" are a type of entity that can receive overpayments from SSA.
+2. SSA's recovery efforts only apply to overpayments, not underpayments or other types of financial transactions.
+3. The authority SSA seeks is for "additional tools" beyond what they currently have, implying they already have some authority to recover overpayments.
+4. The overpayments in question are current, meaning they have already been made and SSA has not yet recovered them.
+5. The authority SSA seeks is for recovering overpayments, not for preventing them from being made in the first place.
+6. The overpayments are not specified to be from a particular program or group within SSA, indicating it could be from any program or group.
+7. The recovery of overpayments is a priority for SSA, as they are actively seeking statutory authority to do so.</s>

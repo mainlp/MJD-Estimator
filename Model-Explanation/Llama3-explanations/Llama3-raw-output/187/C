@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Standard screens may not perform as well in these patient subgroups that may represent a considerable part of the ED population. 
+Statement: The subgroups may not perform well in standard screens. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The subject of the statement is "subgroups", but in the context, the subgroups are the ones being screened, not performing the screening.
+* The verb "perform" is used in the statement, but in the context, it is the screens that may not perform well, not the subgroups.
+* The statement implies that the subgroups are the ones taking the action, whereas in the context, the screens are the ones taking the action (screening the subgroups).
+* The context states that the screens may not perform well in the subgroups, implying that the subgroups are the objects being acted upon, not the ones performing the action.
+* The statement reverses the roles of the subgroups and the screens, which is not consistent with the context.<|eot_id|>

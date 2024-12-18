@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: These days, newspaper writers are no longer allowed the kind of license he took. 
+Statement: Newspaper writers need to be more factual and careful these days. 
+Answer: [/INST] 1. Newspaper writers are held to a higher standard of factual accuracy now.
+2. Writers for newspapers cannot take as much artistic freedom as in the past.
+3. There is a greater emphasis on carefulness in newspaper writing today.
+4. The rules for newspaper writers have become more strict.
+5. Newspaper writers are now required to be more mindful of their words.
+6. A lack of care in newspaper writing is no longer tolerated.
+7. Exaggeration or embellishment in newspaper articles is no longer permitted.
+8. The margin for error in newspaper writing has decreased.
+9. Newspaper writers must now adhere to stricter guidelines.
+10. There is less room for subjectivity in modern newspaper writing.</s>

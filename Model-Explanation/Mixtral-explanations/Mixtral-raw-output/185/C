@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Clearly, GAO needs assistance to meet its looming human capital challenges. 
+Statement: GAO will soon be suffering from a shortage of qualified personnel. 
+Answer: [/INST] 1. GAO is currently hiring and has an abundance of applications from qualified candidates.
+2. GAO has recently received a large influx of funding to expand its workforce.
+3. The organization that GAO is working with has offered to lend some of their qualified personnel.
+4. GAO has implemented a successful training program to develop the skills of its current employees.
+5. There is a surplus of qualified candidates in the job market looking for work at GAO.
+6. GAO has automated several processes, reducing the need for human capital.
+7. GAO has decided to outsource some of its work to external companies with qualified personnel.
+8. GAO has implemented a more efficient scheduling system, allowing current employees to work more hours.
+9. GAO has changed its hiring criteria to accept candidates with slightly lower qualifications.
+10. GAO has decided to prioritize its current workload, requiring fewer employees than anticipated.</s>

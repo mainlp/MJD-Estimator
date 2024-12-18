@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: We know they will have to come from the south but that gives them a space as wide as the town in which to launch their attack. 
+Statement: The south is totally protected against an attack. 
+Answer: [/INST] 1. The context mentions that the only possible direction of attack is from the south.
+2. The context also states that the attackers have a wide space, which implies that there are no barriers to prevent an attack from the south.
+3. Therefore, the absence of protection in the south allows us to infer that the south is not totally protected against an attack.</s>

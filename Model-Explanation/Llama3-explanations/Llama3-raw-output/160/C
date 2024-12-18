@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: But they also don't seem to mind when the tranquillity of a Zen temple rock garden is shattered by recorded announcements blaring from loudspeakers parroting the information already contained in the leaflets provided at the ticket office; when heavy-metal pop music loudly emanates from the radio of the middle-aged owner of a corner grocery store; and when parks, gardens, and hallowed temples are ringed by garish souvenir shops whose shelves display both the tastefully understated and the hideously kitsch. 
+Statement: A Zen temple rock garden is a a place for lots of people to gather and celebrate. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context describes a Zen temple rock garden as a place of "tranquillity", implying a peaceful and serene atmosphere, which is inconsistent with a place for lots of people to gather and celebrate.
+* The use of the word "shattered" to describe the effect of recorded announcements on the tranquillity of the garden suggests that the presence of large groups of people would be disruptive to the environment.
+* The context contrasts the peaceful atmosphere of the garden with the loud and jarring sounds of recorded announcements and heavy-metal pop music, implying that a celebration with many people would be similarly incongruous.
+* The description of the surrounding area as being "ringed by garish souvenir shops" suggests a commercialized and touristy atmosphere, which may not be conducive to a peaceful gathering or celebration.
+* The phrase "hallowed temples" implies a sense of reverence and respect, which may not be consistent with a loud and boisterous celebration.<|eot_id|>

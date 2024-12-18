@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: ooh it's kind of tough to think of some of the others although i do watch some of some of those frivolous things uh like on Thursday nights at nine o'clock when i get home from aerobics i will watch uh Knots Landing 
+Statement: I only watch frivolous things on Thursday nights. 
+Answer: [/INST] 1. The person watches Knots Landing, which was classified as "frivolous," but they also watch other non-frivolous shows on Thursday nights.
+2. The person watches some frivolous shows at times other than Thursday nights.
+3. The person watches a mix of frivolous and non-frivolous shows on Thursday nights.
+4. The person only watches Knots Landing on Thursday nights, which is not representative of all the shows they watch on that night.
+5. The person's statement "I only watch frivolous things on Thursday nights" is a generalization that is not true for every single Thursday night.
+6. The person's statement "I only watch frivolous things on Thursday nights" is a figure of speech or exaggeration, and not meant to be taken literally.
+7. The person's statement "I only watch frivolous things on Thursday nights" is a statement of intent, but they do not always follow through on this intention.
+8. The person's statement "I only watch frivolous things on Thursday nights" is not true because they watch frivolous things on

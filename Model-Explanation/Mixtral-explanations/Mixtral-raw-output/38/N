@@ -1,0 +1,15 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: 'Would you like some tea?' 
+Statement: DO you want a cup of tea? 
+Answer: [/INST] 1. The speaker in the context and the speaker of the statement could be different people.
+2. The statement could be a rhetorical question.
+3. The statement could be asking about a specific type of tea.
+4. The statement could be asking about a specific cup of tea.
+5. The statement could be asking about a cup of tea at a different time.
+6. The statement could be asking about a cup of tea in a different location.
+7. The speaker in the context may have already offered tea, and the statement is asking for confirmation.
+8. The speaker in the context may have already offered tea, and the statement is asking if the offer is still open.
+9. The speaker in the context may have already offered tea, and the statement is asking if the listener wants tea from a different source.
+10. The speaker in the context may have already offered tea, and the statement is asking if the listener wants more tea.
+11. The speaker in the context may have already offered tea, and the statement is asking if the listener wants a different type of tea.
+12. The speaker in the context may have already offered tea, and the statement is asking if the listener wants

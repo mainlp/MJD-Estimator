@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The street ends at Taksim Square (Taksim Meydane), the heart of modern Istanbul, lined with luxurious five-star hotels and the glass-fronted Ataturk Cultural Centre (Ataturk Keleter Sarayy), also called the Opera House. 
+Statement: The street is quite a luxurious one. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+1. The street is lined with luxurious five-star hotels.
+2. The street ends at a location (Taksim Square) that has luxurious features (five-star hotels and a glass-fronted cultural centre).
+3. The presence of high-end establishments (five-star hotels and the Opera House) implies a luxurious atmosphere on the street.
+4. The street's proximity to the heart of modern Istanbul suggests a high-end or luxurious environment.
+5. The description of the surrounding buildings (glass-fronted Ataturk Cultural Centre) implies a sense of luxury and modernity on the street.<|eot_id|>

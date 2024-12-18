@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Several of the organizations had professional and administrative staffs that provided analytical capabilities and facilitated their members' participation in the organization's activities. 
+Statement: Organizations had mandatory bonding exercises for their members. 
+Answer: [/INST] 1. The context states that organizations have staff that facilitates members' participation in activities.
+2. These activities could include mandatory bonding exercises.
+3. The presence of staff to facilitate participation implies some level of organization-planned activities.
+4. Bonding exercises are a type of activity that organizations might plan for their members.
+5. Therefore, the organizations could have mandatory bonding exercises for their members.</s>

@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Lincoln glared. 
+Statement: The man was angry. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only provides a glare as evidence, which can be caused by various emotions, not just anger.
+* Glaring does not necessarily imply anger, as it can also be a sign of frustration, disappointment, or even concentration.
+* The context does not provide enough information to determine the intensity or duration of the glare, which could affect the interpretation of Lincoln's emotions.
+* The statement assumes a specific emotional state (anger) without considering alternative explanations for Lincoln's behavior.
+* The context does not provide any additional information about Lincoln's thoughts, feelings, or past experiences that could help disambiguate the situation.
+* The statement makes a categorical claim (the man was angry) without acknowledging the possibility of other emotions or mixed emotions.
+* The context does not provide a clear causal link between Lincoln's glare and the emotion of anger.<|eot_id|>

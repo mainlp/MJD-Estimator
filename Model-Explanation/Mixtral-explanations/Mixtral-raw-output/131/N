@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: And far, far away- lying still on the tracks- was the back of the train. 
+Statement: The train wasn't moving but then it started up. 
+Answer: [/INST] 1. Insufficient context: The statement might be true if the train started moving again after the context was described.
+2. Time gap: There could be a time gap between the description of the stationary train and the statement about it starting to move.
+3. Perspective: The observer might not have been able to see the front of the train, where the movement could have started.
+4. Selective description: The context might have focused on the back of the train, implying that the front of the train was moving.
+5. Implicit meaning: The statement might be implying that the train was not moving at all before starting up, which contradicts the context.
+6. Lack of contradiction: The statement is not explicitly contradicted by the context, but it is also not clearly supported.
+7. Ambiguity: The statement is ambiguous about when and where the train started moving.
+8. Contextual ambiguity: The context is unclear about whether the train was supposed to be moving or not.
+9. Insufficient information: The context does not provide enough information about the train's expected behavior or previous movements.
+10. Contradictory implications: The context and the

@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Three more days went by in dreary inaction. 
+Statement: The days passed by slowly. 
+Answer: [/INST] 1. The days passed by quickly.
+2. The days were filled with excitement and activity.
+3. Time flew by quickly during those days.
+4. The days passed by in a flash.
+5. The days were action-packed and went by in no time.
+6. The days were short and passed by rapidly.
+7. The days were busy and went by fast.
+8. The days were filled with events and went by easily.
+9. The days were over in the blink of an eye.
+10. The days were productive and went by smoothly.</s>

@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Bauerstein had been at Styles on the fatal night, and added: "He said twice: 'That alters everything.' And I've been thinking.  
+Statement: The fact that Styles was at Bauerstein changes everything. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The subject-verb agreement is incorrect, as "Styles" is a location, not a person that can be at someone.
+* The context states that Bauerstein was at Styles, not the other way around.
+* The quote "That alters everything" is attributed to someone who is not specified to be talking about Styles being at Bauerstein.
+* The statement is a reversal of the context, which states that Bauerstein was at Styles, not that Styles was at Bauerstein.<|eot_id|>

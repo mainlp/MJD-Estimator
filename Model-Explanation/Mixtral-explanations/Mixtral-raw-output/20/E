@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The newspaper publishes just one letter a week from a reader, always with an editorial riposte at the bottom. 
+Statement: There are many letters submitted each week, but only one is chosen. 
+Answer: [/INST] 1. Newspaper receives numerous letters from readers every week.
+2. Only a single letter is published from the submitted ones.
+3. Editorial response follows every selected letter.
+4. A weekly letter selection process occurs in the newspaper.
+5. High volume of letters received limits publication to one per week.
+6. Letters not chosen are not published.
+7. Editorial staff makes a weekly decision on which letter to publish.
+8. Letters published are followed by the newspaper's response.
+9. High submission rate of letters ensures a variety of choices.
+10. The newspaper maintains a consistent format of one letter and an editorial riposte per issue.</s>

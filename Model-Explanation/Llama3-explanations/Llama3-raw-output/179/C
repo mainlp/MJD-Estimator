@@ -1,0 +1,16 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: maybe adult literacy maybe you know composition writing maybe you know uh volunteering you know on a tutor line or though the even through the elementary schools for help with homework or the other part of me says is God i've had enough kids  do i really 
+Statement: maybe I could volunteer to help coach sports since I've helped all my children be successful in sports 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The speaker has not helped all their children be successful in sports.
+* The speaker has no experience with sports or coaching.
+* The speaker's children are not successful in sports.
+* The speaker is not interested in coaching sports.
+* The speaker is not capable of coaching sports.
+* The speaker's experience is limited to tutoring or helping with homework, not coaching sports.
+* The speaker is hesitant to take on more responsibilities involving children due to feeling overwhelmed ("do I really...").<|eot_id|>

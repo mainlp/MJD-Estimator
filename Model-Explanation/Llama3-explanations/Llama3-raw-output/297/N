@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Three more days went by in dreary inaction. 
+Statement: The days passed by slowly. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions the days were "dreary" but does not explicitly state their pace, leaving the speed at which they passed ambiguous.
+* "Dreary" can imply a sense of monotony or boredom, but it does not necessarily imply a slow pace.
+* The phrase "went by" is neutral and does not convey a sense of speed or slowness.
+* The context focuses on the inaction during those days, rather than their pace, making it unclear how quickly or slowly they passed.
+* The statement "The days passed by slowly" is a subjective interpretation and the context does not provide enough information to confirm or deny it.<|eot_id|>

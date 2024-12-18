@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: A button on the Chatterbox page will make this easy, so please do join in. 
+Statement: They wanted to make the site very user friendly. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The context only mentions a button on the Chatterbox page, not the entire site.
+* The context implies that the button is meant to facilitate user interaction, but it does not necessarily imply that the site as a whole is user-friendly.
+* The context does not provide any information about the intentions of the site creators, only about the existence of a button.
+* The statement is too general and the context does not provide enough evidence to support it.
+* The context only talks about a specific feature (the button) and does not provide a comprehensive view of the site's user-friendliness.<|eot_id|>

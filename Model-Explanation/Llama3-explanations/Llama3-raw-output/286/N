@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: and they just put instructors out there and you you sign up for instruction and they just give you an arm band and if you see an instructor who's not doing anything you just tap him on the shoulder and ask him questions and they'll show you things 
+Statement: The instructors are marked with armbands, and anytime you want to know anything, you just find one of them.  
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context only mentions that instructors are given an arm band, but it doesn't explicitly state that the armband is a mark or an identifier.
+* The statement assumes that the armband is a distinctive feature that sets instructors apart, but the context doesn't provide enough information to confirm this.
+* The context mentions that you can tap any instructor on the shoulder to ask questions, but it doesn't imply that you need to find an instructor with an armband specifically.
+* The statement implies that instructors are always available to answer questions, but the context only mentions that you can ask questions if you see an instructor who's not doing anything.
+* The context doesn't provide enough information to determine if the armband is a unique identifier for instructors or if it serves some other purpose.
+* The statement assumes a level of proactivity from the instructors, implying that they will show you things, but the context only mentions that they will answer questions.<|eot_id|>

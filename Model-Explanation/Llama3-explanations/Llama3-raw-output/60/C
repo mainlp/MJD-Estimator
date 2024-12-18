@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: that's true i didn't think about that 
+Statement: You've changed my mind with a new perspective. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The speaker didn't present a new perspective.
+* The speaker's words didn't have any impact on the listener's mind.
+* The listener's mind wasn't changed.
+* The conversation just started, and no discussion has taken place to change the listener's mind.
+* The listener already had the same perspective and wasn't changed by the speaker's words.
+* The speaker's words were not persuasive or convincing.
+* The listener is being sarcastic or ironic, and their mind wasn't actually changed.<|eot_id|>

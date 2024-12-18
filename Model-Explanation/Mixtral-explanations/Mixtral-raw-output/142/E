@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: H-2A agricultural workers are required to maintain a foreign residence which they have no intention of abandoning. 
+Statement: Permanent foreign residence is required for some types of agricultural work visas. 
+Answer: [/INST] 1. H-2A visas are a type of agricultural work visa.
+2. H-2A workers must maintain a foreign residence they do not intend to abandon.
+3. Therefore, having a permanent foreign residence is a requirement for H-2A agricultural work visas.</s>

@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: By coordinating policy development and awareness activities in this manner, she helps ensure that new risks and policies are communicated promptly and that employees are periodically reminded of existing policies through means such as monthly bulletins, an intranet web site, and presentations to new employees. 
+Statement: She can find new risks with the awareness campaign. 
+Answer: [/INST] 1. The awareness campaign does not uncover new risks.
+2. She does not discover new risks through the awareness campaign.
+3. New risks are not found by her during the implementation of the awareness campaign.
+4. The awareness campaign is only for communicating and reminding, not for identifying new risks.
+5. Finding new risks is not an objective or outcome of the awareness campaign.
+6. She is not involved in the discovery of new risks in the awareness campaign.
+7. The awareness campaign does not result in the revelation of any new risks.</s>

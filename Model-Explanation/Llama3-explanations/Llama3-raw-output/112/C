@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: After shuttering the DOE, Clinton could depict himself as a crusader against waste and bureaucracy who succeeded where even Reagan failed. 
+Statement: Clinton shuttered the DOE to move against waste. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context implies Clinton shuttered the DOE to depict himself as a crusader, not to move against waste.
+* The context suggests Clinton's motivation was to succeed where Reagan failed, not to move against waste.
+* The context does not provide any evidence that Clinton shuttered the DOE because of waste within the DOE itself.
+* The context implies Clinton's action was more about political posturing than a genuine attempt to reduce waste.
+* The statement oversimplifies Clinton's motivations, which were more complex and politically driven according to the context.<|eot_id|>

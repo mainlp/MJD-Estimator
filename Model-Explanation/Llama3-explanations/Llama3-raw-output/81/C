@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The standard technology assumptions of scenario A were used by EIA in the development of the AEO2001 reference case projections. 
+Statement: EIA used the standard technology assumptions to eliminate the AEO2001 reference case projections. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* "used" implies a purpose or intention, but the context suggests the standard technology assumptions were used for development, not elimination.
+* "eliminate" has an opposite meaning to "development", implying destruction or removal, whereas the context implies creation or production.
+* The context states the standard technology assumptions were used "in the development" of the projections, implying a constructive process, whereas the statement suggests a destructive process.
+* The word "to" in the statement implies a purpose or goal, but the context suggests the standard technology assumptions were used as a means or tool, not to achieve a goal of elimination.<|eot_id|>

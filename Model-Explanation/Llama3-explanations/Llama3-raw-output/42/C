@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Mack Lee, Body Servant of General Robert E. Lee Through the Civil War, published in 1918. 
+Statement: The book was first drafted in early 1915. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The book was published in 1918, which means the drafting process must have started after 1918, not in 1915.
+* The book was published three years after the claimed drafting year, which is a short period for a book to be drafted, reviewed, edited, and published.
+* There is no evidence or mention of the book being drafted in 1915 in the context provided.
+* The context only provides the publication year, not the drafting year, which implies that the drafting year is unknown or not relevant.
+* The statement is making an assumption about the drafting year without providing any supporting evidence or context.<|eot_id|>

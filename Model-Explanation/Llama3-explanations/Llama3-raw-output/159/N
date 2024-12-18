@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Specifically, by defining mission improvement objectives, senior executives determine whether their organization needs a CIO who is a networking/marketing specialist, business change agent, operations specialist, policy/oversight manager, or any combination thereof. 
+Statement: A CIO must be an operations specialist. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not explicitly state that a CIO must be an operations specialist.
+* The context presents multiple possible roles for a CIO, without prioritizing or requiring one over others.
+* The context implies that the choice of CIO role depends on the organization's specific needs, which are not specified.
+* The statement is too absolute, whereas the context suggests a more nuanced and context-dependent approach to determining a CIO's role.
+* The context does not provide sufficient evidence to support or refute the statement.
+* The statement is not a logical consequence of the context, which focuses on the process of determining a CIO's role rather than making a definitive claim about it.<|eot_id|>

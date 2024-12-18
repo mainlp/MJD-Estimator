@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Lawyers in their first three years of practice or who are inactive pay $90, and retired lawyers pay nothing. 
+Statement: Lawyers pay $90 to be included in the directory. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is too general and does not specify the type of lawyers, whereas the context provides different fees for different categories of lawyers.
+* The context mentions multiple fees ($90, nothing), but the statement only mentions one fee ($90), without clarifying which category of lawyers it applies to.
+* The statement implies that all lawyers pay $90, which is not true according to the context (retired lawyers pay nothing).
+* The context provides exceptions to the general rule (first three years of practice, inactive, retired), but the statement does not account for these exceptions.
+* The statement does not specify the condition or circumstance under which lawyers pay $90 (e.g., being included in the directory), whereas the context provides specific conditions (years of practice, activity status, retirement).<|eot_id|>

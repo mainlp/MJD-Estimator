@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The street ends at Taksim Square (Taksim Meydane), the heart of modern Istanbul, lined with luxurious five-star hotels and the glass-fronted Ataturk Cultural Centre (Ataturk Keleter Sarayy), also called the Opera House. 
+Statement: The street is quite a luxurious one. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement only mentions the luxurious hotels and cultural centre at the end of the street, not the street itself.
+* The luxury is associated with the hotels and cultural centre, not the street.
+* The street's characteristics are not described as luxurious, only its ending point.
+* The context does not provide any information about the street's appearance or features that would suggest it is luxurious.
+* The focus is on the attractions at the end of the street, not the street itself.
+* The statement is an inference that is not supported by the provided context.<|eot_id|>

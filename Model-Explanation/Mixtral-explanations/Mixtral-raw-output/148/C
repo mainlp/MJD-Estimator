@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The policy succeeded, and I was fortunate to have had the opportunity to make that contribution to my people. 
+Statement: Because the policy was a success, I was able to make a contribution to my people. 
+Answer: [/INST] 1. The contribution to the people was made prior to the policy's success.
+2. The success of the policy was not a factor in the individual's ability to make a contribution.
+3. The contribution to the people was not related to the policy's success.
+4. The policy's success was a result of other factors, not the individual's contribution.
+5. The individual's contribution was not significant or impactful to the policy's success.
+6. The policy's success was not a positive outcome for the people.
+7. The individual's contribution was not directed towards the people.
+8. The success of the policy was exaggerated or not accurately measured.
+9. The individual's ability to make a contribution was not due to the policy's success.
+10. The policy's success and the individual's contribution are unrelated.</s>

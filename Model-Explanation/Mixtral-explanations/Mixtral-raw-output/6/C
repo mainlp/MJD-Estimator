@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Larger ski resorts are 90 minutes away. 
+Statement: The largest resort is actually 100 minutes away. 
+Answer: [/INST] 1. The statement mistakes "largest" for "one of the larger" resorts.
+2. The statement incorrectly assumes that the largest resort must be the farthest away.
+3. The context may have been referring to a different set of ski resorts.
+4. The context's 90-minute estimate could be an approximate value, and the largest resort is actually closer to 100 minutes away.
+5. There might be a mistake in the provided context or statement, leading to the contradiction.</s>

@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: And she came to you? 
+Statement: The person asked if the woman came to him. 
+Answer: [/INST] 1. The context does not specify who the "she" refers to, and the statement does not clarify whether "she" and "the woman" are the same person.
+2. The context does not indicate when "she" came to the person, and the statement does not provide a time frame for when the woman asked the question.
+3. The context does not reveal the location where "she" came to the person, and the statement does not specify where the woman asked the question.
+4. The context does not provide information about the reason why "she" came to the person, and the statement does not indicate the motive behind the woman's question.
+5. The context does not mention whether the person was expecting "she" to come to him, and the statement does not reveal if the woman was surprised by the person's response.
+6. The context does not reveal the relationship between the person and "she", and the statement does not indicate the nature of the woman's relationship with the person.
+7. The context does not provide information about the tone or manner in which "she" came to the person, and the statement does not specify the tone or manner in which the woman asked the question.

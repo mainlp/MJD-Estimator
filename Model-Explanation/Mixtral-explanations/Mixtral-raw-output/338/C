@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Then you're ready for the fray, either in the bustling great bazaars such as Delhi's Chandni Chowk or Mumbai's Bhuleshwar, or the more sedate ambience of grander shops and showrooms. 
+Statement: All of the great bazaars are bustling at all times. 
+Answer: [/INST] 1. Some great bazaars, such as Delhi's Chandni Chowk, may have bustling periods but also have quieter times.
+2. Not all stalls or areas in a great bazaar, like Mumbai's Bhuleshwar, are always busy.
+3. There might be great bazaars in other cities that are not always bustling.
+4. Some great bazaars may transform into different environments during certain hours, such as becoming less crowded at night.
+5. Great bazaars might experience lulls in activity due to factors like holidays, weather conditions, or local events.
+6. The statement ignores the possibility of private, invitation-only bazaars that may not be open to the general public at all times.
+7. The grander shops and showrooms mentioned in the context might be part of the same great bazaars, but they could operate under different rules and schedules, leading to varying levels of activity.</s>

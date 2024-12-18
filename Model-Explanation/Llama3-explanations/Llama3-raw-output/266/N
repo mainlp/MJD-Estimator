@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Jon twisted the man's wrist. 
+Statement: Jon grabbed the man. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions twisting the wrist, but not grabbing, so it's unclear if grabbing occurred.
+* Twisting the wrist and grabbing are related but distinct actions, and the context doesn't provide enough information to infer one from the other.
+* The context focuses on the specific action of twisting the wrist, without implying or denying other actions like grabbing.
+* There is no logical entailment or contradiction between the context and the statement, so the relationship between them is unknown.
+* The context doesn't provide enough information to determine the truth value of the statement, leaving it neutral.
+* The statement is too general, and the context is too specific, making it difficult to determine the relationship between them.
+* The context describes a specific action, but the statement describes a more general action, making it unclear if the general action includes the specific one.<|eot_id|>

@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: On the northern slopes of this rocky outcropping is the site of the ancient capital of the island, also called Thira, which dates from the third century b.c. (when the Aegean was under Ptolemaic rule). 
+Statement: Is the site of the ancient asteroid impact, also called Thira. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* There is no mention of an asteroid impact in the context, so the statement is not supported.
+* The context only talks about the site of the ancient capital of the island, not an asteroid impact.
+* The name "Thira" is mentioned, but it refers to the ancient capital, not an asteroid impact.
+* There is no connection between the ancient capital and an asteroid impact in the context.
+* The context provides historical information about the ancient capital, but not about an asteroid impact.
+* The statement is a false claim, as there is no evidence of an asteroid impact in the context.<|eot_id|>

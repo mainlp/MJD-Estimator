@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Each caters to a specific crowd, so hunt around until you find the one right for you. 
+Statement: There are marketers who have argued that there needs to be more effort to broaden appeal. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not provide enough information about the marketers' opinions or the specific crowd being referred to.
+* The statement does not explicitly contradict or support the idea of catering to a specific crowd.
+* The context focuses on finding the right fit for an individual, while the statement discusses broadening appeal, making it unclear how they relate.
+* The statement's tone is ambiguous, and it's unclear whether the marketers are arguing for or against the idea of catering to a specific crowd.
+* The context does not provide a clear stance on the importance of broad appeal, making it difficult to determine the relationship between the two.
+* The statement could be seen as either supporting the idea of catering to a specific crowd (by implying that broad appeal is not necessary) or arguing against it (by suggesting that more effort is needed to reach a wider audience).
+* The context and statement operate on different levels, with the context discussing individual preferences and the statement discussing marketing strategies.<|eot_id|>

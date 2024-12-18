@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Then Shuman claims that Linux provides no graphical user interface. 
+Statement: They made accusations about the platform. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions a claim about Linux, but it's unclear what kind of accusations are being referred to in the statement.
+* The statement is too vague, and it's not clear what "they" refers to (Shuman or someone else).
+* The context doesn't provide enough information to determine if the accusations are related to the claim about Linux's graphical user interface.
+* The statement doesn't specify what kind of platform is being referred to (Linux or something else).
+* The tone of the statement is unclear, and it's not possible to determine if the accusations are positive, negative, or neutral.
+* There is no clear connection between the context and the statement, making it difficult to infer the relationship between the two.<|eot_id|>

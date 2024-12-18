@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Meanwhile, a site established for the WorldAid '96 Global Expo and Conference on Emergency Relief, which took place last fall, gives you a firsthand glimpse of the frequently crass world of the relief business (note the long list of commercial exhibitors in attendance). 
+Statement: WorldAid had a GLobal expo in 2002. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions WorldAid '96, not WorldAid 2002, so there is no information about a Global Expo in 2002.
+* The context only provides information about a past event (last fall), but does not provide information about future events.
+* The context does not mention the frequency or regularity of WorldAid's Global Expos, so it is unknown if they hold one every year or not.
+* The context does not provide any information about WorldAid's activities or events beyond 1996, so it is unknown if they continued to hold Global Expos after that year.
+* The statement is making a claim about a specific year (2002) that is not mentioned in the context, so it cannot be determined to be true or false based on the provided information.<|eot_id|>

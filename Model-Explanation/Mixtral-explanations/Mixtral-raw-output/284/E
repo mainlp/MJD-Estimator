@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Unless the report is restricted by law or regulation, auditors should ensure that copies be made available for public inspection. 
+Statement: This report is most likely restricted by law or regulation and should not be ensured. 
+Answer: [/INST] 1. The report contains sensitive information that is protected by law or regulation.
+2. Making the report available to the public would violate confidentiality agreements.
+3. The report is related to national security and is therefore restricted by law.
+4. The report contains personal data that is protected by privacy laws.
+5. The report is related to ongoing legal proceedings and is therefore restricted by court order.
+6. The report contains trade secrets or proprietary information that is protected by law.
+7. The report is subject to data protection regulations that restrict its public disclosure.
+8. The report is restricted by a specific law or regulation that prohibits its public release.
+9. The report is restricted by a legal privilege that protects it from public disclosure.
+10. The report is restricted by a court injunction that prevents its public dissemination.</s>

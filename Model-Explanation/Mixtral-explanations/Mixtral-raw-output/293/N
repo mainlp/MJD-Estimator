@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Traditionally, certain designs were reserved for royalty, but today elegant geometric or exuberant, stylized floral patterns are available to all. 
+Statement: Designs once reserved for royalty cost more to buy. 
+Answer: [/INST] 1. Not all elegant geometric or stylized floral patterns are affordable today.
+2. The cost of producing traditional royal designs has not decreased.
+3. The statement does not specify if the "designs" refer to the same patterns that were once reserved for royalty.
+4. The statement does not indicate whether the increased accessibility of certain designs has affected their price.
+5. The statement does not clarify if the "cost" refers to monetary value or other resources.</s>

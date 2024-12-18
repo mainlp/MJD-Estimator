@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: okay and and i think we just hang up i don't think we have to do anything else 
+Statement: We need to wait until they tell us what to do. 
+Answer: [/INST] 1. The context does not indicate any further tasks or instructions that are pending.
+2. The statement could be true if there are indeed instructions yet to be received from the other party.
+3. The statement could be false if there are no further instructions needed and the parties have completed their tasks.
+4. The context does not provide enough information about the roles and responsibilities of the parties involved.
+5. The statement could be a precautionary measure, acknowledging the possibility of further instructions.
+6. The statement could reflect a lack of confidence or certainty in the completion of the task.
+7. The context does not indicate whether the parties have the necessary information or resources to proceed without further instructions.
+8. The statement could be a reflection of the speaker's preference for explicit guidance or direction.
+9. The statement could be a way of avoiding responsibility or decision-making.
+10. The context does not provide any information about the consequences of taking action without further instructions.</s>

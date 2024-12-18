@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: of course you could annex Cuba but they wouldn't like that a bit 
+Statement: Cubans would go up in arms if we tried to annex Cuba. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* "they wouldn't like that a bit" implies strong opposition, which would manifest as violent resistance or going "up in arms".
+* The use of "wouldn't like that a bit" suggests a strong negative emotional response, which would lead to a passionate and potentially violent reaction.
+* The idea of annexation implies a loss of autonomy and sovereignty, which would be a highly provocative and inflammatory act, likely to elicit a strong and violent response from Cubans.
+* The phrase "go up in arms" is a common idiomatic expression for violent rebellion or resistance, which is a plausible consequence of an annexation attempt given the context.
+* The tone of the context implies a sense of warning or caution, suggesting that attempting to annex Cuba would have severe and potentially violent consequences, including Cubans going "up in arms".<|eot_id|>

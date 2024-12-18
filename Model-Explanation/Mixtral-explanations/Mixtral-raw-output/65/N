@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Earlier this week, the Pakistani paper Dawn ran an editorial about reports that Pakistani poppy growers are planning to recultivate opium on a bigger scale because they haven't received promised compensation for switching to other crops. 
+Statement: It is illegal to grow opium in Pakistan. 
+Answer: [/INST] 1. The editorial may not have taken a clear stance on the legality of opium cultivation.
+2. The editorial may be discussing historical opium cultivation practices.
+3. The editorial may be referring to a specific region in Pakistan where opium cultivation is legal.
+4. The statement may be assuming that the current laws apply to the situation being discussed.
+5. The editorial may be discussing exceptions to the general illegality of opium cultivation.
+6. The statement may not account for changes in legislation since it was written.
+7. The statement may not be taking into account any potential loopholes in the law.
+8. The statement may not be considering the possibility of illegal but unpunished cultivation.
+9. The statement may not be considering the possibility of legal cultivation for medicinal or research purposes.
+10. The statement may not be considering the possibility of temporary amnesty or other transitional measures.</s>

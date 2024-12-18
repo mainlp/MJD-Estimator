@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: approaches to achieving missions vary considerably between agencies. 
+Statement: Approaches to achieving missions might change a lot. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions that approaches vary between agencies, but it does not provide information about whether they change over time.
+* The statement is about potential change, whereas the context is about variation between agencies, which are different concepts.
+* The context does not provide enough information to determine whether the approaches are likely to change or not.
+* The statement is too vague, and it's unclear what "a lot" means in this context.
+* The context is about differences between agencies, whereas the statement is about potential change, which is a different aspect.
+* The statement is a speculation, and the context does not provide evidence to support or refute it.<|eot_id|>

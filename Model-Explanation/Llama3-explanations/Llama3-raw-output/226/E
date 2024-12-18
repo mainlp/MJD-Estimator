@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Enlarging the village was not desirable and most knew that Severn only desired wealth and a seat on the council of elders. 
+Statement: Severn was happy being poor. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is false, as the context implies Severn desired wealth.
+* The context does not provide enough information to determine Severn's happiness level in relation to being poor.
+* The statement is an ironic or sarcastic interpretation, as Severn's desire for wealth implies the opposite of being happy being poor.
+* The context focuses on Severn's desires, not their current emotional state, so it cannot be inferred that Severn is happy being poor.
+* The statement is a non-sequitur, as the context does not provide any information about Severn's emotional state or happiness level.<|eot_id|>

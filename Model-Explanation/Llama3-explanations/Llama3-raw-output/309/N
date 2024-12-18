@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The activities included in the Unified Agenda are, in general, those expected to have a regulatory action within the next 12 months, although agencies may include activities with an even longer time frame. 
+Statement: Some actions were implemented for being shorter than 12 months. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not provide information about actions being implemented, only about activities being included in the Unified Agenda.
+* The context does not specify that all activities with a time frame shorter than 12 months will be implemented.
+* The context does not provide a direct correlation between the time frame of an activity and its implementation.
+* The statement is making a claim about the past (actions were implemented), while the context is discussing the future (activities expected to have a regulatory action).
+* The context does not provide enough information to determine whether some actions were implemented due to their shorter time frame or for other reasons.
+* The statement is too vague, and it's unclear what "some actions" refers to, making it difficult to determine the relationship with the context.<|eot_id|>

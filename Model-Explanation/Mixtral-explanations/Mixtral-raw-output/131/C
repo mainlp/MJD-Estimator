@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: And far, far away- lying still on the tracks- was the back of the train. 
+Statement: The train wasn't moving but then it started up. 
+Answer: [/INST] 1. The train started moving again, but it was a different train than the one lying still on the tracks.
+2. The front of the train was moving, but the part near the back where it was still on the tracks remained stationary.
+3. The train was being pulled by another vehicle, so while the overall train system moved, the train itself on the tracks did not.
+4. The train was an illusion or not a real train, and therefore it couldn't move.
+5. The train was magically made to disappear from the tracks before it could start moving.
+6. The train was destroyed or dismantled while it was still on the tracks, preventing it from starting up.
+7. The train was already in motion when it was described as being still on the tracks.
+8. The statement is a lie or untrue.
+9. The speaker did not have the full information about the train's status when making the statement.
+10. The statement is a misunderstanding or misinterpretation of the situation.</s>

@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: uh plastic is just too easy i mean that's the that's the whole problem with it um have 
+Statement: I find plastic to be too easy to use. 
+Answer: [/INST] 1. The person finds plastic difficult to use.
+2. The person struggles with plastic.
+3. Plastic is not easy to use, according to the person.
+4. The person's experience with plastic is that it is not easy to use.
+5. Plastic presents challenges for the person.
+6. The person has difficulty with plastic.
+7. Plastic is not user-friendly for the person.
+8. The person does not find plastic to be easy to use.
+9. Plastic is difficult for the person to handle.
+10. The person cannot use plastic with ease.</s>

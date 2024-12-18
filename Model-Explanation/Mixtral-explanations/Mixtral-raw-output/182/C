@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: He watched the river flow. 
+Statement: The river roared by. 
+Answer: [/INST] 1. The river was barely flowing, barely making any sound.
+2. The river was actually frozen, not flowing at all.
+3. The river was flowing, but very slowly and silently.
+4. The river was being obstructed, preventing it from flowing.
+5. The river was flowing in a different location, not near him.
+6. The sound of the river was muffled or drowned out by other sounds.
+7. The river was flowing, but it was not roaring.
+8. The river was artificially controlled, not flowing naturally.
+9. The river was covered or hidden from view.
+10. The statement is false because the river was not roaring, but the statement "The river flowed by" would be true.</s>

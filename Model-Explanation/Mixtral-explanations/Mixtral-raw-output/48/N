@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: I had rejected it as absurd, nevertheless it persisted.  
+Statement: I rejected it as absurd but it persisted out of protest. 
+Answer: [/INST] 1. The context doesn't explicitly state that the persistence was due to protest.
+2. There could be other reasons for the persistence, not just protest.
+3. The author of the context might not know the reason for the persistence.
+4. The perspective of the statement is different from the context (first person in statement, third person in context).
+5. The statement assumes a reason for the persistence, while the context does not.
+6. The context might imply a different reason for the persistence.
+7. The statement goes beyond the information provided in the context.
+8. The statement makes an assumption about the motivations of the persisting entity.
+9. The context and statement come from different points in time or different situations.
+10. The statement might be assuming that the rejection was the only reason for the persistence, while the context does not support this assumption.</s>

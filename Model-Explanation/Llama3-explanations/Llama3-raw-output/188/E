@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: uh somewhat they're not my favorite team i am uh somewhat familiar with them 
+Statement: They are the best team in the league, by they are not my favorite. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The speaker is familiar with the team but doesn't like them the most.
+* The team's quality and the speaker's preference are separate entities.
+* Being the best team in the league is a fact, but it doesn't affect the speaker's personal preference.
+* The speaker can acknowledge the team's superiority without having a personal affinity for them.
+* The speaker's familiarity with the team doesn't necessarily imply they are their favorite.
+* The speaker is making a distinction between objective assessment (best team) and subjective opinion (favorite team).<|eot_id|>

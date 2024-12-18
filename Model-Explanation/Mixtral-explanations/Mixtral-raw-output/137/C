@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Bush the elder came of age when New England Republicans led the party, and patrician manners were boons to a Republican. 
+Statement: New England Republicans were weak. 
+Answer: [/INST] 1. High influence of New England Republicans during Bush the elder's upbringing.
+2. Patrician manners, associated with New England Republicans, were advantageous for a Republican.
+3. No indication in the context that New England Republicans were weak during the time in question.
+4. The focus on New England Republicans leading the party suggests a position of power, not weakness.
+5. Bush the elder's success can be attributed to the support and guidance he received from New England Republicans.
+6. The context implies a thriving Republican party influenced by New England Republicans, contradicting the statement of weakness.</s>

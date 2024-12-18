@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: True devotees talk shop at even more specialized groups, such as one on Northeastern weather (ne.weather), whose recent conversation topics included the great blizzard of 1978 and the freak snowstorm of May 1977. 
+Statement: Ne.weather is a general discussion group, not only about weather.  
+Answer: [/INST] 1. The context does not specify the full range of topics discussed by ne.weather group.
+2. The group may discuss other topics in addition to weather.
+3. The statement could be true if the group discusses weather-related technologies or phenomena.
+4. The group may have occasional discussions about non-weather topics.
+5. The context only provides a few examples of the group's conversation topics.
+6. The group's name (ne.weather) might be misleading, but it could still discuss other related topics.
+7. The group may discuss the impact of weather on other areas, such as transportation or agriculture.
+8. The group could have sub-topics that are not strictly about weather.
+9. The group may have a weather focus, but also discuss related policy or preparedness issues.
+10. The group may discuss historical weather events, which could be considered as both weather and history.</s>

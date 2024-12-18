@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The door opened and Severn stepped out. 
+Statement: They were waiting for someone to open the door for them. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true:
+
+* Severn was waiting for someone to open the door for them and they opened it themselves.
+* Someone else was waiting for someone to open the door for them and Severn opened it.
+* Severn was part of a group that was waiting for someone to open the door for them and they opened it.
+* The door was locked or stuck and Severn had to open it, implying that they were waiting for someone to open it for them.
+* Severn was not physically able to open the door themselves and were waiting for someone to open it for them, but somehow managed to open it anyway.<|eot_id|>

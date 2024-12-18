@@ -1,0 +1,15 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: As legal scholar Randall Kennedy wrote in his book Race, Crime, and the Law , Even if race is only one of several factors behind a decision, tolerating it at all means tolerating it as potentially the decisive factor. 
+Statement: Race is one of several factors in some judicial decisions 
+Answer: [/INST] 1. Race is never the decisive factor in any judicial decision.
+2. Race is the only factor in some judicial decisions.
+3. Race is not a factor in any judicial decision.
+4. Race is not one of the factors in any judicial decision.
+5. Race is not a significant factor in any judicial decision.
+6. Race is not considered in some judicial decisions.
+7. Race is not allowed to be a factor in any judicial decision.
+8. Race is not taken into account in some judicial decisions.
+9. Race is not a relevant factor in any judicial decision.
+10. Race is not a partial factor in some judicial decisions.
+11. Race is not a considered factor in some judicial decisions.
+12. Race is not a factor that plays any role in some judicial decisions.</s>

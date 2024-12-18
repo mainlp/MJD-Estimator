@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: We always knew it was an outside chance. 
+Statement: We were never assured of it happening in time and we knew this full well. 
+Answer: [/INST] 1. The statement is true because the context indicates that the occurrence was never certain, but rather an "outside chance," implying a lack of assurance.
+2. The statement is true because the context shows that the speakers were aware of the uncertainty, which aligns with the idea of not being assured of something happening in time.
+3. The statement is true because the context expresses a low probability of the event happening, and being "never assured" is consistent with this low probability.
+4. The statement is true because the context implies that the speakers had doubts about the timing of the event, which is in line with not being assured of it happening in time.</s>

@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Both initial and supplemental proposed rule publications invited comments on the information collection requirements imposed by the rule. 
+Statement: There's no point in following politics or voting because your vote won't actually make a difference. 
+Answer: [/INST] 1. The context and statement are unrelated, as the context discusses rule publications and comment invitations, while the statement discusses the impact of voting.
+2. The statement's claim that an individual's vote does not make a difference is unrelated to the context about rule publications.
+3. The statement's assertion that following politics is not worthwhile is not addressed or supported by the context about rule publications.
+4. The context does not provide any information that could refute or support the statement's claim about the effectiveness of voting.
+5. The context does not discuss any connection between rule publications and political participation or voting, so it cannot support the statement's claim.
+6. The statement's claim that political engagement is pointless is not related to the context about inviting comments on rule publications.
+7. The context does not provide any evidence that political participation or voting is ineffective, so it cannot support the statement's claim.
+8. The context does not address the statement's claim that an individual's vote has no impact, so it cannot be used to support the statement's assertion.
+9. The context does not provide any information about the significance of voting or

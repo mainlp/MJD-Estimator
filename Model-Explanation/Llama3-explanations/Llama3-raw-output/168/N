@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Both initial and supplemental proposed rule publications invited comments on the information collection requirements imposed by the rule. 
+Statement: There's no point in following politics or voting because your vote won't actually make a difference. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not provide any information about the effectiveness of individual votes or the relevance of following politics, making it impossible to infer the truth of the statement.
+* The context is about proposed rule publications and information collection requirements, which is unrelated to the topic of voting and politics, making the statement's truth value unknown.
+* There is no mention of the impact of individual votes or the democratic process in the context, leaving the statement's claim unsubstantiated.
+* The context does not provide any evidence or data to support or refute the statement's claim about the effectiveness of individual votes.
+* The statement's topic is outside the scope of the provided context, making it impossible to determine its truth value based on the given information.
+* The context does not address the issue of whether individual votes can make a difference, making the statement's claim uncertain.
+* There is no logical connection between the context and the statement, making it impossible to infer the statement's truth value.<|eot_id|>

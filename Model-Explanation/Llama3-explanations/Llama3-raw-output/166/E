@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: right oh they've really done uh good job of keeping everybody informed of what's going on sometimes i've wondered if it wasn't almost more than we needed to know 
+Statement: I think I have shared too much information with everyone, so next year I will share less.  
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The speaker feels they have been over-informed, implying they might have contributed to the excess of information.
+* The speaker is reflecting on the experience and deciding to adjust their own behavior to avoid overwhelming others.
+* The speaker is making a humorous, ironic comment about the situation, implying they will intentionally share less to counterbalance the excess.
+* The speaker is taking responsibility for sharing too much and is making a conscious decision to be more mindful of the amount of information they share in the future.
+* The speaker is drawing a parallel between the situation and their own behavior, recognizing that they might have been guilty of sharing too much information in the past.<|eot_id|>

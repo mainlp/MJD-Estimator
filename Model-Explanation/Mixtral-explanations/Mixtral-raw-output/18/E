@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Marriage is an important institution. 
+Statement: Marriage is crucial to society. 
+Answer: [/INST] 1. Marriage's significance to individuals extends to its importance for society as a whole.
+2. The institution of marriage plays a critical role in maintaining social structure and values.
+3. Marriage's importance implies its cruciality in shaping societal norms and behaviors.
+4. The absence or weakening of the marriage institution could negatively impact society, demonstrating its cruciality.
+5. Marriage contributes to societal stability and cohesion, making it indispensable for a well-functioning society.
+6. The institution of marriage is a fundamental building block of society, making it a crucial component for social development and harmony.</s>

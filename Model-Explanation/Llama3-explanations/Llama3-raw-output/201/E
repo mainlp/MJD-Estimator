@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: On the northwestern Alpine frontier, a new state had appeared on the scene, destined to lead the movement to a united Italy. 
+Statement: The alpine frontier was separated from Italy by glaciers. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are possible explanations why the statement is true (entailment):
+
+* The context mentions "northwestern Alpine frontier", implying a geographical location, and the Alpine frontier is known to have glaciers.
+* The term "Alpine" is often associated with mountains and glaciers, so it is likely that the Alpine frontier has glaciers.
+* The context does not explicitly state that the Alpine frontier is part of Italy, suggesting that it might be a separate geographical entity, which could be separated from Italy by glaciers.
+* The phrase "on the scene" implies a sense of distance or separation, which could be due to the presence of glaciers between the Alpine frontier and Italy.<|eot_id|>

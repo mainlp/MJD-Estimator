@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: He touched it and felt his skin swelling and growing hot. 
+Statement: His skin was burning. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+1. "Swelling" and "growing hot" are symptoms commonly associated with burning skin.
+2. The physical sensations described (swelling and heat) are consistent with the sensation of burning.
+3. The cause-and-effect relationship between touching something and experiencing skin swelling and heat implies a burning sensation.
+4. The use of "hot" to describe the skin implies a high temperature, which is a characteristic of burning.
+5. The phrase "his skin swelling" suggests an intense physical reaction, which is often accompanied by a burning sensation.
+6. The context implies a sudden and intense physical response, which is consistent with the experience of burning skin.<|eot_id|>

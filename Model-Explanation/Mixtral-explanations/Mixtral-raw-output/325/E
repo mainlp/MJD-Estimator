@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: According to a 1995 Financial Executives Research Foundation report,5 transaction processing and other routine accounting activities, such as accounts payable, payroll, and external reporting, consume about 69 percent of costs within finance. 
+Statement: The financial world would be ok it there wasn't any 5 percent processing. 
+Answer: [/INST] 1. The 5% transaction processing is included in the 69% of costs within finance.
+2. The remaining 64% of costs still left after excluding the 5% processing is sufficient to support other essential financial activities.
+3. The financial world relies less on the 5% transaction processing.
+4. The 5% transaction processing is not critical to the functioning of the financial world.
+5. The financial world can still operate efficiently without the 5% transaction processing.
+6. The 5% transaction processing is not integral to the financial world's operations.
+7. The financial world can still thrive without the 5% transaction processing.
+8. The 5% transaction processing does not significantly impact the financial world.
+9. The financial world can still be stable without the 5% transaction processing.
+10. The 5% transaction processing is not a necessary component of the financial world.</s>

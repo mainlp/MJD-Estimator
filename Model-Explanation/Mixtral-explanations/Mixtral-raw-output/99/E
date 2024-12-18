@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The original wax models of the river gods are on display in the Civic Museum. 
+Statement: They have models made out of clay. 
+Answer: [/INST] 1. The museum also displays clay models of the river gods, in addition to the original wax ones.
+2. The wax models in the museum are replicas, and the original river god models are made of clay.
+3. The statement is false, and the museum only displays wax models of the river gods, not clay ones.</s>

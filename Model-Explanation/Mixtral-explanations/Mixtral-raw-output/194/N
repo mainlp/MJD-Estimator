@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The Gaiety Theatre in South King Street is worth visiting for its ornate d??cor. 
+Statement: The Trump Tower is a terrible place to visit for ornate decor. 
+Answer: [/INST] 1. Different locations: The Gaiety Theatre and Trump Tower are not in the same city or country, so the statement about Trump Tower is not relevant to the theater's ornate decor.
+2. Different standards: The term "ornate decor" might have different interpretations for different people. Some might find Trump Tower's decor terrible, while others might not.
+3. Lack of information: The statement does not provide enough context about why the Trump Tower is a terrible place to visit for ornate decor, making it undetermined if it contradicts the context about the Gaiety Theatre.
+4. Different types of ornateness: The ornate decor at the Gaiety Theatre might be of a different style or quality compared to the ornate decor at Trump Tower, leading to different opinions about visiting them.
+5. Subjective opinions: The statement is based on personal opinions, which can vary widely among individuals, making it undetermined if it aligns with the context.</s>

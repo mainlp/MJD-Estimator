@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: it's like but the time we went to Florida and needed to rent a car you know he believed in it 
+Statement: We rented a car while we were in Florida. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions that "he believed in it", but it's unclear what "it" refers to, making it difficult to determine the relationship between the context and the statement.
+* The context mentions a past event, but the statement is a simple declaration of a fact, without providing any additional information that would allow us to infer a clear entailment or contradiction.
+* The context does not provide enough information to determine whether the car rental was successful or not, or whether it was related to "it" that "he believed in".
+* The statement is too generic and lacks specific details that would allow us to determine its relationship with the context.
+* The context is more focused on "he believed in it" rather than the car rental itself, making it difficult to determine the relevance of the statement to the context.
+* There is no clear causal or temporal relationship between the context and the statement that would allow us to determine a clear entailment or contradiction.<|eot_id|>

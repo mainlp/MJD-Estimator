@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Whether a government postal service can engage in these kinds of negotiations deserves serious study. 
+Statement: There is serious study needed to check. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The subject of the study is different (government postal service vs. "it" or "check")
+* The context implies that the study is about the government postal service's ability to engage in negotiations, but the statement is about studying something else
+* The statement is too vague, and "check" is not a clear or specific topic for study
+* The tone of the context is more formal and serious, while the statement is more casual and informal
+* The context implies a more in-depth or thorough examination, while the statement implies a simpler or more superficial "check"<|eot_id|>

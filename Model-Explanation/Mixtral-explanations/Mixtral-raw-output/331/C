@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Then he is very sure. 
+Statement: He is very sure of himself. 
+Answer: [/INST] * He is not sure about himself.
+* He doubts himself.
+* He lacks confidence in himself.
+* He is unsure of his abilities.
+* He is not certain about his actions.
+* He is not positive about himself.
+* He is not convinced of his own thoughts.
+* He is hesitant about his own decisions.
+* He is not affirmative about himself.
+* He is not decisive about himself.</s>

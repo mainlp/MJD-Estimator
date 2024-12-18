@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: And she came to you? 
+Statement: The person asked if the woman came to him. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The pronoun "she" in the context refers to the woman mentioned in the statement.
+* The phrase "came to you" in the context implies that the woman's action is directed towards the person being referred to, which is the same person mentioned in the statement.
+* The context is a question, and the statement is a paraphrased version of that question, making them semantically equivalent.
+* The context and the statement share the same meaning and entailment, with the statement being a more explicit and direct formulation of the context.<|eot_id|>

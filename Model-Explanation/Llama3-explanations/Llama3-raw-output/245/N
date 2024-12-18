@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: How effectively DOD manages these funds will determine whether it receives a good return on its investment. 
+Statement: The DOD is certain to have a bad return on these funds. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions that effective management determines a good return, but does not provide information about the DOD's management effectiveness.
+* The context does not provide any information about the DOD's current or past performance in managing funds.
+* The statement makes a claim about a bad return, but the context only discusses a good return, without providing any information about the opposite scenario.
+* The context does not provide any evidence or hints that would suggest the DOD is likely to mismanage the funds.
+* The statement's certainty ("is certain to") is not supported by the context, which only establishes a conditional relationship between management and return.
+* The context does not provide any information about external factors that could affect the return on investment, which might influence the DOD's performance.<|eot_id|>

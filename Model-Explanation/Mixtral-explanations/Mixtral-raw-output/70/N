@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: It was made up to look as much like an old-fashioned steam train as possible. 
+Statement: It was built in the modern era to look like something built in the past. 
+Answer: [/INST] 1. The information provided in the context does not specify the time period when the object was built, only its appearance.
+2. The context does not mention whether the object is a real steam train or just a replica.
+3. The statement is more general than the context, as it does not specify what kind of object was built to look like something from the past.
+4. The context does not provide information about the purpose of building the object to resemble an old-fashioned steam train.
+5. The statement does not indicate how closely the object resembles an old-fashioned steam train.
+6. The context does not provide information about the methods or techniques used to create the resemblance.
+7. The statement does not specify whether the object was built in the modern era specifically to look like an old-fashioned steam train or if it was built for some other purpose and happened to resemble one.
+8. The context does not provide information about the features or characteristics of the object that were modified to create the resemblance.
+9. The statement does not indicate whether the object is a full-scale replica or a miniature model.
+10. The context does not

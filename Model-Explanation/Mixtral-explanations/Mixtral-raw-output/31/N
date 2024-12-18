@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The air is warm. 
+Statement: The arid air permeates the surrounding land. 
+Answer: [/INST] 1. The context doesn't specify whether the warm air is also arid.
+2. The statement doesn't indicate if the arid air is currently affecting the land.
+3. There is no information about the location or extent of the warm air.
+4. The relationship between warm air and arid air is not defined in the context.
+5. The context doesn't mention if the arid air is in the same location as the warm air.
+6. The statement doesn't provide information about the temperature of the arid air.
+7. The effect of warm air on arid air, or vice versa, is not specified in the context.
+8. The context doesn't indicate if the arid air is affecting the temperature of the land.</s>

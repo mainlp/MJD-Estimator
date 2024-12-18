@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: An organization's activities, core processes, and resources must be aligned to support its mission and help it achieve its goals. 
+Statement: An organization is successful if its activities, resources, and goals align. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is too simplistic, as success depends on many other factors beyond alignment.
+* Alignment is necessary but not sufficient for success.
+* The organization's mission is not mentioned in the statement, which is a crucial aspect of the context.
+* The statement does not specify what kind of alignment is required (e.g., partial, complete, optimal).
+* The statement implies that alignment is the only factor contributing to success, which is not the case.
+* The context mentions "core processes" which are not included in the statement.
+* The statement does not define what "successful" means in this context.
+* The statement is a circular definition, as it does not provide any additional information beyond the context.<|eot_id|>

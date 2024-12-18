@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: It vibrated under his hand. 
+Statement: It hummed quietly in his hand. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* Vibrating and humming are similar sounds, and the vibration could be a manifestation of the humming.
+* The vibration could be a physical response to the humming, such as the object's motor or mechanism causing the vibration.
+* The humming could be a low-pitched sound that is perceived as a vibration, especially if it's quiet.
+* The vibration and humming could be two simultaneous effects of the same underlying cause, such as the object's operation or movement.
+* The vibration could be a tactile sensation that is accompanied by a quiet humming sound.<|eot_id|>

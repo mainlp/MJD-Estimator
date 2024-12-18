@@ -1,0 +1,15 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: He watched the river flow. 
+Statement: The river roared by. 
+Answer: [/INST] 1. The river was flowing with great force, creating a roaring sound.
+2. The river was swollen and moving quickly, causing a roaring noise.
+3. He was near a river with waterfalls, and the sound of the water flowing over the falls was a roar.
+4. The river was flowing through a narrow gorge, causing a roaring sound.
+5. There were large rocks in the river, causing the water to flow forcefully and create a roaring noise.
+6. The river was in close proximity to the person, and the sound of the water moving was loud enough to be described as a roar.
+7. The river was flowing with a strong current, creating a roaring sound.
+8. The river was in a state of flood, and the water was moving with great force and noise.
+9. The river was flowing over a dam, creating a roaring sound.
+10. The river was flowing through a rapid, creating a roaring sound.
+11. The river was in a mountainous area, and the sound of the water flowing over rocks and through narrow passages was a roar.
+12. The river was flowing with high volume

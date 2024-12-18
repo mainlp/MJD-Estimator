@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: It can entail prospective and retrospective designs and it permits synthesis of many individual case studies undertaken at different times and in different sites. 
+Statement: It can entail prospective and retrospective designs for system redesigns. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true:
+
+* The context mentions "it can entail prospective and retrospective designs" without specifying a particular application, so it can be inferred that this entailment is possible for system redesigns as well.
+* The phrase "it permits synthesis of many individual case studies" implies that the method is flexible and can be applied to various scenarios, including system redesigns.
+* The context does not exclude system redesigns as a possible application, and the statement is a specific instance of the general claim made in the context.
+* The word "it" in the context and the statement refers to the same entity, which has the capability of entailing prospective and retrospective designs, including for system redesigns.
+* The context's mention of "different times and different sites" suggests that the method can be applied to various contexts, including system redesigns, which may occur at different times and in different sites.<|eot_id|>

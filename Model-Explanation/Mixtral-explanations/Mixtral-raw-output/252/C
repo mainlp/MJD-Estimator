@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Catch up on the Indian avant-garde and the bohemian people of Caletta at the Academy of Fine Arts on the southeast corner of the Maidan. 
+Statement: The Academy of Fine Arts is located in Northern Maidan. 
+Answer: [/INST] 1. The Academy of Fine Arts has been recently relocated.
+2. The Maidan has two academies of fine arts.
+3. The speaker made a mistake in stating the location.
+4. The Maidan's name was changed.
+5. The original context was incorrect.
+6. The Academy of Fine Arts has multiple branches.
+7. The speaker is not familiar with the location.
+8. The Maidan is a large area with different sections.
+9. The Academy of Fine Arts was moved to a different building.
+10. The speaker is playing a prank or being sarcastic.</s>

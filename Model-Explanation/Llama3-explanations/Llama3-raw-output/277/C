@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: I guess history repeats itself, Jane. 
+Statement: I truly think the prior situation shows history repeats itself. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The speaker's tone in the context is uncertain ("I guess"), but the statement is confident ("I truly think").
+* The context is casual ("I guess"), but the statement is formal ("I truly think").
+* The context expresses a possibility ("history repeats itself"), but the statement expresses a certainty ("the prior situation shows history repeats itself").
+* The context is a casual observation, but the statement is a definitive conclusion.
+* The speaker's language in the context is tentative ("I guess"), but the statement is assertive ("I truly think").<|eot_id|>

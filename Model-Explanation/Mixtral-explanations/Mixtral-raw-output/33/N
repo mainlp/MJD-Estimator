@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: News berates computer users for picking obvious, easily cracked passwords and chastises system administrators for ignoring basic security precautions. 
+Statement: Users and system administrators both do not prioritize security. 
+Answer: [/INST] 1. The news could be only referring to "users" in the context, and not system administrators when discussing the lack of prioritization of security.
+2. The news could be only referring to "system administrators" in the context, and not users when discussing the lack of prioritization of security.
+3. The users may generally pick obvious, easily cracked passwords due to lack of knowledge about security best practices, not necessarily because they do not prioritize security.
+4. The system administrators may be ignoring basic security precautions due to lack of resources or constraints, not because they do not prioritize security.
+5. Both users and system administrators may prioritize other aspects of computer usage over security, leading to the observed behavior without either party explicitly not prioritizing security.</s>

@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The tip was hooked towards the edge, the same way the tips are hammered for knives used for slaughter. 
+Statement: They were fragile and could not leave a scratch. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The tip was hooked towards the edge, implying it was strong and sharp enough to cause damage.
+* The comparison to knives used for slaughter suggests the tip was designed for heavy-duty use, contradicting the idea of being fragile.
+* The fact that the tips are hammered for knives used for slaughter implies a level of robustness, making it unlikely they would be fragile.
+* The shape and design of the tip, being hooked towards the edge, would allow it to leave a scratch, contradicting the statement.<|eot_id|>

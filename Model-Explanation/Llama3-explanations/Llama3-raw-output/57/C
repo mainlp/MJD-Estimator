@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: life in prison then he's available for parole if it's if it's life and a day then he's not eligible for parole so what you know let's quit BSing with the system 
+Statement: The system is corrupt because he won't be able to get parole if it's life and a day. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The system is not corrupt because the rule is clear and consistent: life and a day means no parole.
+* The system is not corrupt because the distinction between life in prison and life and a day is a legitimate legal distinction.
+* The system is not corrupt because the speaker is aware of the rule and is simply unhappy with it.
+* The system is not corrupt because the rule may be based on a legitimate policy decision to deny parole in certain cases.
+* The system is not corrupt because the speaker's frustration with the rule does not necessarily imply corruption.
+* The system is not corrupt because the rule may be applied consistently and fairly in all similar cases.<|eot_id|>

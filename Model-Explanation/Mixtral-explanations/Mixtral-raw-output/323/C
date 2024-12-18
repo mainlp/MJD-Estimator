@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: I am glad she wasn't, said Jon. 
+Statement: Jon was sad that she wasn't happy. 
+Answer: [/INST] 1. Jon was glad she wasn't unhappy.
+2. Jon was relieved she wasn't sad.
+3. Jon was content she wasn't upset.
+4. Jon was pleased she wasn't depressed.
+5. Jon was happy she wasn't miserable.
+6. Jon expressed satisfaction that she wasn't unhappy.
+7. Jon showed joy that she wasn't sad.
+8. Jon manifested contentment that she wasn't upset.
+9. Jon demonstrated pleasure that she wasn't depressed.
+10. Jon signified happiness that she wasn't miserable.</s>

@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: As legal scholar Randall Kennedy wrote in his book Race, Crime, and the Law , Even if race is only one of several factors behind a decision, tolerating it at all means tolerating it as potentially the decisive factor. 
+Statement: Race is one of several factors in some judicial decisions 
+Answer: [/INST] 1. The statement implies that race is a factor in some judicial decisions, which aligns with the context.
+2. The context mentions that even if race is just one of several factors, it should not be tolerated, suggesting that it is indeed a factor in some decisions.
+3. The legal scholar Randall Kennedy explicitly states in his book that race is a factor in judicial decisions, supporting the statement.
+4. The phrase "potentially the decisive factor" in the context implies that race can influence the outcome of a judicial decision, which is consistent with the statement.
+5. The context's emphasis on the intolerability of race as a factor in decisions suggests that it does occur, as in the statement.</s>

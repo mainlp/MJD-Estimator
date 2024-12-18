@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Then you're ready for the fray, either in the bustling great bazaars such as Delhi's Chandni Chowk or Mumbai's Bhuleshwar, or the more sedate ambience of grander shops and showrooms. 
+Statement: All of the great bazaars are bustling at all times. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context describes "bustling great bazaars" which implies that all great bazaars are bustling.
+* The phrase "such as Delhi's Chandni Chowk or Mumbai's Bhuleshwar" suggests that these examples are representative of all great bazaars, and they are described as bustling.
+* There is no mention of any great bazaar that is not bustling, implying that all of them are.
+* The contrast with "the more sedate ambience of grander shops and showrooms" highlights the bustling nature of great bazaars, implying that it is a characteristic that defines them.<|eot_id|>

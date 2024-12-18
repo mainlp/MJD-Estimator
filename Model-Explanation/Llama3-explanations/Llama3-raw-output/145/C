@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Strange as it may seem to the typical household, capital gains on its existing assets do not contribute to saving as measured in NIPA. 
+Statement: NIPA considers cat fur when it defines savings. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* NIPA (National Income and Product Accounts) is a system of national accounts, not a system that tracks or considers physical objects like cat fur.
+* The context mentions NIPA in relation to measuring savings, which is an economic concept, whereas cat fur is a biological entity unrelated to economics.
+* There is no logical connection between cat fur and the concept of savings in economics.
+* NIPA is a framework for measuring economic activity, and cat fur is not an economic entity that can be measured or accounted for in this context.
+* The context implies that NIPA is concerned with measuring economic concepts like capital gains and savings, which are unrelated to cat fur.<|eot_id|>

@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: On the northwestern Alpine frontier, a new state had appeared on the scene, destined to lead the movement to a united Italy. 
+Statement: The alpine frontier was separated from Italy by glaciers. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context mentions the "northwestern Alpine frontier", implying a geographic location adjacent to or part of the Alps, whereas the statement claims it was separated from Italy, which contradicts the idea of a frontier being a border or boundary.
+* The context does not mention glaciers as a separating feature, whereas the statement claims they did, which is an unsupported and contradictory claim.
+* The context implies a connection or proximity between the Alpine frontier and Italy, whereas the statement claims they were separated, which is a contradictory relationship.
+* The term "frontier" typically implies a border or boundary, which would not be separated from the adjacent territory by a natural feature like glaciers, making the statement contradictory.
+* The context is discussing the emergence of a new state leading to a united Italy, which suggests a geographic and political connection, whereas the statement claims a physical separation, which is contradictory to the context's tone and purpose.<|eot_id|>

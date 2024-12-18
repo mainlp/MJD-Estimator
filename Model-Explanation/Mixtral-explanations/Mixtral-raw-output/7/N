@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The city was founded in the third millennium b.c. on the north shore of the bay, and reached a peak during the tenth century b.c. , when it was one of the most important cities in the Ionian Federation the poet Homer was born in S myrna during this period. 
+Statement: The city was founded in the third millennium 
+Answer: [/INST] 1. The context does not specify the exact date of the city's founding within the third millennium b.c.
+2. The context does not provide information about who founded the city in the third millennium b.c.
+3. The context does not mention if the city was continuously inhabited from its founding until the tenth century b.c.
+4. The context does not provide information about the city's significance or status during the entire third millennium b.c.
+5. The context does not specify if the city was re-founded or re-established in the third millennium b.c.
+6. The context does not provide information about the city's name at the time of its founding.</s>

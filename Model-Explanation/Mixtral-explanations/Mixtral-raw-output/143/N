@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: No, Dave Hanson, you were too important to us for that. 
+Statement: No, Dave Hanson, we couldn't risk your life becaus you are too important to us. 
+Answer: [/INST] 1. The context does not explicitly state that the situation involves risking Dave Hanson's life.
+2. The context does not provide information on the reason why Dave Hanson's importance precludes any action.
+3. The statement assumes a specific reason for not taking a risk with Dave Hanson's life, which is not present in the context.
+4. The context does not indicate whether the situation has changed, making the statement's relevance unclear.
+5. The statement might be expressing a different level or type of importance compared to the context.
+6. The context does not specify the nature of Dave Hanson's importance, leaving room for ambiguity in the statement.
+7. The context does not reveal if there are any other factors that could affect the decision-making process.
+8. The statement could be implying a more significant risk than what the context suggests.
+9. The context does not provide information on whether there are any alternatives to taking a risk with Dave Hanson's life.
+10. The statement might be assuming a stronger emotional connection to Dave Hanson than what the context implies.</s>

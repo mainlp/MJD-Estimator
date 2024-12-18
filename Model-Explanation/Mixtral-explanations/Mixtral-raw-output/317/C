@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The percent of total cost for each function included in the model and cost elasticity (with respect to volume) are shown in Table 1. 
+Statement: Table 1 also shows a picture diagram for each function. 
+Answer: [/INST] 1. Table 1 only contains numerical data, not pictures or diagrams.
+2. There is no correlation between Table 1 and any picture diagrams.
+3. The picture diagrams are presented in a separate table or figure, not in Table 1.
+4. The picture diagrams are embedded within the text, not in Table 1.
+5. The picture diagrams are represented as links to external resources, not in Table 1.
+6. The picture diagrams are not provided at all.
+7. The picture diagrams are not relevant to the functions included in the model.
+8. The picture diagrams are duplicative of the information already presented in Table 1.
+9. The picture diagrams are not accurate representations of the functions included in the model.
+10. The picture diagrams are incomplete or missing key information.</s>

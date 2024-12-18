@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: News berates computer users for picking obvious, easily cracked passwords and chastises system administrators for ignoring basic security precautions. 
+Statement: Users and system administrators both do not prioritize security. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context does not explicitly state that users and system administrators have the same level of negligence towards security.
+* The context only mentions that users pick obvious passwords and system administrators ignore basic security precautions, but it does not directly compare their levels of prioritization.
+* The statement implies a equal lack of prioritization, but the context does not provide enough information to confirm or deny this.
+* The context focuses on criticizing both parties, but it does not provide a direct comparison of their actions or attitudes towards security.
+* The statement is too general and does not capture the nuances of the context, which highlights different aspects of the security issue (passwords vs. basic precautions).
+* The context does not provide enough evidence to determine whether users and system administrators have the same level of responsibility or accountability for security.<|eot_id|>

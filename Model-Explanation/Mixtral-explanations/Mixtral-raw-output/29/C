@@ -1,0 +1,4 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: I can FEEL him." 
+Statement: I can sense his presence. 
+Answer: [/INST] The statement "I can sense his presence" is a false contradiction to the context "I can FEEL him" because both can be true at the same time. Feeling someone's presence can be a form of sensing their presence. A contradiction would be if the statement was "I can't feel him," implying that the person is not aware of his presence at all.</s>

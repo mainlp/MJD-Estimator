@@ -1,0 +1,17 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: It's come back? cried Julius excitedly. 
+Statement: They were excited to hear it will come back. 
+Answer: [/INST] 1. Only some individuals were excited, not all.
+2. They were previously informed that it will come back, not just now.
+3. The excitement is not about it coming back, but about something else.
+4. They were informed that something else, not it, will come back.
+5. The "it" in the context and the statement refer to different things.
+6. The statement is about a different group of people, not the one in the context.
+7. The statement is sarcastic or insincere, expressing hidden emotions.
+8. The statement is a rhetorical question, expressing disbelief or surprise.
+9. The statement is a hypothetical or counterfactual scenario.
+10. The statement is a past event, while the context is in the present.
+11. The statement is about a recurring event, while the context is about a single event.
+12. The statement is about a metaphorical or figurative "coming back", while the context is about a literal one.
+13. The statement is a misunderstanding or misinterpretation of the information.
+14. The statement is a deliberate lie

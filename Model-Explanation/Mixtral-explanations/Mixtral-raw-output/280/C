@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: After their savage battles, the warriors recuperated through meditation in the peace of a Zen monastery rock garden. 
+Statement: The warriors recuperated through mediation learned from monks. 
+Answer: [/INST] 1. The warriors learned meditation techniques from sources other than monks.
+2. The meditation techniques the warriors used were not taught by the monks but discovered on their own.
+3. The warriors already knew how to meditate before meeting the monks.
+4. The so-called "meditation" was actually something else, not the meditation taught by the monks.
+5. The warriors only pretended to meditate, without actually learning it from the monks.
+6. The monks did not teach meditation, but some other activity for recuperation.
+7. The warriors did not recuperate, despite learning meditation from the monks.
+8. The statement is true, but the context is incorrect, as the warriors learned meditation from monks before the battles.</s>

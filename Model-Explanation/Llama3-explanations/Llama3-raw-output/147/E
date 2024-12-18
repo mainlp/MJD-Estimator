@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: No, monsieur. 
+Statement: The speaker is answering no to a question. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The speaker is responding to a yes/no question.
+* The speaker is disagreeing with a statement or proposal.
+* The speaker is refusing a request or offer.
+* The speaker is correcting a misconception or false assumption.
+* The speaker is expressing denial or negation of a fact or situation.<|eot_id|>

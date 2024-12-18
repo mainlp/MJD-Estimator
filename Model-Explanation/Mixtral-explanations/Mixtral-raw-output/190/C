@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Whether a government postal service can engage in these kinds of negotiations deserves serious study. 
+Statement: There is serious study needed to check. 
+Answer: [/INST] 1. The government postal service is already authorized to engage in such negotiations.
+2. A serious study has already been conducted and concluded that the government postal service should not engage in these negotiations.
+3. The statement refers to a different kind of "check" than a serious study.
+4. The serious study needed is not about the government postal service's ability to negotiate, but rather about something else.
+5. The serious study has already been conducted and found that the government postal service is not allowed to engage in these negotiations.
+6. The statement is not referring to the need for a serious study, but rather to the need for some other action.
+7. The serious study is not necessary, as it is already well-established that the government postal service cannot engage in these negotiations.
+8. The statement is not about the government postal service, but rather about some other organization.
+9. The statement is not about the ability to negotiate, but rather about some other aspect of the government postal service.
+10. The statement is not about a serious study, but rather about some other type of investigation or review.</s>

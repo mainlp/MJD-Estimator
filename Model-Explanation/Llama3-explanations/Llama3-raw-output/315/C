@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The good news, however, can be found in reports like this one. 
+Statement: The good news is that the puppy's life was able to be saved. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not mention a puppy.
+* The context does not mention the saving of a puppy's life.
+* The context suggests the good news is in the report, not about a puppy.
+* The context does not provide any information about a puppy.
+* The statement is unrelated to the context.
+* The context does not imply anything about a puppy or its life being saved.<|eot_id|>

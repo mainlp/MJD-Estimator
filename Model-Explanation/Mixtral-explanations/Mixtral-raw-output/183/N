@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Today it is possible to buy cheap papyrus printed with gaudy Egyptian scenes in almost every souvenir shop in the country, but some of the most authentic are sold at The Pharaonic Village in Cairo where the papyrus is grown, processed, and hand-painted on site. 
+Statement: The Pharaonic Village in Cairo is the only place where one can buy authentic papyrus. 
+Answer: [/INST] 1. The statement doesn't specify that it's the only place where authentic papyrus can be bought in the world, it could just mean in the country being referred to in the context.
+2. The statement doesn't clarify if other places in Cairo or Egypt sell authentic papyrus.
+3. The context states that some of the most authentic papyrus is sold at The Pharaonic Village, but it doesn't exclude the possibility that other places also sell authentic papyrus, even if it's not as authentic.
+4. The context doesn't specify if the papyrus sold elsewhere is hand-painted on site or not, which could affect its authenticity.
+5. The context doesn't specify if the papyrus sold elsewhere is grown and processed on site or not, which could also affect its authenticity.
+6. The context doesn't specify if the papyrus sold elsewhere is of the same quality as the one sold at The Pharaonic Village.
+7. The context doesn't specify if the papyrus sold elsewhere is mass-produced or not, which could affect its authenticity.
+8. The context doesn't specify if

@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: If you have the energy to climb the 387 steps to the top of the south tower, you will be rewarded with a stunning view over the city. 
+Statement: The south tower has the best view in the city. 
+Answer: [/INST] 1. The view from the south tower's top is the most stunning, surpassing all other views in the city.
+2. The context implies that reaching the top of the south tower provides the best view, and the statement agrees with this implication.
+3. There is no mention of other towers or locations with potentially good views in the city, making the south tower the best viewpoint by default.
+4. The statement could be interpreted as a subjective opinion, where the speaker finds the south tower's view to be the best in the city.
+5. The statement could also be a general consensus or well-known fact among the city's residents or visitors, making it true.</s>

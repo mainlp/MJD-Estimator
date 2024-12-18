@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: oh wow no i just started about well five years ago i think 
+Statement: It had started five years ago. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions "about five years ago" which is an approximation, whereas the statement claims an exact time "five years ago".
+* The speaker says "I think" which indicates uncertainty, making it difficult to infer a definitive conclusion.
+* The context is a casual conversation, and the speaker's tone is informal, which may not provide enough information to make a definitive inference.
+* The statement is in the past perfect tense, but the context is in the present perfect tense, making it challenging to determine the exact timeline.
+* The context does not provide enough information to determine if "it" refers to the same event or action mentioned in the context.<|eot_id|>

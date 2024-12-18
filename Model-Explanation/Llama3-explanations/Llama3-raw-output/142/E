@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: H-2A agricultural workers are required to maintain a foreign residence which they have no intention of abandoning. 
+Statement: Permanent foreign residence is required for some types of agricultural work visas. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true:
+
+* H-2A agricultural workers are a type of agricultural work visa.
+* The requirement to maintain a foreign residence implies that a permanent foreign residence is necessary.
+* The context explicitly states that H-2A agricultural workers are required to maintain a foreign residence, which satisfies the condition of having a permanent foreign residence.
+* The phrase "which they have no intention of abandoning" reinforces the idea that the foreign residence is permanent.<|eot_id|>

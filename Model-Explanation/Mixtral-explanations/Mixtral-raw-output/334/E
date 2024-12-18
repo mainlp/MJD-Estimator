@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Boca da Corrida Encumeada (moderate; 5 hours): views of Curral das Freiras and the valley of Ribeiro do Poco. 
+Statement: Boca da Corrida Encumeada is a moderate text that takes 5 hours to complete. 
+Answer: [/INST] 1. The context states that "Boca da Corrida Encumeada" is a moderate hike, which aligns with the statement.
+2. The context provides a time duration of 5 hours for "Boca da Corrida Encumeada", which is also mentioned in the statement.
+3. The context mentions "Boca da Corrida Encumeada" as a single entity, implying that the difficulty level and time duration apply to the same thing, supporting the statement's claim.</s>

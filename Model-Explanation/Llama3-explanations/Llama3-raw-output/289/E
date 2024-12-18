@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: yeah okay yeah those games are fun to watch you you you watch those games 
+Statement: Those games are a lot of fun. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The speaker explicitly states that "those games are fun to watch", which implies that they are enjoyable or entertaining.
+* The speaker's tone, indicated by the repetition of "yeah", suggests a positive sentiment towards the games, which supports the idea that they are fun.
+* The speaker mentions watching the games, which implies that they have personal experience with them and find them enjoyable.
+* The speaker's use of the phrase "a lot of fun" is a direct paraphrase of "fun to watch", which reinforces the idea that the games are enjoyable.<|eot_id|>

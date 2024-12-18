@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: 'You burned down my house.' 
+Statement: 'Even though you tried to burn it down, my house is in perfect state.' 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The house is not in perfect state because it was burned down.
+* You did burn down the house, contradicting the claim that you only tried to.
+* The house cannot be in perfect state if it was burned down, even if the attempt was successful.
+* The statement implies that the attempt to burn down the house was unsuccessful, which contradicts the context.
+* The context explicitly states that the house was burned down, making it impossible for it to be in perfect state.
+* The statement is false because it downplays the severity of the action, from "burned down" to "tried to burn down".
+* The house's state is not perfect because burning it down would have caused damage.<|eot_id|>

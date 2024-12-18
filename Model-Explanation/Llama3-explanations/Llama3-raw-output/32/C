@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: It's thought he used the same architect who worked on the Taj Mahal. 
+Statement: In reality, he did not use the Taj Mahal's architect. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The architect who worked on the Taj Mahal was indeed used by him.
+* The thought that he used the same architect who worked on the Taj Mahal is correct.
+* He actually employed the architect who designed the Taj Mahal.
+* The architect of the Taj Mahal was involved in his project.
+* The same person who designed the Taj Mahal worked with him.<|eot_id|>

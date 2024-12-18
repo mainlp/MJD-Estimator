@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Flying at a discount should be more dangerous. 
+Statement: It's totally safe to take advantage of discounted flying. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The context implies that discounted flying is more dangerous, but the statement claims it's totally safe.
+* The statement contradicts the expectation of increased danger associated with discounted flying.
+* The context suggests a trade-off between cost and safety, but the statement denies this trade-off.
+* The statement's assertion of total safety is inconsistent with the context's implication of increased risk.
+* The context implies a higher risk of accidents or incidents with discounted flying, which the statement negates.<|eot_id|>

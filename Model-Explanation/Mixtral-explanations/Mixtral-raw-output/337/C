@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: So far, however, the number of mail pieces lost to alternative bill-paying methods is too small to have any material impact on First-Class volume. 
+Statement: Occasionally mail is lost but not often 
+Answer: [/INST] 1. Alternative bill-paying methods have caused a significant number of mail pieces to be lost, leading to a material impact on First-Class volume.
+2. Mail is often lost due to alternative bill-paying methods.
+3. The frequency of mail being lost due to alternative bill-paying methods is high enough to have a material impact on First-Class volume.
+4. The occasional loss of mail due to alternative bill-paying methods is enough to have a material impact on First-Class volume.
+5. The small number of mail pieces lost to alternative bill-paying methods is actually a significant impact on First-Class volume.
+6. The context is incorrect, and mail is frequently lost due to alternative bill-paying methods, causing a material impact on First-Class volume.</s>

@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The original wax models of the river gods are on display in the Civic Museum. 
+Statement: They have models made out of clay. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* Wax is a type of modeling material, and the statement mentions models, so it can be inferred that they have models made out of other materials as well, including clay.
+* The context does not explicitly state that the models are only made of wax, leaving open the possibility that they have models made of other materials, such as clay.
+* The Civic Museum may have a collection of models made from various materials, including clay, in addition to the wax models of the river gods.
+* The statement is making a general claim about the museum's collection, and it is possible that they have models made of clay in addition to the wax models mentioned in the context.<|eot_id|>

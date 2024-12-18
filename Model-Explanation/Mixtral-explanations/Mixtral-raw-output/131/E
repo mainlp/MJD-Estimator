@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: And far, far away- lying still on the tracks- was the back of the train. 
+Statement: The train wasn't moving but then it started up. 
+Answer: [/INST] 1. The train was previously stationary at a distance from the speaker, hence "far, far away."
+2. The train started moving again after being stopped, as indicated by "but then it started up."
+3. The back of the train, which is the part mentioned in the context, is the part that started moving.
+4. The train's motion was interrupted, and it resumed motion after some time.
+5. The train's initial position on the tracks was not moving, but it changed its state to moving later.</s>

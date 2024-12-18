@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Other functional components of the Postal Service are presumed here not to exhibit significant scale economies, although this has not been demonstrated. 
+Statement: The Postal Service only operates very large scale economies. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not provide enough information to confirm or deny the statement, as it only mentions that other functional components are presumed not to exhibit significant scale economies, but does not make a claim about the Postal Service as a whole.
+* The context suggests that the existence of scale economies has not been demonstrated, which implies that there is no evidence to support or refute the statement.
+* The statement makes a universal claim ("only operates very large scale economies"), which is not supported or contradicted by the context, which only provides a presumption about other functional components.
+* The context does not define what "very large scale economies" means, making it difficult to determine whether the statement is true or false.
+* The context does not provide any information about the Postal Service's current operations or scale, making it impossible to determine whether the statement is true or false.
+* The statement is too specific and absolute, whereas the context provides a more nuanced and uncertain view of the Postal Service's components.<|eot_id|>

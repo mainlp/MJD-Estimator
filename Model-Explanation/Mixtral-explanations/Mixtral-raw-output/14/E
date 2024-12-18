@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: wow who can afford that  my God i can't afford to miss a day let alone six 
+Statement: It's amazing that some people can afford to miss days from work, whereas I can't even afford to miss one. 
+Answer: [/INST] 1. The statement "some people can afford to miss days from work" is implied in the context "wow who can afford that."
+2. The expression of disbelief in the context "my God i can't afford to miss a day let alone six" suggests that the speaker can only miss one day at most, not zero, indicating that they can afford to miss one day.
+3. The contrast in the statement between "some people" and "I" is also present in the context, with "who can afford that" contrasted with "I can't."
+4. The use of "that" in the context refers to an unspecified but presumably costly expense, which could include the cost of missing work.
+5. The word "afford" in both the context and the statement refers to the ability to cover the cost of missing work, whether that cost is direct (e.g., lost wages) or indirect (e.g., the impact on job security or performance).
+6. The statement's use of "even" before "one" emphasizes the contrast between the speaker's situation and that of the "some people" who can afford to miss more than one day, which

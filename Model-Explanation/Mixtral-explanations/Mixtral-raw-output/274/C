@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The results of even the most well designed epidemiological studies are characterized by this type of uncertainty, though well-designed studies typically report narrower uncertainty bounds around the best estimate than do studies of lesser quality. 
+Statement: All studies have the same amount of uncertainty to them. 
+Answer: [/INST] 1. The statement overlooks the fact that studies can vary in quality, with well-designed studies typically having narrower uncertainty bounds.
+2. The statement contradicts the context by claiming all studies have the same amount of uncertainty, when in fact even well-designed studies are characterized by some degree of uncertainty.
+3. The statement ignores the role of study design in determining the level of uncertainty in the results, assuming a one-size-fits-all approach to uncertainty in studies.</s>

@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: yeah but uh do you have small kids 
+Statement: It matters not if children are involved. 
+Answer: [/INST] 1. The presence of small children is a significant factor in the situation.
+2. The decision or action being discussed is solely determined by whether small children are involved.
+3. The outcome hinges on the involvement of small children.
+4. Small children's involvement is a crucial aspect to consider.
+5. The situation changes completely if small children are present.
+6. Small children's involvement is a necessary condition for the situation.
+7. The situation is dependent on small children's presence.
+8. Small children's involvement is a decisive factor.
+9. The situation cannot be evaluated without considering small children's involvement.
+10. Small children's involvement is a key component of the situation.</s>

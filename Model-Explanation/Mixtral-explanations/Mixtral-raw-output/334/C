@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Boca da Corrida Encumeada (moderate; 5 hours): views of Curral das Freiras and the valley of Ribeiro do Poco. 
+Statement: Boca da Corrida Encumeada is a moderate text that takes 5 hours to complete. 
+Answer: [/INST] 1. Boca da Corrida Encumeada is not a text.
+2. Boca da Corrida Encumeada does not have a difficulty level of moderate in terms of reading a text.
+3. It is not possible to spend 5 hours completing Boca da Corrida Encumeada as a text.
+4. Boca da Corrida Encumeada is not a literary work that can be classified as taking 5 hours to read with a moderate difficulty.</s>

@@ -1,0 +1,29 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: In manual systems, attestations, verifications, and approvals are usually shown by a signature or initial of an individual on a hard copy document. 
+Statement: The only things that signatures in manual systems show are attestations, verifications, or approvals. 
+Answer: [/INST] - Tacit knowledge or understanding
+- Identity of the person who created the document
+- Permission for the document to be viewed or accessed
+- Acknowledgement of receipt of the document
+- Agreement with the contents of the document
+- Modification or updates made to the document
+- Date when the document was created or last modified
+- Confidentiality or non-disclosure agreement
+- Specific instructions for handling or processing the document
+- Authorization for printing or distribution of the document
+- Compliance with legal or regulatory requirements
+- Limitation of liability or warranties
+- Contact information for further questions or clarifications
+- Version control or tracking
+- Approval of specific sections or parts of the document
+- Rejection or disapproval of the document
+- Request for further information or action
+- Transmittal of the document to another person or department
+- Certification of document completion or accuracy
+- Escalation of issues or concerns
+- Waiver of rights or claims
+- Indication of document expiration or renewal
+- Specification of document jurisdiction or applicability
+- Designation of document as original or copy
+- Evidence of document authenticity or integrity
+- Intent to

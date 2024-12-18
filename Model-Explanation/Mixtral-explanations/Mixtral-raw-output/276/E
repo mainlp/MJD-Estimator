@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: He walked out into the street and I followed. 
+Statement: I followed him down the street. 
+Answer: [/INST] 1. The "he" referred to in the statement is the same person as the "he" in the context.
+2. The action of "walking out into the street" implies that "he" started moving down the street.
+3. The use of "followed" in the context indicates that the speaker continued to move in the same direction as "he" after he entered the street.
+4. The street is a continuous path, so "following" someone who is moving down it would mean moving in the same direction as them.
+5. There are no indications in the context that the speaker stopped following "he" or changed direction.
+6. The statement is in the past tense, consistent with the context.
+7. The statement is a more specific version of the context, implying that the speaker continued to follow "he" after he started moving down the street.</s>

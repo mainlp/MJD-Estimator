@@ -1,0 +1,16 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: and not only that it it opens you to phone solicitations 
+Statement: It also opens the door to move marketing calls. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions phone solicitations, but the statement talks about marketing calls, which might be a broader or different category.
+* The phrase "opens the door" is metaphorical and doesn't necessarily imply a direct causal relationship between the two.
+* The context doesn't provide enough information to determine whether marketing calls are a direct consequence of the initial action.
+* The statement could be seen as a speculation or a possibility rather than a definitive consequence.
+* The context and statement are too vague to determine the exact relationship between the two.
+* The statement might be seen as a rephrasing or a restatement of the context, rather than a logical consequence.
+* The context doesn't provide enough information to determine whether marketing calls are a necessary or sufficient condition for the initial action.<|eot_id|>

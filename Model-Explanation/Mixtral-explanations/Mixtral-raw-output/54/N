@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: I found her leaning against the bannisters, deadly pale.  
+Statement: She couldn't stand on her own so she leaned against the bannisters until I found her. 
+Answer: [/INST] 1. The context doesn't specify the reason for her pale appearance.
+2. The statement assumes she was leaning against the bannisters before being found, which is not mentioned in the context.
+3. The statement assumes she needed support, but the context doesn't indicate why she couldn't stand on her own.
+4. The context doesn't provide information about the duration of her pale condition.
+5. The statement assumes that her paleness is related to her need for support, but this is not confirmed in the context.</s>

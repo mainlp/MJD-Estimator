@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: By coordinating policy development and awareness activities in this manner, she helps ensure that new risks and policies are communicated promptly and that employees are periodically reminded of existing policies through means such as monthly bulletins, an intranet web site, and presentations to new employees. 
+Statement: She can find new risks with the awareness campaign. 
+Answer: [/INST] 1. The awareness campaign increases employee awareness of new risks.
+2. The campaign encourages employees to report new risks.
+3. She receives feedback from the campaign which helps identify new risks.
+4. The campaign stimulates discussions about new risks.
+5. The campaign prompts employees to think about and identify new risks.
+6. The campaign includes a mechanism for reporting new risks.
+7. She uses the campaign as a platform to communicate and identify new risks.</s>

@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: But they also don't seem to mind when the tranquillity of a Zen temple rock garden is shattered by recorded announcements blaring from loudspeakers parroting the information already contained in the leaflets provided at the ticket office; when heavy-metal pop music loudly emanates from the radio of the middle-aged owner of a corner grocery store; and when parks, gardens, and hallowed temples are ringed by garish souvenir shops whose shelves display both the tastefully understated and the hideously kitsch. 
+Statement: A Zen temple rock garden is a a place for lots of people to gather and celebrate. 
+Answer: [/INST] 1. The context does not describe the size or capacity of the Zen temple rock garden.
+2. The context does not mention any gatherings or celebrations at the rock garden.
+3. The loudspeakers and leaflets could be for informational purposes, not for gatherings or celebrations.
+4. The heavy-metal pop music from the grocery store and garish souvenir shops are not indicative of gatherings or celebrations at the rock garden.
+5. The statement could refer to Zen temples in general, not specifically the one described in the context.
+6. The rock garden could be a separate area from the rest of the Zen temple, and the context does not specify if the disturbances are occurring in the rock garden itself.
+7. The statement could be assuming that the rock garden is a public space, while the context does not specify its accessibility.
+8. The statement could be assuming that the rock garden is a traditional Zen temple, while the context does not specify if it adheres to traditional practices.</s>

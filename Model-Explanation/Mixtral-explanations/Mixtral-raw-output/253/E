@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Other functional components of the Postal Service are presumed here not to exhibit significant scale economies, although this has not been demonstrated. 
+Statement: The Postal Service only operates very large scale economies. 
+Answer: [/INST] 1. The Postal Service's functional components not exhibiting significant scale economies means that any scale economies present must be external to these components, i.e., at the level of the entire organization, which aligns with the statement that the Postal Service only operates very large scale economies.
+2. The statement could be true if the Postal Service's significant scale economies are so dominant that they overshadow any minor economies of scale in its functional components.
+3. The context does not deny the existence of large scale economies in the Postal Service, thus the statement could be true if the Postal Service's scale economies are exclusively of a large scale.
+4. The Postal Service's functional components not demonstrating significant scale economies could imply that they do not have any scale economies at all, making the statement true that the Postal Service only operates very large scale economies.</s>

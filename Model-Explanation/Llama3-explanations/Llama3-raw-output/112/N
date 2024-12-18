@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: After shuttering the DOE, Clinton could depict himself as a crusader against waste and bureaucracy who succeeded where even Reagan failed. 
+Statement: Clinton shuttered the DOE to move against waste. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement assumes a motivation (moving against waste) that is not explicitly stated in the context.
+* The context only mentions that Clinton could depict himself as a crusader against waste, but does not confirm that this was his actual intention.
+* The context provides an alternative explanation for Clinton's action (to depict himself as a crusader), which does not necessarily imply that moving against waste was the primary reason.
+* The statement oversimplifies the context, which suggests that Clinton's action was part of a larger strategy to improve his image.
+* The context does not provide enough information to determine whether moving against waste was a primary, secondary, or incidental effect of Clinton's action.
+* The statement implies a causal relationship between Clinton's action and moving against waste, which is not explicitly supported by the context.<|eot_id|>

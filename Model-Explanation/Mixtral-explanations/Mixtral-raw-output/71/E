@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: During his disastrous campaign in Russia, he found time in Moscow to draw up a new statute for the Com??die-Francaise (the national theater), which had been dissolved during the Revolution. 
+Statement: Russia has been successfully invaded hundreds of times. 
+Answer: [/INST] 1. The context mentions a "disastrous campaign in Russia," implying that an invasion or attack on Russia has occurred.
+2. The individual in the context is able to spend time in Moscow drawing up a new statute, suggesting that the invasion was not so disruptive as to prevent this activity.
+3. The fact that the Comédie-Française, a French national theater, is being reorganized in Moscow during the invasion suggests a level of stability and organization, which is not consistent with a highly destructive or disruptive invasion.
+4. The statement does not specify that the invasion was successful in achieving its military or political objectives, only that it occurred.
+5. The statement is a generalization about the number of times Russia has been invaded over a long period of history, and the context refers to a specific invasion during the Revolution, which may or may not be included in that total.</s>

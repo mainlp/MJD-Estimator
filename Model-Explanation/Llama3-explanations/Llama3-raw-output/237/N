@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: This having come to his stepmother's ears, she taxed him with it on the afternoon before her death, and a quarrel ensued, part of which was overheard.  
+Statement: A love affair sparked just moments before her death. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not mention a love affair at all, making it impossible to infer its existence.
+* The quarrel between the stepmother and the person could have been about anything, not necessarily a love affair.
+* The context only mentions a quarrel, but does not provide any information about its cause or topic.
+* There is no evidence in the context to suggest a romantic relationship or any kind of affair.
+* The timing of the quarrel (afternoon before her death) does not imply a love affair sparked at that moment.
+* The context focuses on the conflict between the stepmother and the person, rather than a romantic relationship.
+* The statement is making an assumption about the content of the quarrel, which is not supported by the context.
+* The context does not provide enough information to determine whether a love affair existed or not.<|eot_id|>

@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The large scale production of entertainment films is a phenomenon well worth seeing several times. 
+Statement: The production of entertainment films is elaborate and large scaled. 
+Answer: [/INST] 1. The production of entertainment films is not occurring currently.
+2. The large scale production of entertainment films is not worth seeing several times.
+3. The statement is referring to a different type of film production.
+4. The production of entertainment films is large scaled, but not elaborate.
+5. The production of entertainment films is not a phenomenon.
+6. The statement is only referring to small scale production of entertainment films.
+7. The statement is only referring to the production of films for a specific audience, not the general public.
+8. The statement is only referring to the production of independent films, not mainstream entertainment films.
+9. The statement is only referring to the planning and pre-production phase of film production, not the large scale production phase.
+10. The statement is only referring to the post-production phase of film production, not the large scale production phase.</s>

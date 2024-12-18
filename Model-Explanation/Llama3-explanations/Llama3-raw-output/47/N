@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The idea that Clinton's approval represents something new and immoral in the country is historically shortsighted. 
+Statement: It's accurate to conclude that Clinton's approvals signify the start of a new form of immorality in the country. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context and statement have opposite sentiments, making it difficult to determine the relationship between them.
+* The context implies that the idea of Clinton's approval being new and immoral is historically shortsighted, but the statement asserts the opposite, leading to a contradiction.
+* The context focuses on the historical context, while the statement focuses on the present, making it challenging to determine the relationship between the two.
+* The context uses the phrase "represents something new and immoral," which is ambiguous and open to interpretation, making it difficult to determine the relationship with the statement.
+* The statement uses the phrase "signify the start of a new form of immorality," which is also ambiguous and open to interpretation, making it difficult to determine the relationship with the context.
+* The context and statement have different scopes, with the context discussing the idea and the statement discussing the approvals, making it difficult to determine the relationship between them.
+* The tone of the context is critical, while the tone of the statement is assertive, making it challenging to determine the relationship between the two.
+* The context and statement have different implications, with the context implying that the idea is wrong and the statement implying that the approvals are significant, making it difficult to determine the relationship between them.<|eot_id|>

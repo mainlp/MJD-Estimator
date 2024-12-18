@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: 'Dave Hanson, to whom nothing was impossible.' Well, we have a nearly impossible task: a task of engineering and building. 
+Statement: This building job is almost impossible, even for an experienced engineer. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The task is described as "nearly impossible", which implies a high level of difficulty, making it almost impossible for anyone, including an experienced engineer.
+* The context sets up Dave Hanson as someone who can accomplish anything, implying that if the task is still considered nearly impossible, it must be extremely challenging, even for an expert.
+* The phrase "nearly impossible" creates a sense of extreme difficulty, which is reinforced by the statement, making it reasonable to conclude that the task is almost impossible, even for someone with experience.
+* The use of "nearly impossible" in the context and "almost impossible" in the statement creates a sense of continuity, implying that the task is indeed extremely difficult, if not impossible, for anyone, including an experienced engineer.
+* The statement is a reasonable inference based on the context, as it takes the idea of a "nearly impossible" task and applies it to a specific scenario, making it a logical conclusion.<|eot_id|>

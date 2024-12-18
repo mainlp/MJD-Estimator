@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: you can get a hard copy of it and that's about it 
+Statement: An email won't cut it. 
+Answer: [/INST] 1. The context only specifies that a hard copy is available, but does not explicitly rule out the possibility of an email.
+2. The context does not provide information about the format preference or requirements of the recipient.
+3. The statement could mean that a hard copy is necessary, but it could also mean that a hard copy is preferred over an email.
+4. The statement does not specify whether other digital formats, such as a PDF, would be acceptable.
+5. The context does not indicate the purpose or importance of the item being referred to, so it is unclear whether an email would be sufficient.
+6. The statement does not provide information about the sender's capabilities, so it is unclear whether they are able to send a hard copy.
+7. The context does not specify whether there are any restrictions or limitations on the use of email.
+8. The statement does not indicate whether there are any time constraints that might make an email impractical.
+9. The context does not provide information about the relationship between the sender and the recipient, so it is unclear whether email would be an appropriate means of communication.
+10. The statement does not specify whether there are any other factors that might affect the

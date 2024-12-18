@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The NYT , in its front-page coverage, says the plane was flying far lower than the rules for training missions allow. 
+Statement: The NYT reported that training missions did allow for planes to fly that low. 
+Answer: [/INST] 1. The NYT used the past tense because the rules have since changed.
+2. The NYT was referring to a specific type of training mission that allows for lower altitudes.
+3. The NYT was using "allow" in a different sense, such as "it is possible to fly that low during training missions."
+4. The NYT was quoting someone who claimed that training missions allowed for lower altitudes.
+5. The NYT was referring to a controversial interpretation of the rules that some pilots follow.
+6. The NYT was referring to an exception to the general rule, such as in emergency situations.
+7. The NYT was using "training missions" to refer to a broader category that includes low-altitude flights for other purposes.
+8. The NYT was mistaken or uninformed about the rules for training missions.
+9. The NYT was being deliberately vague or misleading in its reporting.
+10. The NYT was using "far lower" to mean something different from the strict interpretation of the rules.</s>

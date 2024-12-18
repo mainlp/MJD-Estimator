@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: This confluence of a bad tax, a $1 billion reserve, a botched opposition campaign, and voters willing to call a bluff resulted in the I-695 victory. 
+Statement: The I-695 failed in its campaign to help the people. 
+Answer: [/INST] 1. The I-695 did not botch its campaign.
+2. The I-695 campaign was successful.
+3. Voters were not willing to call the I-695's bluff.
+4. The I-695 victory was not due to its campaign.
+5. The I-695 campaign was not a failure.
+6. The I-695 helped the people, contributing to its victory.
+7. The I-695's tax was not bad.
+8. The I-695 did not have a $1 billion reserve.
+9. The opposition did not botch its campaign against the I-695.
+10. The I-695 victory was not due to a confluence of factors.</s>

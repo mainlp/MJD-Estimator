@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The policy succeeded, and I was fortunate to have had the opportunity to make that contribution to my people. 
+Statement: Because the policy was a success, I was able to make a contribution to my people. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The policy's success was not the cause of the speaker's contribution to their people.
+* The speaker's contribution to their people occurred before the policy's success.
+* The speaker's contribution to their people was not a direct result of the policy's success.
+* The speaker's contribution to their people was already made, and the policy's success was a separate event.
+* The policy's success was not a necessary condition for the speaker to make a contribution to their people.
+* The speaker's contribution to their people was not dependent on the policy's success.<|eot_id|>

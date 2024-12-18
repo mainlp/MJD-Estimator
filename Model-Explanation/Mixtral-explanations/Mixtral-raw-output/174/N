@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: No, I exclaimed, astonished.  
+Statement: I said no to him several time, utterly surprised by the change of events.  
+Answer: [/INST] 1. The context doesn't specify that the "I" in the statement and the "I" in the context are the same person.
+2. The context doesn't indicate that the speaker in the context is referring to the same situation as the speaker in the statement.
+3. The statement doesn't specify who "him" refers to, so it's unclear if it's the same person being referred to in the context.
+4. The context doesn't provide enough information about the speaker's level of surprise, making it unclear if it's the same as the surprise mentioned in the statement.
+5. The statement doesn't specify the nature of the change of events, so it's unclear if it's the same change referred to in the context.
+6. The context doesn't indicate how many times the speaker said no, making it unclear if it's the same number of times mentioned in the statement.
+7. The statement doesn't indicate the time frame in which the speaker said no several times, making it unclear if it's the same time frame as the one in the context.</s>

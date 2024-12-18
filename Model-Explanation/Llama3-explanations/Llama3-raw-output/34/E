@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: These days, newspaper writers are no longer allowed the kind of license he took. 
+Statement: Newspaper writers need to be more factual and careful these days. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment) given the context:
+
+* The context implies that the writer in question took liberties with the truth, so the opposite (being factual) is now required.
+* The "kind of license" referred to in the context likely involves a lack of factuality and care, so its absence necessitates more factuality and care.
+* The context suggests that the writer's behavior was unacceptable, and the only way to avoid such unacceptability is to be more factual and careful.
+* The phrase "no longer allowed" implies that there are now stricter standards, which would require writers to be more factual and careful.
+* The context implies that the writer's actions were not careful, so the opposite (being careful) is now necessary.<|eot_id|>

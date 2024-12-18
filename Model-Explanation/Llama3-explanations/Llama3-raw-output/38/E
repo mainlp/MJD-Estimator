@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: 'Would you like some tea?' 
+Statement: DO you want a cup of tea? 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The context is asking about the desire for tea, and the statement is also asking about the desire for a cup of tea, which is a specific type of tea.
+* The phrase "some tea" in the context is ambiguous and can be interpreted as a cup of tea.
+* The context is offering tea, and the statement is asking about the desire to accept that offer, which implies wanting a cup of tea.
+* The context and the statement are using different but semantically equivalent phrases to ask about the same thing (i.e., "Would you like" vs. "Do you want").
+* The statement is a more specific and explicit version of the context, and the context implies the statement.<|eot_id|>

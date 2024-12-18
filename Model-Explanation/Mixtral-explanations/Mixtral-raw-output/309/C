@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The activities included in the Unified Agenda are, in general, those expected to have a regulatory action within the next 12 months, although agencies may include activities with an even longer time frame. 
+Statement: Some actions were implemented for being shorter than 12 months. 
+Answer: [/INST] 1. The statement mistakes the time frame for when an action is expected to be initiated, rather than the time frame for regulatory action.
+2. The statement incorrectly assumes that "implemented" means the same as "initiated" or "began" instead of "completed."
+3. The statement fails to distinguish between the inclusion of activities with a longer time frame and the implementation of actions within a shorter time frame.
+4. The statement ignores the fact that the Unified Agenda focuses on activities expected to have a regulatory action within the next 12 months, not those that have already been completed.
+5. The statement incorrectly implies that some actions were completed in less than 12 months, when in fact, the Unified Agenda does not provide information on the completion time of actions.</s>

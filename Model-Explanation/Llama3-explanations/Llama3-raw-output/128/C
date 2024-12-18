@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The conspiracy-minded allege that the chains also leverage their influence to persuade the big publishers to produce more blockbusters at the expense of moderate-selling books. 
+Statement: Big publishers want to produce more high budget films, even if that means badly selling books. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context talks about book publishers, not film producers.
+* There is no mention of "high budget films" in the context.
+* The context implies that big publishers might prioritize blockbusters over moderate-selling books, not films.
+* The statement mentions "badly selling books", but the context suggests that the alleged influence is to produce more blockbusters, not badly selling books.
+* The context does not mention big publishers wanting to produce films at all.<|eot_id|>

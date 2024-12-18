@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Text Box 2.1: Gross Domestic Product and Gross National Product 48Text Box 4.1: How do the NIPA and federal unified budget concepts of 
+Statement: This text displays how GDP and GNP is calculated. 
+Answer: [/INST] 1. The text does not provide a step-by-step calculation of GDP and GNP.
+2. The text does not include any mathematical formulas for GDP or GNP.
+3. The text does not provide specific examples of GDP and GNP calculations.
+4. The text focuses on the differences between GDP and GNP, not their calculations.
+5. The text does not discuss the components of GDP or GNP.
+6. The text does not explain how to measure GDP or GNP.
+7. The text does not provide any data or statistics about GDP or GNP.
+8. The text does not mention any sources of data used to calculate GDP or GNP.
+9. The text does not discuss any methods for estimating GDP or GNP.
+10. The text does not provide any historical context for GDP or GNP calculations.</s>

@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: well do you know you have a ten limit a ten minute time limit well that's okay and then they come on and tell you and they tell you got five seconds to say good-bye 
+Statement: You get a ten minute time limit, but sometimes you'll be told to end early. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement says you get a ten minute time limit, but the context says you have a ten limit, which is ambiguous and may not necessarily mean ten minutes.
+* The statement implies that you'll be told to end early sometimes, but the context says they tell you got five seconds to say good-bye, which is a specific and short time, not just "early".
+* The statement does not mention the five seconds to say good-bye, which is a crucial detail in the context.
+* The context implies that the time limit is not always ten minutes, but the statement presents it as a fixed time limit.
+* The statement does not capture the contrast between the initial time limit and the sudden reduction to five seconds, which is a key aspect of the context.<|eot_id|>

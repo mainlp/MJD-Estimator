@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Wear a nicely ventilated hat and keep to the shade in the street. 
+Statement: The buildings are so low that there is no shade in the streets. 
+Answer: [/INST] 1. The only shade available in the streets comes from the buildings' overhang.
+2. There are no tall buildings to provide shade.
+3. The sun's position is directly above, not casting shadows on the streets.
+4. The street is wide, and the buildings' shadows do not reach the middle.
+5. The buildings are too far apart to create shade in the streets.
+6. The sun is too strong, causing no shadows to form from the buildings.
+7. The time of day is such that the buildings do not cast shadows on the streets.
+8. The orientation of the buildings does not allow for any shade in the streets.
+9. The design of the buildings does not include features that create shade in the streets.
+10. The street has been intentionally designed without any trees or structures to provide shade.</s>

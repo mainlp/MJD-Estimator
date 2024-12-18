@@ -1,0 +1,15 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The party's broad aims were to support capitalist policies and to continue close ties with Britain and the rest of the Commonwealth. 
+Statement: The party sought to establish ties with the United States. 
+Answer: [/INST] 1. The party intended to distance itself from Western allies.
+2. The party's goal was to weaken relations with established democracies.
+3. The party's objective was to isolate from Britain and the Commonwealth.
+4. The party pursued an agenda of cutting ties with the United States.
+5. The party's mission was to end connections with American institutions.
+6. The party's plan was to oppose the United States' political ideologies.
+7. The party aimed to establish enmity with the United States.
+8. The party sought to conflict with American interests.
+9. The party's ambition was to create a rift with the United States.
+10. The party pursued a policy of animosity towards the United States.
+
+(Note: These explanations are based on the assumption that the context and statement are mutually exclusive. The context indicates a preference for Britain and the Commonwealth, while the statement suggests a move towards the United States.)</s>

@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: In the depths of the Cold War, many Americans suspected Communists had infiltrated Washington and were about to subvert our democracy. 
+Statement: Communists assisted America's government during the Cold War. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions suspicion of Communists infiltrating Washington, but does not provide evidence of their actual actions.
+* The statement claims Communists assisted America's government, which is the opposite of what is suspected in the context.
+* There is no information in the context about Communists providing assistance to the American government.
+* The context focuses on the fear of Communists subverting democracy, which is incompatible with the idea of them assisting the government.
+* The statement's claim of assistance is not supported or refuted by the context, leaving it undetermined.
+* The context does not provide enough information to determine the extent of Communist involvement in the American government.
+* The statement's wording is too vague, and it is unclear what kind of assistance is being referred to.<|eot_id|>

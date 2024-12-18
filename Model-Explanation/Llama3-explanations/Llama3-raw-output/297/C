@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Three more days went by in dreary inaction. 
+Statement: The days passed by slowly. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The phrase "dreary inaction" implies a lack of activity or excitement, which does not necessarily mean the days passed slowly.
+* The phrase "three more days went by" suggests a sense of progression or movement, which contradicts the idea that the days passed slowly.
+* The use of "went by" implies a sense of passage or flow, which is not consistent with the idea of slow passage.
+* The tone of the context is one of monotony and dullness, which does not necessarily imply a slow passage of time.
+* The context does not provide any explicit information about the pace of time, making it impossible to infer that the days passed slowly.<|eot_id|>

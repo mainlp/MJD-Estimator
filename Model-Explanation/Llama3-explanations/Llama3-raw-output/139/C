@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: For an authentic feel of old Portugal, slip into the cool entrance hall of theimpressive Leal Senado ( Loyal Senate building), a fine example of colonial architecture. 
+Statement: All that remains of  Leal Senado is old ruins. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The Leal Senado is described as an "impressive" building, implying it is still standing and not in ruins.
+* The context mentions entering the "cool entrance hall" of the building, which suggests it is still intact and not a ruin.
+* The building is referred to as a "fine example of colonial architecture", implying it is well-preserved and not in a state of disrepair.
+* The context does not mention any damage or destruction to the building, which would be necessary for it to be reduced to "old ruins".<|eot_id|>

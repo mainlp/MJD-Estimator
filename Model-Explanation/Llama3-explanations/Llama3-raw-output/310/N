@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: yeah yeah i i went i went off to school wanting to either be a high school algebra teacher or high school French teacher because my two favorite people in the in high school were my algebra teacher and French teacher and uh and i was going to do that until the end of our sophomore year when we wanted uh we came time to sign up for majors and i had taken chemistry for the first time that year and surprised myself i did well in it 
+Statement: You are required to sign up for a major freshman year. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context only mentions signing up for majors at the end of sophomore year, but does not provide information about freshman year.
+* There is no explicit statement or implication that contradicts or supports the requirement to sign up for a major freshman year.
+* The context focuses on the speaker's career aspirations and their experience with chemistry, which is unrelated to the timing of signing up for a major.
+* The speaker's use of "when we came time to sign up for majors" implies that signing up for majors is a process that occurs at some point, but does not specify when that point is.
+* The context does not provide enough information to determine whether the speaker's institution requires signing up for a major freshman year or not.<|eot_id|>

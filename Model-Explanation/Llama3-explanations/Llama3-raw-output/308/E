@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: I touched my palm to his mutilated cheek, and tried to stem my instinctive revulsion. 
+Statement: You could see where the bear had scratched across his cheek. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The word "mutilated" implies a violent or severe injury, which is consistent with a bear attack.
+* The location of the injury is specified as the cheek, which matches the location mentioned in the statement.
+* The use of the word "scratched" in the statement is consistent with the idea of a bear's claws causing the injury.
+* The context implies a physical interaction between the speaker and the person with the injury, which suggests that the speaker has visual access to the injury.
+* The speaker's instinctive revulsion implies that the injury is severe and visible, which is consistent with the idea that the bear's scratches are visible on the person's cheek.<|eot_id|>

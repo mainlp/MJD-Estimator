@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: It vibrated under his hand. 
+Statement: It hummed quietly in his hand. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The vibration and humming are mutually exclusive, and since it vibrated, it did not hum.
+* The vibration implies a more intense or violent motion, whereas humming is a softer sound, so they are inconsistent.
+* The context only mentions vibration, but not humming, so the statement is not supported by the context.
+* The phrase "under his hand" in the context implies a sense of containment or restriction, which is not compatible with the idea of humming quietly.
+* The context suggests a sudden or brief movement (vibration), whereas humming implies a more sustained sound, which is a contradiction.<|eot_id|>

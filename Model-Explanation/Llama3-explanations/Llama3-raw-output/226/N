@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Enlarging the village was not desirable and most knew that Severn only desired wealth and a seat on the council of elders. 
+Statement: Severn was happy being poor. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not provide direct information about Severn's feelings towards being poor.
+* The context only mentions Severn's desire for wealth, but does not imply that they are currently happy or unhappy with their current financial situation.
+* The context focuses on Severn's motivations and desires, but does not provide a clear indication of their emotional state.
+* The statement is making a claim about Severn's emotional state, which is not addressed in the context.
+* The context does not provide enough information to infer Severn's feelings about being poor, as it only mentions their desire for wealth, not their current emotional state.
+* The statement is making a claim that is not supported or refuted by the context, leaving it undetermined.<|eot_id|>

@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The tip was hooked towards the edge, the same way the tips are hammered for knives used for slaughter. 
+Statement: They were fragile and could not leave a scratch. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are possible explanations why the statement is true (entailment):
+
+* The tip was hooked towards the edge, which is a delicate process, suggesting the material is fragile.
+* The comparison to knives used for slaughter implies the tip is not designed for heavy-duty use, making it fragile.
+* The hooked tip is not suitable for applying heavy pressure, which means it cannot leave a scratch.
+* The tip's shape and design, similar to those used for slaughter, are not intended for scratching or piercing, but rather for precise cuts, implying fragility.
+* The context suggests the tip is not robust or sturdy, which is why it could not leave a scratch.<|eot_id|>

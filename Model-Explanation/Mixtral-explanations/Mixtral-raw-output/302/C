@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: By coordinating policy development and awareness activities in this manner, she helps ensure that new risks and policies are communicated promptly and that employees are periodically reminded of existing policies through means such as monthly bulletins, an intranet web site, and presentations to new employees. 
+Statement: There new employees are a risk. 
+Answer: [/INST] 1. The statement mistreats the category of "new employees," implying they are a risk themselves, while the context suggests that new employees are a group that needs to be informed of risks and policies.
+2. The statement is a categorical generalization, whereas the context implies a specific and limited risk related to new policies or risks, not new employees themselves.
+3. The context highlights the communication of risks and policies to new employees, but the statement incorrectly assumes that new employees are the risk being communicated.
+4. The statement misunderstands the role of new employees in the context, attributing a negative connotation to them instead of understanding their need for policy awareness.</s>

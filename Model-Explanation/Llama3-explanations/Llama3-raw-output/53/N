@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Expectations that the ANC would oversee land reform--returning land seized during apartheid's forced migrations--and wealth redistribution have not been met. 
+Statement: The ANC would not be in charge of land reform. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement contradicts the context, which implies the ANC is expected to oversee land reform, but does not provide conclusive evidence to support or refute the statement.
+* The context only mentions unmet expectations, but does not explicitly state the ANC is not in charge of land reform.
+* The statement is a negation of an expectation, but the context does not provide enough information to determine if the expectation was actually fulfilled or not.
+* The context focuses on unmet expectations, but does not provide a clear indication of the current state of land reform or the ANC's role in it.
+* The statement is a categorical negation, but the context only provides a vague sense of disappointment or unfulfilled expectations, without providing a clear confirmation or denial of the statement.<|eot_id|>

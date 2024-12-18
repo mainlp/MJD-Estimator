@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Agencies may perform the analyses required by sections 603 and 604 in conjunction with or as part of any other agenda or analysis required by other law if such other analysis satisfies the provisions of these sections. 
+Statement: There are many times when the agencies have gotten in trouble. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context only discusses the agencies' analytical procedures and does not provide any information about the agencies getting in trouble.
+* There is no mention of any specific instances or circumstances where the agencies got in trouble.
+* The context does not imply any negative consequences or outcomes for the agencies, making it impossible to infer whether they got in trouble or not.
+* The statement is too vague and does not provide any specific details or context about the trouble, making it difficult to determine its relation to the given context.
+* The context focuses on the agencies' compliance with laws and regulations, whereas the statement seems to be discussing a separate, unrelated issue.
+* There is no logical connection between the agencies' analytical procedures and getting in trouble, making it impossible to infer a relation between the two.<|eot_id|>

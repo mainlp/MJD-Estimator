@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Their supplies scarce, their harvest meager, and their spirit broken, they abandoned the fort in 1858. 
+Statement: Their supplies remained very low and hard to maintain. 
+Answer: [/INST] 1. Their supplies increased significantly.
+2. They found new sources of supplies.
+3. Their supplies became abundant and easy to maintain.
+4. They managed to maintain their low supplies without them becoming a problem.
+5. The scarcity of their supplies was exaggerated and in reality, they had enough.
+6. They didn't need supplies anymore after abandoning the fort.
+7. The spirit of the group was not broken, and they managed to improve their supplies.
+8. They received external aid, boosting their supplies.
+9. The harvest was not meager, and it provided them with more supplies.
+10. The initial statement of their supplies being scarce was incorrect.</s>

@@ -1,0 +1,15 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: substitute my my yeah my kid'll do uh four or five hours this week for me no problem 
+Statement: I just can't make the time because of my job. 
+Answer: [/INST] 1. The speaker in the context is having their kid do the substitution, not themselves.
+2. The statement doesn't specify whether the time needed is within the same week.
+3. The context doesn't indicate the nature of the task the speaker can't do because of their job.
+4. The statement doesn't specify the amount of time the speaker is unable to make.
+5. The context doesn't clarify if the speaker's job always prevents them from making the time.
+6. The statement doesn't mention if the time for the task is during work hours.
+7. The context doesn't reveal if the task is related to the speaker's job.
+8. The statement doesn't indicate if the speaker has tried to adjust their work schedule.
+9. The context doesn't explain if the speaker's job has a flexible schedule option.
+10. The statement doesn't clarify if the task is a one-time or recurring event.
+11. The context doesn't reveal if the speaker has other responsibilities apart from their job and the task.
+12. The statement doesn't mention if the speaker has any personal commit

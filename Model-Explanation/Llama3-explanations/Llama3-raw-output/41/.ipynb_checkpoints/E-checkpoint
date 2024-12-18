@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The great attraction of the church is the splendid exterior, which is crowned by golden onion-shaped cupolas. 
+Statement: The outside of the church isn't much to look at, but the inside is intricately decorated. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is NOT true (contradiction):
+
+* The context describes the exterior as "splendid", implying it is impressive and attractive, which contradicts the statement's claim that the outside is not much to look at.
+* The context highlights the exterior's golden onion-shaped cupolas, which suggests a visually striking feature, contradicting the statement's negative assessment of the outside.
+* The statement's contrast between the outside and inside implies that the outside is plain, but the context suggests the opposite, that the outside is notable for its beauty.<|eot_id|>

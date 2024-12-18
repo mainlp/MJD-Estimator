@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Unless the report is restricted by law or regulation, auditors should ensure that copies be made available for public inspection. 
+Statement: This report is most likely restricted by law or regulation and should not be ensured. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment) given the context:
+
+* The report is not available for public inspection.
+* Copies of the report are not made available.
+* Auditors did not ensure that copies be made available for public inspection.
+* There is a law or regulation that restricts the report.
+* The report is not for public inspection.<|eot_id|>

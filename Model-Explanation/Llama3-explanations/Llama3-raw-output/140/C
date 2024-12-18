@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: We also have found that leading organizations strive to ensure that their core processes efficiently and effectively support mission-related outcomes. 
+Statement: Leading organizations want to be sure their processes are successful. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is too vague, as "successful" is not equivalent to "efficiently and effectively support mission-related outcomes".
+* The statement omits the crucial aspect of "core processes" mentioned in the context.
+* The statement uses "want to be sure" which is a weaker claim than "strive to ensure" in the context.
+* The statement does not convey the same level of importance and focus on "mission-related outcomes" as the context does.<|eot_id|>

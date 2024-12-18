@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The second half of the book dealt with the use of the true name. 
+Statement: The first part dealt with the use of false names. 
+Answer: [/INST] 1. Both parts of the book discuss the use of true names.
+2. The first part of the book also discusses the use of true names.
+3. The second half of the book does not discuss the use of false names.
+4. The entire book discusses the use of true names, not false names.
+5. There is no discussion of false names in the book.
+6. The first part of the book deals with something other than names.
+7. The first part of the book deals with the use of real names, not false names.
+8. The first part of the book deals with the concept of a "name" differently than the second part.
+9. The statement is not referring to the same book.
+10. The statement is made up and does not have a real context.</s>

@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Think of it this  When consumer confidence declines, it is as if, for some reason, the typical member of the co-op had become less willing to go out, more anxious to accumulate coupons for a rainy day. 
+Statement: Coupon collecting is no longer allowed in most US stores. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not provide any information about the current policies of US stores regarding coupon collecting.
+* The context only discusses the behavior of a typical member of a co-op in a hypothetical scenario, but does not provide any information about real-world stores.
+* The context does not imply that coupon collecting is or is not allowed in most US stores.
+* The statement is unrelated to the context, which focuses on consumer confidence and behavior, rather than store policies.
+* The context does not provide enough information to determine whether coupon collecting is allowed or not in most US stores.
+* The statement is a factual claim that requires external knowledge to verify, which is not provided by the context.<|eot_id|>

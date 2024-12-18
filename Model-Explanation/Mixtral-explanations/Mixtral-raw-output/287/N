@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: 'I see.' 
+Statement: It was clear 
+Answer: [/INST] 1. The statement "It was clear" could refer to the weather, which is unrelated to the context "I see."
+2. The speaker in the context could be acknowledging understanding of a visual observation, but the statement "It was clear" does not confirm or deny this understanding.
+3. The statement "It was clear" could be referring to a concept or idea being explained, but the context does not provide enough information to determine if the speaker understands or agrees.
+4. The speaker in the context could be referring to something being visible or understandable, but the statement "It was clear" does not provide enough information to determine if this is the case.
+5. The statement "It was clear" could be expressing a lack of confusion, but the context does not provide enough information to determine if this is the intended meaning.</s>

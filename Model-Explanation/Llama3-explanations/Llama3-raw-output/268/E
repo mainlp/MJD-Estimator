@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: and going to school is also always very prohibitive now unless your parents are wealthy 
+Statement: Wealthy parents are necessary for school. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The context implies that going to school is only possible if one's parents are wealthy, making wealthy parents a necessary condition.
+* The phrase "unless your parents are wealthy" suggests that wealth is a requirement for attending school, making wealthy parents necessary.
+* The context states that going to school is "prohibitive" unless one's parents are wealthy, implying that wealth is a necessary factor to overcome this prohibition.
+* The use of "always" in the context emphasizes that wealthy parents are a constant requirement for attending school, making them necessary.
+* The context implies that there are no alternative ways to attend school without wealthy parents, making them a necessary condition.<|eot_id|>

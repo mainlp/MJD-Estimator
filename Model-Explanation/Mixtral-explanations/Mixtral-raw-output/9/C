@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Bauerstein had been at Styles on the fatal night, and added: "He said twice: 'That alters everything.' And I've been thinking.  
+Statement: The fact that Styles was at Bauerstein changes everything. 
+Answer: [/INST] 1. The statement incorrectly identifies the person who was at Styles, it was Bauerstein who was at Styles, not Styles who was at Bauerstein.
+2. The statement misinterprets the phrase "that alters everything," which refers to some unspecified change, not the fact that Styles was at Bauerstein.
+3. The statement assumes that the only thing that could alter everything is Styles being at Bauerstein, but the context does not support this assumption.
+4. The statement uses the word "fact" incorrectly, as it is not established that Styles being at Bauerstein is a fact.
+5. The statement presents a causal relationship between Styles being at Bauerstein and everything being altered, but the context does not support this causal relationship.</s>

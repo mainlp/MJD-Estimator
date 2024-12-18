@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The cane plantations, increasingly in the hands of American tycoons, found a ready market in the US. 
+Statement: The US market was ready for the cane plantations, according to the economists. 
+Answer: [/INST] 1. The readiness of the US market was not acknowledged by economists.
+2. Economists believed the US market was not ready for the cane plantations.
+3. The readiness of the US market for cane plantations was not related to American tycoons' ownership of cane plantations.
+4. Economists did not attribute the readiness of the US market to the cane plantations.
+5. The statement implies that economists made a positive assessment of the US market's readiness, while the context suggests that the readiness was a given or a fact, not an opinion of economists.</s>

@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: One wag, J., wrote in to ask, Is there a difference between pests and airlines? 
+Statement: J. thinks there is no difference between pests and airlines. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true:
+
+* J. is being sarcastic and implying that both pests and airlines are annoying or troublesome.
+* J. believes that both pests and airlines are nuisances that cause problems for people.
+* J. thinks that both pests and airlines are unwanted entities that people try to avoid or get rid of.
+* J. is making a humorous comparison between the two, suggesting that airlines can be as frustrating as pests.
+* J. is implying that both pests and airlines are invasive or intrusive in some way.
+* J. believes that both pests and airlines can cause damage or disruption to people's lives.<|eot_id|>

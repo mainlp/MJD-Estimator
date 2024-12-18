@@ -1,0 +1,10 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: So is the salt, drying in the huge, square pans at Las Salinas in the south. 
+Statement: Pepper is made wet in Las Salinas. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context mentions salt, not pepper, being processed at Las Salinas.
+* The context describes the salt as "drying", implying a process of removing moisture, which is the opposite of making something wet.
+* There is no mention of pepper being made or processed at Las Salinas, let alone being made wet.<|eot_id|>

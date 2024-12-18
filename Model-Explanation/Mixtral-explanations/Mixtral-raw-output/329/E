@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: These alone could have valuable uses. 
+Statement: They may be valuable. 
+Answer: [/INST] 1. The "they" in the statement refers to the same subject as in the context.
+2. The context suggests that the subjects have potential value.
+3. The statement expresses the possibility of that potential value.
+4. The word "alone" in the context implies that the value exists independently of other factors.
+5. The statement does not contradict this implication, as something that is valuable alone could still be valuable.</s>

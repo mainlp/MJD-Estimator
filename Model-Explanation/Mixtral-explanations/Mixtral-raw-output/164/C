@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: OMB issued the guidance in Memorandum M0010, dated April 25, 2000. 
+Statement: Memorandum M0010 was issued by INS. 
+Answer: [/INST] 1. The memo was actually issued by a different organization with a similar-sounding name, not INS.
+2. The memo was originally issued by INS under a different name and was later renamed Memorandum M0010 by OMB.
+3. The memo was originally issued by INS, but was later adopted or endorsed by OMB and re-issued under their name.
+4. There are two versions of the memo, one issued by INS and one by OMB, causing confusion.
+5. The statement is a result of a misunderstanding or miscommunication, and the memo was actually issued by OMB (as stated in the context).
+6. The statement is a deliberate attempt to mislead or deceive, and the memo was indeed issued by OMB (as stated in the context).
+7. The statement is referring to a different memo or document altogether, not Memorandum M0010.
+8. The statement is a typo or error, and the memo was actually issued by a different department or agency within the government.
+9. The statement is based on outdated or inaccurate information, and the memo was indeed issued

@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Perhaps a further password would be required, or, at any rate, some proof of identity. 
+Statement: Identity should be a minimum requirement. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* Identity is already mentioned as a possible requirement, implying it may not be a minimum requirement.
+* The context suggests that a password might be required instead of or in addition to proof of identity, making identity not a minimum requirement.
+* The phrase "at any rate" implies that proof of identity is not the only option, and therefore may not be a minimum requirement.
+* The context is discussing additional security measures, implying that identity may not be a basic or minimum requirement.<|eot_id|>

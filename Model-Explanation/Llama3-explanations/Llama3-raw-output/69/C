@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: He hadn't seen even pictures of such things since the few silent movies run in some of the little art theaters. 
+Statement: He had recently seen pictures depicting those things. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement implies he had seen pictures recently, but the context states he hadn't seen even pictures since the few silent movies, which suggests it was a long time ago.
+* The context mentions "since" which indicates a point in the past, whereas the statement implies a recent event.
+* The context implies a lack of exposure to pictures of those things, whereas the statement claims he had seen them.
+* The time frame mentioned in the context (silent movies in little art theaters) is likely in the past, whereas the statement implies a recent event.
+* The use of "even" in the context emphasizes the rarity or lack of exposure to pictures, which contradicts the statement's claim of recent exposure.<|eot_id|>

@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: All were prominent nationally known organizations. 
+Statement: The only identified organizations were well-known. 
+Answer: [/INST] 1. The "identified organizations" mentioned in the statement are the same as the "prominent nationally known organizations" mentioned in the context.
+2. The context implies that the only organizations known nationally are prominent, which aligns with the statement that the only identified organizations were well-known.
+3. There is no mention of any other organizations in the context other than the prominent, nationally known ones, which matches the statement's implication that the identified organizations are well-known.</s>

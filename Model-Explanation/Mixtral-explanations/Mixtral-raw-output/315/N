@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The good news, however, can be found in reports like this one. 
+Statement: The good news is that the puppy's life was able to be saved. 
+Answer: [/INST] 1. The report mentioned in the context may not be about a puppy.
+2. The good news in the report may not be about the puppy's life being saved.
+3. The context may be using "good news" figuratively, while the statement interprets it literally.
+4. The report may not be trustworthy or accurate, so the puppy's life might not have actually been saved.
+5. The statement may be referring to a different time or situation than the one mentioned in the context.
+6. The context may be using "reports" to refer to something other than written documents, such as verbal reports or rumors.
+7. The statement may be presented as a hypothetical or counterfactual scenario, rather than an actual event.
+8. The context may be referring to multiple reports, only some of which contain good news about the puppy's life being saved.
+9. The statement may be an inference or assumption made by the speaker, rather than a factual report.
+10. The context may be using "good news" to refer to a narrow or specific type of positive outcome, while the statement interprets it more broad

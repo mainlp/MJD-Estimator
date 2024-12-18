@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: 'I don't know what happened, exactly.' I said. 
+Statement: You aren't making sense. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The speaker's statement "I don't know what happened, exactly" is vague and lacks clear information, making it difficult to understand.
+* The speaker's uncertainty and lack of knowledge about the event imply that their explanation is incomplete or unclear.
+* The speaker's phrase "exactly" suggests that they are unsure or unclear about the details, which may lead to confusion.
+* The speaker's admission of not knowing what happened may indicate that they are not providing a coherent or logical explanation.
+* The speaker's statement may be ambiguous or open-ended, making it hard to interpret or understand.
+* The speaker's tone or language may convey a sense of confusion or uncertainty, which could be perceived as not making sense.<|eot_id|>

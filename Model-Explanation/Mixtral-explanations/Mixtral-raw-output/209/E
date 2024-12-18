@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: if it had rained any more in the last two weeks instead of planting Saint Augustine grass in the front yard i think i would have plowed everything under and had a rice field 
+Statement: It has rained enough to flood everything here and make rice pattys. 
+Answer: [/INST] 1. The rain in the past two weeks was substantial, reaching levels that would cause flooding.
+2. The rain has been so heavy that it has created the conditions necessary for growing rice.
+3. The rain has transformed the front yard into a flooded area, suitable for rice cultivation.
+4. The amount of rain in the past two weeks has exceeded the necessary amount for growing rice.
+5. The rain has made the front yard resemble a rice paddy due to the flooding.
+6. The rain has made it possible to consider planting rice instead of Saint Augustine grass.
+7. The rain has made the front yard unsuitable for Saint Augustine grass and more appropriate for rice.
+8. The rain has made the front yard a wetland, ideal for rice farming.
+9. The rain has made the front yard a flooded area, similar to a rice field.
+10. The rain has made the front yard a waterlogged area, perfect for growing rice.</s>

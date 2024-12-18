@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The tomb guardian will unlock the gate to the tunnel and give you a candle to explore the small circular catacomb, but for what little you can see, it is hardly worth the effort. 
+Statement: The tomb garden can give you a thorough tour of the catacombs. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not mention a "tomb garden", it mentions a "tomb guardian", which is a different entity.
+* The context does not imply that the tomb guardian can give a thorough tour, only that it will give a candle to explore the catacombs.
+* The context suggests that the catacombs are small and not worth the effort, implying that a thorough tour might not be possible or necessary.
+* There is no information about the capabilities or resources of the tomb guardian or the tomb garden (if it exists) to provide a thorough tour.
+* The context does not provide enough information to infer that the tomb garden (or the tomb guardian) has the ability or authority to give a thorough tour of the catacombs.<|eot_id|>

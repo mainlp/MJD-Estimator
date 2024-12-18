@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: 36 AC usage nationally for mercury control from power plants should be roughly proportional to the total MWe of coal-fired facilities that are equipped with the technology (this assumes an average capacity factor of 85 percent and other assumptions of Tables 4-4 and 4-5). 
+Statement: Power plants' mercury control AC usage is higher than total MWe from coal facilities. 
+Answer: [/INST] 1. Coal facilities without mercury control technology are significant in number, leading to a higher total MWe than the mercury control AC usage in power plants with the technology.
+2. The capacity factor of the coal-fired facilities with mercury control technology is lower than the assumed 85 percent, resulting in a lower total MWe compared to the mercury control AC usage.
+3. The assumptions in Tables 4-4 and 4-5 overestimate the mercury control AC usage in power plants, leading to a higher value than the total MWe from coal-fired facilities.
+4. The mercury control technology in power plants requires more energy than expected, resulting in a higher AC usage than the total MWe from coal-fired facilities.
+5. The total MWe of coal-fired facilities equipped with mercury control technology is lower than expected, leading to a lower total MWe compared to the mercury control AC usage.</s>

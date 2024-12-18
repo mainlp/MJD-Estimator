@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: That's why we tried to kill you. 
+Statement: That's one of the reasons we wanted to kill you. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context implies a single reason, but the statement suggests multiple reasons.
+* The context uses "that's why" implying a specific reason, but the statement uses "one of the reasons" implying multiple reasons.
+* The context does not mention any other reasons, but the statement implies the existence of other reasons.
+* The statement is too vague and open-ended compared to the specific context.
+* The context has a sense of finality, but the statement leaves room for other reasons.<|eot_id|>

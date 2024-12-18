@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Managing better requires that agencies have, and rely upon, sound financial and program information. 
+Statement: Agencies that rely on information based on unsound financial information will have management problems. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false (contradiction):
+
+* The context states that managing better requires sound financial information, but the statement implies that relying on unsound financial information will lead to management problems, which is already assumed to be the opposite of managing better.
+* The context emphasizes the importance of sound financial information, but the statement suggests that agencies can still have management problems even if they rely on unsound financial information, which contradicts the context.
+* The context implies a causal relationship between sound financial information and good management, but the statement implies a causal relationship between unsound financial information and management problems, which is the opposite of what the context suggests.
+* The statement is a contrapositive of the context, which means that it is saying the opposite of what the context is saying, making it a contradiction.<|eot_id|>

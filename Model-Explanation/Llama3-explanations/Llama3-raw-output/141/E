@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: well that's uh i agree with you there i mean he didn't have the surrounding cast that Montana had there's no doubt about that 
+Statement: I agree that he didn't have the same support as Montana, but he did well. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The speaker agrees with the idea that the person being discussed didn't have the same surrounding cast as Montana.
+* The speaker acknowledges that the person's lack of supporting cast is a fact.
+* The speaker implies that despite the lack of supporting cast, the person still performed well.
+* The speaker's agreement with the idea suggests that they also believe the person did well despite the circumstances.
+* The speaker's tone indicates that they are making a concession, implying that the person's performance was good considering the limitations.
+* The speaker is highlighting the person's ability to succeed without the same level of support as Montana.<|eot_id|>

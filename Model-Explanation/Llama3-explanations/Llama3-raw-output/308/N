@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: I touched my palm to his mutilated cheek, and tried to stem my instinctive revulsion. 
+Statement: You could see where the bear had scratched across his cheek. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions "mutilated cheek" but does not explicitly state the cause of the mutilation, so it's unclear if the bear was responsible.
+* The context focuses on the emotional response of the speaker (instinctive revulsion) rather than providing concrete details about the injury.
+* The statement assumes a bear was involved, but the context doesn't provide any evidence to support or contradict this claim.
+* The context doesn't provide a clear timeline of events, so it's unclear if the speaker has prior knowledge about the injury or is making an inference.
+* The statement is making a claim about the past (the bear scratching the cheek), but the context only describes the speaker's current actions and emotions.
+* The context doesn't provide enough information to determine the severity or nature of the mutilation, making it difficult to infer the cause.<|eot_id|>

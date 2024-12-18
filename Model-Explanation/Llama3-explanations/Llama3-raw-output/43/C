@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: She had the pathetic aggression of a wife or mother--to Bunt there was no difference. 
+Statement: Bunt was raised motherless in an orphanage. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* Bunt had a mother who exhibited pathetic aggression.
+* Bunt had a wife who exhibited pathetic aggression, implying he was married.
+* Bunt's mother or wife was present in his life, contradicting the idea of being raised in an orphanage.
+* Bunt's upbringing was influenced by a maternal figure, which is unlikely in an orphanage setting.<|eot_id|>

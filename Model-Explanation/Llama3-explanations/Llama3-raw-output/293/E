@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Traditionally, certain designs were reserved for royalty, but today elegant geometric or exuberant, stylized floral patterns are available to all. 
+Statement: Designs once reserved for royalty cost more to buy. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The designs were traditionally reserved for royalty, implying they were exclusive and rare, which often correlates with higher cost.
+* The fact that they were reserved for royalty suggests they were of high quality or had a high status, which could justify a higher price.
+* The contrast between "traditionally" and "today" implies that the designs were previously inaccessible to the general population, which might have driven up their cost.
+* The use of "elegant" and "exuberant" to describe the patterns available today implies that the designs once reserved for royalty were of a similar high standard, which could have made them more expensive.
+* The fact that the designs are now "available to all" suggests that they may have been previously restricted due to their high cost, which was only accessible to royalty.<|eot_id|>

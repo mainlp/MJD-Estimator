@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The important thing is to realize that it's way past time to move it. 
+Statement: It has not been moved yet in the past. 
+Answer: [/INST] 1. The "it" in the context refers to something that was supposed to be moved in the past.
+2. The context indicates that the appropriate time to move "it" was before the present time.
+3. The statement "it has not been moved yet in the past" means that the action of moving "it" had not been completed before the present time.
+4. This uncompleted action in the past aligns with the context's indication that it's "way past time" to move "it".
+5. The context's urgency implies that there was a significant delay in moving "it", which is consistent with the statement.</s>

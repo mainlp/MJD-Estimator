@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: We always knew it was an outside chance. 
+Statement: We were never assured of it happening in time and we knew this full well. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context only mentions that it was an outside chance, but does not provide information about the level of assurance or confidence.
+* The statement does not contradict the context, but rather provides additional information that is not necessarily implied by the context.
+* The context does not explicitly state that they were not assured, so the statement is not necessarily entailed or contradicted.
+* The statement is a neutral elaboration of the context, providing more detail about their state of mind without changing the overall meaning.
+* The context and statement are both expressing uncertainty or lack of confidence, but in different ways, without one necessarily implying the other.
+* The statement is a paraphrase of the context, rephrasing the idea of an "outside chance" as "never assured", which does not add new information that would change the entailment.<|eot_id|>

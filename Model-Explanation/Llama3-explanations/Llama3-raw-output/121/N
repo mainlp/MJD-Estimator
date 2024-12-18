@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: What a brilliantly innocuous metaphor, devised by a master manipulator to obscure his manipulations. 
+Statement: The metaphor was created by the manipulator to convince people of something. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only implies the manipulator is skilled at obscuring their manipulations, but it doesn't explicitly state the metaphor's purpose.
+* The phrase "obscure his manipulations" could mean the metaphor is used to hide the manipulator's intentions, rather than to convince people of something.
+* The context highlights the metaphor as "innocuous", which might suggest it's not intended to be persuasive or convincing.
+* The statement assumes the metaphor has a specific goal ("to convince people of something"), but the context doesn't provide enough information to confirm this.
+* The context focuses on the manipulator's skill in creating a metaphor, rather than the metaphor's purpose or effect.
+* The statement's wording is too specific, and the context doesn't provide enough details to determine the exact purpose of the metaphor.<|eot_id|>

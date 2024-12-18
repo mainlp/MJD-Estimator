@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Bush the elder came of age when New England Republicans led the party, and patrician manners were boons to a Republican. 
+Statement: New England Republicans were weak. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are possible explanations why the statement is true (entailment):
+
+* "led the party" implies that New England Republicans were not strong enough to dominate the party, but rather had to share power.
+* "patrician manners were boons" suggests that the party valued social status and etiquette over strength or assertiveness, implying that New England Republicans were not strong or assertive.
+* The fact that Bush the elder "came of age" during this time implies that he was shaped by this environment, and his later success may have been despite the weakness of New England Republicans, rather than because of their strength.
+* The phrase "came of age" also implies a sense of nostalgia or looking back, which may suggest that the speaker is highlighting the weaknesses of New England Republicans in retrospect.<|eot_id|>

@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: In a six-year study, scientists fed dogs and other animals irradiated chicken and found no evidence of increased cancer or other toxic effects. 
+Statement: Scientists gave animals irradiated chicken and they all lived as long as the rest of them. 
+Answer: [/INST] 1. The statement doesn't specify what "all of them" refers to, it could mean all the animals in the study or just all the ones given irradiated chicken.
+2. The statement doesn't provide information about the animals' quality of life or any other potential effects of the irradiated chicken.
+3. The study did not compare the lifespan of animals given irradiated chicken to those given non-irradiated chicken.
+4. The statement does not provide information about the types of animals included in the study, so it is unclear if the results can be generalized to all animals.
+5. The study did not look at the long-term effects of consuming irradiated chicken over many generations.
+6. The study did not consider the potential effects of irradiated chicken on different breeds of dogs or other animals.
+7. The study did not look at the effects of irradiated chicken on animals with pre-existing health conditions.
+8. The study did not consider the effects of irradiated chicken on animals at different life stages (e.g. puppies vs. adult dogs).
+9. The study did not look at the effects of irradiated chicken

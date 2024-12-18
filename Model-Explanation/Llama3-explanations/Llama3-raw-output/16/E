@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The logic of analysis in case studies is the same 
+Statement: The logic for the case studies is the same thing as in the data collection. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The phrase "logic of analysis" in the context refers to the underlying principles or methods used to examine and interpret data, which is the same as the "logic for the case studies".
+* The context implies that the analysis in case studies involves the same logical steps or procedures as those used in data collection.
+* The term "logic" has a broader meaning, encompassing not only the analytical process but also the underlying principles guiding the entire research process, including data collection.
+* The context suggests that the case studies are based on the data collected, and therefore, the logic used in the case studies must be the same as that used in data collection to ensure consistency and validity.
+* The phrase "the same" in the context implies a direct equivalence between the logic of analysis in case studies and the logic used in data collection, indicating that they are interchangeable or identical concepts.<|eot_id|>

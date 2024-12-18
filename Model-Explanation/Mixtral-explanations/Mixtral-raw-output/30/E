@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: of course you could annex Cuba but they wouldn't like that a bit 
+Statement: Cubans would go up in arms if we tried to annex Cuba. 
+Answer: [/INST] * Cubans' dislike for annexation would lead to resistance.
+* Cubans would express their disapproval through armed protest if annexation is attempted.
+* Attempting to annex Cuba would result in a military response from Cubans.
+* Cubans would react negatively and actively oppose annexation.
+* There would be an uprising among Cubans if annexation is tried.
+* Cubans would resist annexation with force.
+* Annexation would cause Cubans to take up arms.
+* Cubans would respond to annexation with violence.
+* Trying to annex Cuba would provoke a military reaction from Cubans.
+* Annexation would lead to armed conflict with Cubans.</s>

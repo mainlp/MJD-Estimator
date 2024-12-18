@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Splendid! 
+Statement: The speaker is excited by the situation. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The word "Splendid!" is an exclamation that typically expresses strong positive emotions, such as excitement or enthusiasm.
+* The tone of the context is upbeat and celebratory, implying that the speaker is pleased with the situation.
+* The use of the word "Splendid!" suggests that the speaker is thrilled or delighted, which is a strong indicator of excitement.
+* The brevity and informality of the context suggest a spontaneous reaction, which is consistent with an excited emotional state.
+* The word "Splendid!" is often used to express admiration or approval, which can be a manifestation of excitement or enthusiasm.
+* The context lacks any negative or neutral language, implying that the speaker's emotional state is purely positive, which is consistent with excitement.<|eot_id|>

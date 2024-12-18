@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: He's a bad lot. 
+Statement: He's a dishonest person 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* "Bad lot" is an idiomatic expression implying someone is untrustworthy or morally corrupt, which includes dishonesty.
+* "Bad" is a broad term that encompasses various negative traits, including dishonesty.
+* A "bad lot" often engages in unethical behavior, which may involve dishonest actions.
+* The phrase "bad lot" has a strong negative connotation, suggesting the person is prone to dishonesty.
+* Dishonesty is a characteristic often associated with someone who is considered a "bad lot".
+* The context implies a general negative assessment of the person, which can include dishonesty as one of their undesirable traits.<|eot_id|>

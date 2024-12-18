@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: 'Would you like some tea?' 
+Statement: DO you want a cup of tea? 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false (contradiction):
+
+* The original question asks about "some tea" which is ambiguous and could refer to a quantity or a type, whereas the statement asks about "a cup of tea" which is a specific quantity.
+* The original question uses the phrase "Would you like" which is a polite way of asking, whereas the statement uses "DO you want" which is more direct and assertive.
+* The original question does not specify the quantity or type of tea, whereas the statement assumes a specific quantity (a cup) and type (tea).
+* The original question is a polite offer, whereas the statement is a direct question.
+* The original question implies a possibility or option, whereas the statement implies a more definitive choice.<|eot_id|>

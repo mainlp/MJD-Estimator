@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: What a brilliantly innocuous metaphor, devised by a master manipulator to obscure his manipulations. 
+Statement: The metaphor was created by the manipulator to convince people of something. 
+Answer: [/INST] 1. The metaphor was not created by the manipulator.
+2. The metaphor was not created to convince people of something.
+3. The metaphor was not created by a manipulator.
+4. The metaphor was not intended to obscure his manipulations.
+5. The metaphor is not innocuous.
+6. The creator of the metaphor is not a master manipulator.
+7. The metaphor is not a metaphor.
+8. The metaphor was not devised.
+9. The metaphor was not created for the purpose of manipulation.
+10. The metaphor was not brilliant.</s>

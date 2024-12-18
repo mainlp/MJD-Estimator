@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The political cleansing that did not happen through the impeachment process leaves Clinton with a great and serious burden. 
+Statement: There was no such instance of political cleansing. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The impeachment process did not result in political cleansing.
+* The political cleansing that was expected did not occur.
+* Clinton still has a great and serious burden, implying that political cleansing did not take place.
+* The context implies that political cleansing was supposed to happen through the impeachment process, but it did not.
+* The phrase "that did not happen" explicitly indicates that political cleansing did not occur.<|eot_id|>

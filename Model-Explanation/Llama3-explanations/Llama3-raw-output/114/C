@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: In the 19th century, when Kashmir was the most exotic hill-station of them all, the maharaja forbade the British to buy land there, so they then hit on the brilliant alternative of building luxuriously appointed houseboats moored on the lakes near Srinagar. 
+Statement: The maharaja allowed the British to build houseboats on the lakes. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context states that the maharaja forbade the British to buy land, implying that they were not allowed to build anything, including houseboats, on land.
+* The context implies that the British built houseboats as an alternative to buying land, suggesting that the maharaja did not allow them to build houseboats with his permission.
+* The maharaja's prohibition on buying land suggests that he was restrictive towards British activities in Kashmir, making it unlikely that he would allow them to build houseboats.
+* The context presents the building of houseboats as a workaround by the British, implying that they did not have the maharaja's permission to do so.<|eot_id|>

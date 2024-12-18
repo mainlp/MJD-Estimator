@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: He's a bad lot. 
+Statement: He's a dishonest person 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only provides a vague negative sentiment about the person, but it doesn't explicitly imply dishonesty.
+* The phrase "bad lot" is ambiguous and could refer to various negative traits, not necessarily dishonesty.
+* The context doesn't provide enough information to determine if the person's badness is related to dishonesty or other negative characteristics.
+* The statement "He's a dishonest person" is a more specific claim that requires more concrete evidence, which is not provided in the context.
+* The context doesn't establish a clear causal link between being a "bad lot" and being dishonest.
+* The phrase "bad lot" might imply a more general negative evaluation, while "dishonest person" is a more specific accusation that requires stronger evidence.
+* The context doesn't rule out the possibility that the person's badness is due to other factors unrelated to dishonesty.<|eot_id|>

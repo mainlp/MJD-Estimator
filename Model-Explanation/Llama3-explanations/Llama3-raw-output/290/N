@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Total volume grew 13. 
+Statement: The expected increase was 10. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The statement only provides the expected increase, but not the actual increase, so it's unclear if the total volume grew more or less than expected.
+* The actual growth (13) is not explicitly compared to the expected growth (10), leaving the relationship between the two unclear.
+* The statement doesn't indicate if the difference between the expected and actual growth is significant or not.
+* There is no information about the unit of measurement, so it's unclear if the difference between 13 and 10 is substantial.
+* The context only provides a single data point, making it difficult to determine if the actual growth is more or less than expected based on this one instance.
+* The statement doesn't provide any additional context or information about the expectations, such as the basis for the expectation or the confidence level.<|eot_id|>

@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: But I'll take up my stand somewhere near, and when he comes out of the building I'll drop a handkerchief or something, and off you go!" 
+Statement: I want you to follow him, so watch for the signal that I give. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true:
+
+* The speaker plans to give a signal (dropping a handkerchief) to indicate when the person comes out of the building.
+* The signal is meant to be a cue for the listener to follow the person.
+* The speaker wants the listener to be aware of the signal and act accordingly.
+* The listener is expected to be in a position to see the signal and respond to it.
+* The speaker's intention is to facilitate the listener's task of following the person.
+* The signal is a necessary step for the listener to successfully follow the person.<|eot_id|>

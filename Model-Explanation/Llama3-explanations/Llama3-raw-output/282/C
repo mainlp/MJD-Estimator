@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: We still espouse a God-given right of human beings to use the environment for their benefit, says Barrett Duke of the Southern Baptists. 
+Statement: Human beings are entitled to the environment. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The context only mentions a "God-given right" to "use the environment for their benefit", not that humans are entitled to the environment itself.
+* The context implies a limited right to use the environment, not an absolute entitlement to it.
+* The context does not mention ownership or possession of the environment, only a right to use it.
+* The context suggests a utilitarian view of the environment, not an inherent right to it.
+* The statement is too broad and absolute, whereas the context provides a more nuanced and conditional view of human relationship with the environment.<|eot_id|>

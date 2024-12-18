@@ -1,0 +1,18 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: You have to walk through it). 
+Statement: Walking is the best way to get through it. 
+Answer: [/INST] 1. Driving a car is the best way to get through it.
+2. Using public transportation is the best way to get through it.
+3. Flying a helicopter is the best way to get through it.
+4. Swimming is the best way to get through it.
+5. Crawling is the best way to get through it.
+6. Rolling on a wheelchair is the best way to get through it.
+7. Taking a train is the best way to get through it.
+8. Riding a bike is the best way to get through it.
+9. Using a skateboard is the best way to get through it.
+10. Taking a taxi is the best way to get through it.
+11. Hitchhiking is the best way to get through it.
+12. Taking a horse-drawn carriage is the best way to get through it.
+13. Teleporting is the best way to get through it.
+14. Using magic to get through it is the best way.
+15. Any other means of transportation is the best way to get through it.</s>

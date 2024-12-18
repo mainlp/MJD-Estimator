@@ -1,0 +1,18 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Total volume grew 13. 
+Statement: The expected increase was 10. 
+Answer: [/INST] 1. Total volume decreased.
+2. Total volume remained the same.
+3. The actual increase was less than 10, but not 13.
+4. The actual increase was more than 13.
+5. The increase was a result of a calculation error.
+6. The increase was not annual, but total growth over a longer period.
+7. The increase was in a different unit of measurement.
+8. The increase was only for a subset of the total volume.
+9. The increase was artificially inflated by external factors.
+10. The increase was not evenly distributed, resulting in a higher total volume.
+11. The increase was due to a change in methodology or definition of total volume.
+12. The increase was due to a one-time event, not a sustained trend.
+13. The increase was not significant enough to be considered a true increase.
+14. The increase was not approved or expected by the relevant authorities.
+15. The increase was not communicated or reported accurately.</s>

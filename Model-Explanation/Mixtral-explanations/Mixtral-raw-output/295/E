@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Still, I guess that can be got over. 
+Statement: There are some things that you need to ignore. 
+Answer: [/INST] 1. The "that" in the context refers to certain difficulties or issues which can be "got over" or overcome by adopting a particular attitude or strategy.
+2. Ignoring certain things can help one overcome the difficulties mentioned in the context.
+3. The speaker suggests that adopting an attitude of ignoring some things can be a way to "get over" the issues mentioned.
+4. The context implies that there are obstacles to be overcome, and the statement suggests that one way to do so is by ignoring certain things.
+5. The statement can be interpreted as a piece of advice given in the context, suggesting that ignoring some things can help one move past the difficulties mentioned.</s>

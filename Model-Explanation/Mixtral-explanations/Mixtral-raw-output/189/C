@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: In a six-year study, scientists fed dogs and other animals irradiated chicken and found no evidence of increased cancer or other toxic effects. 
+Statement: Scientists gave animals irradiated chicken and they all lived as long as the rest of them. 
+Answer: [/INST] 1. Some animals fed irradiated chicken died earlier than those not fed irradiated chicken.
+2. The animals' lifespan decreased after being fed irradiated chicken.
+3. Irradiated chicken caused a reduction in the overall survival rate of the animals.
+4. The study found that irradiated chicken increased the risk of cancer or other health issues in the animals, thus negating the idea that "they all lived" as long as the rest of them.
+5. The animals' quality of life deteriorated after being fed irradiated chicken, even if their lifespan remained unchanged.
+6. The statement could be referring to a different group of animals not included in the six-year study.
+7. The six-year study did not track the animals' lifespan, so no conclusions can be drawn about the animals living as long as the rest of them.</s>

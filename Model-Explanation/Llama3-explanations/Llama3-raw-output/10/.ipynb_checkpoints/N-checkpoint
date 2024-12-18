@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The door did not budge. 
+Statement: The door was stuck, so it did not move.  
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is a tautology, and the context already implies that the door did not move, making the statement redundant.
+* The statement does not provide any new information beyond what is already known from the context.
+* The statement is a circular explanation, as "stuck" is equivalent to "did not budge", and "did not move" is equivalent to "did not budge".
+* The statement is not providing a cause-and-effect relationship, but rather a restatement of the same fact.
+* The context only mentions the effect (the door did not budge), but the statement is trying to provide a cause (the door was stuck) without sufficient evidence.
+* The statement is assuming a causal relationship between "being stuck" and "not moving" without providing any evidence for this relationship.<|eot_id|>

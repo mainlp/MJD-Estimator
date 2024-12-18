@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The management of the cafe has established the rules for the use of their facility. 
+Statement: The management of the cafe is strict about how they manage it. 
+Answer: [/INST] 1. The management has created rules for the cafe's use, indicating a desire to control its operations.
+2. Adhering to the rules shows that the management is serious about how the cafe is run.
+3. The existence of rules implies a need for order, which suggests a strict approach.
+4. The management's establishment of rules may reflect a concern for safety or quality, further indicating strict management.
+5. The management's rules might regulate various aspects of the cafe, such as employee behavior or customer conduct, showing attention to detail and control, which are associated with strict management.</s>

@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The importer pays duties that are required by law 
+Statement: Imported goods have duties 
+Answer: [/INST] 1. The statement may refer to duties in general, while the context may refer to duties paid by the importer specifically.
+2. The statement may include duties that are not required by law, but the context only mentions duties that are required by law.
+3. The statement may refer to duties that are paid by someone other than the importer.
+4. The context may only refer to a specific instance of importing and paying duties, while the statement is more general.
+5. The statement may include duties that are voluntary, while the context only mentions duties required by law.
+6. The statement may include duties that are paid after the goods have been imported, while the context may only refer to duties paid during the import process.
+7. The statement may include duties that are paid by the manufacturer or producer, while the context only mentions duties paid by the importer.
+8. The statement may include duties that are paid in a different form (e.g. in-kind) while the context only mentions monetary duties.
+9. The statement may include duties that are paid by the government or other third party, while the context only mentions duties paid by the importer.
+10.

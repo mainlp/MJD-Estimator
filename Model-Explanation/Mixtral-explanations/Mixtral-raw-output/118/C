@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: 'But if White has any designs at all on living, he'll be as far from Little as he can possibly get by now.' 
+Statement: White should be afraid to come back to Little. 
+Answer: [/INST] 1. White has no intention of living, so there's no reason for him to be afraid to come back to Little.
+2. White is already in Little and has no plans to leave.
+3. White is moving closer to Little, not further away.
+4. White is not afraid of Little or any potential dangers there.
+5. White is being forced to return to Little.
+6. White is unaware of the potential danger in Little.
+7. White is coming back to Little to confront the perceived danger.
+8. White's actions are not driven by fear, but by a different emotion or motivation.
+9. White is returning to Little to seek help or support.
+10. White's return to Little is not a voluntary action, but an accident or mistake.</s>

@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: However, co-requesters cannot approve additional co-requesters or restrict the timing of the release of the product after it is issued. 
+Statement: They will restrict timing of the release of the product. 
+Answer: [/INST] 1. Co-requesters have the authority to restrict the timing of the release of the product.
+2. The system allows co-requesters to restrict the timing of the release of the product.
+3. Co-requesters can modify the settings to restrict the timing of the release of the product.
+4. Co-requesters are given the permission to control the release time of the product.
+5. Co-requesters have the ability to decide when the product will be released.
+6. The rules have changed, and now co-requesters can restrict the timing of the release of the product.
+7. Despite the initial statement, co-requesters do have the power to restrict the timing of the release of the product.</s>

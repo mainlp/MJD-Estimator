@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: and uh really they're about it they've got a guy named Herb Williams that that i guess sort of was supposed to take the place of uh Tarpley but he uh he just doesn't have the offensive skills 
+Statement: Tarpley is a better offensive player that Herb Williams. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only implies that Herb Williams was supposed to take Tarpley's place, but it doesn't explicitly state that Tarpley is better.
+* The context only mentions that Herb Williams lacks offensive skills, but it doesn't provide a direct comparison with Tarpley's skills.
+* The context doesn't provide enough information to determine the relative offensive skills of Tarpley and Herb Williams.
+* The statement is not explicitly supported or contradicted by the context, leaving the relationship between Tarpley and Herb Williams' offensive skills uncertain.
+* The context focuses on Herb Williams' limitations, but it doesn't provide a direct evaluation of Tarpley's abilities.
+* The context doesn't establish a clear basis for comparison between Tarpley and Herb Williams' offensive skills.<|eot_id|>

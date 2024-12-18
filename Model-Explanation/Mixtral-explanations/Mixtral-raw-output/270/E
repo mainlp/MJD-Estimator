@@ -1,0 +1,6 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: AC Green's pretty good 
+Statement: AC Green is also a solid player. 
+Answer: [/INST] 1. The context states that AC Green is "pretty good," which implies that he is a competent and reliable player.
+2. The statement expands on the context by specifying that AC Green is not just good, but also "solid," which suggests that he is consistently dependable and displays strong performance.
+3. The term "also" in the statement indicates that AC Green has another positive attribute, in addition to being "pretty good," further emphasizing his skill as a player.</s>

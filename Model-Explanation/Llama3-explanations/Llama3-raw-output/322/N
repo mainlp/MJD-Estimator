@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The pope, suggesting that Gen. 
+Statement: Gen is being suggested by the Pope. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions the Pope suggesting something, but it doesn't specify what is being suggested, so it's unclear if Gen is the one being suggested or if the Pope is suggesting something about Gen.
+* The phrase "suggesting that" is ambiguous and could imply either that the Pope is suggesting Gen for something or that the Pope is suggesting a fact or idea related to Gen.
+* The statement doesn't provide enough information to determine the relationship between the Pope's suggestion and Gen, leaving the inference uncertain.
+* The context doesn't provide any additional information about Gen or the Pope's suggestion, making it impossible to determine the truth of the statement.
+* The statement is too vague and open-ended, allowing for multiple possible interpretations that can't be resolved with the given context.<|eot_id|>

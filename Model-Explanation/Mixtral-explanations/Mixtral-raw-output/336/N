@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The tip was hooked towards the edge, the same way the tips are hammered for knives used for slaughter. 
+Statement: They were fragile and could not leave a scratch. 
+Answer: [/INST] 1. The "they" in the statement could refer to objects other than the item with the hooked tip.
+2. The objects with the hooked tip may not be used for the purpose of scratching surfaces.
+3. The objects with the hooked tip may be very sharp and capable of cutting or piercing, but not leaving a scratch.
+4. The objects with the hooked tip may be used for a specific type of scratching that doesn't apply to the situation in question.
+5. The objects with the hooked tip may be used for scratching, but the surface they are used on may not be susceptible to scratches.
+6. The objects with the hooked tip may be used for scratching, but the statement may be describing their condition before they were used.
+7. The objects with the hooked tip may be used for scratching, but the statement may be describing their condition after they were used.
+8. The objects with the hooked tip may be used for scratching, but the statement may be describing their condition after they were used, but before the scratches were assessed for their depth or visibility.
+9. The objects with the hooked tip may be

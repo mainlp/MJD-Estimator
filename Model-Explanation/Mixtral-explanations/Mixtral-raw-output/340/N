@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: He found himself thinking in circles of worry and pulled himself back to his problem. 
+Statement: He could not afford to get distracted from his problem. 
+Answer: [/INST] 1. The context does not specify the importance or urgency of the problem.
+2. The context does not indicate whether the worry is related to the problem.
+3. The context does not reveal if the person is capable of controlling their distractions.
+4. The context does not mention whether getting distracted would have immediate consequences.
+5. The context does not provide information on any external factors that might cause distractions.
+6. The context does not clarify if the person's "thinking in circles of worry" is considered a distraction.
+7. The context does not inform us about the person's state of mind or ability to focus after pulling themselves back to the problem.
+8. The context does not explicitly state that the person's problem is the only thing they should be focusing on.</s>

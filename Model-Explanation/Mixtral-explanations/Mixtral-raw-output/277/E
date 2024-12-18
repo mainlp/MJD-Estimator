@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: I guess history repeats itself, Jane. 
+Statement: I truly think the prior situation shows history repeats itself. 
+Answer: [/INST] 1. The speaker's use of "history repeats itself" in the context indicates that they believe current events or situations are similar to those in the past.
+2. The statement also contains "the prior situation" which refers to a specific past event or situation.
+3. The speaker's agreement with the context is expressed through "I truly think" which shows that they also believe that the past event or situation is being repeated.
+4. The use of "shows" in the statement indicates that the speaker sees evidence of the repetition of history in the prior situation.
+5. The statement is a confirmation of the context, and affirms that the current situation is a repeat of a past event or situation, as suggested in the context.</s>

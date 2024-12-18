@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Auditors from another country engaged to conduct audits in their country should meet the professional qualifications to practice under that country's laws and regulations or other acceptable standards, such as those issued by the International Organization of Supreme Audit Institutions. 
+Statement: All auditors report to a globally managed governing body. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The International Organization of Supreme Audit Institutions is a globally managed governing body that auditors report to.
+* The country's laws and regulations require auditors to report to a globally managed governing body.
+* The professional qualifications to practice under that country's laws and regulations imply that auditors report to a globally managed governing body.
+* The acceptable standards issued by the International Organization of Supreme Audit Institutions include reporting to a globally managed governing body.
+* The auditors from another country are required to report to a globally managed governing body as part of their engagement to conduct audits in that country.<|eot_id|>

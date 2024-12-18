@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: He found himself thinking in circles of worry and pulled himself back to his problem. 
+Statement: He could not afford to get distracted from his problem. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context implies he was already distracted, which contradicts the statement.
+* The fact that he had to "pull himself back" suggests he was not focused on his problem, contradicting the statement.
+* The statement implies he was able to maintain focus, but the context shows he was thinking in circles of worry, indicating distraction.
+* The context describes him as being distracted (thinking in circles of worry), which is the opposite of what the statement claims.<|eot_id|>

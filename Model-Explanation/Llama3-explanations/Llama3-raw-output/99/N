@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The original wax models of the river gods are on display in the Civic Museum. 
+Statement: They have models made out of clay. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions wax models, but not clay models, so it's unclear if they have clay models or not.
+* The context is specific to the Civic Museum, but the statement is general, so it's unclear if "they" refers to the Civic Museum or some other entity.
+* The context doesn't provide any information about the material of the models other than wax, so it's impossible to infer anything about clay models.
+* The statement is too vague, it's unclear what "they" refers to, it could be the Civic Museum, the river gods, or some other entity.
+* There is no logical connection between the context and the statement, so it's impossible to determine the truth value of the statement.<|eot_id|>

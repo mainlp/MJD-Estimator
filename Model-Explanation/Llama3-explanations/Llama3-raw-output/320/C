@@ -1,0 +1,10 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: However, the other young lady was most kind.  
+Statement: I received a warm welcome from the other young lady who was present. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions one young lady, implying there was only one, but the statement refers to "the other young lady", suggesting there were multiple.
+* The context describes the young lady as "most kind", but does not explicitly state that she gave a warm welcome.
+* The context does not mention a welcome at all, let alone a warm one.<|eot_id|>

@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: HCFA published a Notice of Proposed Rulemaking on March 28, 1997 (62 Fed. 
+Statement: HCFA tried to keep everyone informed about the rules they were making. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* HCFA published a Notice of Proposed Rulemaking, which implies they made an effort to inform the public about the rules they were making.
+* The publication of a Notice of Proposed Rulemaking is a formal way of keeping people informed, suggesting that HCFA intended to keep everyone informed.
+* The fact that the Notice was published in the Federal Register (62 Fed.) implies that HCFA wanted to make the information widely available and accessible to the public.
+* By publishing a Notice of Proposed Rulemaking, HCFA was following a formal process that is designed to keep stakeholders informed and solicit their feedback.<|eot_id|>

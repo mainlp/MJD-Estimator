@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: trying to keep grass alive during a summer on a piece of ground that big was expensive 
+Statement: The watering and fertilizer, can cost a lot to keep grass alive in the summer months. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is a paraphrased version of the context, but it doesn't add any new information, so it's not entailment.
+* The context mentions the size of the ground, but the statement doesn't, so it's not clear if the cost is due to the size or other factors.
+* The statement is a general statement about keeping grass alive in summer, but the context is specific to a particular piece of ground, so it's not clear if the statement is applicable to this specific situation.
+* The context implies that the cost is high, but the statement only says it "can cost a lot", which is a weaker claim, so it's not clear if the statement is strong enough to be considered entailment.
+* The statement doesn't provide any new information about the cost, it's just a general statement about the possibility of high cost, so it's not entailment.
+* The context is about the cost of keeping grass alive, but the statement is about the cost of watering and fertilizer, which are only part of the cost, so it's not clear if the statement is covering the whole cost.<|eot_id|>

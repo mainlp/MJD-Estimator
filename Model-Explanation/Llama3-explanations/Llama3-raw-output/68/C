@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: we were lucky in that in one respect in that after she had her stroke she wasn't really you know really much aware of what was going on 
+Statement: She had a very serious stroke. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement implies she was aware of what was going on, but the context says she wasn't really aware.
+* The context downplays the severity of the stroke by mentioning luck, implying it wasn't very serious.
+* The phrase "in one respect" suggests that there were other aspects where they weren't lucky, which contradicts the idea of a very serious stroke.
+* The tone of the context is casual and conversational, which doesn't match the gravity of a very serious stroke.
+* The use of "you know" and "really much" in the context implies a sense of uncertainty or vagueness, which contradicts the definitive statement about the stroke's severity.<|eot_id|>

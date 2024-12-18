@@ -1,0 +1,17 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The policy succeeded, and I was fortunate to have had the opportunity to make that contribution to my people. 
+Statement: Because the policy was a success, I was able to make a contribution to my people. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+1. Causal relationship: The policy's success directly led to the opportunity to make a contribution to the people.
+2. Temporal relationship: The policy's success occurred before the opportunity to make a contribution, implying a chronological order.
+3. Enabling condition: The policy's success created the necessary conditions for the contribution to be made.
+4. Necessary condition: The policy's success was a necessary requirement for the contribution to be made.
+5. Sufficient condition: The policy's success was enough to guarantee the opportunity to make a contribution.
+6. Correlation: The policy's success and the opportunity to make a contribution are correlated, implying a connection between the two events.
+7. Author's role: The author's involvement in the policy's success led to their ability to make a contribution to the people.
+8. Causal chain: The policy's success led to a series of events that ultimately resulted in the opportunity to make a contribution.<|eot_id|>

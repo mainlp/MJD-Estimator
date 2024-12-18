@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: that's true i didn't think about that 
+Statement: You've changed my mind with a new perspective. 
+Answer: [/INST] 1. The speaker initially had a different opinion, but the new information presented made them reconsider and adopt a new viewpoint.
+2. The speaker was previously unconvinced, but the compelling argument or evidence provided changed their mind.
+3. The speaker had a fixed perspective, and the new insight offered a different way of looking at the situation.
+4. The speaker was not considering the issue, but the new perspective made them think about it and ultimately changed their mind.
+5. The speaker's previous opinion was based on incomplete information, and the new perspective filled in the gaps, leading to a change of mind.
+6. The speaker was skeptical, but the new perspective provided a convincing explanation or argument, resulting in a change of mind.
+7. The speaker was neutral, and the new perspective presented a compelling case, leading to a change of mind.
+8. The speaker was unaware of the perspective, and upon learning about it, they changed their mind.
+9. The speaker was resistant to change, but the new perspective was so compelling that they could not help but be persuaded.
+10. The speaker was open-minded, and the new perspective offered a more conv

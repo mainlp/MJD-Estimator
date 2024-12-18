@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Unless the report is restricted by law or regulation, auditors should ensure that copies be made available for public inspection. 
+Statement: This report is most likely restricted by law or regulation and should not be ensured. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The report is not restricted by law or regulation, so it should be made available for public inspection.
+* The report should be ensured to be made available for public inspection, not the opposite.
+* The condition "unless the report is restricted by law or regulation" implies that if the report is not restricted, it should be made available, which contradicts the statement.
+* The statement assumes the report is restricted, but the context does not provide enough information to make that conclusion.
+* The statement's conclusion "should not be ensured" is the opposite of what the context suggests, which is that auditors should ensure the report is available for public inspection.<|eot_id|>

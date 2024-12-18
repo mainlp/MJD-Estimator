@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Unless the report is restricted by law or regulation, auditors should ensure that copies be made available for public inspection. 
+Statement: This report is most likely restricted by law or regulation and should not be ensured. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context does not provide enough information to determine the likelihood of the report being restricted by law or regulation.
+* The statement's claim about the report being "most likely" restricted is a subjective judgment that cannot be verified or refuted based on the context.
+* The context only provides a conditional statement about making copies available for public inspection, but does not provide any information about the report's actual status or restrictions.
+* The statement's negation of the context's instruction ("should not be ensured") is not logically entailed by the context, and therefore cannot be determined as true or false.
+* The context does not provide any information about the report's content or purpose, which might be relevant to determining its restricted status.
+* The statement's language is ambiguous, and it is unclear what "most likely" means in this context, or what the criteria are for determining restriction by law or regulation.<|eot_id|>

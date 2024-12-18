@@ -1,0 +1,10 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: In the first instance, IRS would have no record of time before the person could get through to an agent and of discouraged callers. 
+Statement: There is no recording of the time for callers. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context implies that IRS would have no record of time before the person could get through to an agent, but it does not rule out the possibility of recording time after getting through to an agent.
+* The context only mentions the absence of records for discouraged callers, not all callers.
+* The statement is too broad, as it claims there is no recording of time for any callers, whereas the context only discusses a specific scenario.<|eot_id|>

@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: If ancient writings give only a romanticized view, they do offer a more precise picture of Indo-Aryan society. 
+Statement: Ancient writings don't show an accurate picture of Indo-Anryan society. 
+Answer: [/INST] 1. Ancient writings do offer a romanticized view and a picture that is not accurate.
+2. Ancient writings only offer an inaccurate, romanticized view of Indo-Aryan society.
+3. Ancient writings do not provide a precise picture of Indo-Aryan society.
+4. The statement is assuming that any romanticized view cannot be accurate.
+5. The statement is implying that ancient writings are entirely inaccurate in portraying Indo-Aryan society.</s>

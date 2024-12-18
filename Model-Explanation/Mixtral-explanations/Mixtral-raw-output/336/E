@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The tip was hooked towards the edge, the same way the tips are hammered for knives used for slaughter. 
+Statement: They were fragile and could not leave a scratch. 
+Answer: [/INST] 1. The "they" refers to objects other than the item with the hooked tip.
+2. The hooked tip is not used for scratching or cutting.
+3. The fragile objects are not related to the item with the hooked tip.
+4. The action of hammering the tips for knives used for slaughter does not affect their sharpness or ability to scratch.
+5. The fragile objects are not capable of causing damage to the item with the hooked tip.</s>

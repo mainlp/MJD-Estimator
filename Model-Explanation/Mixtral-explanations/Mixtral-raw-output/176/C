@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: So it wasn't Missenhardt's singing--marvelous though that was--that made Osmin's rantings so thrilling. 
+Statement: Osmin was always calm and collected. 
+Answer: [/INST] 1. Osmin was never ranting or agitated.
+2. Osmin's excitement was due to Missenhardt's singing.
+3. Osmin's demeanor was always calm and did not change.
+4. There were no outbursts or emotional outpourings from Osmin.
+5. Osmin's behavior was not thrilling due to any rantings.
+6. The thrill of Osmin's behavior was not caused by any emotional outbursts.
+7. Osmin was not known for his emotional and excited outbursts.
+8. The excitement around Osmin was not due to any ranting or emotional behavior.
+9. Osmin's behavior was not characterized by any loss of composure.
+10. The thrilling aspect of Osmin's behavior was not due to any emotional outbursts or rantings.</s>

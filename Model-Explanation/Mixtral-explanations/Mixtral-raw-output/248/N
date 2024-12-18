@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: He was crying like his mother had just walloped him. 
+Statement: He was crying like his mother hit him with a spoon. 
+Answer: [/INST] 1. The mother's wallop could have been with an object other than a spoon, leaving open the possibility that a spoon was used in the second statement.
+2. The emotional reaction of crying in the first statement might not necessarily be caused by physical pain, while in the second statement, it is explicitly linked to a spoon-hitting action.
+3. The crying in the first statement could be due to a more severe or milder incident than being hit with a spoon, as described in the second statement.
+4. The crying in the first statement might be due to a different event unrelated to the mother, while in the second statement, the cause is explicitly linked to the mother.
+5. The crying in the first statement could be metaphorical or exaggerated, while the second statement presents a literal interpretation of crying due to being hit with a spoon.
+6. The first statement does not specify who is doing the walloping, while the second statement clarifies that it is the mother.
+7. The first statement does not specify the exact reason for the wallop, while the second statement implies a reason (implements a spoon).
+8. The first statement might be open to various interpretations of the intensity or reason

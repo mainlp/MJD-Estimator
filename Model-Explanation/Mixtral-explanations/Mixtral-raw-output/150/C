@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: So unlike people who are fortunate enough to be able to afford attorneys and can go to another lawyer, our clients are simply lost in the legal system if they cannot get access to it from us. 
+Statement: Our clients can barely afford our legal assistance. 
+Answer: [/INST] 1. Our clients can easily afford our legal assistance.
+2. Our clients always have sufficient funds for our legal services.
+3. Our clients never struggle with the cost of our legal assistance.
+4. Our clients have more than enough financial resources for other lawyers.
+5. Our clients can afford to hire other attorneys without any issues.
+6. The cost of our legal assistance is never a burden for our clients.
+7. Our clients are wealthy and can comfortably pay for our legal services.
+8. Our clients have unlimited financial means to access legal assistance.</s>

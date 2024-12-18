@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Managing better requires that agencies have, and rely upon, sound financial and program information. 
+Statement: Agencies that rely on information based on unsound financial information will have management problems. 
+Answer: [/INST] 1. Agencies relying on unsound financial information lack sound financial and program information, which is necessary for better management.
+2. Using unsound financial information as a basis for decision-making in agencies can lead to management issues.
+3. The absence of sound financial and program information in agencies, due to reliance on unsound financial information, can negatively impact management.
+4. Relying on unsound financial information can cause management problems in agencies that need sound financial and program information to manage better.
+5. Agencies that rely on unsound financial information are not meeting the requirement of having sound financial and program information, leading to management problems.</s>

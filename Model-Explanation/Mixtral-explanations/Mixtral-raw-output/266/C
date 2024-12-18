@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Jon twisted the man's wrist. 
+Statement: Jon grabbed the man. 
+Answer: [/INST] 1. Jon only touched or held the man's hand, not grabbing any part of his body.
+2. Jon pushed or shoved the man instead of grabbing him.
+3. Jon pulled the man's arm or sleeve, but did not actually grab his hand or body.
+4. Jon patted or tapped the man's shoulder or back, not grabbing him.
+5. Jon was twisting the man's wrist as a result of the man already being grabbed by someone else.
+6. Jon was manipulating a prop or object (like a joystick or a steering wheel) that the man was also touching, leading to the twisting of the man's wrist, but not involving grabbing the man himself.</s>

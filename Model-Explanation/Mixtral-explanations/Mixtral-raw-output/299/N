@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: That's why we tried to kill you. 
+Statement: That's one of the reasons we wanted to kill you. 
+Answer: [/INST] 1. The context doesn't specify if there are other reasons for wanting to kill the person.
+2. The statement may be referring to a different set of reasons than what the context is referring to.
+3. The statement could be expressing that the reason mentioned is only a partial reason, not the full reason.
+4. The context may not be literal, it could be a metaphor or a joke, while the statement is taken literally.
+5. The statement could be implying that there are reasons that the speaker doesn't want to reveal, while the context is revealing all the reasons.
+6. The context may be referring to a specific instance, while the statement is referring to a general reason.
+7. The statement could be expressing that the reason mentioned is a minor reason, while the context is implying it's a major reason.
+8. The context may be using the word "kill" in a non-literal sense, while the statement is taking it literally.
+9. The statement could be expressing that the reason mentioned is a reason that the listener already knows, while the context is implying it's a new reason.
+10. The context may be referring to a reason that

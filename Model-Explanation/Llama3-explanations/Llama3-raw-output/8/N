@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Her state is probably to be attributed to the mental shock consequent on recovering her memory." 
+Statement: It is too bad that she never regained her memory. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context suggests that she has recovered her memory, but the statement claims she never regained it, leading to a contradiction.
+* The context implies a positive outcome (recovering her memory), while the statement expresses a negative sentiment (it's too bad), creating a mismatch.
+* The statement's sentiment is opposite to what is expected given the context, which describes a consequence of recovering her memory, implying a positive event.
+* The context focuses on the consequence of recovering her memory, while the statement focuses on not regaining it, making it difficult to infer a clear relationship.
+* The statement's claim about not regaining her memory is incompatible with the context's assertion that she has recovered it.
+* The context and statement are discussing different aspects of the situation, making it challenging to determine a clear entailment relationship.<|eot_id|>

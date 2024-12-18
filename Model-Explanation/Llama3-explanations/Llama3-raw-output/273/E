@@ -1,0 +1,16 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: 36 AC usage nationally for mercury control from power plants should be roughly proportional to the total MWe of coal-fired facilities that are equipped with the technology (this assumes an average capacity factor of 85 percent and other assumptions of Tables 4-4 and 4-5). 
+Statement: Power plants' mercury control AC usage is higher than total MWe from coal facilities. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The average capacity factor is higher than 85 percent.
+* The total MWe of coal-fired facilities equipped with the technology is lower than expected.
+* The assumptions in Tables 4-4 and 4-5 are incorrect or incomplete.
+* There are other factors affecting mercury control AC usage that are not accounted for in the context.
+* The proportionality assumption between AC usage and total MWe is incorrect, and the relationship is not linear.
+* There are other types of facilities (not coal-fired) that contribute to the total mercury control AC usage.
+* The AC usage is not only for mercury control but also for other purposes, increasing the overall usage.<|eot_id|>

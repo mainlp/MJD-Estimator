@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: BUDGETARY RESOURCES - The forms of authority given to an agency allowing it to incur obligations. 
+Statement: Administrations generally feel that some agencies should have more budgetary resources than others. 
+Answer: [/INST] 1. Administrations believe that certain agencies require more funds to fulfill their obligations.
+2. Some agencies are considered more important and thus require greater budgetary resources.
+3. The administration acknowledges a need for disparity in budgetary resources among agencies.
+4. A belief exists within administrations that an unequal distribution of budgetary resources is necessary.
+5. Administrations support the idea of allocating more funds to specific agencies.
+6. There is a general understanding in administrations that not all agencies should receive the same level of budgetary resources.</s>

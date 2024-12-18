@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: 'Dave Hanson, to whom nothing was impossible.' Well, we have a nearly impossible task: a task of engineering and building. 
+Statement: This building job is almost impossible, even for an experienced engineer. 
+Answer: [/INST] 1. The statement identifies the building job as almost impossible.
+2. The context mentions that Dave Hanson is a person to whom nothing is impossible.
+3. Therefore, it can be inferred that Dave Hanson could accomplish the almost impossible building job.
+4. The statement asserts that the building job is almost impossible, even for an experienced engineer.
+5. This implies that the task is extremely challenging, even for someone with the right skills and experience.
+6. Given that Dave Hanson is capable of doing what is nearly impossible, it can be concluded that the statement is true, as the building job is almost impossible, even for an experienced engineer, but still possible for someone like Dave Hanson.</s>

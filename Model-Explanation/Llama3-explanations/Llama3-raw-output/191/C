@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: will never be doused (Brit Hume, Fox News Sunday ; Tony Blankley, Late Edition ; Robert Novak, Capital Gang ; Tucker Carlson, The McLaughlin Group ). The middle way is best expressed by Howard Kurtz (NBC's Meet the Press )--he scolds Brill for undisclosed campaign contributions and for overstretching his legal case against Kenneth Starr but applauds him for casting light on the media. 
+Statement: They wanted the public to know where the funds came from. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false:
+
+* The context mentions "undisclosed campaign contributions", implying that the funds' origin was not revealed.
+* The statement contradicts the context's criticism of Brill for not disclosing the source of the funds.
+* The context does not suggest that anyone wanted to reveal the source of the funds, but rather that Brill was scolded for not doing so.<|eot_id|>

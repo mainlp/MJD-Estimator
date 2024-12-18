@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: GAO recommends that the Secretary of Defense revise policy and guidance 
+Statement: GAO recommends that you eat 5 fruit/veg per day 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The subject of the recommendation is the Secretary of Defense, not "you".
+* The topic of the recommendation is policy and guidance, not dietary advice.
+* The content of the recommendation is unrelated to eating fruit/veg per day.
+* The tone and style of the recommendation are formal and official, unlike the informal tone of the given statement.
+* The language and terminology used are specific to a government agency (GAO) and a government official (Secretary of Defense), which is not consistent with the given statement.
+* The context implies a formal report or document, whereas the given statement appears to be a casual suggestion.<|eot_id|>

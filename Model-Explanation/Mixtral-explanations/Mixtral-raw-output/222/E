@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Tell me, how did those scribbled words on the envelope help you to discover that a will was made yesterday afternoon?" Poirot smiled.  
+Statement: How did you work out from that text that there was a new will? 
+Answer: [/INST] 1. The "scribbled words" on the envelope suggest recent activity or hastiness, indicating a new document.
+2. The word "yesterday" in the context points to a time close to the discovery, aligning with the creation of a new will.
+3. The term "afternoon" further narrows down the time frame, making it likely that the will was made during that specific time yesterday.
+4. The combination of these factors - the scribbled words, the mention of "yesterday," and the specification of "afternoon" - allude to the creation of a new will.</s>

@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Although the accounting and reporting model needs to be updated, in my view, the current attest and assurance model is also out of date. 
+Statement: The accounting model needs to be updated in addition to the acquisition model. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* There is no mention of an "acquisition model" in the context.
+* The context only mentions the "accounting and reporting model" and the "attest and assurance model", but not an "acquisition model".
+* The context does not imply that an "acquisition model" exists or needs to be updated.
+* The statement introduces a new, unrelated model ("acquisition model") that is not mentioned in the context.
+* The context only discusses the need to update the "accounting and reporting model" and the "attest and assurance model", but not an "acquisition model".<|eot_id|>

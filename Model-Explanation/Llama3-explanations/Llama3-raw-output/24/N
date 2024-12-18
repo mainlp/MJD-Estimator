@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: So is the salt, drying in the huge, square pans at Las Salinas in the south. 
+Statement: Pepper is made wet in Las Salinas. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions salt, not pepper, so there is no information about pepper's production process.
+* The context describes salt as "drying", implying a process of removing moisture, whereas the statement claims pepper is "made wet", which is an opposing process.
+* The context does not provide any information about pepper being made or processed at Las Salinas, or anywhere else.
+* The context does not imply or suggest that pepper is made using a similar process as salt, or that it is made at the same location.
+* There is no logical connection between the context and the statement that would allow us to infer the truth or falsehood of the statement.<|eot_id|>

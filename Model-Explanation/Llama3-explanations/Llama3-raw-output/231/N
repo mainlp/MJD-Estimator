@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Ca'daan closed the door behind them and retied the not. 
+Statement: Ca'daan closed the door as they entered, and bound it shut with rope. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only mentions Ca'daan closing the door and retying the knot, but it doesn't specify whether it was done as they entered or not.
+* The statement mentions "bound it shut with rope", but the context only mentions "retied the not", which could refer to a different action or object.
+* The context doesn't provide enough information to determine whether Ca'daan used a rope to close the door or not.
+* The statement implies a specific sequence of events (closing the door as they entered, and then binding it shut), but the context doesn't provide enough information to confirm or deny this sequence.
+* The context and statement use different wording to describe the action of closing the door, making it difficult to determine their equivalence.<|eot_id|>

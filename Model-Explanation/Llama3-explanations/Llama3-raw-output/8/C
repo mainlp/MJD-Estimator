@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Her state is probably to be attributed to the mental shock consequent on recovering her memory." 
+Statement: It is too bad that she never regained her memory. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement contradicts the context because it says she never regained her memory, but the context states that she recovered her memory.
+* The context implies that she has regained her memory, which is the opposite of what the statement claims.
+* The phrase "recovering her memory" in the context indicates that she has regained her memory, making the statement false.
+* The context suggests that her current state is a result of regaining her memory, which contradicts the statement's claim that she never regained it.
+* The statement's negative tone ("it is too bad") implies that not regaining her memory is undesirable, but the context presents regaining her memory as a significant event, implying the opposite.<|eot_id|>

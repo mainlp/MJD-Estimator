@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: i think that the people that are um have um a lower income which you automatically equate with lower education 
+Statement: I think because you have lower income you are less educated. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The speaker's original statement mentions a correlation between lower income and lower education, but does not imply a direct causation.
+* The rephrased statement implies a direct causation, which is not necessarily true.
+* Income and education are not directly correlated, as there are many factors that influence both.
+* There are many examples of people with lower incomes who are highly educated, and vice versa.
+* The original statement is a speculation or an observation, whereas the rephrased statement is presented as a fact.
+* The rephrased statement oversimplifies the complex relationship between income and education.
+* The rephrased statement ignores the possibility of other factors influencing income, such as job opportunities, discrimination, or socioeconomic status.
+* The rephrased statement ignores the possibility of other factors influencing education, such as access to resources, personal drive, or innate ability.<|eot_id|>

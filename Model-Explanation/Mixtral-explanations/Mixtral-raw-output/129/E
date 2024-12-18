@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Because marginal costs are very low, a newspaper price for preprints might be as low as 5 or 6 cents per piece. 
+Statement: Many people consider these prices to be unfair to new printers. 
+Answer: [/INST] 1. New printers have higher marginal costs compared to the stated low cost of preprint production.
+2. The low prices make it difficult for new printers to cover their costs and make a profit.
+3. The stated prices do not account for the expenses new printers incur when starting their business.
+4. Existing newspaper companies can offer lower prices due to economies of scale, putting new printers at a disadvantage.
+5. New printers may need to charge higher prices to remain competitive, causing tension with public expectations set by the low preprint prices.</s>

@@ -1,0 +1,17 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Agencies may perform the analyses required by sections 603 and 604 in conjunction with or as part of any other agenda or analysis required by other law if such other analysis satisfies the provisions of these sections. 
+Statement: There are many times when the agencies have gotten in trouble. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are possible explanations why the statement is true (entailment) given the context:
+
+* The agencies may not have satisfied the provisions of sections 603 and 604 while performing analyses in conjunction with other laws, leading to trouble.
+* The agencies may have failed to perform the required analyses, resulting in trouble.
+* The agencies may have misinterpreted the provisions of sections 603 and 604, causing trouble.
+* The agencies may have neglected to consider other laws while performing analyses, leading to trouble.
+* The agencies may have performed analyses that did not meet the requirements of sections 603 and 604, resulting in trouble.
+* The agencies may have faced challenges in integrating the analyses required by sections 603 and 604 with other laws, leading to trouble.
+* The agencies may have lacked the necessary resources or expertise to perform the required analyses, resulting in trouble.
+* The agencies may have had conflicting priorities or agendas that led to trouble in performing the required analyses.<|eot_id|>

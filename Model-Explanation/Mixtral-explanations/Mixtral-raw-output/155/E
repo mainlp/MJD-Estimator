@@ -1,0 +1,16 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: substitute my my yeah my kid'll do uh four or five hours this week for me no problem 
+Statement: I just can't make the time because of my job. 
+Answer: [/INST] 1. The speaker is unable to complete a certain task due to their work commitments.
+2. The speaker's job is preventing them from dedicating time to the task.
+3. The speaker has arranged for their child to do the task for them instead.
+4. The task will be done by the speaker's child for four or five hours this week.
+5. The speaker's job responsibilities are too demanding to allow time for the task.
+6. The speaker is unable to spare time for the task amidst their work obligations.
+7. The speaker's job requires such a significant time commitment that they cannot do the task.
+8. The speaker's job is the reason they cannot make time for the task.
+9. The speaker's child will be doing the task instead of the speaker, who is busy with work.
+10. The speaker's job is the primary reason they cannot make time for the task.
+11. The speaker's job is preventing them from making time for the task this week.
+12. The speaker's job is causing a conflict in their schedule, preventing them from doing the task.
+13. The speaker's job

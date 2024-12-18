@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Clearly, GAO needs assistance to meet its looming human capital challenges. 
+Statement: GAO will soon be suffering from a shortage of qualified personnel. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is false (contradiction) given the context:
+
+* The context implies that GAO currently faces human capital challenges, but the statement suggests that the shortage of qualified personnel is in the future, which contradicts the idea that the challenges are already looming.
+* The context implies that GAO needs assistance to meet its challenges, which suggests that the challenges are not yet severe, whereas the statement implies that the shortage is imminent.
+* The context focuses on the need for assistance, implying that the challenges are manageable with help, whereas the statement implies that the shortage is inevitable.
+* The context uses the phrase "looming human capital challenges", which implies that the challenges are anticipated but not yet realized, whereas the statement implies that the shortage is a foregone conclusion.<|eot_id|>

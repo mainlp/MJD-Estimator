@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: During his disastrous campaign in Russia, he found time in Moscow to draw up a new statute for the Com??die-Francaise (the national theater), which had been dissolved during the Revolution. 
+Statement: Russia has been successfully invaded hundreds of times. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions one specific campaign in Russia, which is described as "disastrous", implying it was not successful, but it does not provide information about other invasions.
+* The statement makes a general claim about Russia being invaded "hundreds of times", which is not supported or contradicted by the context.
+* The context focuses on a specific event (drawing up a statute for the Comédie-Francaise) and does not provide information about the outcome of the campaign or the history of invasions in Russia.
+* The statement's claim is too broad and general to be determined by the specific information provided in the context.
+* There is no explicit contradiction between the context and the statement, but also no clear support for the statement's claim.
+* The context does not provide enough information to determine the accuracy of the statement's claim about the frequency or success of invasions in Russia.<|eot_id|>

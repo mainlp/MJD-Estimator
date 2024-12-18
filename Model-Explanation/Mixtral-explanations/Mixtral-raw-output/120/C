@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: Even if auditors do not follow such other standards and methodologies, they may still serve as a useful source of guidance to auditors in planning their work under GAGAS. 
+Statement: GAGAS requires strict compliance for auditors to follow. 
+Answer: [/INST] 1. GAGAS explicitly allows auditors to choose their own standards and methodologies.
+2. GAGAS does not provide any useful guidance for auditors.
+3. Following other standards and methodologies is incompatible with GAGAS.
+4. GAGAS only allows the use of specific, predetermined standards and methodologies.
+5. GAGAS never considers any standards and methodologies from auditors.
+6. GAGAS recommendations have no value for auditors in planning their work.
+7. GAGAS is not a useful reference for auditors in any situation.
+8. Auditors are forbidden from using any standards and methodologies outside of GAGAS.
+9. GAGAS only serves as a useful source of guidance when strictly followed.
+10. GAGAS compliance is the only way for auditors to create valid plans.</s>

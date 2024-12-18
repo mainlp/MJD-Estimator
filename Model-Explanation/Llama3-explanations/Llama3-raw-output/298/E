@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The party's broad aims were to support capitalist policies and to continue close ties with Britain and the rest of the Commonwealth. 
+Statement: The party sought to establish ties with the United States. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true (entailment):
+
+* The party sought to continue close ties with Britain, and Britain has close ties with the United States, so it is likely the party would also seek ties with the US.
+* The party supported capitalist policies, and the US is a capitalist country, so it is likely the party would seek ties with the US to further its capitalist goals.
+* The party sought to continue close ties with the rest of the Commonwealth, and the US has historical ties with the Commonwealth, so it is likely the party would also seek ties with the US.
+* The party's aim to support capitalist policies and continue close ties with Britain and the rest of the Commonwealth implies a broader goal of establishing relationships with other Western, capitalist countries, including the US.<|eot_id|>

@@ -1,0 +1,9 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: yeah yeah i i went i went off to school wanting to either be a high school algebra teacher or high school French teacher because my two favorite people in the in high school were my algebra teacher and French teacher and uh and i was going to do that until the end of our sophomore year when we wanted uh we came time to sign up for majors and i had taken chemistry for the first time that year and surprised myself i did well in it 
+Statement: You are required to sign up for a major freshman year. 
+Answer: [/INST] 1. The school's policy regarding major selection may have changed between the speaker's sophomore and senior years.
+2. The speaker's statement "we wanted... to sign up for majors" could imply that it was at the end of their sophomore year that they were first allowed to choose a major.
+3. The speaker might have been unaware of the major selection process during their freshman year.
+4. The school may not have required students to declare a major until the end of their sophomore year.
+5. The speaker's use of "we" could mean a specific group of students who were allowed to choose their major at the end of their sophomore year, not all students.
+6. The statement could be contextually or factually inaccurate, as the speaker's account is based on their personal recollection.</s>

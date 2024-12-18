@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The judge gave vent to a faint murmur of disapprobation, and the prisoner in the dock leant forward angrily.  
+Statement: The judge ordered the court to be silent. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context does not explicitly state that the judge ordered the court to be silent, only that the judge murmured disapprobation.
+* The prisoner's action of leaning forward angrily could be a reaction to the judge's murmur, but it does not necessarily imply that the judge ordered the court to be silent.
+* The context only describes the judge's and prisoner's reactions, but does not provide information about any subsequent actions or orders given by the judge.
+* The statement is not logically entailed or contradicted by the context, leaving the truth value of the statement uncertain.
+* There is no clear causal link between the judge's murmur and the prisoner's reaction, and the statement about ordering the court to be silent is not a necessary consequence of the described events.
+* The context focuses on the emotional reactions of the judge and prisoner, rather than the judge's official actions or orders.<|eot_id|>

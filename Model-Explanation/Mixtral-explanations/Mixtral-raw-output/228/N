@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: i think that the people that are um have um a lower income which you automatically equate with lower education 
+Statement: I think because you have lower income you are less educated. 
+Answer: [/INST] 1. The context does not specify a direct correlation between lower income and lower education.
+2. The context is based on the speaker's opinion, which may not be universally true.
+3. The statement assumes a causal relationship, while the context only implies a possible correlation.
+4. The context may refer to a specific group of people, while the statement is more general.
+5. The context does not provide enough information about the education level of people with lower income.
+6. The statement does not consider other factors that might influence the education level of people with lower income.
+7. The context may refer to a particular region or country, while the statement is more general.
+8. The statement does not specify the type or quality of education.
+9. The context may refer to a specific income range, while the statement uses a more general definition of lower income.
+10. The statement does not consider the possibility of self-education or alternative forms of learning.</s>

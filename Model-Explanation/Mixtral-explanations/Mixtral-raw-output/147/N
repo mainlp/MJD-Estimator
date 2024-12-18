@@ -1,0 +1,15 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: No, monsieur. 
+Statement: The speaker is answering no to a question. 
+Answer: [/INST] 1. The speaker could be responding to a "yes/no" question where a "no" answer indicates agreement, such as "Are you sure you want to delete this file?"
+2. The speaker might be declining a request, such as "Would you like to come to the party?"
+3. The speaker could be negating a statement that was previously made.
+4. The speaker might be correcting a misunderstanding.
+5. The speaker could be disagreeing with a statement that was previously made.
+6. The speaker might be refusing to answer a question.
+7. The speaker could be expressing uncertainty or doubt.
+8. The speaker might be indicating that something is not possible.
+9. The speaker could be rejecting an idea or suggestion.
+10. The speaker might be saying "no" to a statement that is not explicitly stated in the context.
+
+Without more context, it is impossible to determine the exact reason why the speaker is saying "no."</s>

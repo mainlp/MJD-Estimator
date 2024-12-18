@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Still, I guess that can be got over. 
+Statement: There are some things that you need to ignore. 
+Answer: [/INST] 1. The context refers to something that can be overcome, but it doesn't specify what that is.
+2. The statement is about ignoring certain things, which may or may not be related to the context.
+3. There is no explicit connection made between the context and the statement.
+4. The statement could be offering a solution to the problem mentioned in the context, but it's not clear.
+5. The statement could be expressing a different topic altogether.
+6. The statement could be expressing agreement with the context, but in a general sense.
+7. The statement could be expressing a separate opinion that is not relevant to the context.
+8. The statement could be expressing a contradiction to the context, but in a subtle way.
+9. The statement could be neutral because it's too vague or ambiguous.
+10. The statement could be neutral because there is not enough information to make a determination.</s>

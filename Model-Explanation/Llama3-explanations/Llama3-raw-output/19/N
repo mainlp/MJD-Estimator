@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The Women's Haven, which provides shelter and outreach to domestic-violence victims, already has a full-time attorney. 
+Statement: The Haven is a useful resource in the community. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is a subjective judgment and the context only provides factual information about the organization.
+* The context does not provide any information about the quality or effectiveness of the services provided by The Women's Haven.
+* The context does not mention any opinions or evaluations about The Women's Haven from the community or its users.
+* The presence of a full-time attorney does not necessarily imply that The Haven is a useful resource in the community.
+* The context only provides a partial description of the organization's services and does not give a comprehensive view of its activities.
+* The statement is too general and vague, and the context does not provide enough information to infer its truth or falsehood.
+* The context does not provide any information about the outcomes or impact of The Women's Haven's services on the community.
+* The statement is an evaluative claim that requires additional evidence or context to be verified or falsified.<|eot_id|>

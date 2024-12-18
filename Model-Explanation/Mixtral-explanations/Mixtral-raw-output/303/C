@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: HCFA published a Notice of Proposed Rulemaking on March 28, 1997 (62 Fed. 
+Statement: HCFA tried to keep everyone informed about the rules they were making. 
+Answer: [/INST] 1. HCFA did not make any effort to distribute or communicate the proposed rules after March 28, 1997.
+2. HCFA intentionally withheld information about the proposed rules from the public.
+3. HCFA made the proposed rules known only to a select group of people, excluding others.
+4. HCFA never had the intention of informing the public about the proposed rules.
+5. The proposed rules were never officially published by HCFA, only drafted internally.
+6. HCFA's communication about the proposed rules was blocked or censored by a higher authority.
+7. HCFA's communication about the proposed rules was lost or never sent.
+8. HCFA's communication about the proposed rules was ignored or overlooked by the intended recipients.
+9. HCFA's communication about the proposed rules was not clear or easily understandable.
+10. HCFA's communication about the proposed rules was contradicted by other official statements or actions.</s>

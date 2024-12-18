@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: I guess history repeats itself, Jane. 
+Statement: I truly think the prior situation shows history repeats itself. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context is a casual expression of an idea, while the statement is a more formal and confident assertion of the same idea, making it difficult to determine the relationship between the two.
+* The context uses the phrase "I guess", which indicates uncertainty, while the statement uses "I truly think", which indicates confidence, making it hard to determine if the statement is a paraphrase or a contradiction.
+* The context is a conversational remark, while the statement is a more formal declaration, making it challenging to determine the tone and intent behind the statement.
+* The context is addressed to "Jane", while the statement is not, making it unclear if the statement is a response to Jane or a separate thought.
+* The context and statement have similar but not identical wording, making it difficult to determine if the statement is a paraphrase, a repetition, or a separate idea.
+* The context and statement have different levels of certainty, with the context being more tentative and the statement being more assertive, making it hard to determine the relationship between the two.<|eot_id|>

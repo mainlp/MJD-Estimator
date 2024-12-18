@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: She had the pathetic aggression of a wife or mother--to Bunt there was no difference. 
+Statement: Bunt was raised motherless in an orphanage. 
+Answer: [/INST] 1. Bunt's mother is not married.
+2. Bunt was raised by a single mother.
+3. Bunt was not raised in an orphanage.
+4. Bunt's mother showed typical aggressive behavior towards Bunt.
+5. Bunt's wife and mother are the same person.
+6. Bunt has both a wife and a mother who both display similar aggressive behavior.
+7. Bunt was not raised without a mother.
+8. Bunt was not raised in an institution.
+9. Bunt perceives female caretakers as having "pathetic aggression".
+10. Bunt does not distinguish between the behavior of his wife and mother.</s>

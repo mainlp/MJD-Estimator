@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Answer? said Julius. 
+Statement: Julius already knew the answer. 
+Answer: [/INST] 1. Julius previously obtained the answer through research or learning.
+2. Julius was given the answer by someone else before asking.
+3. Julius has the answer as part of his job or responsibilities.
+4. Julius has the answer memorized from past experience.
+5. Julius has the ability to deduce or infer the answer.
+6. Julius has access to the answer through written or electronic means.
+7. Julius has the answer through intuition or guesswork.
+8. Julius has the answer through prior knowledge or understanding.
+9. Julius has the answer through testing or experimentation.
+10. Julius has the answer through observation or experience.</s>

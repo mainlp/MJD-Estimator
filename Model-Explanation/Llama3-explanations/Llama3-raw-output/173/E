@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: Buffet and a  la carte available. 
+Statement: It has table service. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is true:
+
+* A la carte implies that customers order individual dishes, which is typically associated with table service.
+* The presence of both buffet and a la carte options suggests a sit-down dining experience, which usually involves table service.
+* Buffet and a la carte are both types of meal services that are often provided in restaurants that offer table service.
+* The coexistence of buffet and a la carte options implies a level of formality and structure, which is consistent with table service.
+* Table service is a common feature in establishments that offer both buffet and a la carte options, as it allows customers to be served at their tables.<|eot_id|>

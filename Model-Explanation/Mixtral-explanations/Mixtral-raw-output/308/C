@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: I touched my palm to his mutilated cheek, and tried to stem my instinctive revulsion. 
+Statement: You could see where the bear had scratched across his cheek. 
+Answer: [/INST] 1. The scratches on his cheek were covered by a beard.
+2. His cheek was not mutilated, but perfectly intact.
+3. The scratches were not from a bear, but from a different animal or cause.
+4. The scratches were not visible because of poor lighting or obstruction.
+5. The person speaking did not look at his cheek.
+6. The mutilated part of his face was not his cheek but another area.
+7. The scratches were not across his cheek but rather on the side or back of it.
+8. The cheek was mutilated in a way that did not allow for scratches to be visible.
+9. The person speaking is feigning or exaggerating their revulsion.
+10. The person speaking is feigning or exaggerating their lack of visibility of the scratches.</s>

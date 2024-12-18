@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: It is not a surprise, either, that Al Pacino chews the scenery in Devil's Advocate . And the idea that if the devil showed up on Earth he'd be running a New York corporate-law firm is also, to say the least, pre-chewed. 
+Statement: Nobody expects that the devil would take the form of a lawyer. 
+Answer: [/INST] 1. The context refers to the idea of the devil taking the form of a corporate-law firm owner, not specifically a lawyer.
+2. The context mentions Al Pacino's character chewing the scenery, but it doesn't explicitly state whether this character is recognized as the devil by others in the movie.
+3. The context states that the idea is "pre-chewed," which could imply that it's a common or expected concept, but it doesn't confirm that nobody in particular has this expectation.
+4. The context doesn't address the expectations of every individual, so it's possible that some people might still expect the devil to take a different form.
+5. The context doesn't specify whether the statement refers to real-world expectations or the expectations of characters within the movie.</s>

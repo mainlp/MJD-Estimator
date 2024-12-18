@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The air is warm. 
+Statement: The arid air permeates the surrounding land. 
+Answer: [/INST] 1. "Arid air" is another way to describe warm air, as warm air is often associated with aridity.
+2. The warm air is spreading and affecting the surrounding land, making it arid.
+3. The warm air and arid air are the same thing, thus if the air is warm, it is necessarily arid.
+4. The warmer air has caused the land to become more arid, and the arid air is now permeating the surrounding land.
+5. The context is describing the same air as the statement, which is both warm and arid and is affecting the surrounding land.</s>

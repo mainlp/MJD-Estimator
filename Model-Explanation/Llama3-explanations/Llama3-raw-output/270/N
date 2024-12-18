@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: AC Green's pretty good 
+Statement: AC Green is also a solid player. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is a paraphrase of the context, but NLI models may not always detect paraphrases correctly.
+* The context only provides a vague positive sentiment about AC Green, and the statement makes a similar claim without adding new information.
+* The terms "pretty good" and "solid player" have similar but not identical meanings, making it difficult to determine the exact relationship between the context and the statement.
+* The context does not provide enough information to determine whether AC Green's being "pretty good" implies that he is also a "solid player".
+* The statement is too similar to the context, making it challenging for NLI models to determine whether it is an entailment, contradiction, or neutral.
+* The context and statement are both subjective opinions, and NLI models may struggle to reason about subjective language.
+* The statement does not provide any new or contradictory information, making it difficult to determine its relationship to the context.<|eot_id|>

@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: I'm confused. 
+Statement: Not all of it is very clear to me. 
+Answer: [/INST] The statement is true because:
+
+1. It expresses a similar idea to the context, that the person is having trouble understanding or is confused about something.
+2. It implies that there are aspects of the situation or information that are not clear to the person, which aligns with the context.
+3. It uses a more detailed and specific phrasing to convey the same overall meaning as the context.
+4. It suggests that the person is experiencing a lack of clarity or comprehension regarding certain parts of the situation or information.
+5. It is a possible explanation or interpretation of the context, indicating that the person's confusion may be due to certain aspects of the situation or information not being clear.</s>

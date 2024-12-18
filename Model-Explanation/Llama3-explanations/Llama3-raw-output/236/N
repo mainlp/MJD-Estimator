@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: In the first instance, IRS would have no record of time before the person could get through to an agent and of discouraged callers. 
+Statement: There is no recording of the time for callers. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context only mentions the lack of record of time before the person could get through to an agent, but it does not explicitly state that there is no recording of the time for callers in general.
+* The context focuses on the IRS's record, but the statement makes a broader claim about the existence of recording, which may not be limited to the IRS's records.
+* The context implies that some callers may have gotten through to an agent, but it does not provide information about the recording of time for those callers.
+* The statement could be interpreted as referring to the recording of time for all callers, including those who did not get discouraged and hung up, whereas the context only discusses the lack of record for discouraged callers.
+* The context does not provide enough information to determine whether the IRS or any other entity records the time for callers in general.<|eot_id|>

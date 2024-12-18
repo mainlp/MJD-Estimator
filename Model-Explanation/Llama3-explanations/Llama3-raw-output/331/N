@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Then he is very sure. 
+Statement: He is very sure of himself. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only provides information about the person's confidence level, but not the object of his confidence.
+* The context does not specify what "then" refers to, making it unclear what event or situation is causing his confidence.
+* The statement is too general and could be true in many different situations, making it difficult to determine its truth value based on the context.
+* The context does not provide enough information to determine whether the person's confidence is justified or not.
+* The statement could be interpreted as either a description of the person's personality or a reaction to a specific event, and the context does not disambiguate this.
+* The context does not provide any contradictory or supporting evidence for the statement, leaving its truth value uncertain.<|eot_id|>

@@ -1,0 +1,7 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The large scale production of entertainment films is a phenomenon well worth seeing several times. 
+Statement: The production of entertainment films is elaborate and large scaled. 
+Answer: [/INST] 1. The context states that the "large scale production" of entertainment films is worth seeing several times.
+2. This implies that the production process is elaborate and complex.
+3. The statement directly asserts that the production of entertainment films is "elaborate and large scaled."
+4. Therefore, the statement is true given the context.</s>

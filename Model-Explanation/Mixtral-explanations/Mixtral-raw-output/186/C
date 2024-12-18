@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The door opened and Severn stepped out. 
+Statement: They were waiting for someone to open the door for them. 
+Answer: [/INST] 1. Severn opened the door himself.
+2. There was no one else trying to open the door.
+3. The person who opened the door was not part of the group waiting.
+4. The group waiting had their own way of opening the door (e.g., they had a key).
+5. The group was not expecting anyone in particular, just a general arrival.
+6. The group was not waiting for long, Severn just happened to be the one to arrive at that moment.
+7. The group was waiting in a different location, not near the door.
+8. The group was waiting for something else, not for the door to open.
+9. The group was metaphorically "waiting" for an event or outcome, not for a physical action.</s>

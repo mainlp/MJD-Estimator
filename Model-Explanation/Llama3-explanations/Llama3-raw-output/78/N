@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: He's chosen Meg Ryan. 
+Statement: A possible selection would be Meg Ryan or Jon Doe. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only confirms that Meg Ryan was chosen, but it doesn't provide any information about Jon Doe, so we can't infer whether Jon Doe was a possible selection or not.
+* The statement mentions two options (Meg Ryan and Jon Doe), but the context only confirms one of them (Meg Ryan), leaving the other option (Jon Doe) uncertain.
+* The context doesn't provide enough information to determine whether the selection was limited to only Meg Ryan or if other options, including Jon Doe, were also possible.
+* The statement is too vague, and the context doesn't provide enough information to determine whether "a possible selection" refers to the actual selection made or just one of many possible options.
+* The context only confirms that Meg Ryan was chosen, but it doesn't provide any information about the selection process or the other options that were considered, so we can't infer whether Jon Doe was a possible selection or not.<|eot_id|>

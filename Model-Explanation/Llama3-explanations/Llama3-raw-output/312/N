@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: You see, he said sadly, "you have no instincts." 
+Statement: He said that I had no willpower. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions "instincts" but not "willpower", which are related but distinct concepts.
+* The quote in the context is a direct speech, but the statement is a paraphrased or indirect speech, making it unclear if the original speaker meant "willpower" instead of "instincts".
+* The tone of the context ("said sadly") suggests a negative emotional tone, but it's unclear if this tone is strong enough to imply a lack of willpower.
+* The context doesn't provide enough information to determine if the speaker's intention was to imply a lack of willpower or if it's a separate concept from "instincts".
+* The word "instincts" has a broader meaning than "willpower", and it's unclear if the speaker meant to imply a lack of self-control or decision-making abilities.
+* The context is too vague to determine if the speaker's statement is a criticism, an observation, or a statement of fact, which affects the interpretation of the statement.<|eot_id|>

@@ -1,0 +1,8 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: An organization's activities, core processes, and resources must be aligned to support its mission and help it achieve its goals. 
+Statement: An organization is successful if its activities, resources, and goals align. 
+Answer: [/INST] 1. The context only mentions the alignment of an organization's activities, core processes, and resources with its mission and goals, but it does not explicitly state that alignment guarantees success.
+2. The context does not provide a definition of success, making it unclear if alignment is a sufficient condition for success.
+3. The context does not address the possibility of external factors that could impact an organization's success, even if its activities, resources, and goals align.
+4. The context does not specify if there are other factors, besides alignment, that contribute to an organization's success.
+5. The context does not clarify if the organization's goals themselves are aligned with its mission, which is a prerequisite for the statement to be true.</s>

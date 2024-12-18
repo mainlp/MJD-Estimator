@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: They have prominent red protuberances and may have been named after the British redcoats. 
+Statement: They were named after the redcoats because they are the same bright red color on their bodies. 
+Answer: [/INST] 1. The protuberances are not a part of their bodies.
+2. The protuberances are not bright red in color.
+3. The naming is not due to the color of the protuberances but some other shared characteristic.
+4. The 'they' in the context and statement do not refer to the same entity.
+5. The 'redcoats' referred to in the context and statement are not the same as the 'redcoats' historically known.
+6. The naming occurred before the appearance of the red protuberances.
+7. The naming was a coincidence and not due to the red protuberances.
+8. The statement is false because the 'redcoats' were not the inspiration for the name at all.</s>

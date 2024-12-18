@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: H-2A agricultural workers are required to maintain a foreign residence which they have no intention of abandoning. 
+Statement: Permanent foreign residence is required for some types of agricultural work visas. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral) given the context:
+
+* The context only mentions H-2A agricultural workers, but the statement refers to "some types of agricultural work visas", which may or may not include H-2A.
+* The context mentions "maintain a foreign residence" which is not exactly the same as "permanent foreign residence", leaving room for interpretation.
+* The context implies a requirement for H-2A workers, but the statement makes a more general claim about "some types of agricultural work visas", which may have different requirements.
+* The statement is too vague, and it's unclear what "permanent foreign residence" means in this context, or how it relates to the requirement mentioned in the context.
+* The context focuses on the intention of not abandoning the foreign residence, whereas the statement only mentions the requirement for a permanent foreign residence, without considering the intention aspect.<|eot_id|>

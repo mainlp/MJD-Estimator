@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: By coordinating policy development and awareness activities in this manner, she helps ensure that new risks and policies are communicated promptly and that employees are periodically reminded of existing policies through means such as monthly bulletins, an intranet web site, and presentations to new employees. 
+Statement: There new employees are a risk. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context implies that presentations are made to new employees, which suggests that new employees are not a risk, but rather a group that needs to be informed about policies.
+* The context focuses on communicating policies to new employees, which implies that they are not a risk, but rather a target audience for policy awareness.
+* The context mentions "presentations to new employees" as a means of reminding them of existing policies, which suggests that new employees are not a risk, but rather a group that needs to be educated.
+* The overall tone of the context is about ensuring policy awareness and communication, which does not suggest that new employees are a risk.
+* The context does not provide any information that would imply new employees are a risk, and instead presents them as a group that needs to be informed and educated about policies.<|eot_id|>

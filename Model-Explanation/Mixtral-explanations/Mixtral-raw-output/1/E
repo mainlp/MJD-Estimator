@@ -1,0 +1,12 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: In 1982, Wallace won his last race for governor with a quarter of the black votes cast in the Democratic primary, a fact alluded to in a written epilogue at the end of the film. 
+Statement: Wallace was reelected as governor. 
+Answer: [/INST] 1. Wallace won the Democratic primary for governor in 1982.
+2. Wallace was a candidate in the general election for governor in 1982 and won.
+3. Wallace ran for reelection as governor in 1982 and received enough votes to win.
+4. The black community in the Democratic primary voted for Wallace in significant enough numbers for him to win the election.
+5. Despite not receiving the majority of black votes in the Democratic primary, Wallace still won the election.
+6. The Democratic primary in 1982 was the last opportunity for Wallace to run for reelection as governor, and he won.
+7. Wallace's victory in the Democratic primary in 1982 led to his reelection as governor.
+8. Wallace's last race for governor in 1982 was successful, and he was reelected.
+9. The film's written epilogue accurately states that Wallace won his last race for governor with a quarter of the black votes cast in the Democratic primary, implying that he was reelected as governor.</s>

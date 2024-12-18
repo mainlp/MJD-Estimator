@@ -1,0 +1,10 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: They won't be killing off George Clooney's character at ER like they did to Jimmy Smits at NYPD. Instead, Dr. Doug Ross is being forced out over the next two episodes because the maverick heartthrob gives an unauthorized painkiller to a terminally ill boy (Thursday, 10 p.m.). 
+Statement: George Clooney will not be getting fired from his TV show. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* George Clooney's character is not being killed off.
+* Dr. Doug Ross is being forced out, but not because of being fired.
+* Dr. Doug Ross is being forced out due to giving an unauthorized painkiller to a terminally ill boy.<|eot_id|>

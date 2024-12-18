@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The logic of analysis in case studies is the same 
+Statement: The logic for the case studies is the same thing as in the data collection. 
+Answer: [/INST] 1. The data collection also uses the same logic as the case studies.
+2. The logic applied in the case studies is equivalent to the logic in data collection.
+3. The process of data collection and case studies share the same reasoning.
+4. The logic for the data collection and case studies is identical.
+5. The reasoning behind the case studies is consistent with the data collection logic.
+6. The logic used in the case studies is transferable to the data collection.
+7. The data collection and case studies follow the same logical principles.
+8. The logic in the case studies matches the logic in the data collection.
+9. The logical structure of the case studies is the same as in the data collection.
+10. The case studies and data collection are based on the same logical foundation.</s>

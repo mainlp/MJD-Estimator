@@ -1,0 +1,9 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: He threw one of them and shot the other. 
+Statement: He kept his gun holstered. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context implies that "he" used a gun to shoot one of "them", so the gun was not holstered during the shooting.
+* The statement is false, and the correct label is "contradiction" rather than "entailment".<|eot_id|>

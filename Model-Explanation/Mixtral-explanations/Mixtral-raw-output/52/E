@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: The village is Sainte-Marie, named by the explorer when he landed on 4 November 1493, attracted by the waterfalls and river he could see flowing down the green inland mountains. 
+Statement: The village is not named after the settling explorer. 
+Answer: [/INST] 1. The village was named before the explorer arrived, by another person or entity.
+2. The village was named after a natural landmark (the waterfalls and river), not the explorer.
+3. The explorer did not name the village after himself but rather after a saint or religious figure (Sainte-Marie).
+4. The explorer named the village in honor of a significant date (November 4) or event (landing) unrelated to his own identity.
+5. The explorer named the village as a tribute to someone else, not himself.
+6. The name of the explorer is not Sainte-Marie.
+7. The village was renamed at some point after the explorer's initial visit, so it is no longer named after him.
+8. The explorer did not officially name the village, but rather the name was already in use by the local inhabitants.
+9. The explorer named the village in consultation with local inhabitants, and they chose a name unrelated to him.
+10. The explorer named the village as a result of a misunderstanding or miscommunication with local inhabitants, and the name does not actually refer to him.

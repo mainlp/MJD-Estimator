@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: Text Box 2.1: Gross Domestic Product and Gross National Product 48Text Box 4.1: How do the NIPA and federal unified budget concepts of 
+Statement: This text displays how GDP and GNP is calculated. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context only provides text box titles, but not the actual content, making it impossible to determine if the statement is true or false.
+* The titles "Gross Domestic Product and Gross National Product" and "How do the NIPA and federal unified budget concepts of" do not explicitly mention calculation of GDP and GNP.
+* The statement is too general, and without more information, it cannot be determined if the text provides a detailed calculation or just a general overview.
+* The context does not provide enough information to determine if the text is focused on calculation or some other aspect of GDP and GNP.
+* The statement assumes that the text is about calculation, but the context does not provide sufficient evidence to support or refute this assumption.
+* The context is too vague, and without more specific information, it is impossible to determine the truth value of the statement.<|eot_id|>

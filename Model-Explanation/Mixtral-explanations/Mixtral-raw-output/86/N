@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: The Chinese calendar was used to calculate the year of Japan's foundation by counting back the 1,260 years of the Chinese cosmological cycle. 
+Statement: The calculation of Japan's year of foundation was very exact. 
+Answer: [/INST] 1. The Chinese calendar's 1,260-year cycle may not directly translate to exact calculations in the Japanese context.
+2. The conversion of Chinese cosmological years to Japanese foundation years may involve additional factors or approximations.
+3. The precision of the Chinese calendar might not ensure the exactness of the calculated year of Japan's foundation.
+4. The context does not specify if other methods or calendars were used in the calculation, which could affect the exactness.
+5. The term "exact" in the statement could have different interpretations, such as precise or accurate, which may not both apply to the calculation.
+6. The calculation's exactness might be influenced by uncertainties in the starting point of the Chinese cosmological cycle.
+7. The context does not provide information on potential errors or margins of error in the calculation, leaving the exactness undetermined.
+8. The conversion of Chinese calendar units to Japanese foundation years might involve complexities or inexact transformations.
+9. The statement's exactness could be contingent on the accuracy of historical records about Japan's foundation year.
+10. The calculation's exactness may

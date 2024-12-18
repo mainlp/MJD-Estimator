@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: AC Green's pretty good 
+Statement: AC Green is also a solid player. 
+Answer: [/INST] 1. AC Green is not a player.
+2. AC Green is not solid.
+3. AC Green is not referred to as "also" a solid player in the context.
+4. There is no context provided, and AC Green is not known to be a solid player in general.
+5. The context is implying that AC Green is only an average player, not solid.
+6. The context is implying that AC Green has some flaws in his game, making him not solid.
+7. The context is implying that AC Green is overrated and not as solid as people think.
+8. The context is implying that AC Green is inconsistent and not always solid.
+9. The context is implying that AC Green is injured and not able to play solidly.
+10. The context is implying that AC Green is a solid player, but not in his current state or situation.</s>

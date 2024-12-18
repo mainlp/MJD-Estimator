@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: By seeding packs with a few high-value cards, the manufacturer is encouraging kids to buy Pokemon cards like lottery tickets. 
+Statement: Each Pokemon card pack is filled with every rare card a kid could want. 
+Answer: [/INST] 1. Not every rare card is included in each pack.
+2. Some rare cards are intentionally excluded from certain packs.
+3. The manufacturer only includes a select few high-value cards in each pack.
+4. The packs do not contain all the rare cards that a kid might desire.
+5. The packs are not filled with only rare cards.
+6. Common cards are also present in the packs, not just rare ones.
+7. The packs do not contain a complete set of rare cards.
+8. The manufacturer limits the number of rare cards in each pack.</s>

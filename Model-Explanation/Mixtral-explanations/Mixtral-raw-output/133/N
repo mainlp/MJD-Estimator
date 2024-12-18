@@ -1,0 +1,11 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: It will be held in the Maryland woods, and the telecast will consist of jittery footage of the contestants' slow descent into madness as they are systematically stalked and disappeared/disqualified by Bob Barker. 
+Statement: The show will be set in the woods north of Boston. 
+Answer: [/INST] 1. The context specifies "Maryland woods," while the statement mentions "the woods north of Boston," which could refer to a different location.
+2. The context uses "Bob Barker" as the antagonist, while the statement does not mention anything about the show's host.
+3. The context describes the show as a "contestant[s]' slow descent into madness as they are systematically stalked and disappeared/disqualified," but the statement does not provide information about the nature of the show.
+4. The context refers to a "telecast," implying a television show, while the statement does not provide information about the format of the show.
+5. The context suggests a possible horror or survival theme, while the statement does not provide information about the theme of the show.
+6. The context implies that the show is not a traditional game show, while the statement does not provide information about the type of show.
+7. The context implies that the location is remote and in the wilderness, while the statement does not provide information about the specific location or its characteristics.
+8. The context implies that the show is not a traditional outdoor activity or sport, while the

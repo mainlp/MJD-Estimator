@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: These days, newspaper writers are no longer allowed the kind of license he took. 
+Statement: Newspaper writers need to be more factual and careful these days. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement does not explicitly state that writers are not factual and careful, so it cannot be inferred that they are not.
+* The context only mentions that writers are no longer allowed to take a certain kind of license, but it does not provide information about their level of factuality and carefulness.
+* The statement could be seen as a neutral observation about the current state of newspaper writing, rather than a value judgment.
+* The context does not provide enough information to determine whether the statement is true or false, as it only mentions a restriction on writers, but not their actual behavior.
+* The statement is too vague, and it is unclear what "more factual and careful" means in this context, making it impossible to determine its truth value.
+* The context and the statement are talking about different aspects of newspaper writing, the context talks about the license taken by writers, while the statement talks about the need for factuality and carefulness.<|eot_id|>

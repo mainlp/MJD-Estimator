@@ -1,0 +1,13 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: By seeding packs with a few high-value cards, the manufacturer is encouraging kids to buy Pokemon cards like lottery tickets. 
+Statement: Each Pokemon card pack is filled with every rare card a kid could want. 
+Answer: [/INST] 1. The manufacturer includes a few high-value cards in each pack.
+2. The high-value cards are the ones that kids desire.
+3. The packs are designed to contain a variety of rare cards.
+4. The seeding of high-value cards makes the packs attractive to kids.
+5. The packs are designed to mimic the excitement of buying lottery tickets.
+6. The high-value cards are randomly distributed in the packs.
+7. The packs contain a selection of coveted Pokemon cards.
+8. The manufacturer's strategy is to create a sense of anticipation and excitement in kids.
+9. The packs contain a mix of common and rare cards.
+10. The high-value cards are a key selling point for the Pokemon card packs.</s>

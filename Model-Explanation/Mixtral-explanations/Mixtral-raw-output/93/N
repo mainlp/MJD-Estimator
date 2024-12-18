@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: isn't it i can remember i've only been here eight years but i can remember coming to work from i used to live in Wylie and i could see downtown Dallas 
+Statement: Downtown Dallas was a short drive from where I lived in Wylie. 
+Answer: [/INST] 1. The context doesn't specify the exact location of the speaker's previous residence in Wylie.
+2. The context doesn't indicate the distance between the speaker's previous residence in Wylie and downtown Dallas.
+3. The context doesn't reveal the speaker's mode of transportation from Wylie to their workplace.
+4. The context doesn't clarify if the speaker took the same route from Wylie to their workplace as they did when driving to downtown Dallas.
+5. The context doesn't specify if the speaker could always see downtown Dallas from their previous residence in Wylie, or if it was a rare occurrence.
+6. The context doesn't provide information about traffic conditions, time of day, or other factors that could affect drive duration.
+7. The context doesn't indicate if the speaker's memory is accurate or if they are misremembering the details.</s>

@@ -1,0 +1,15 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: okay and and i think we just hang up i don't think we have to do anything else 
+Statement: We need to wait until they tell us what to do. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Here are the possible explanations why the statement is undetermined (neutral):
+
+* The context does not provide enough information about what "they" refers to, making it unclear whether waiting for their instruction is necessary or not.
+* The context expresses a sense of finality ("just hang up") and a lack of obligation ("don't think we have to do anything else"), which contradicts the idea of needing to wait for further instruction.
+* The statement implies a sense of dependency on external direction, which is not supported by the context's tone of independence and decisiveness.
+* The context does not provide any information about the current state of the situation, making it impossible to determine whether waiting is necessary or not.
+* The statement's tone is cautious and hesitant, which contrasts with the context's more assertive and decisive tone.
+* The context does not provide any information about the consequences of not waiting, making it impossible to determine whether waiting is necessary or not.<|eot_id|>

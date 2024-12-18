@@ -1,0 +1,13 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: of course you could annex Cuba but they wouldn't like that a bit 
+Statement: Cubans would go up in arms if we tried to annex Cuba. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only mentions that Cubans "wouldn't like that a bit", which is a milder sentiment than "going up in arms", leaving room for interpretation.
+* The context does not explicitly state that Cubans would resort to violence, making the statement's inference uncertain.
+* The phrase "wouldn't like that a bit" could imply a range of reactions, from mild discontent to strong opposition, without necessarily implying armed resistance.
+* The context focuses on Cuba's dislike of annexation, but the statement shifts the focus to Cubans' potential actions, introducing uncertainty.
+* The statement's language is more dramatic and emphatic than the context, making it difficult to determine if it's a direct consequence of the context.
+* The context does not provide enough information to determine the likelihood or intensity of Cubans' reaction, making the statement's inference uncertain.<|eot_id|>

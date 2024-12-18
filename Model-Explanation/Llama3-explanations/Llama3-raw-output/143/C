@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: No, Dave Hanson, you were too important to us for that. 
+Statement: No, Dave Hanson, we couldn't risk your life becaus you are too important to us. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The phrase "for that" in the context does not refer to risking Dave Hanson's life.
+* The context implies a positive sentiment towards Dave Hanson, whereas the statement implies a concern for his safety.
+* The tone of the context is more casual and conversational, whereas the statement is more formal and serious.
+* The context does not mention anything about risking Dave Hanson's life, whereas the statement does.
+* The phrase "too important to us" has a different meaning in the context and the statement.
+* The context is a response to a previous statement or action, whereas the statement is a standalone sentence.
+* The context implies that Dave Hanson was not put in a situation where his life was at risk, whereas the statement implies the opposite.<|eot_id|>

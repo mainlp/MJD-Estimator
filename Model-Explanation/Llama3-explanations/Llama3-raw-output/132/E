@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is true (entailment) given the context below without introductory phrases. 
+Context: It lacked intelligence, introspection, and humor--it was crass, worthy of Cosmopolitan or Star. I do have a sense of humor, but can only appreciate a joke when it starts with a grain of truth. 
+Statement: The article won a Pulitzer Prize. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The statement is ironic or sarcastic, implying the opposite, that the article is of poor quality and would not win a prestigious award like the Pulitzer Prize.
+* The context is describing a different article or piece of writing, and the statement is referring to a different article that won a Pulitzer Prize.
+* The speaker is being facetious or humorous, saying the opposite of what they mean to be funny or ironic.
+* The statement is a non-sequitur, unrelated to the context, and is simply a random or unrelated fact.
+* The speaker is using hyperbole or exaggeration, implying that the article is so bad it's almost laughable to think it could win a Pulitzer Prize.<|eot_id|>

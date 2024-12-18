@@ -1,0 +1,10 @@
+<s> [INST] You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is undetermined (neutral) given the context below without introductory phrases. 
+Context: They won't be killing off George Clooney's character at ER like they did to Jimmy Smits at NYPD . Instead, Dr. Doug Ross is being forced out over the next two episodes because the maverick heartthrob gives an unauthorized painkiller to a terminally ill boy (Thursday, 10 p.m.). 
+Statement: George Clooney will not be getting fired from his TV show. 
+Answer: [/INST] 1. The statement could refer to any TV show, not just "ER."
+2. The statement might be referring to a different character played by George Clooney.
+3. The context refers to "killing off" the character, not specifically firing them.
+4. The context states that the character is being "forced out," which could include being fired but is not explicitly stated as such.
+5. The context refers to events in the future tense ("over the next two episodes"), while the statement is in the present tense.
+6. The context refers to a specific reason for the character's departure (giving an unauthorized painkiller to a terminally ill boy), which may not be related to the reason for his firing.
+7. The statement is a generalization, while the context is a specific situation. It is possible that George Clooney was fired from a different TV show or at a different time.</s>

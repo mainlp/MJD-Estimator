@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: The governing statute provides that a committee consisting of the Comptroller General, the Speaker of the House and President Pro Tempore of the Senate, the Majority and Minority leaders, and the Chairmen and Ranking Minority Members of the Senate Governmental Affairs and House Government Reform Committees recommend an individual to the President for appointment. 
+Statement: The process is long and will be reformed in the coming years. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The context only describes the composition of the committee and its role in recommending an individual to the President, but does not mention the process being long or any plans for reform.
+* There is no information about the duration or efficiency of the process.
+* The context does not provide any information about future plans or reforms.
+* The statement is making a claim about the future, which is not supported by the provided context.
+* The context only focuses on the current composition and role of the committee, without discussing any potential changes or reforms.<|eot_id|>

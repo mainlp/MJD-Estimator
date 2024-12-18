@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: 'I don't know what happened, exactly.' I said. 
+Statement: You aren't making sense. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The speaker is making sense, as they are expressing their lack of knowledge about an event.
+* The speaker's statement is coherent and grammatically correct, indicating they are making sense.
+* The speaker's admission of uncertainty ("I don't know") is a rational and sensible response to a situation where they lack information.
+* The speaker's use of the phrase "exactly" suggests they are attempting to clarify their thoughts, which implies they are making sense.
+* The speaker's statement is a clear and concise expression of their mental state, which is a sensible thing to do in a conversation.<|eot_id|>

@@ -1,0 +1,11 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You are an expert in Natural Language Inference (NLI). Please list all possible explanations why the the following statement is false (contradiction) given the context below without introductory phrases. 
+Context: It's come back? cried Julius excitedly. 
+Statement: They were excited to hear it will come back. 
+Answer:<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+* The subject of the sentence is "they", but the context only mentions Julius, implying that "they" might refer to a different group of people.
+* The verb tense in the statement is future ("will come back"), but the context suggests that the event has already happened ("It's come back").
+* The statement implies that someone has announced that it will come back, but the context only shows Julius' excited reaction, without mentioning anyone else making an announcement.
+* The context suggests that Julius is excited because it has already come back, whereas the statement implies that they are excited about a future event.<|eot_id|>
