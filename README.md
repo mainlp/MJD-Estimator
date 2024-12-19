@@ -84,7 +84,15 @@ We did a pre-process to extract the target filtered dataset as [NLI_explanations
 
 **1. Move into the folder of module you chose**
 
-`cd MJD-generator` or `cd MJD-fine-tuning`
+```
+cd MJD-generator
+```
+
+or
+
+```
+cd MJD-fine-tuning
+```
 
 #### Before you running any file, you need to modify the arguments to your own paths or hyper-parameters at first.
 
@@ -92,15 +100,18 @@ We did a pre-process to extract the target filtered dataset as [NLI_explanations
 
 Generate the MJDs from Llama 3. The Llama 3 model is from [HuggingFace](https://huggingface.co/meta-llama) 
 
-`ipython MJD-generator.ipynb`
+```
+ipython MJD-generator.ipynb
+```
 
 **3. Evaluation**
 
 Evaluate the MJDs with HJDs on distribution comparison metrics, and visualize the ternary plots.
 
-`ipython MJD-evaluate.ipynb`
-
-**3. Fine-Tuning**
+```
+ipython MJD-evaluate.ipynb
+```
+**4. Fine-Tuning**
 
 Fine-tuning from a pretrained NLI model.
 
