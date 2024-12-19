@@ -1,8 +1,8 @@
 # MJD-Estimator & Model-Explanation
-**§1** -- ***"Seeing the Big through the Small": Can LLMs Approximate Human Judgment Distributions on NLI from a Few Explanations?*** ([paper](https://aclanthology.org/2024.findings-emnlp.842/))
+### **§1** -- ***"Seeing the Big through the Small": Can LLMs Approximate Human Judgment Distributions on NLI from a Few Explanations?*** ([paper](https://aclanthology.org/2024.findings-emnlp.842/))
 
 
-**§2**  -- ***A Rose by Any Other Name: LLM-Generated Explanations Are Good Proxies for Human Explanations to Collect Label Distributions on NLI*** ([paper](https://arxiv.org/abs/2412.13942))
+### **§2**  -- ***A Rose by Any Other Name: LLM-Generated Explanations Are Good Proxies for Human Explanations to Collect Label Distributions on NLI*** ([paper](https://arxiv.org/abs/2412.13942))
 
 
 This repository contains the generator, evaluator and fine-tuning implementation for Model Judgment Distribution (MJDs) extracted from LLMs. We take Llama 3 as an example.
