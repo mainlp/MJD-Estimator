@@ -1,11 +1,18 @@
-# MJD-Estimator
-Implementation of the EMNLP 2024 paper from the MaiNLP Lab - ***"Seeing the Big through the Small": Can LLMs Approximate Human Judgment Distributions on NLI from a Few Explanations?*** ([paper](https://aclanthology.org/2024.findings-emnlp.842/))
+# MJD-Estimator & Model-Explanation
+**§1** -- ***"Seeing the Big through the Small": Can LLMs Approximate Human Judgment Distributions on NLI from a Few Explanations?*** ([paper](https://aclanthology.org/2024.findings-emnlp.842/))
+
+
+**§2**  -- ***A Rose by Any Other Name: LLM-Generated Explanations Are Good Proxies for Human Explanations to Collect Label Distributions on NLI*** ([paper](https://arxiv.org/abs/2412.13942))
+
 
 This repository contains the generator, evaluator and fine-tuning implementation for Model Judgment Distribution (MJDs) extracted from LLMs. We take Llama 3 as an example.
 
-[**MJD-generator**](https://github.com/mainlp/MJD-Estimator/tree/main/MJD-generator): including the method to extract MJDs by first-token-probability (Section 3 in paper), the evaluation for distribution comparison (Section 4.3 in paper), and the code for ternary visualization (Section 6.1 in paper).
+[**MJD-generator**](https://github.com/mainlp/MJD-Estimator/tree/main/MJD-generator): including the method to extract MJDs by first-token-probability (Section 3 in **§1**), the evaluation for distribution comparison (Section 4.3 in **§1**), and the code for ternary visualization (Section 6.1 in **§1**).
 
-[**MJD-fine-tuning**](https://github.com/mainlp/MJD-Estimator/tree/main/MJD-fine-tuning): including the fine-tuning implementation for fine-tuning comparison (Section 4.4 in paper).
+[**MJD-fine-tuning**](https://github.com/mainlp/MJD-Estimator/tree/main/MJD-fine-tuning): including the fine-tuning implementation for fine-tuning comparison (Section 4.4 in **§1**).
+
+[**Model-Explanation**](https://github.com/mainlp/MJD-Estimator/tree/main/Model-Explanation): including the LLM-generated and human-validated explanations for **§2**.
+
 
 
 ## Overall Structure
