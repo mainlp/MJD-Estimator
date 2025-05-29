@@ -1,8 +1,8 @@
 # MJD-Estimator & Model-Explanation
-### **§1** -- ***"Seeing the Big through the Small": Can LLMs Approximate Human Judgment Distributions on NLI from a Few Explanations?*** ([paper](https://aclanthology.org/2024.findings-emnlp.842/))
+### **§1** -- ***"Seeing the Big through the Small": Can LLMs Approximate Human Judgment Distributions on NLI from a Few Explanations?*** ([paper](https://aclanthology.org/2024.findings-emnlp.842/)) @ EMNLP 2024
 
 
-### **§2**  -- ***A Rose by Any Other Name: LLM-Generated Explanations Are Good Proxies for Human Explanations to Collect Label Distributions on NLI*** ([paper](https://arxiv.org/abs/2412.13942))
+### **§2**  -- ***A Rose by Any Other Name: LLM-Generated Explanations Are Good Proxies for Human Explanations to Collect Label Distributions on NLI*** ([paper](https://arxiv.org/abs/2412.13942)) @ ACL 2025
 
 
 This repository contains the generator, evaluator and fine-tuning implementation for Model Judgment Distribution (MJDs) extracted from LLMs. We take Llama 3 as an example.
@@ -54,7 +54,24 @@ If you use this code&data, please cite the papers below:
 
 
 ```
-
+@article{DBLP:journals/corr/abs-2412-13942,
+  author       = {Beiduo Chen and
+                  Siyao Peng and
+                  Anna Korhonen and
+                  Barbara Plank},
+  title        = {A Rose by Any Other Name: LLM-Generated Explanations Are Good Proxies
+                  for Human Explanations to Collect Label Distributions on {NLI}},
+  journal      = {CoRR},
+  volume       = {abs/2412.13942},
+  year         = {2024},
+  url          = {https://doi.org/10.48550/arXiv.2412.13942},
+  doi          = {10.48550/ARXIV.2412.13942},
+  eprinttype    = {arXiv},
+  eprint       = {2412.13942},
+  timestamp    = {Thu, 23 Jan 2025 22:31:14 +0100},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2412-13942.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
 
 ```
 
