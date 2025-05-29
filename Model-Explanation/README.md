@@ -1,8 +1,8 @@
-# A Rose by Any Other Name: LLM-Generated Explanations Are Good Proxies for Human Explanations to Collect Label Distributions on NLI
+# A Rose by Any Other Name: LLM-Generated Explanations Are Good Proxies for Human Explanations to Collect Label Distributions on NLI @ ACL 2025
 
 [[paper](https://arxiv.org/abs/2412.13942)]
 
-This repository contains the LLM-generated explanations from Llama3, GTP-4o and Mixtral. We also include human-validated explanations from 100 NLI instances.
+This repository contains the LLM-generated explanations from Llama3, GTP-4o and Mixtral. We also include the annotated human-validated explanations from 100 NLI instances.
 
 ## Overall Structure
 ![Image text](https://github.com/mainlp/MJD-Estimator/blob/main/Model-Explanation/model-explanation-question.png)
@@ -25,6 +25,23 @@ If you use the data, please cite the paper below:
 
 
 ```
-
+@article{DBLP:journals/corr/abs-2412-13942,
+  author       = {Beiduo Chen and
+                  Siyao Peng and
+                  Anna Korhonen and
+                  Barbara Plank},
+  title        = {A Rose by Any Other Name: LLM-Generated Explanations Are Good Proxies
+                  for Human Explanations to Collect Label Distributions on {NLI}},
+  journal      = {CoRR},
+  volume       = {abs/2412.13942},
+  year         = {2024},
+  url          = {https://doi.org/10.48550/arXiv.2412.13942},
+  doi          = {10.48550/ARXIV.2412.13942},
+  eprinttype    = {arXiv},
+  eprint       = {2412.13942},
+  timestamp    = {Thu, 23 Jan 2025 22:31:14 +0100},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2412-13942.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
 
 ```
