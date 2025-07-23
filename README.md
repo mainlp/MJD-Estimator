@@ -2,7 +2,7 @@
 ### **§1** -- ***"Seeing the Big through the Small": Can LLMs Approximate Human Judgment Distributions on NLI from a Few Explanations?*** ([paper](https://aclanthology.org/2024.findings-emnlp.842/)) @ EMNLP 2024
 
 
-### **§2**  -- ***A Rose by Any Other Name: LLM-Generated Explanations Are Good Proxies for Human Explanations to Collect Label Distributions on NLI*** ([paper](https://arxiv.org/abs/2412.13942)) @ ACL 2025
+### **§2**  -- ***A Rose by Any Other Name: LLM-Generated Explanations Are Good Proxies for Human Explanations to Collect Label Distributions on NLI*** ([paper](https://aclanthology.org/2025.findings-acl.562/)) @ ACL 2025
 
 
 This repository contains the generator, evaluator and fine-tuning implementation for Model Judgment Distribution (MJDs) extracted from LLMs. We take Llama 3 as an example.
@@ -49,28 +49,30 @@ If you use this code&data, please cite the papers below:
 ```
 
 
-[A Rose by Any Other Name: LLM-Generated Explanations Are Good Proxies for Human Explanations to Collect Label Distributions on NLI](https://arxiv.org/abs/2412.13942)
+[A Rose by Any Other Name: LLM-Generated Explanations Are Good Proxies for Human Explanations to Collect Label Distributions on NLI](https://aclanthology.org/2025.findings-acl.562/)
 
 
 
 ```
-@article{DBLP:journals/corr/abs-2412-13942,
-  author       = {Beiduo Chen and
-                  Siyao Peng and
-                  Anna Korhonen and
-                  Barbara Plank},
-  title        = {A Rose by Any Other Name: LLM-Generated Explanations Are Good Proxies
-                  for Human Explanations to Collect Label Distributions on {NLI}},
-  journal      = {CoRR},
-  volume       = {abs/2412.13942},
-  year         = {2024},
-  url          = {https://doi.org/10.48550/arXiv.2412.13942},
-  doi          = {10.48550/ARXIV.2412.13942},
-  eprinttype    = {arXiv},
-  eprint       = {2412.13942},
-  timestamp    = {Thu, 23 Jan 2025 22:31:14 +0100},
-  biburl       = {https://dblp.org/rec/journals/corr/abs-2412-13942.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+@inproceedings{chen-etal-2025-rose,
+    title = "A Rose by Any Other Name: {LLM}-Generated Explanations Are Good Proxies for Human Explanations to Collect Label Distributions on {NLI}",
+    author = "Chen, Beiduo  and
+      Peng, Siyao  and
+      Korhonen, Anna  and
+      Plank, Barbara",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2025",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-acl.562/",
+    pages = "10777--10802",
+    ISBN = "979-8-89176-256-5",
+    abstract = "Disagreement in human labeling is ubiquitous, and can be captured in human judgment distributions (HJDs). Recent research has shown that explanations provide valuable information for understanding human label variation (HLV) and large language models (LLMs) can approximate HJD from a few human-provided label-explanation pairs. However, collecting explanations for every label is still time-consuming. This paper examines whether LLMs can be used to replace humans in generating explanations for approximating HJD. Specifically, we use LLMs as annotators to generate model explanations for a few given human labels. We test ways to obtain and combine these label-explanations with the goal to approximate human judgment distributions. We further compare the resulting human with model-generated explanations, and test automatic and human explanation selection. Our experiments show that LLM explanations are promising for NLI: to estimate HJDs, generated explanations yield comparable results to human{'}s when provided with human labels. Importantly, our results generalize from datasets with human explanations to i) datasets where they are not available and ii) challenging out-of-distribution test sets."
 }
 
 ```
